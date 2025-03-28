@@ -1,0 +1,54 @@
+{
+  "case_id": "C. Mangesh & Ors v. State of Karnataka (2010)",
+  "facts": [
+    "Insufficient data to provide detailed chronological key facts. Need access to the case record."
+  ],
+  "ipc_sections": [
+    "Insufficient data. Requires access to the case record to identify applicable IPC sections."
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Prosecution argues that the accused committed offences punishable under the Indian Penal Code. Insufficient data to specify exact charges and supporting arguments.",
+      "precedents": [
+        "State of Maharashtra v. Kamal Ahmed Mohammed Vakil Ansari (2013) 15 SCC 473: Establishes principles regarding circumstantial evidence and its application in proving guilt.",
+        "Ramgopal v. State of Maharashtra (1972) 3 SCC 25: Explains the burden of proof on the prosecution to establish guilt beyond a reasonable doubt.",
+        "State of UP v. Anil Singh (1988) 2 SCC 686: Highlights the importance of credible witnesses in establishing the prosecution's case."
+      ],
+      "elements": [
+        "Insufficient data to determine elements as specific IPC sections are unknown."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Insufficient evidence to link the accused to the crime beyond a reasonable doubt.",
+          "supporting_precedents": [
+            "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116: Defines the conditions under which circumstantial evidence can lead to a conviction, requiring a complete chain of circumstances.",
+            "Hanumant Govind Nargundkar v. State of MP AIR 1952 SC 343: Establishes principles for drawing inferences of guilt from circumstantial evidence.",
+            "State of Haryana v. Jagbir Singh (2003) 11 SCC 261: Underscores the importance of ruling out any other hypothesis that could explain the circumstances."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Defense argues for the innocence of the accused, asserting lack of sufficient evidence and potentially raising questions about the credibility of witnesses or procedural irregularities.",
+      "edge_cases": [
+        "Insufficient data to identify specific jurisdictional or procedural nuances without case details."
+      ],
+      "precedents": [
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808: Establishes that the benefit of the doubt always lies with the accused.",
+        "A.K. Munuswamy v. State of Madras AIR 1965 SC 1492: Reinforces the principle that the prosecution must prove its case beyond a reasonable doubt, and the accused is presumed innocent until proven guilty.",
+        "State of Punjab v. Gurmit Singh (1996) 2 SCC 384: Addresses the standard of proof required for conviction based on circumstantial evidence, highlighting the importance of corroboration."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Prediction uncertain due to insufficient data. Requires a review of the complete case record.",
+    "reasoning": [
+      "Insufficient data to provide a reasoned analysis influencing the outcome. The prediction depends on weighing the evidence presented by both sides, the credibility of witnesses, and the applicability of relevant legal principles."
+    ],
+    "cited_cases": [
+      "Insufficient data to identify all referenced precedents without the case record."
+    ]
+  }
+}

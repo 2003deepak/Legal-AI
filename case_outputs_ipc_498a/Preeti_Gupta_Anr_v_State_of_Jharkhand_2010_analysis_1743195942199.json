@@ -1,0 +1,109 @@
+{
+  "case_id": "Preeti Gupta & Anr. v. State of Jharkhand & Anr. (2010) 7 SCC 667",
+  "facts": [
+    "Marriage solemnized between Deepika Gupta (Respondent No. 2/Complainant) and Gaurav Gupta on July 13, 2003, in Jaipur.",
+    "Appellants are Preeti Gupta (sister-in-law, Nanad) and Pradeep Gupta (brother-in-law, Jeth) of the complainant.",
+    "Appellants resided in Mumbai, separate from the complainant and her husband who lived in Ranchi.",
+    "Complainant (Deepika Gupta) filed a complaint/FIR No. 247/2008 dated October 10, 2008, at Mahila Police Station, Ranchi.",
+    "Allegations in the FIR included demands for dowry, mental and physical torture by the husband (Gaurav Gupta) and his relatives, including the appellants.",
+    "The FIR alleged omnibus and general allegations against all named family members without specifying particular roles or incidents involving the appellants.",
+    "Police investigated and filed a chargesheet against the husband and his relatives, including the appellants.",
+    "Chief Judicial Magistrate (CJM), Ranchi, took cognizance of the offences under Sections 498A, 406 IPC, and Sections 3/4 of the Dowry Prohibition Act.",
+    "Appellants filed a petition under Section 482 CrPC before the High Court of Jharkhand seeking quashing of the FIR and subsequent criminal proceedings against them.",
+    "The High Court dismissed the quashing petition.",
+    "Appellants appealed the High Court's decision to the Supreme Court.",
+    "Supreme Court observed a growing trend of implicating husband's relatives in matrimonial disputes using general allegations.",
+    "Supreme Court noted the appellants lived separately in Mumbai and allegations against them were not specific."
+  ],
+  "ipc_sections": [
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 406 (Punishment for criminal breach of trust)",
+    "Section 34 (Acts done by several persons in furtherance of common intention) - Often invoked implicitly alongside substantive offences like 498A/406 when multiple accused are involved, though not the central focus of the SC's ratio in this specific judgment.",
+    "Section 3/4 Dowry Prohibition Act, 1961 (Mentioned in cognizance order)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The FIR and chargesheet prima facie disclose cognizable offences under Sections 498A and 406 IPC against all accused, including the appellants. The High Court rightly refused to quash proceedings under Section 482 CrPC as specific allegations exist.",
+      "precedents": [
+        "State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335 (Sets limited grounds for quashing; argues this case doesn't meet them)",
+        "Rajesh Bajaj v. State NCT of Delhi, (1999) 3 SCC 259 (FIR need not be an encyclopedia; details emerge during investigation/trial)",
+        "State of M.P. v. Awadh Kishore Gupta, (2004) 1 SCC 691 (High Court should not usurp trial court's role at quashing stage if prima facie case exists)"
+      ],
+      "elements": [
+        "Existence of cruelty as defined under S.498A (willful conduct causing injury/danger or harassment for unlawful demand).",
+        "Entrustment of property and subsequent misappropriation/refusal to return (for S.406).",
+        "Involvement of appellants as 'relatives of the husband'.",
+        "Prima facie case established in FIR/Chargesheet."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations against the appellants (distant relatives living separately) are general, omnibus, and lack specific details regarding time, place, nature of cruelty, or specific demands attributable to them.",
+          "supporting_precedents": [
+            "Neelu Chopra & Anr v. Bharti, (2009) 10 SCC 184 (Vague allegations against relatives not sufficient for prosecution under 498A).",
+            "Geeta Mehrotra & Anr v. State of U.P. & Anr., (2012) 10 SCC 741 (Tendency to implicate all relatives mechanically criticized; specific allegations needed).",
+            "Kans Raj v. State of Punjab, (2000) 5 SCC 207 (Need to specify the role of each accused, especially relatives)."
+          ]
+        },
+        {
+          "loophole": "Failure to demonstrate common intention (Sec 34) specifically involving the appellants in the alleged acts committed primarily by the husband or other co-accused residing with the complainant.",
+          "supporting_precedents": [
+            "Mahavir Singh v. State Of Madhya Pradesh, (2016) 10 SCC 220 (Mere relation does not prove common intention).",
+            "Mithu Singh v. State of Punjab, (2001) 4 SCC 193 (Common intention requires pre-arranged plan or prior meeting of minds)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The criminal proceedings against the appellants are an abuse of the process of law, based on vague, general, and omnibus allegations designed to harass distant relatives. The High Court erred in not exercising its power under Section 482 CrPC.",
+      "edge_cases": [
+        "Territorial jurisdiction issues: Appellants resided in Mumbai, alleged incidents primarily in Ranchi/Jaipur.",
+        "Lack of proximity: Appellants did not reside with the complainant.",
+        "Use of S.482 CrPC to prevent manifest injustice and abuse of process."
+      ],
+      "precedents": [
+        "State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335 (Specifically category 7: where proceedings are manifestly attended with mala fide and/or maliciously instituted with an ulterior motive).",
+        "Geeta Mehrotra & Anr v. State of U.P. & Anr., (2012) 10 SCC 741 (Emphasizes quashing in cases of vague allegations against relatives).",
+        "Neelu Chopra & Anr v. Bharti, (2009) 10 SCC 184 (Quashing justified when allegations are general and omnibus).",
+        "R. P. Kapur v. State of Punjab, AIR 1960 SC 866 (Inherent power can be exercised when allegations do not constitute an offence or are absurd)."
+      ]
+    },
+    {
+      "argument": "There are no specific averments or evidence detailing the appellants' direct involvement in acts constituting cruelty under S.498A or criminal breach of trust under S.406. Implication is based solely on relation to the husband.",
+      "edge_cases": [
+        "Distinguishing liability of husband/in-laws residing with complainant versus distant relatives.",
+        "Evidentiary standard required at the stage of cognizance/framing charges versus trial."
+      ],
+      "precedents": [
+        "Kans Raj v. State of Punjab, (2000) 5 SCC 207 (Over-implication of relatives needs careful scrutiny; specific roles necessary).",
+        "Bhaskar Lal Sharma v. Monica, (2009) 10 SCC 604 (Reiterated in Preeti Gupta; specific allegations required against each accused for 498A).",
+        "Zandu Pharmaceutical Works Ltd. v. Mohd. Sharaful Haque, (2005) 1 SCC 122 (High Court's duty under 482 CrPC to prevent abuse of process based on frivolous complaints)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. Criminal proceedings initiated against the appellants (Preeti Gupta and Pradeep Gupta) based on FIR No. 247/2008 were quashed.",
+    "reasoning": [
+      "The Supreme Court expressed serious concern over the misuse of Section 498A IPC and the tendency to implicate all relatives of the husband in matrimonial disputes.",
+      "The Court found the allegations against the appellants (sister-in-law and brother-in-law residing separately in Mumbai) to be 'vague and general' and 'omnibus', lacking specific details of their involvement.",
+      "It was observed that Section 498A is a shield, not a weapon, and its object is to prevent harassment for dowry, not to enable disgruntled wives to harass distant relatives.",
+      "Continuing the prosecution against the appellants based on such non-specific allegations would amount to an abuse of the process of law.",
+      "The High Court failed to properly exercise its jurisdiction under Section 482 CrPC by dismissing the appellants' petition despite the lack of specific allegations against them.",
+      "The Court emphasized the need for Courts to be cautious in dealing with such complaints and scrutinize the allegations carefully before summoning distant relatives.",
+      "The Court suggested exploring measures like preliminary inquiries before registering FIRs involving distant relatives or considering mediation/conciliation."
+    ],
+    "cited_cases": [
+      "State of Haryana v. Bhajan Lal, 1992 Supp (1) SCC 335",
+      "G.V. Rao v. L.H.V. Prasad, (2000) 3 SCC 693",
+      "B.S. Joshi v. State of Haryana, (2003) 4 SCC 675",
+      "Sushil Kumar Sharma v. Union of India, (2005) 6 SCC 281",
+      "Ramesh v. State of T.N., (2005) 3 SCC 507",
+      "Neelu Chopra & Anr v. Bharti, (2009) 10 SCC 184",
+      "Kans Raj v. State of Punjab, (2000) 5 SCC 207",
+      "Bhaskar Lal Sharma v. Monica, (2009) 10 SCC 604",
+      "R. P. Kapur v. State of Punjab, AIR 1960 SC 866",
+      "Zandu Pharmaceutical Works Ltd. v. Mohd. Sharaful Haque, (2005) 1 SCC 122"
+    ]
+  }
+}

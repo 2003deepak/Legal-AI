@@ -1,0 +1,111 @@
+{
+  "case_id": "State of Karnataka v. Krishnappa (2000) 4 SCC 75",
+  "facts": [
+    "The respondent, Krishnappa, was married to the deceased.",
+    "On the intervening night of February 23rd and 24th, 1987, Krishnappa allegedly committed forcible sexual intercourse with his wife (the deceased) and subsequently murdered her.",
+    "The deceased was found dead on the morning of February 24, 1987, near the house of the accused.",
+    "A complaint was lodged, leading to an investigation.",
+    "The post-mortem examination revealed injuries on the deceased's private parts, face, and neck.",
+    "The cause of death was determined to be asphyxia due to smothering or strangulation.",
+    "Vaginal swabs collected during the post-mortem contained spermatozoa, confirmed by the Forensic Science Laboratory (FSL).",
+    "The Trial Court acquitted Krishnappa of all charges.",
+    "The State of Karnataka appealed the acquittal to the High Court of Karnataka.",
+    "The High Court reversed the Trial Court's decision, convicting Krishnappa under Section 376 (Rape) and Section 302 (Murder) of the IPC, sentencing him to imprisonment.",
+    "Krishnappa (referred to as respondent in the SC judgment, but appellant against the HC conviction) appealed the High Court's conviction to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 375 (Definition of Rape - specifically the Exception for marital intercourse)",
+    "Section 376 (Punishment for Rape)",
+    "Section 300 (Definition of Murder)",
+    "Section 302 (Punishment for Murder)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly convicted the accused for murder under Section 302 IPC based on compelling circumstantial evidence.",
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+        "Hanumant v. State of Madhya Pradesh AIR 1952 SC 343",
+        "State of U.P. v. Ram Swarup (1974) 4 SCC 764"
+      ],
+      "elements": [
+        "Death of the deceased.",
+        "Death caused by the act of the accused (smothering/strangulation).",
+        "Act committed with intention to cause death or bodily injury likely to cause death (Section 300).",
+        "Chain of circumstantial evidence (last seen together, medical evidence of violence, discovery of body near accused's house) points conclusively to the accused."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of direct eyewitnesses to the murder; reliance solely on circumstantial evidence requires meeting a very high standard of proof.",
+          "supporting_precedents": [
+            "Padala Veera Reddy v. State of A.P. AIR 1990 SC 79",
+            "Ashok Kumar Chatterjee v. State of M.P. AIR 1989 SC 1890"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court's conviction under Section 376 IPC was justified given the medical evidence showing forceful sexual intercourse against the will of the deceased.",
+      "precedents": [
+        "State of Punjab v. Gurmit Singh (1996) 2 SCC 384 (on evidentiary value of victim's testimony/medical evidence in rape - although context differs)",
+        "Bodhisattwa Gautam v. Subhra Chakraborty (1996) 1 SCC 490 (Rape as a violation of fundamental rights - general principle)",
+        "Insufficient data: Precedents specifically arguing *against* the marital rape exception *in court* during that era are scarce."
+      ],
+      "elements": [
+        "Sexual intercourse occurred (proven by semen).",
+        "Intercourse was without consent/against her will (inferred from injuries)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The statutory exception to Section 375 IPC explicitly excluded non-consensual sexual intercourse by a man with his own wife (if she is not under 15 years of age and not judicially separated) from the definition of rape.",
+          "supporting_precedents": [
+            "Exception to Section 375 IPC (as it stood in 1987)",
+            "Independent Thought v. Union of India (2017) 10 SCC 800 (Acknowledged the exception for adults while striking it down for minors)",
+            "Insufficient data: Specific case law *upholding* the application of the exception in similar factual scenarios before this judgment."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The conviction under Section 376 IPC is legally unsustainable due to the Marital Rape Exception provided in Section 375 IPC.",
+      "edge_cases": [
+        "The deceased was the legally wedded wife of the accused.",
+        "There was no judicial separation.",
+        "The deceased was presumably above the age specified in the exception (15 years at the time)."
+      ],
+      "precedents": [
+        "Exception to Section 375 IPC (Statutory text)",
+        "Tukaram v. State of Maharashtra (Mathura Rape Case) (1979) 2 SCC 143 (Highlighted issues with consent law, but did not invalidate the marital exception for adults living together)",
+        "HALSBURY'S LAWS OF ENGLAND (Often cited for common law perspectives influencing Indian law interpretation pre-reform)"
+      ]
+    },
+    {
+      "argument": "The prosecution failed to establish a complete and unbroken chain of circumstantial evidence to prove the charge of murder under Section 302 IPC beyond reasonable doubt.",
+      "edge_cases": [
+        "Possibility of alternative hypotheses for the cause of death or perpetrator.",
+        "Potential weaknesses in the 'last seen together' evidence.",
+        "Absence of direct evidence linking the accused to the act of smothering/strangulation."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Five golden principles for circumstantial evidence)",
+        "Bakshish Singh v. State of Punjab AIR 1971 SC 2016 (Benefit of doubt where circumstantial evidence is not conclusive)",
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Onus of proof always on prosecution; suspicion cannot replace proof)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal partly allowed. Conviction and sentence under Section 302 IPC (Murder) upheld. Conviction and sentence under Section 376 IPC (Rape) set aside.",
+    "reasoning": [
+      "Regarding Section 376 IPC (Rape): The Supreme Court acknowledged the brutality of the act but held that based on the explicit statutory language of the Exception to Section 375 IPC (as it stood then), sexual intercourse by a man with his own wife, provided she was not under 15 years of age, did not constitute rape, even if forceful and without consent. The Court stated it was bound by the law as written, despite moral reservations.",
+      "Regarding Section 302 IPC (Murder): The Court found the circumstantial evidence sufficient to uphold the conviction. The medical evidence clearly established homicide (asphyxia due to smothering/strangulation) and violent sexual activity preceding death (injuries, semen). The 'last seen together' circumstance, coupled with the medical findings indicating extreme violence inconsistent with consensual activity, formed a complete chain pointing exclusively to the guilt of the accused (husband) for murder. The brutality itself indicated the necessary intent for murder.",
+      "The court differentiated between the legal definition of rape (which included the marital exception) and the act of murder, finding sufficient evidence for the latter independent of the legal classification of the sexual act."
+    ],
+    "cited_cases": [
+      "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+      "Hanumant Govind Nargundkar v. State of M.P. AIR 1952 SC 343",
+      "HALSBURY'S LAWS OF ENGLAND (Cited for the common law position on marital rape)",
+      "Insufficient data: Specific other case citations within the judgment text require access to the full judgment document."
+    ]
+  }
+}

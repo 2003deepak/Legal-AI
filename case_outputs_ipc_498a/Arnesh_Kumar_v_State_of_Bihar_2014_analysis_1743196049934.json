@@ -1,0 +1,123 @@
+{
+  "case_id": "Arnesh Kumar v. State of Bihar & Anr. (2014) 8 SCC 273",
+  "facts": [
+    "Marriage solemnized between Arnesh Kumar (Appellant) and Sweta Kiran (Respondent No. 2) on July 1, 2007.",
+    "Sweta Kiran alleged demands for dowry (Rs. 8 Lakhs, Maruti Car, AC, TV etc.) by Arnesh Kumar and his family (father, mother, sisters).",
+    "Sweta Kiran alleged she was driven out of the matrimonial home due to non-fulfillment of dowry demands.",
+    "An FIR (No. 197/2007) was registered on behalf of Sweta Kiran at Mahila Thana, Patna, Bihar.",
+    "The FIR was registered under Sections 498A, 406 of the Indian Penal Code (IPC) and Section 4 of the Dowry Prohibition Act, 1961.",
+    "Arnesh Kumar apprehended arrest following the registration of the FIR.",
+    "Arnesh Kumar filed an application for anticipatory bail under Section 438 of the Code of Criminal Procedure (CrPC) before the Sessions Judge, Patna.",
+    "The Sessions Judge rejected the anticipatory bail application.",
+    "Arnesh Kumar filed a Criminal Miscellaneous application (No. 16097 of 2008) before the High Court of Judicature at Patna seeking anticipatory bail.",
+    "The High Court dismissed the application on November 9, 2010.",
+    "Arnesh Kumar filed a Special Leave Petition (later converted to Criminal Appeal No. 1277 of 2014) before the Supreme Court of India, challenging the High Court's order and seeking protection from arrest.",
+    "The Supreme Court noted the widespread phenomenon of arrests under Section 498A IPC and examined the scope and necessity of arrest under Section 41 CrPC, particularly for offenses punishable with imprisonment up to seven years."
+  ],
+  "ipc_sections": [
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 406 (Punishment for criminal breach of trust)",
+    "Section 4 of the Dowry Prohibition Act, 1961 (Penalty for demanding dowry) - *Note: This is not IPC but was part of the FIR*",
+    "Section 41 CrPC (When police may arrest without warrant) - *Note: Procedural section heavily discussed*",
+    "Section 41A CrPC (Notice of appearance before police officer) - *Note: Procedural section heavily discussed*"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The allegations prima facie constitute cognizable offenses under Sections 498A IPC and Section 4 of the Dowry Prohibition Act, justifying police investigation and potential arrest.",
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335) - Outlines categories where FIR cannot be quashed, potentially including cases with prima facie cognizable offenses.",
+        "Lalita Kumari v. Govt. of U.P. (2014) 2 SCC 1 - Mandatory registration of FIR for cognizable offenses.",
+        "Social Action Forum for Manav Adhikar v. Union of India (2018) 10 SCC 443 - Acknowledged seriousness of 498A but also potential for misuse (later case, but reflects ongoing concerns)."
+      ],
+      "elements": [
+        "Existence of cruelty (mental/physical) linked to unlawful demand (for 498A)",
+        "Entrustment of property and dishonest misappropriation (for 406)",
+        "Demand for dowry (for Sec 4 DP Act)",
+        "Commission of a cognizable offense allowing arrest under Sec 41 CrPC"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Police power to arrest (Sec 41 CrPC) is distinct from the necessity of arrest. Arrest in cases punishable up to 7 years requires justification based on necessity (preventing further offense, ensuring investigation/appearance, etc.), which wasn't demonstrated.",
+          "supporting_precedents": [
+            "Joginder Kumar v. State of U.P. (1994) 4 SCC 260 - Arrest should not be made merely because it is lawful; necessity must be justified.",
+            "D.K. Basu v. State of W.B. (1997) 1 SCC 416 - Emphasized procedural safeguards against arbitrary arrest.",
+            "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273 - The present case itself established the need for justification beyond mere accusation."
+          ]
+        },
+        {
+          "loophole": "Allegations are often general and omnibus, implicating entire families without specific roles, suggesting potential misuse for settling scores.",
+          "supporting_precedents": [
+            "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 - SC observed tendency to implicate all relatives in 498A cases.",
+            "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741 - Quashed proceedings against distant relatives based on vague allegations.",
+            "Kans Raj v. State of Punjab (2000) 5 SCC 207 - Need for specific allegations against each accused in dowry cases."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Arrest should not be made routinely or mechanically in Section 498A cases; Section 41 CrPC mandates police officers to assess the necessity of arrest based on specified conditions, which was not done.",
+      "edge_cases": [
+        "Distinction between power to arrest and justification for arrest.",
+        "Mandatory compliance with Section 41(1)(b)(ii) CrPC (recording reasons for necessity) and Section 41A CrPC (issuing notice if arrest not required)."
+      ],
+      "precedents": [
+        "Joginder Kumar v. State of U.P. (1994) 4 SCC 260 - Police must question themselves on the necessity of arrest.",
+        "Siddharam Satlingappa Mhetre v. State of Maharashtra (2011) 1 SCC 694 - Principles governing grant of anticipatory bail, emphasizing liberty.",
+        "Satender Kumar Antil v. CBI (2022) 10 SCC 51 - Reiterated and expanded upon Arnesh Kumar guidelines regarding arrest and bail, stressing 'bail is the rule, jail is the exception'."
+      ]
+    },
+    {
+      "argument": "Section 498A is being grossly misused as a tool of harassment, leading to automatic arrests of husbands and their relatives without sufficient investigation or grounds.",
+      "edge_cases": [
+        "Social impact of arrest in matrimonial disputes.",
+        "Tendency to make exaggerated or false allegations.",
+        "Inclusion of distant relatives in FIRs without specific involvement."
+      ],
+      "precedents": [
+        "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 - Highlighted the 'new legal terrorism' aspect of 498A misuse.",
+        "Sushil Kumar Sharma v. Union of India (2005) 6 SCC 281 - Acknowledged misuse of Section 498A but upheld its constitutionality.",
+        "Rajesh Sharma v. State of U.P. (2018) 10 SCC 472 (later modified) - Attempted to introduce preliminary inquiries/Family Welfare Committees to curb misuse (guidelines later modified in Social Action Forum case)."
+      ]
+    },
+    {
+      "argument": "Anticipatory bail should be granted as the appellant is willing to cooperate with the investigation, and his arrest is not essential for custodial interrogation or preventing flight.",
+      "edge_cases": [
+        "Balancing the complainant's rights with the accused's liberty.",
+        "Availability for investigation vs. necessity of custodial interrogation."
+      ],
+      "precedents": [
+        "Gurbaksh Singh Sibbia v. State of Punjab (1980) 2 SCC 565 - Landmark case on principles of anticipatory bail.",
+        "Siddharam Satlingappa Mhetre v. State of Maharashtra (2011) 1 SCC 694 - Elaborated on factors for granting anticipatory bail.",
+        "Bhadresh Bipinbhai Sheth v. State of Gujarat (2016) 1 SCC 152 - Reiterated principles of personal liberty in context of anticipatory bail."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed (Partially) - Specific Directions Issued regarding Arrest Procedure under Section 41 CrPC. While not granting anticipatory bail directly, the Court mandated procedures effectively preventing automatic arrest.",
+    "reasoning": [
+      "The Court observed a phenomenal increase in matrimonial disputes constituting a large percentage of criminal cases.",
+      "Acknowledged the rampant misuse of Section 498A IPC, often used as a weapon by disgruntled wives.",
+      "Criticized the practice of mechanical arrests by police under Section 41 CrPC without evaluating the necessity.",
+      "Emphasized that arrest brings humiliation, curtails freedom, and affects the individual deeply.",
+      "Interpreted Section 41(1)(b) CrPC (as amended) to mean that police must be satisfied about the necessity of arrest based on specific conditions (preventing further offense, proper investigation, preventing tampering/threats, ensuring court appearance) *and* must record reasons for such necessity.",
+      "Held that for offenses punishable with imprisonment up to 7 years, arrest should not be the default course.",
+      "Mandated that police must issue a notice of appearance under Section 41A CrPC if arrest is not required under Section 41(1).",
+      "Directed that the Magistrate authorizing detention under Section 167 CrPC must scrutinize the police report regarding compliance with Section 41 and 41A.",
+      "Issued mandatory directions for Police Officers and Magistrates to follow these procedures.",
+      "Stipulated consequences for non-compliance: Police officers liable for departmental action and contempt of court; Magistrates ordering detention without recording satisfaction liable for departmental action."
+    ],
+    "cited_cases": [
+      "Joginder Kumar v. State of U.P. (1994) 4 SCC 260",
+      "D.K. Basu v. State of W.B. (1997) 1 SCC 416",
+      "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667",
+      "Siddharam Satlingappa Mhetre v. State of Maharashtra (2011) 1 SCC 694",
+      "Lalita Kumari v. Govt. of U.P. (2014) 2 SCC 1",
+      "Sushil Kumar Sharma v. Union of India (2005) 6 SCC 281",
+      "Gurbaksh Singh Sibbia v. State of Punjab (1980) 2 SCC 565",
+      "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335)",
+      "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741"
+    ]
+  }
+}

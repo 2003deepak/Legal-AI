@@ -1,0 +1,151 @@
+{
+  "case_id": "Union of India v. Prafulla Kumar Samal & Anr. (1979) 3 SCC 4",
+  "facts": [
+    "Respondent No. 1, Prafulla Kumar Samal, served as an Executive Engineer in the Public Works Department, Government of Orissa.",
+    "The Central Bureau of Investigation (CBI) investigated allegations that Respondent No. 1 possessed assets disproportionate to his known sources of income during the period 13 May 1961 to 30 April 1972.",
+    "A chargesheet was filed against Respondent No. 1 under Section 5(2) read with Section 5(1)(e) of the Prevention of Corruption Act, 1947.",
+    "Respondent No. 2, Smt. Pravatnalini Mohanty (sister of Respondent No. 1's wife), was charged under Section 109 IPC for abetting the offence committed by Respondent No. 1.",
+    "The prosecution alleged that Respondent No. 1's assets were disproportionate by Rs. 1,44,138.44.",
+    "The case was heard by the Special Judge, Bhubaneswar, who considered the material presented by the prosecution and the explanations offered by the defence at the stage of framing charges (under Sections 227/228 CrPC, 1973).",
+    "The Special Judge, by order dated 31 August 1976, found that the prosecution failed to make out a prima facie case and discharged both respondents under Section 227 CrPC.",
+    "The Special Judge considered explanations for assets, including income from Respondent No. 1's wife, agricultural income, loans taken, and gifts received, finding them plausible enough to negate the allegation of disproportionate assets prima facie.",
+    "The Union of India filed a criminal revision petition before the High Court of Orissa.",
+    "The High Court of Orissa, by order dated 4 January 1977, dismissed the revision petition and upheld the Special Judge's order of discharge.",
+    "The Union of India appealed to the Supreme Court by special leave."
+  ],
+  "ipc_sections": [
+    "Section 109"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The Special Judge and High Court erred in discharging the accused by conducting a premature mini-trial and meticulously evaluating evidence, which is beyond the scope of Section 227 CrPC.",
+      "precedents": [
+        "State of Bihar v. Ramesh Singh (1977) 4 SCC 39",
+        "Superintendent and Remembrancer of Legal Affairs, West Bengal v. Anil Kumar Bhunja (1979) 4 SCC 274",
+        "State of M.P. v. S.B. Johari (2000) 2 SCC 57"
+      ],
+      "elements": [
+        "Existence of prima facie case",
+        "Grave suspicion against the accused",
+        "Sufficiency of ground for proceeding (not proof)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lower courts found explanations for assets plausible at the prima facie stage, negating 'grave suspicion'. The prosecution's calculations were contested with reasonable explanations (e.g., wife's income, loans) which the prosecution could not prima facie rebut.",
+          "supporting_precedents": [
+            "Century Spinning & Mfg. Co. Ltd. v. State of Maharashtra AIR 1972 SC 545",
+            "State of Karnataka v. L. Muniswamy (1977) 2 SCC 699",
+            "Dilawar Balu Kurane v. State of Maharashtra (2002) 2 SCC 135"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Sufficient material existed on record to show that Respondent No. 1 possessed assets significantly disproportionate to his known income, fulfilling the ingredients of Section 5(1)(e) of the PCA, 1947.",
+      "precedents": [
+        "Sajjan Singh v. State of Punjab AIR 1964 SC 464",
+        "State of Maharashtra v. Ishwar Piraji Kalpatri (1996) 1 SCC 542",
+        "M. Krishna Reddy v. State Deputy Superintendent of Police, Hyderabad (1992) 4 SCC 45"
+      ],
+      "elements": [
+        "Accused is a public servant",
+        "Possession of pecuniary resources/property",
+        "Known sources of income established",
+        "Disproportionality between assets and income",
+        "Failure to satisfactorily account (burden shifts post-prima facie case)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Prosecution's calculation of 'known sources' and 'assets' was disputed with specific counter-evidence (wife's independent income, agricultural yields, documented loans) accepted by lower courts as plausible explanations, thus failing to establish clear disproportionality prima facie.",
+          "supporting_precedents": [
+            "Krishnanand Agnihotri v. State of M.P. (1977) 1 SCC 816",
+            "State of Maharashtra v. Wasudeo Ramchandra Kaidalwar (1981) 3 SCC 199 (on need to prove known sources accurately)",
+            "C.S.D. Swamy v. The State AIR 1960 SC 7 (on proving sources of income)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "There was sufficient material to frame a charge against Respondent No. 2 for abetment under Section 109 IPC, as she allegedly facilitated the holding of disproportionate assets.",
+      "precedents": [
+        "Shri Ram v. State of U.P. AIR 1975 SC 175",
+        "Kehar Singh v. State (Delhi Admn.) AIR 1988 SC 1883",
+        "Prakash v. State of Rajasthan (2013) 4 SCC 668"
+      ],
+      "elements": [
+        "Commission of the principal offence (PCA 5(1)(e))",
+        "Intentional aiding or conspiracy or instigation by Respondent No. 2"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "No specific evidence of instigation, conspiracy, or intentional aid was presented beyond alleging some assets were held by her. As the primary offence itself was not established prima facie against Respondent No. 1, the abetment charge against Respondent No. 2 automatically failed.",
+          "supporting_precedents": [
+            "Faguna Kanta Nath v. State of Assam AIR 1959 SC 673",
+            "State of Punjab v. Davinder Pal Singh Bhullar (2011) 14 SCC 770 (Abetment requires mens rea)",
+            "Central Bureau of Investigation v. V.C. Shukla (1998) 3 SCC 410 (Conspiracy needs agreement/meeting of minds)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish a prima facie case warranting the framing of charges. The evidence presented did not raise a 'grave suspicion' and the explanations offered for the assets were plausible and unrebutted at the charge stage.",
+      "edge_cases": [
+        "Scope of judicial inquiry under Section 227 CrPC allows sifting evidence to find prima facie case.",
+        "If two views are possible based on the material, the accused is entitled to discharge."
+      ],
+      "precedents": [
+        "State of Karnataka v. L. Muniswamy (1977) 2 SCC 699",
+        "Century Spinning & Mfg. Co. Ltd. v. State of Maharashtra AIR 1972 SC 545",
+        "Niranjan Singh Karam Singh Punjabi v. Jitendra Bhimraj Bijja (1990) 4 SCC 76"
+      ]
+    },
+    {
+      "argument": "The calculation of disproportionate assets by the prosecution was fundamentally flawed, failing to account for legitimate income sources like the wife's salary, agricultural income, loans, and gifts, which were substantiated by material placed before the court.",
+      "edge_cases": [
+        "Burden is on prosecution to establish 'known sources of income' and assets accurately.",
+        "Plausible explanations offered by the accused at the charge stage must be considered."
+      ],
+      "precedents": [
+        "Krishnanand Agnihotri v. State of M.P. (1977) 1 SCC 816",
+        "State of Maharashtra v. Dnyaneshwar Laxman Rao Wankhede (2009) 15 SCC 200",
+        "V.D. Jhingan v. State of Uttar Pradesh AIR 1966 SC 1762"
+      ]
+    },
+    {
+      "argument": "For Respondent No. 2 (abetment charge), there was absolutely no material to suggest any intentional aid, conspiracy, or instigation. The charge was purely presumptive based on her relationship and alleged holding of some assets, which failed once the primary charge against Respondent No. 1 was not made out.",
+      "edge_cases": [
+        "Abetment requires proof of active suggestion, support or conspiracy.",
+        "Failure of the main offence often negates the abetment charge."
+      ],
+      "precedents": [
+        "Jamuna Singh v. State of Bihar AIR 1967 SC 553",
+        "Sanju v. State of Madhya Pradesh (2002) 5 SCC 371",
+        "Haradhan Chakrabarty v. Union of India (1990) 2 SCC 143"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The Supreme Court upheld the orders of the Special Judge and the High Court discharging both respondents.",
+    "reasoning": [
+      "The Court elaborated on the principles governing the framing of charges under Sections 227 and 228 CrPC.",
+      "Principle 1: The Judge considering charge has power to sift and weigh evidence only for the limited purpose of finding out whether or not a prima facie case exists against the accused.",
+      "Principle 2: If the materials disclose grave suspicion against the accused which has not been reasonably explained, the Court will be justified in framing the charge.",
+      "Principle 3: The test is whether there is sufficient ground for proceeding and not whether there is sufficient ground for conviction. Absolute certainty or proof beyond reasonable doubt is not required at this stage.",
+      "Principle 4: If two views are equally possible based on the evidence, and the evidence gives rise to suspicion but not grave suspicion, the Judge should discharge the accused.",
+      "The Court affirmed that the Special Judge and High Court correctly applied these principles.",
+      "The lower courts had rightly considered the plausible explanations offered by the defence regarding the sources of income and assets (wife's income, agricultural income, loans etc.).",
+      "The material on record did not establish a prima facie case of disproportionate assets against Respondent No. 1, nor of abetment against Respondent No. 2, sufficient to proceed to trial.",
+      "The discharge of the respondents under Section 227 CrPC was justified as the evidence did not disclose sufficient ground for proceeding."
+    ],
+    "cited_cases": [
+      "State of Bihar v. Ramesh Singh (1977) 4 SCC 39",
+      "State of Karnataka v. L. Muniswamy (1977) 2 SCC 699",
+      "Century Spinning & Mfg. Co. Ltd. v. State of Maharashtra AIR 1972 SC 545",
+      "Superintendent and Remembrancer of Legal Affairs, West Bengal v. Anil Kumar Bhunja (1979) 4 SCC 274",
+      "Niranjan Singh Karam Singh Punjabi v. Jitendra Bhimraj Bijja (1990) 4 SCC 76 (Though decided later, reflects the same principles)",
+      "Dilawar Balu Kurane v. State of Maharashtra (2002) 2 SCC 135 (Reinforces Prafulla Samal principles)"
+    ]
+  }
+}

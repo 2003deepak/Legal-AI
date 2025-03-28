@@ -1,0 +1,195 @@
+{
+  "case_id": "State of Haryana v. Inder Singh (2002) 7 SCC 549",
+  "facts": [
+    "Raj Bala (deceased) was married to Inder Singh (Respondent No. 1).",
+    "Krishan (Respondent No. 2) is the brother of Inder Singh.",
+    "Bimla (Respondent No. 3) is the mother of Inder Singh.",
+    "Santosh (Respondent No. 4) is the sister of Inder Singh.",
+    "Allegations arose that soon after marriage, the accused started demanding dowry (scooter, TV, fridge) from Raj Bala and her parents.",
+    "Due to non-fulfillment of demands, Raj Bala was allegedly subjected to harassment and beatings.",
+    "On 26.05.1988, Raj Bala sustained burn injuries at her matrimonial home.",
+    "She was admitted to the hospital, and her father, Ram Kishan (PW-5), was informed.",
+    "Ram Kishan lodged an FIR alleging dowry demands and cruelty by the accused.",
+    "A dying declaration (DD) was recorded by the Duty Magistrate (PW-6) on 26.05.1988 after Dr. Kundan Lal (PW-1) certified her fitness to make a statement.",
+    "In the DD, Raj Bala stated that on the day of the incident, after demands for dowry were reiterated and refused, all four accused poured kerosene on her and set her ablaze.",
+    "Raj Bala succumbed to her burn injuries (post-mortem indicated 90-95% burns).",
+    "The Trial Court convicted all four accused under Sections 304B and 498A IPC, sentencing them to 7 years and 2 years RI respectively (concurrent).",
+    "The High Court, on appeal, acquitted all the accused, doubting the veracity of the dying declaration and citing lack of independent corroboration for dowry demands, suggesting the possibility of suicide.",
+    "The State of Haryana filed an appeal against the High Court's acquittal order before the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - implicitly applied by Trial Court though not explicitly mentioned in SC judgment summary for conviction sections, relevant for multiple accused)",
+    "Section 302 (Murder - often considered as alternative charge in such cases, though conviction was under 304B)",
+    "Section 306 (Abetment of suicide - often raised as a defense or alternative possibility)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in law and fact by acquitting the accused; the Trial Court's conviction was well-founded based on credible evidence, primarily the dying declaration.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Principles governing appeal against acquittal)",
+        "State of U.P. v. Ram Swarup (1974) 4 SCC 764 (Appellate court should interfere with acquittal if conclusions are perverse or unsustainable)",
+        "Ghurey Lal v. State of U.P. (2008) 10 SCC 450 (Reiteration of principles for reversing acquittal)"
+      ],
+      "elements": [
+        "Perversity/error in High Court's appreciation of evidence",
+        "Sufficiency of evidence for conviction"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Appellate courts generally favour acquittal unless judgment is clearly unreasonable.",
+          "supporting_precedents": [
+            "Murugesan v. State through Inspector of Police (2012) 10 SCC 383 (If two views are possible, view favouring accused to be adopted)",
+            "State of Rajasthan v. Shera Ram (2012) 1 SCC 602 (High threshold for reversing acquittal)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The dying declaration (DD) recorded by the Magistrate (PW-6) was reliable, voluntary, and made while the deceased was mentally fit, as certified by the doctor (PW-1). The High Court wrongly discarded it based on minor discrepancies.",
+      "precedents": [
+        "Kushal Rao v. State of Bombay (AIR 1958 SC 22) (Principles for reliability of DD)",
+        "Paniben v. State of Gujarat (1992) 2 SCC 474 (DD can form sole basis of conviction if reliable; corroboration not mandatory)",
+        "Laxman v. State of Maharashtra (2002) 6 SCC 710 (High credibility of DD recorded by Magistrate after fitness certification)"
+      ],
+      "elements": [
+        "Voluntariness of DD",
+        "Mental fitness of declarant (certified)",
+        "Proper recording procedure (by Magistrate)",
+        "Absence of tutoring",
+        "Truthfulness of statement"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Possibility of minor inconsistencies or influence, susceptibility of burn victim to tutoring.",
+          "supporting_precedents": [
+            "K. Ramachandra Reddy v. Public Prosecutor (1976) 3 SCC 618 (DD needs careful scrutiny, fitness certification vital)",
+            "Paparambaka Rosamma v. State of A.P. (1999) 7 SCC 695 (Discrepancies in multiple DDs can affect credibility)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Evidence of the deceased's father (PW-5) and the contents of the DD clearly established persistent demands for dowry and consequent cruelty/harassment soon before the death, fulfilling the requirements of Sections 304B and 498A IPC.",
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Cruelty/harassment linked to dowry demand is key for 304B)",
+        "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Interpretation of 'soon before death' - implies proximate link, not necessarily immediate)",
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Definition and scope of 'cruelty' under 498A)"
+      ],
+      "elements": [
+        "Death within 7 years of marriage",
+        "Unnatural death (burns)",
+        "Subjected to cruelty/harassment by husband/relatives",
+        "Cruelty was in connection with dowry demand",
+        "Cruelty occurred 'soon before' death"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "PW-5 is an interested witness (father); lack of independent corroboration.",
+          "supporting_precedents": [
+            "Appasaheb v. State of Maharashtra (2007) 9 SCC 721 (Strict interpretation of 'dowry')",
+            "Surinder Singh v. State of Haryana (2014) 4 SCC 129 ('Soon before' requires demonstrable proximity, not vague allegations)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Once the prosecution established the foundational facts (unnatural death within 7 years, cruelty soon before death linked to dowry), the presumption under Section 113B of the Indian Evidence Act was triggered, shifting the burden to the accused to prove innocence, which they failed to discharge.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Presumption under 113B arises once prerequisites met)",
+        "Hem Chand v. State of Haryana (1994) 6 SCC 727 (Mandatory nature of the presumption 'shall presume')",
+        "Sher Singh alias Partapa v. State of Haryana (2015) 1 SCR 29 (Once presumption is drawn, burden shifts to accused)"
+      ],
+      "elements": [
+        "Establishment of Section 304B IPC ingredients",
+        "Mandatory nature of Section 113B presumption",
+        "Failure of defense to rebut the presumption"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The presumption is rebuttable; accused only need to create doubt or show preponderance of probability.",
+          "supporting_precedents": [
+            "Kaliaperumal v. State of Tamil Nadu (2004) 9 SCC 157 (Presumption is rebuttable)",
+            "Ashok Kumar v. State of Haryana (2010) 12 SCC 350 (Foundational facts must be proved beyond reasonable doubt before presumption applies)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court correctly found the dying declaration unreliable due to inconsistencies and lack of corroboration, warranting acquittal.",
+      "edge_cases": [
+        "Standard of proof for dying declarations",
+        "Impact of medical condition (severe burns) on reliability"
+      ],
+      "precedents": [
+        "Nallapati Sivaiah v. Sub-Divisional Officer, Guntur (2007) 15 SCC 465 (Importance of careful scrutiny of DD, fitness, voluntariness)",
+        "State of Orissa v. Parasuram Naik (1997) 11 SCC 15 (Caution needed when DD is the sole evidence)",
+        "Surajdeo Ojha v. State of Bihar (AIR 1979 SC 1505) (If DD suffers from infirmities, corroboration needed)"
+      ]
+    },
+    {
+      "argument": "The prosecution failed to prove dowry demands and cruelty 'soon before death' with independent and credible evidence. Testimonies of relatives (PW-5) are interested and lack corroboration.",
+      "edge_cases": [
+        "Admissibility and weight of testimony from interested witnesses",
+        "Interpretation of 'soon before death' in the context of specific facts"
+      ],
+      "precedents": [
+        "Balwant Singh v. State of Punjab (2005) 11 SCC 440 (Need for proximate and live link for 'soon before death')",
+        "Sunil Bajaj v. State of M.P. (2001) 9 SCC 417 (General allegations of harassment not sufficient for 304B/498A)",
+        "M. Narsinga Rao v. State of A.P. (2001) 1 SCC 691 (Need for corroboration of interested witness testimony, though not an absolute rule)"
+      ]
+    },
+    {
+      "argument": "The possibility of suicide cannot be ruled out, especially given the nature of burn injuries. The prosecution failed to prove homicidal death beyond reasonable doubt.",
+      "edge_cases": [
+        "Burden of proof always rests on prosecution",
+        "Accused entitled to benefit of doubt if suicide is a plausible alternative"
+      ],
+      "precedents": [
+        "Sanju alias Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Distinction between abetment of suicide and dowry death/murder; possibility of suicide relevant)",
+        "State of Punjab v. Modernhari Kuldip Singh (1997) 11 SCC 221 (Acquittal upheld where suicide was plausible)",
+        "Manghat Ram v. State of Haryana (2014) 12 SCC 595 (Benefit of doubt to accused if two views possible)"
+      ]
+    },
+    {
+      "argument": "The Supreme Court should uphold the High Court's acquittal as it was based on a plausible interpretation of the evidence, and interference with acquittal requires compelling reasons demonstrating perversity.",
+      "edge_cases": [
+        "Limited scope of appeal against acquittal under CrPC S. 378",
+        "Principle of presumption of innocence reinforced by acquittal"
+      ],
+      "precedents": [
+        "Basappa v. State of Karnataka (2014) 5 SCC 154 (Reversal of acquittal only if HC view is impossible or perverse)",
+        "State of Karnataka v. K. Gopalakrishna (2005) 9 SCC 291 (SC should not reverse acquittal merely because another view is possible)",
+        "Ajit Singh Thakur Singh v. State of Gujarat (1981) 1 SCC 495 (Strong presumption in favour of accused after acquittal)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. High Court judgment set aside. Trial Court judgment convicting all four accused under Sections 304B and 498A IPC restored.",
+    "reasoning": [
+      "The High Court's approach in discarding the dying declaration was hyper-technical and erroneous.",
+      "The dying declaration was recorded by a competent Magistrate after due certification of fitness by the doctor; minor discrepancies were insignificant and did not affect its credibility.",
+      "The DD was consistent and corroborated by the testimony of PW-5 (father) regarding dowry demands and harassment.",
+      "The requirement of 'soon before death' under Section 304B was satisfied, given the persistent nature of demands and cruelty culminating in the fatal incident.",
+      "Once the foundational facts for Section 304B were established, the presumption under Section 113B Evidence Act became operative, and the accused failed to rebut it.",
+      "The possibility of suicide was negated by the positive assertions in the reliable dying declaration implicating the accused.",
+      "The High Court failed to appreciate the evidence in its proper perspective and wrongly interfered with the well-reasoned judgment of the Trial Court."
+    ],
+    "cited_cases": [
+      "Kushal Rao v. State of Bombay (AIR 1958 SC 22)",
+      "Paniben v. State of Gujarat (1992) 2 SCC 474",
+      "Laxman v. State of Maharashtra (2002) 6 SCC 710",
+      "Kans Raj v. State of Punjab (2000) 5 SCC 207",
+      "Sham Lal v. State of Haryana (1997) 9 SCC 759",
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "Hem Chand v. State of Haryana (1994) 6 SCC 727",
+      "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445",
+      "State of U.P. v. Ram Swarup (1974) 4 SCC 764",
+      "K. Ramachandra Reddy v. Public Prosecutor (1976) 3 SCC 618",
+      "Rattan Singh v. State of H.P. (1997) 4 SCC 161"
+    ]
+  }
+}

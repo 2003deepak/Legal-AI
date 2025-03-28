@@ -1,0 +1,118 @@
+{
+  "case_id": "State of Andhra Pradesh v. Rayavarapu Punnayya (1976) 4 SCC 382",
+  "facts": [
+    "A dispute arose concerning the flow of irrigation water from a channel ('Bodhi').",
+    "Accused No. 1 (A-1, Rayavarapu Punnayya) allegedly diverted water, obstructing flow to the fields of Prosecution Witness 1 (PW-1) and the deceased (Jagannadham).",
+    "On the morning of July 14, 1968, the deceased questioned A-1 about the obstruction, leading to a verbal altercation.",
+    "Subsequently, A-1, along with Accused Nos. 2 to 5 (A-2 to A-5), arrived armed with stout bamboo sticks ('lathis' or 'geddas').",
+    "The accused collectively attacked the deceased.",
+    "Medical evidence indicated the deceased sustained 19 injuries, including serious head injuries (fractures) inflicted by blunt weapons (consistent with lathis).",
+    "The deceased succumbed to his injuries ten days later, on July 24, 1968, in the hospital.",
+    "The Trial Court convicted all five accused under Section 302 read with Section 34 IPC (Murder committed in furtherance of common intention) and sentenced them to life imprisonment.",
+    "The High Court of Andhra Pradesh, on appeal, altered the conviction to Section 304 Part II read with Section 34 IPC (Culpable homicide not amounting to murder, committed with knowledge but without intention, in furtherance of common intention), reducing the sentence to rigorous imprisonment for five years.",
+    "The State of Andhra Pradesh appealed to the Supreme Court against the High Court's decision, seeking restoration of the Trial Court's conviction under Section 302 IPC."
+  ],
+  "ipc_sections": [
+    "Section 34 (Acts done by several persons in furtherance of common intention)",
+    "Section 299 (Culpable Homicide)",
+    "Section 300 (Murder)",
+    "Section 302 (Punishment for Murder)",
+    "Section 304 Part I (Punishment for Culpable Homicide not amounting to Murder - with intention)",
+    "Section 304 Part II (Punishment for Culpable Homicide not amounting to Murder - with knowledge)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in altering the conviction from Section 302 to Section 304 Part II IPC. The nature, number, and location of injuries inflicted (19 injuries, including severe head injuries) with dangerous weapons (stout lathis) establish an intention to cause bodily injury sufficient in the ordinary course of nature to cause death, bringing the act squarely within the definition of murder under Section 300, Clause 3rdly.",
+      "precedents": [
+        "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+        "Anda v. State of Rajasthan (AIR 1966 SC 148)",
+        "Jagrup Singh v. State of Haryana (1981) 3 SCC 616"
+      ],
+      "elements": [
+        "Intention to cause the specific bodily injury inflicted.",
+        "The injury inflicted was objectively sufficient in the ordinary course of nature to cause death.",
+        "Common intention (Section 34) among all accused to inflict such injuries."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "High Court's view that lathis are not inherently deadly weapons and lack of specific evidence attributing fatal blows might suggest only knowledge (Sec 304 Part II), not intention (Sec 300).",
+          "supporting_precedents": [
+            "Harjinder Singh v. Delhi Administration (AIR 1968 SC 867)",
+            "Chamru Budhwa v. State of Madhya Pradesh (AIR 1954 SC 652)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The accused acted in concert, demonstrating a common intention under Section 34 IPC to commit the offence. Their arrival together, armed with similar weapons, and collective assault on the deceased prove a pre-arranged plan or a meeting of minds during the incident to cause fatal injuries.",
+      "precedents": [
+        "Mahbub Shah v. Emperor (AIR 1945 PC 118)",
+        "Pandurang, Tukia and Bhillia v. State of Hyderabad (AIR 1955 SC 216)",
+        "Rishideo Pande v. State of U.P. (AIR 1955 SC 331)"
+      ],
+      "elements": [
+        "Criminal act done by several persons.",
+        "Act done in furtherance of the common intention of all.",
+        "Physical presence or participation of accused.",
+        "Pre-arranged plan or prior meeting of minds (can develop spotaneously)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense might argue the common intention was only to cause simple or grievous hurt, not death, and the outcome exceeded the shared intent.",
+          "supporting_precedents": [
+            "Dajya Moshya Bhil v. State of Maharashtra (1984 Supp SCC 554)",
+            "Suresh v. State of U.P. (AIR 2001 SC 1344)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court correctly held that the offence falls under Section 304 Part II IPC, not Section 302. There was no intention to cause death or such bodily injury as is sufficient in the ordinary course of nature to cause death. The accused only had knowledge that their acts (attacking with lathis) were likely to cause death.",
+      "edge_cases": [
+        "Distinguishing 'intention' required for Sec 300 (Clause 1-3) / Sec 304 Part I from 'knowledge' sufficient for Sec 304 Part II / Sec 300 Clause 4.",
+        "Whether lathi blows causing eventual death always equate to intention under Sec 300 Clause 3."
+      ],
+      "precedents": [
+        "Harjinder Singh v. Delhi Administration (AIR 1968 SC 867)",
+        "Chamru Budhwa v. State of Madhya Pradesh (AIR 1954 SC 652)",
+        "State of U.P. v. Indrajeet (AIR 2000 SC 3158)"
+      ]
+    },
+    {
+      "argument": "Even if common intention existed, it was limited to causing grievous hurt, not murder. The spontaneous nature of the initial quarrel suggests the subsequent attack lacked the specific, shared intention required for a Section 302 conviction read with Section 34.",
+      "edge_cases": [
+        "Requirement of proving shared intention specifically for the *resultant* offence (murder) vs. a lesser offence.",
+        "Inferring intention solely from the act and weapon type without direct evidence of mental state."
+      ],
+      "precedents": [
+        "Muthu v. State of Tamil Nadu ((2007) 13 SCC 55)",
+        "Dani Singh v. State of Bihar (AIR 2004 SC 3856)",
+        "Ramashish Yadav v. State of Bihar (AIR 1999 SC 3830)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. The Supreme Court set aside the High Court's judgment and restored the conviction recorded by the Trial Court under Section 302 read with Section 34 IPC, sentencing the accused (respondents) to imprisonment for life.",
+    "reasoning": [
+      "The Supreme Court provided a seminal analysis distinguishing Culpable Homicide (Sec 299) from Murder (Sec 300).",
+      "The Court emphasized the application of Section 300 Clause 3rdly: if the prosecution proves that the accused intentionally inflicted a bodily injury, and that injury is objectively sufficient in the ordinary course of nature to cause death, the offence is murder, irrespective of whether the accused subjectively knew death would likely result.",
+      "Applying Virsa Singh, the Court found that the multiple, severe injuries, especially on the head, inflicted with stout lathis demonstrated an intention to cause those specific injuries.",
+      "Medical evidence established that these injuries were sufficient in the ordinary course of nature to cause death.",
+      "Therefore, the conditions of Section 300 Clause 3rdly were met, making the offence murder.",
+      "The High Court erred in reducing the conviction based on the weapon type (lathis can be deadly) or the lack of instantaneous death.",
+      "The Court clarified the distinction between Sec 304 Part I (intention to cause death/likely bodily injury, but not meeting Sec 300 criteria) and Part II (knowledge that death is likely, without such intention). Since the act fell under Sec 300 Clause 3rdly, Sec 304 was inapplicable.",
+      "The collective action of the accused established common intention under Section 34 for the commission of the act defined as murder."
+    ],
+    "cited_cases": [
+      "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+      "Anda v. State of Rajasthan (AIR 1966 SC 148)",
+      "Rajwant Singh v. State of Kerala (AIR 1966 SC 1874)",
+      "Harjinder Singh v. Delhi Administration (AIR 1968 SC 867)",
+      "Emperor v. Mt. Dhirajia (AIR 1940 All 486)",
+      "Mahbub Shah v. Emperor (AIR 1945 PC 118)",
+      "Pandurang, Tukia and Bhillia v. State of Hyderabad (AIR 1955 SC 216)"
+    ]
+  }
+}

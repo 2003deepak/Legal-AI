@@ -1,0 +1,86 @@
+{
+  "case_id": "Sushil Kumar Sharma v. Union of India (2005) 6 SCC 281",
+  "facts": [
+    "The petitioner, Sushil Kumar Sharma, filed a Writ Petition under Article 32 of the Constitution of India.",
+    "The petition challenged the constitutional validity of Section 498A of the Indian Penal Code, 1860.",
+    "The primary grounds for the challenge were that Section 498A violated Articles 14 (Equality before law) and 21 (Protection of life and personal liberty) of the Constitution.",
+    "The petitioner argued that the section was vague, overly broad, conferred arbitrary power on police and courts, and was being widely misused by disgruntled wives and their families to harass husbands and their relatives.",
+    "The petitioner contended that the term 'cruelty' as defined in the explanation to Section 498A was ambiguous and susceptible to subjective interpretation.",
+    "It was argued that the provision led to automatic arrest of the husband and his relatives upon lodging of a complaint, often without adequate investigation, causing immense social stigma and hardship.",
+    "The petitioner highlighted instances where the provision was allegedly used as a tool for blackmail and extortion.",
+    "The Union of India (Respondent) defended the constitutionality of the provision, emphasizing its objective to protect women from cruelty and harassment related to dowry demands within the matrimonial home."
+  ],
+  "ipc_sections": [
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Note: While the petition arose likely from a specific case involving S.498A against the petitioner, the judgment primarily deals with the constitutional challenge to the section itself, not the factual merits of an underlying criminal case. Articles 14 and 21 of the Constitution of India are central to the legal analysis."
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Section 498A is constitutionally valid, serves a legitimate legislative purpose of protecting women from marital cruelty, and does not violate Articles 14 or 21.",
+      "precedents": [
+        "State of West Bengal v. Anwar Ali Sarkar (AIR 1952 SC 75) - Principle of reasonable classification under Article 14.",
+        "Ram Krishna Dalmia v. Justice S R Tendolkar (AIR 1958 SC 538) - Tests for permissible classification under Article 14.",
+        "Pathumma v. State of Kerala ((1978) 2 SCC 1) - Presumption of constitutionality for legislation; balancing fundamental rights with social objectives."
+      ],
+      "elements": [
+        "Presumption of Constitutionality: Legislation is presumed valid unless proven otherwise.",
+        "Reasonable Classification: The classification of 'husband or relative of husband' is based on an intelligible differentia.",
+        "Nexus with Objective: The classification has a rational nexus with the objective of preventing cruelty against married women.",
+        "Legislative Intent: The provision addresses a specific social evil (dowry harassment and marital cruelty).",
+        "Definition Clarity: The term 'cruelty' is defined within the section itself, providing sufficient legislative guidance."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Acknowledged potential for misuse of the provision by complainants.",
+          "supporting_precedents": [
+            "Mafatlal Industries Ltd. v. Union of India ((1997) 5 SCC 536) - Principle that mere possibility of abuse of a provision does not per se invalidate the legislation.",
+            "State of A.P. v. McDowell & Co. ((1996) 3 SCC 709) - Laws cannot be struck down based on potential misuse alone; focus should be on legislative competence and violation of fundamental rights.",
+            "D.K. Basu v. State of West Bengal ((1997) 1 SCC 416) - Existence of procedural safeguards under CrPC against arbitrary arrest and detention addresses Article 21 concerns."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Section 498A is unconstitutional as it violates Articles 14 and 21 due to vagueness, overbreadth, potential for misuse, and discriminatory nature.",
+      "edge_cases": [
+        "Vagueness of 'cruelty': Definition susceptible to subjective interpretation, leading to arbitrary application.",
+        "Lack of Procedural Safeguards: Alleged automatic arrest without sufficient preliminary inquiry.",
+        "Over-implication: Tendency to implicate entire families, including distant relatives, without specific allegations.",
+        "Impact on Reconciliation: Provision hinders possibilities of reconciliation between spouses.",
+        "Denial of Anticipatory Bail: Practical difficulties faced by accused in securing anticipatory bail under Section 438 CrPC in 498A cases (though not a direct challenge to IPC section itself)."
+      ],
+      "precedents": [
+        "Maneka Gandhi v. Union of India ((1978) 1 SCC 248) - Procedure established by law under Article 21 must be fair, just, and reasonable.",
+        "Kartar Singh v. State of Punjab ((1994) 3 SCC 569) - Penal statutes must be clear and unambiguous; vagueness can lead to arbitrary and discriminatory enforcement (Cited for principle, though context was TADA).",
+        "Insufficient data: Specific precedents relied upon by the petitioner challenging penal provisions on grounds of vagueness or misuse are not extensively detailed in the Supreme Court judgment itself, beyond referencing the general principles of Articles 14 and 21."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Writ Petition Dismissed. Section 498A IPC held to be constitutionally valid.",
+    "reasoning": [
+      "The Supreme Court acknowledged the societal menace of dowry deaths and cruelty towards married women, which Section 498A aims to combat.",
+      "The Court upheld the presumption of constitutionality attached to the legislation.",
+      "It held that the classification under Section 498A (husband and his relatives) is not arbitrary or unreasonable, given the context of marital relationships and the prevalence of such cruelty within them. It satisfies the test of intelligible differentia having a rational nexus with the object sought to be achieved.",
+      "The Court rejected the argument that the term 'cruelty' is vague, stating that it has been clearly defined in the explanation to the section, covering both mental and physical cruelty related to unlawful demands or conduct likely to drive the woman to suicide.",
+      "While acknowledging that the provision might be misused by some, the Court firmly stated that the mere possibility of misuse cannot be a ground for declaring a statutory provision unconstitutional.",
+      "The Court emphasized that the remedy for misuse lies in diligent investigation by police, cautious application by courts, and potentially utilizing provisions like Section 182 IPC (False information) or initiating defamation proceedings against false accusers.",
+      "The Court observed that safeguards against arbitrary arrest and detention are available under the Code of Criminal Procedure (CrPC) and the principles laid down in cases like D.K. Basu.",
+      "The legislative object of protecting women outweighs the concerns about potential misuse, which needs to be addressed through careful implementation rather than striking down the law itself."
+    ],
+    "cited_cases": [
+      "State of West Bengal v. Anwar Ali Sarkar (AIR 1952 SC 75)",
+      "Ram Krishna Dalmia v. Justice S R Tendolkar (AIR 1958 SC 538)",
+      "Pathumma v. State of Kerala ((1978) 2 SCC 1)",
+      "State of A.P. v. McDowell & Co. ((1996) 3 SCC 709)",
+      "Mafatlal Industries Ltd. v. Union of India ((1997) 5 SCC 536)",
+      "Kartar Singh v. State of Punjab ((1994) 3 SCC 569) (Discussed in context of vagueness principles)",
+      "Maneka Gandhi v. Union of India ((1978) 1 SCC 248) (Referenced for Article 21 principles)",
+      "D.K. Basu v. State of West Bengal ((1997) 1 SCC 416) (Referenced for arrest safeguards)",
+      "Charanjit Lal Chowdhury v. Union of India (AIR 1951 SC 41)",
+      "Budhan Choudhry v. State of Bihar (AIR 1955 SC 191)"
+    ]
+  }
+}

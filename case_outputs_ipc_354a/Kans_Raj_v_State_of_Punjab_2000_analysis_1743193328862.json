@@ -1,0 +1,153 @@
+{
+  "case_id": "Kans Raj v. State of Punjab (2000) 5 SCC 207",
+  "facts": [
+    "Appellant (Kans Raj) married Veena Rani (deceased) on 18.11.1988.",
+    "Veena Rani died an unnatural death due to asphyxia resulting from strangulation in her matrimonial home on 20.01.1990.",
+    "The death occurred within approximately 1 year and 2 months of the marriage (well within the 7-year period specified in Section 304B IPC).",
+    "Prosecution alleged persistent demands for dowry (scooter, fridge, TV) from the appellant and his family.",
+    "Father of the deceased (PW1), brother (PW2), and mother (PW3) testified about the dowry demands and harassment meted out to Veena Rani.",
+    "PW2 (brother) testified that when he visited Veena about 10-12 days before her death, she complained about harassment for dowry, and the appellant demanded items and threatened dire consequences.",
+    "PW1 (father) corroborated the demands and stated Veena was harassed and sometimes beaten.",
+    "The appellant was charged under Sections 304B and 498A of the IPC.",
+    "The Trial Court convicted the appellant under Sections 304B/34 and 498A/34 IPC.",
+    "The High Court upheld the conviction and sentence.",
+    "The appellant appealed to the Supreme Court challenging the conviction."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - applied by lower courts, less focus in SC appeal on this aspect)",
+    "Section 113B Evidence Act (Presumption as to dowry death - Discussed)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "All ingredients of Section 304B IPC (Dowry Death) are satisfied.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+        "Shanti v. State of Haryana (1991) 1 SCC 371",
+        "Hem Chand v. State of Haryana (1994) 3 SCC 36"
+      ],
+      "elements": [
+        "Death of a woman occurred otherwise than under normal circumstances (strangulation).",
+        "Death occurred within seven years of her marriage.",
+        "Soon before her death, she was subjected to cruelty or harassment by her husband or any relative of her husband.",
+        "Such cruelty or harassment was for, or in connection with, any demand for dowry."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense might argue the alleged cruelty was not 'soon before' death, lacking immediate proximity.",
+          "supporting_precedents": [
+            "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Interpreted 'soon before' strictly, though distinguished in Kans Raj)",
+            "Surinder Singh v. State of Haryana (2014) 4 SCC 129 (Reiterated need for proximate link)",
+            "Rajinder Singh v. State of Punjab (2015) 6 SCC 477 (Elaborated on 'soon before' requiring a live link)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Cruelty as defined under Section 498A IPC is established through consistent witness testimony.",
+      "precedents": [
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Definition and scope of cruelty)",
+        "State of Karnataka v. H.S. Srinivasa (2000) 9 SCC 461 (Cruelty linked to dowry demands)",
+        "Pawan Kumar v. State of Haryana (1998) 3 SCC 309 (Persistent demands and harassment constitute cruelty)"
+      ],
+      "elements": [
+        "Willful conduct likely to cause grave injury or danger to life, limb or health (mental or physical).",
+        "Harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for property or valuable security."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Witnesses (PW1, PW2, PW3) are close relatives and thus 'interested witnesses', requiring careful scrutiny and corroboration.",
+          "supporting_precedents": [
+            "M. Narsinga Rao v. State of A.P. (2001) 1 SCC 691 (Caution regarding interested witnesses, but relationship per se not disqualifying)",
+            "Dalip Singh v. State of Punjab (1954) SCR 145 (Relationship not a reason to discard testimony if credible)",
+            "Sarwan Singh v. State of Punjab (1976) 4 SCC 369 (Need for corroboration depends on facts)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The presumption under Section 113B of the Indian Evidence Act is applicable and unrebutted.",
+      "precedents": [
+        "Hem Chand v. State of Haryana (1994) 3 SCC 36",
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+        "State of West Bengal v. Orilal Jaiswal (1994) 1 SCC 73 (Nature of presumption and burden of proof)"
+      ],
+      "elements": [
+        "Showing that 'soon before her death' the woman was subjected by the accused to cruelty or harassment.",
+        "Such cruelty or harassment was for, or in connection with, any demand for dowry.",
+        "Once proven, the court 'shall presume' that the accused caused the dowry death."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The presumption is rebuttable; defense could attempt to show death was accidental or suicidal (though difficult with strangulation) or that cruelty was unrelated to dowry or not proximate.",
+          "supporting_precedents": [
+            "Ashok Kumar v. State of Haryana (2010) 12 SCC 350 (Presumption is rebuttable)",
+            "Baijnath v. State of M.P. (2017) 1 SCC 101 (Distinction between presumption under 113B and proof required for 302 IPC)",
+            "Sher Singh @ Partapa v. State of Haryana (2015) 3 SCC 369 (Discussion on rebuttal evidence)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish a proximate and live link between the alleged harassment and the death; the term 'soon before' under Section 304B IPC is not met.",
+      "edge_cases": [
+        "Interpretation of 'soon before death' - whether a gap of 10-12 days between last reported specific incident (PW2 visit) and death breaks the proximity.",
+        "Whether general allegations of past harassment suffice without specific proximate acts."
+      ],
+      "precedents": [
+        "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Emphasized proximity, although distinguished later)",
+        "Major Singh v. State of Punjab (2015) 5 SCC 201 (Necessity of establishing a proximate link)",
+        "Tarsem Singh v. State of Punjab (2008) 16 SCC 155 (Need for credible evidence of proximate cruelty)"
+      ]
+    },
+    {
+      "argument": "The testimonies of the deceased's relatives (PW1, PW2, PW3) are biased, exaggerated, and lack independent corroboration, making them unreliable.",
+      "edge_cases": [
+        "Admissibility and weightage of testimony from 'interested witnesses' in matrimonial disputes.",
+        "Absence of complaints to police or other authorities prior to death."
+      ],
+      "precedents": [
+        "M. Narsinga Rao v. State of A.P. (2001) 1 SCC 691 (Requirement of careful scrutiny for interested witnesses)",
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Burden of proof squarely on prosecution)",
+        "Suraj Mal v. State (Delhi Administration) (1979) 4 SCC 725 (Importance of independent corroboration where available)"
+      ]
+    },
+    {
+      "argument": "No direct evidence connects the appellant to the act of strangulation; conviction based solely on presumption under Section 113B is unsafe without corroborative factors.",
+      "edge_cases": [
+        "Reliance on circumstantial evidence and statutory presumption in the absence of eyewitnesses.",
+        "Distinction between causing dowry death (Section 304B) and committing murder (Section 302)."
+      ],
+      "precedents": [
+        "State of Assam v. Mafizuddin Ahmed (1983) 2 SCC 14 (Principles of circumstantial evidence)",
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Chain of circumstances must be complete)",
+        "Baijnath v. State of M.P. (2017) 1 SCC 101 (Section 113B presumption does not automatically prove murder under 302)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. Conviction under Sections 304B and 498A IPC upheld.",
+    "reasoning": [
+      "The death, established as unnatural (strangulation), occurred within 1 year 2 months of marriage, satisfying two primary conditions of Section 304B.",
+      "The testimonies of PW1, PW2, and PW3 regarding persistent dowry demands and harassment were found credible, consistent, and reliable. Being relatives does not automatically discredit their testimony in such cases.",
+      "The term 'soon before' death under Section 304B does not imply 'immediately before'. It requires a proximate and live link between the effect of cruelty based on dowry demand and the death. The continuous harassment and demands, including those mentioned by PW2 10-12 days before the death, established this live link.",
+      "The court explicitly distinguished the case from *Sham Lal v. State of Haryana*, noting that here the harassment was persistent and proximate.",
+      "Once dowry-related cruelty soon before death was established, the presumption under Section 113B of the Evidence Act became operational.",
+      "The defense failed to rebut the statutory presumption under Section 113B.",
+      "The evidence clearly established cruelty as defined under Section 498A IPC, linked to unlawful dowry demands.",
+      "The High Court and Trial Court correctly appreciated the evidence and applied the law."
+    ],
+    "cited_cases": [
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "Shanti v. State of Haryana (1991) 1 SCC 371",
+      "Hem Chand v. State of Haryana (1994) 3 SCC 36",
+      "Sham Lal v. State of Haryana (1997) 9 SCC 759",
+      "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+      "State of Karnataka v. H.S. Srinivasa (2000) 9 SCC 461 (Implied reliance, similar issues)",
+      "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Post-dates Kans Raj, but defines principle applied)"
+    ]
+  }
+}

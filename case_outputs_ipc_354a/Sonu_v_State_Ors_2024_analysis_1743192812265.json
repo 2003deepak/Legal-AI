@@ -1,0 +1,133 @@
+{
+  "case_id": "Sonu v. State & Ors. (Delhi High Court, CRL.M.C. 358/2024, Decided on 17.01.2024)",
+  "facts": [
+    "Petition filed by Sonu (Petitioner) under Section 482 of the Code of Criminal Procedure, 1973 (CrPC) seeking quashing of FIR No. 0036/2022.",
+    "The FIR was registered on 12.01.2022 at Police Station Dwarka Sector-23, New Delhi.",
+    "The FIR was registered at the instance of Respondent No. 2 (wife of the Petitioner) for offences under Sections 498A, 406, and 34 of the Indian Penal Code (IPC).",
+    "The FIR stemmed from matrimonial disputes between the Petitioner and Respondent No. 2.",
+    "During the pendency of proceedings, the parties resolved their disputes amicably.",
+    "A settlement agreement was reached between the parties before the Mediation Centre, Saket Courts, New Delhi, recorded in a report dated 06.12.2023.",
+    "As per the settlement, a total sum of Rs. 4,00,000 was agreed to be paid by the Petitioner to Respondent No. 2 as full and final settlement.",
+    "The first installment of Rs. 2,00,000 was paid by the Petitioner to Respondent No. 2.",
+    "The parties obtained a decree of divorce by mutual consent under Section 13B(2) of the Hindu Marriage Act, 1955, from the Family Court, Saket Courts, New Delhi, on 10.01.2024.",
+    "Both Petitioner and Respondent No. 2 appeared before the High Court (identified by the Investigating Officer) and affirmed the settlement.",
+    "Respondent No. 2 stated before the High Court that she entered into the settlement voluntarily, without any fear, force, or coercion, and had no objection to the quashing of the FIR.",
+    "The Learned Additional Public Prosecutor (APP) for the State (Respondent No. 1) also stated no objection to the quashing of the FIR based on the settlement."
+  ],
+  "ipc_sections": [
+    "Section 34 (Acts done by several persons in furtherance of common intention)",
+    "Section 406 (Punishment for criminal breach of trust)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Prima facie case based on original FIR: The Petitioner (husband), possibly acting with others (Sec 34), subjected Respondent No. 2 (wife) to cruelty as defined under Section 498A IPC.",
+      "precedents": [
+        "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273 (Context of 498A arrests and misuse)",
+        "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 (Need for specific allegations against relatives)",
+        "Rupali Devi v. State of Uttar Pradesh (2019) 5 SCC 384 (Jurisdiction for 498A includes place where wife takes shelter)"
+      ],
+      "elements": [
+        "Existence of marriage",
+        "Subjection to cruelty (mental/physical harassment, potentially linked to dowry demands)",
+        "Cruelty inflicted by husband or his relatives",
+        "Common intention (for Sec 34 applicability)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations may be general and omnibus, lacking specific incidents, dates, or roles attributed to each accused, potentially indicating misuse.",
+          "supporting_precedents": [
+            "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Warns against vague allegations roping in entire family)",
+            "Neelu Chopra v. Bharti (2009) 10 SCC 184 (Specific allegations required against each accused)",
+            "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741 (Quashing appropriate if allegations are vague)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Prima facie case based on original FIR: The Petitioner (husband), possibly with others (Sec 34), committed criminal breach of trust concerning Respondent No. 2's stridhan or other entrusted property.",
+      "precedents": [
+        "Rashmi Kumar v. Mahesh Kumar Bhada (1997) 2 SCC 397 (Stridhan entrustment to husband/in-laws creates a trust)",
+        "Pratibha Rani v. Suraj Kumar (1985) 2 SCC 370 (Stridhan is wife's absolute property; non-return can be breach of trust)",
+        "State of Haryana v. Bhajan Lal 1992 Supp (1) SCC 335 (FIR can be quashed if allegations don't constitute an offence)"
+      ],
+      "elements": [
+        "Entrustment of property (stridhan) or dominion over it",
+        "Dishonest misappropriation, conversion, use, or disposal of property",
+        "Violation of legal contract or direction regarding discharge of trust",
+        "Common intention (for Sec 34 applicability)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of specific details regarding entrusted items, date of entrustment, or evidence of dishonest intent; dispute might be civil in nature.",
+          "supporting_precedents": [
+            "Velji Raghavji Patel v. State of Maharashtra AIR 1965 SC 1433 (Proof of entrustment is essential for Sec 405/406)",
+            "Onkar Nath Mishra v. State (NCT of Delhi) (2008) 2 SCC 561 (Mere dispute over property doesn't automatically imply criminal breach of trust)",
+            "S.W. Palanitkar v. State of Bihar (2002) 1 SCC 241 (Distinction between breach of contract and criminal breach of trust)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The offences (498A, 406 IPC) arise from a matrimonial dispute, primarily private in nature, suitable for quashing post-settlement under inherent powers (Sec 482 CrPC).",
+      "edge_cases": [
+        "Ensuring offences are not 'heinous' or impacting 'society at large' (e.g., excluding offences like murder, rape, dacoity, economic fraud, terrorism). This case involves standard matrimonial sections generally considered private.",
+        "Verification of voluntariness of the settlement."
+      ],
+      "precedents": [
+        "Gian Singh v. State of Punjab (2012) 10 SCC 303 (Landmark case establishing power to quash in private disputes based on settlement)",
+        "B.S. Joshi v. State of Haryana (2003) 4 SCC 675 (Specifically allowed quashing of 498A/406 cases post-settlement for matrimonial harmony)",
+        "Narinder Singh v. State of Punjab (2014) 6 SCC 466 (Guidelines for quashing based on settlement, considering nature of offence)"
+      ]
+    },
+    {
+      "argument": "Parties have voluntarily settled all disputes via mediation, evidenced by a formal agreement and actions taken thereon (payment, mutual divorce), making continued prosecution futile.",
+      "edge_cases": [
+        "Partial non-compliance with settlement terms (though here, significant steps like payment and divorce were completed).",
+        "Possibility of settlement being under duress (countered by complainant's statement in court)."
+      ],
+      "precedents": [
+        "Jitendra Raghuvanshi v. Babita Raghuvanshi (2013) 4 SCC 58 (Reaffirmed quashing power in settled matrimonial cases to secure ends of justice)",
+        "State of M.P. v. Laxmi Narayan (2019) 5 SCC 688 (Consolidated guidelines; quashing possible even for non-compoundable offences if dispute is private and settlement genuine)",
+        "Parbatbhai Aahir v. State of Gujarat (2017) 9 SCC 641 (Summarized principles guiding Sec 482 CrPC power in settlement cases)"
+      ]
+    },
+    {
+      "argument": "Continuing criminal proceedings after compromise and mutual divorce would be an abuse of the legal process and would not serve the ends of justice.",
+      "edge_cases": [
+        "State's interest in prosecution vs. parties' interest in resolution.",
+        "Precedent value if serious allegations are quashed routinely (mitigated by court's assessment of case facts)."
+      ],
+      "precedents": [
+        "State of Haryana v. Bhajan Lal 1992 Supp (1) SCC 335 (Lists categories where High Court can exercise Sec 482 powers, including abuse of process)",
+        "Gian Singh v. State of Punjab (2012) 10 SCC 303 (Ends of justice often better served by quashing in settled private disputes)",
+        "Narinder Singh v. State of Punjab (2014) 6 SCC 466 (Futility of trial post-settlement is a key consideration)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Petition allowed. FIR No. 0036/2022 registered under Sections 498A/406/34 IPC at PS Dwarka Sector-23, New Delhi, and all consequential proceedings emanating therefrom were quashed.",
+    "reasoning": [
+      "The dispute originated from matrimonial discord, primarily constituting a private matter between the Petitioner and Respondent No. 2.",
+      "The parties voluntarily settled their disputes through mediation on 06.12.2023.",
+      "Significant terms of the settlement, including payment of Rs. 2,00,000 (out of Rs. 4,00,000) and obtaining mutual divorce on 10.01.2024, were complied with.",
+      "Respondent No. 2 personally appeared in court, confirmed the voluntary nature of the settlement, and expressed no objection to the quashing.",
+      "The State, through the Learned APP, did not object to the quashing.",
+      "Considering the nature of the offences and the voluntary settlement leading to divorce, the chances of conviction are remote and negligible.",
+      "Continuing the proceedings would be an exercise in futility and an abuse of the process of the court.",
+      "Quashing the FIR serves the ends of justice by allowing the parties to move forward based on their amicable resolution.",
+      "The court relied upon the legal principles established by the Supreme Court regarding quashing of FIRs based on settlement in matrimonial cases."
+    ],
+    "cited_cases": [
+      "Gian Singh v. State of Punjab (2012) 10 SCC 303",
+      "Narinder Singh v. State of Punjab (2014) 6 SCC 466",
+      "State of M.P. v. Laxmi Narayan (2019) 5 SCC 688",
+      "Parbatbhai Aahir v. State of Gujarat (2017) 9 SCC 641",
+      "Jitendra Raghuvanshi v. Babita Raghuvanshi (2013) 4 SCC 58",
+      "B.S. Joshi v. State of Haryana (2003) 4 SCC 675",
+      "State of Haryana v. Bhajan Lal 1992 Supp (1) SCC 335"
+    ]
+  }
+}

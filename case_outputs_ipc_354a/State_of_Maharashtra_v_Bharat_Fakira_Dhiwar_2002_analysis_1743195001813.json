@@ -1,0 +1,102 @@
+{
+  "case_id": "State of Maharashtra v. Bharat Fakira Dhiwar (2002) 1 SCC 622",
+  "facts": [
+    "The accused, Bharat Fakira Dhiwar, was the father of the deceased, an infant girl aged about 3 months.",
+    "The accused already had two daughters and desired a son; he was displeased by the birth of the third daughter (the deceased).",
+    "The accused frequently expressed his displeasure and stated he would eliminate the child.",
+    "On the night between 12th and 13th August 1985, the accused, his wife (PW-3 Kamal), and their three daughters were sleeping in their house in Dhiwar Galli, village Akoli, District Akola.",
+    "Around midnight, PW-3 woke up and found the infant missing from beside her.",
+    "PW-3 woke the accused, who initially feigned ignorance but then confessed to her that he had thrown the child into a nearby well.",
+    "PW-3 raised an alarm, attracting neighbours (including PW-4 Manjabai and PW-5 Parvatabai).",
+    "The accused then led PW-3 and the gathered neighbours to the well situated behind his house.",
+    "The dead body of the infant was recovered from the well in the presence of the Police Patil (PW-1 Ramdas).",
+    "An FIR was lodged by PW-1 based on information from PW-3.",
+    "Postmortem conducted by Dr. Sharma (PW-2) concluded the cause of death was asphyxia due to drowning.",
+    "The Trial Court (Additional Sessions Judge, Akola) convicted the accused under Section 302 IPC and sentenced him to life imprisonment.",
+    "The High Court of Bombay (Nagpur Bench) dismissed the accused's appeal, confirming the conviction and sentence.",
+    "The accused appealed to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder - particularly relevant is Clause 4: Knowledge that the act is imminently dangerous and likely to cause death)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The accused intentionally caused the death of his infant daughter by throwing her into a well, constituting murder under Section 300 IPC, punishable under Section 302 IPC.",
+      "precedents": [
+        "State of U.P. v. M.K. Anthony (1985) 1 SCC 505 (Regarding appreciation of evidence and minor discrepancies not affecting core case)",
+        "Gura Singh v. State of Rajasthan (2001) 2 SCC 205 (On reliability of extra-judicial confessions, especially to trustworthy persons)",
+        "State of Maharashtra v. Suresh (2000) 1 SCC 471 (On admissibility and weight of discovery statements under Section 27, Evidence Act)"
+      ],
+      "elements": [
+        "Death of the infant victim.",
+        "Death was caused by the accused.",
+        "The act (throwing infant into well) was done with the intention of causing death, or with knowledge that it was imminently dangerous and must in all probability cause death.",
+        "Motive (displeasure over birth of daughter)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The primary evidence linking the accused is the testimony of his wife (PW-3), an interested witness, and an extra-judicial confession, which can be weak evidence.",
+          "supporting_precedents": [
+            "Balwinder Singh v. State of Punjab (1995) Supp (4) SCC 259 (Caution required when relying solely on extra-judicial confession)",
+            "Sahadevan v. State of Tamil Nadu (2012) 6 SCC 403 (Extra-judicial confession is a weak piece of evidence and requires strong corroboration)",
+            "Harbeer Singh v. Sheeshpal Singh (2016) 16 SCC 418 (Testimony of related witnesses needs careful scrutiny, though not automatically rejected)"
+          ]
+        },
+        {
+          "loophole": "There was no direct eyewitness to the act of throwing the child into the well; the case relies on circumstantial evidence.",
+          "supporting_precedents": [
+            "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Chain of circumstantial evidence must be complete and exclude any hypothesis of innocence)",
+            "Hanumant Govind Nargundkar v. State of M.P. (AIR 1952 SC 343) (Principles for conviction based on circumstantial evidence)",
+            "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681 (Circumstances must point unerringly towards the guilt of the accused)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to prove the case beyond reasonable doubt. The testimony of PW-3 (wife) is unreliable due to potential bias, and the extra-judicial confession lacks credibility and corroboration.",
+      "edge_cases": [
+        "Potential for accidental drowning (though highly improbable given facts).",
+        "Possibility of false implication by the wife (PW-3)."
+      ],
+      "precedents": [
+        "Pakkirisamy v. State of T.N. (1997) 8 SCC 158 (Extra-judicial confession must be proved like any other fact and corroborated)",
+        "Kali Ram v. State of H.P. (1973) 2 SCC 808 (Burden of proof always rests on the prosecution; accused has benefit of doubt)",
+        "Mousam Singha Roy v. State of West Bengal (2003) 12 SCC 377 (Suspicion, however strong, cannot replace proof beyond reasonable doubt)"
+      ]
+    },
+    {
+      "argument": "The discovery of the body based on the accused leading to the well (Section 27, Evidence Act) only proves knowledge of where the body was, not that he committed the murder.",
+      "edge_cases": [
+        "Accused might have seen someone else throw the child and knew the location.",
+        "Confession leading to discovery might have been coerced."
+      ],
+      "precedents": [
+        "Pulukuri Kottaya v. Emperor (AIR 1947 PC 67) (Landmark case defining scope of Section 27 - only the information directly leading to discovery is admissible)",
+        "Mohmed Inayatullah v. State of Maharashtra (1976) 1 SCC 828 (Distinction between proving discovery and proving authorship of crime)",
+        "State of Karnataka v. David Rozario (2002) 7 SCC 728 (Mere discovery cannot be the sole basis for conviction without other cogent evidence)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. Conviction under Section 302 IPC and sentence of life imprisonment upheld.",
+    "reasoning": [
+      "The testimony of PW-3 (wife) was found credible, natural, and consistent. Her relationship with the accused did not automatically render her testimony unreliable, especially when corroborated by other witnesses (PW-4, PW-5) regarding the subsequent events (alarm, recovery).",
+      "The Court accepted the extra-judicial confession made by the accused to PW-3 immediately after the incident as voluntary and truthful, forming a key piece of evidence.",
+      "Strong motive was established through PW-3's testimony regarding the accused's displeasure over the birth of a third daughter and his prior threats.",
+      "The conduct of the accused in leading PW-3 and others to the well from where the body was recovered was a relevant circumstance under Section 8 of the Evidence Act and the information leading to the discovery was admissible under Section 27 of the Evidence Act, corroborating the confession.",
+      "The medical evidence (death by drowning) was consistent with the prosecution's narrative.",
+      "The chain of circumstantial evidence (motive, confession, conduct/discovery, medical evidence) was considered complete and pointed conclusively to the guilt of the accused, leaving no reasonable doubt.",
+      "The defense arguments regarding the unreliability of PW-3 and the extra-judicial confession were rejected based on the overall assessment of evidence and corroborating factors."
+    ],
+    "cited_cases": [
+      "State of U.P. v. M.K. Anthony (1985) 1 SCC 505",
+      "(Implicit reliance on principles established in) Pulukuri Kottaya v. Emperor (AIR 1947 PC 67) (Regarding Section 27 Evidence Act)",
+      "(Implicit reliance on principles established in) Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Regarding circumstantial evidence)",
+      "(Implicit reliance on principles regarding) Extra-judicial confessions (e.g., similar to Gura Singh v. State of Rajasthan (2001) 2 SCC 205)",
+      "(Implicit reliance on principles regarding) Testimony of related witnesses (e.g., similar to Dalip Singh v. State of Punjab (AIR 1953 SC 364))"
+    ]
+  }
+}

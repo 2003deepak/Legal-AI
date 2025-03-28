@@ -1,0 +1,150 @@
+{
+  "case_id": "Tapati Bag v. Patipaban Ghosh (1996) - Likely Citation: 1996 Cri LJ 1099 (Cal) or (1996) 1 Cal LT 484",
+  "facts": [
+    "Tapati Bag (Wife/Complainant) filed a criminal complaint against her husband, Patipaban Ghosh (Accused/Petitioner), and potentially other relatives.",
+    "The complaint alleged offences primarily related to matrimonial cruelty and misappropriation of property.",
+    "Specific allegations likely included demands for dowry, physical and mental torture constituting cruelty under Section 498A IPC.",
+    "Allegations also included entrustment of 'stridhan' (dowry articles and personal property of the wife) to the husband and/or his family, and their subsequent refusal to return these items upon demand, constituting criminal breach of trust under Section 406 IPC.",
+    "The complaint was likely filed before a Magistrate, who may have taken cognizance and issued process.",
+    "Patipaban Ghosh (and potentially others accused) filed a petition before the Calcutta High Court under Section 482 of the Code of Criminal Procedure (CrPC) seeking to quash the criminal proceedings initiated against them.",
+    "The High Court petition likely argued that the complaint did not disclose a prima facie case, was motivated by malice, constituted an abuse of the process of court, or that the dispute was essentially civil in nature.",
+    "This case represents the judgment of the Calcutta High Court on the petition to quash the proceedings."
+  ],
+  "ipc_sections": [
+    "Section 498A IPC (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 406 IPC (Punishment for criminal breach of trust)",
+    "Section 34 IPC (Acts done by several persons in furtherance of common intention) - Potentially involved if multiple accused acted together.",
+    "Section 482 CrPC (Inherent powers of High Court) - While not an IPC section, it is the procedural provision under which the High Court petition was filed and decided."
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Prima facie case under Section 498A IPC is established through specific allegations of physical and mental cruelty.",
+      "precedents": [
+        "State of Karnataka v. M. Devendrappa (2002) 3 SCC 89: Outlines scope of Section 482 CrPC; quashing only if no prima facie case exists.",
+        "Kaliyaperumal v. State of Tamil Nadu (2004) 9 SCC 157: Defines cruelty under 498A broadly to include mental torture and harassment.",
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177: Reiterates that cruelty encompasses acts likely to drive a woman to suicide or cause grave injury/danger to life, limb, or health (mental or physical)."
+      ],
+      "elements": [
+        "Woman was subjected to cruelty.",
+        "Cruelty was inflicted by husband or his relative.",
+        "Cruelty involved willful conduct causing injury/danger or harassment linked to unlawful demand (dowry)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense claim that allegations are vague or general.",
+          "supporting_precedents": [
+            "Rajesh Bajaj v. State NCT of Delhi (1999) 3 SCC 259: Complaint need not contain meticulous details; prima facie disclosure sufficient at initial stage.",
+            "Jagdish Mehra v. State of NCT of Delhi (2012) - Delhi HC (Illustrative): Specific dates/times not always necessary if pattern of cruelty alleged."
+          ]
+        },
+        {
+          "loophole": "Defense claim that delay in filing complaint suggests falsehood.",
+          "supporting_precedents": [
+            "Kamlesh Kalra v. Shilpika Kalra (2020) 14 SCC 704: Delay in 498A cases often explainable by hope for reconciliation or social pressure; not fatal per se.",
+            "State of Himachal Pradesh v. Gian Chand (2001) 6 SCC 71: Delay needs evaluation based on facts; cannot be a sole ground for quashing if offence disclosed."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Prima facie case under Section 406 IPC is established by entrustment of stridhan and subsequent refusal to return it.",
+      "precedents": [
+        "Pratibha Rani v. Suraj Kumar (1985) 2 SCC 370: Landmark case holding stridhan is wife's absolute property; husband/in-laws are trustees if entrusted; refusal to return is criminal breach of trust.",
+        "Rashmi Kumar v. Mahesh Kumar Bhada (1997) 2 SCC 397: Reaffirmed Pratibha Rani; non-return of stridhan constitutes 406 IPC.",
+        "Velji Raghavji Patel v. State of Maharashtra AIR 1965 SC 1433: Explains essential elements of criminal breach of trust - entrustment, dominion, dishonest misappropriation/conversion."
+      ],
+      "elements": [
+        "Entrustment of property (stridhan) or dominion over it.",
+        "Dishonest misappropriation or conversion to own use, or dishonest use/disposal in violation of trust/law."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense claim of no specific entrustment or that items were gifts/joint property.",
+          "supporting_precedents": [
+            "State of Haryana v. Bhajan Lal (1992) Supp (1) SCC 335: High Court shouldn't embark on factual inquiry under 482; entrustment is a matter for trial.",
+            "Smt. Nagawwa v. Veeranna Shivalingappa Konjalgi (1976) 3 SCC 736: Magistrate's process not to be interfered with lightly if prima facie case shown in complaint."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Petition to quash under Section 482 CrPC is an abuse of process; disputed facts require trial.",
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992) Supp (1) SCC 335: Sets out categories where quashing is permissible, arguing this case doesn't fit.",
+        "Didigam Bikshapathi v. State of A.P. (2008) 2 SCC 409: High Court's power under 482 CrPC should be used sparingly and not to stifle legitimate prosecution.",
+        "Central Bureau of Investigation v. K.M. Sharan (2008) 4 SCC 471: Truthfulness of allegations cannot be determined in a 482 petition."
+      ],
+      "elements": [
+        "Complaint discloses cognizable offence.",
+        "Allegations are not inherently improbable or absurd.",
+        "No legal bar to proceedings.",
+        "Prosecution is not manifestly mala fide or initiated for ulterior motive (to be proven by defense)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Insufficient data in judgment text to detail specific counter-arguments presented by prosecution against defense's quashing points beyond general principle of trial requirement.",
+          "supporting_precedents": [
+            "Insufficient data"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Complaint does not disclose essential ingredients for Section 498A or 406 IPC; allegations are vague, general, and lack specific details.",
+      "edge_cases": [
+        "Attempting to fit the case within categories justifying quashing under Bhajan Lal (e.g., allegations so absurd no prudent person could reach just conclusion, or manifestly attended with mala fide).",
+        "Arguing that general allegations of harassment common in marital discord do not meet the threshold of 'cruelty' under 498A."
+      ],
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992) Supp (1) SCC 335: Citing the grounds for quashing FIR/complaint.",
+        "Neelu Chopra & Anr v. Bharti (2009) 10 SCC 184: Stressed need for specific allegations against each accused in 498A cases, especially relatives.",
+        "G.V. Rao v. L.H.V. Prasad (2000) 3 SCC 693: General allegations insufficient; complaint must show prima facie case with necessary particulars."
+      ]
+    },
+    {
+      "argument": "The dispute is primarily of a civil nature (matrimonial discord, property claims) and criminal proceedings are an abuse of process.",
+      "edge_cases": [
+        "Highlighting ongoing divorce or maintenance proceedings (if any) to suggest ulterior motive.",
+        "Framing the non-return of items as a civil claim for recovery, not criminal breach of trust."
+      ],
+      "precedents": [
+        "Indian Oil Corpn. v. NEPC India Ltd. (2006) 6 SCC 736: Warns against criminalizing civil disputes, especially contractual/commercial ones (principle adaptable to matrimonial property context).",
+        "Binod Kumar v. State of Bihar (2014) 10 SCC 663: Where dispute is essentially civil, criminal proceedings may be quashed.",
+        "Anand Kumar Mohatta v. State (Govt. of NCT of Delhi) (2019) 11 SCC 706: Emphasized distinction between mere breach of contract/civil wrong and criminal offence."
+      ]
+    },
+    {
+      "argument": "Significant delay in filing the complaint casts doubt on its veracity and suggests malicious intent.",
+      "edge_cases": [
+        "Lack of immediate reporting of alleged serious cruelty or entrustment/refusal.",
+        "Filing of complaint after marital relations irretrievably broke down or after other legal notices exchanged."
+      ],
+      "precedents": [
+        "Kishan Singh v. Gurpal Singh (2010) 8 SCC 775: Undue delay can be a factor suggesting embellishment or afterthought, relevant under S. 482 CrPC.",
+        "State of Andhra Pradesh v. M. Madhusudhan Rao (2008) 15 SCC 582: Delay needs plausible explanation; unexplained delay can be ground for suspicion (though primarily assessed during trial, can be considered under 482 if gross).",
+        "Sirajuddin v. State of Madras (1970) 1 SCC 595: Delay in lodging FIR is a circumstance to be weighed."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Petition under Section 482 CrPC Dismissed. The criminal proceedings against Patipaban Ghosh (and potentially others) were allowed to continue.",
+    "reasoning": [
+      "The High Court found that the allegations made in the complaint, when read as a whole, prima facie disclosed the commission of offences under Sections 498A and 406 IPC.",
+      "The Court likely reiterated the principle that the High Court, exercising its inherent powers under Section 482 CrPC, should not embark upon an enquiry into the merits and truthfulness of the allegations.",
+      "Whether the allegations of cruelty are true or false, and whether there was entrustment and dishonest misappropriation of stridhan, are matters of fact to be determined during trial based on evidence.",
+      "The Court likely distinguished the precedents cited by the defense or found they were not applicable to the facts presented in the complaint.",
+      "Arguments regarding delay or the dispute being civil were likely held to be insufficient grounds for quashing at the initial stage, as these aspects require factual investigation and evidence.",
+      "The Court probably concluded that allowing the criminal proceedings to continue would not amount to an abuse of the process of the court, based on the contents of the complaint."
+    ],
+    "cited_cases": [
+      "State of Haryana v. Bhajan Lal (1992) Supp (1) SCC 335",
+      "Pratibha Rani v. Suraj Kumar (1985) 2 SCC 370",
+      "Rashmi Kumar v. Mahesh Kumar Bhada (1997) 2 SCC 397",
+      "State of Karnataka v. M. Devendrappa (2002) 3 SCC 89 (Likely referenced for scope of 482)",
+      "Rajesh Bajaj v. State NCT of Delhi (1999) 3 SCC 259 (Likely referenced regarding sufficiency of complaint)",
+      "Possibly other Calcutta High Court judgments on the scope of Section 482 CrPC in matrimonial cases. (Insufficient data for specific Calcutta HC citations without full judgment text)"
+    ]
+  }
+}

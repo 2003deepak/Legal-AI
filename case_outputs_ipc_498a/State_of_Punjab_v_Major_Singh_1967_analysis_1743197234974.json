@@ -1,0 +1,111 @@
+{
+  "case_id": "State of Punjab v. Major Singh (1967)",
+  "facts": [
+    "The respondent, Major Singh, was accused of committing an act against a female child.",
+    "The victim was aged 7 and a half months at the time of the incident.",
+    "The accused allegedly inserted his penis into the vagina of the child.",
+    "The act caused injuries to the child, specifically a rupture of the hymen resulting in bleeding.",
+    "The child cried out, alerting the mother who discovered the bleeding.",
+    "Medical examination confirmed the injury to the child's private parts.",
+    "The Sessions Judge convicted the respondent under Section 376, IPC (Rape).",
+    "The High Court, on appeal, acquitted the respondent of rape under Section 376 but convicted him under Section 354, IPC (Assault or criminal force to woman with intent to outrage her modesty).",
+    "The State of Punjab appealed to the Supreme Court against the acquittal under Section 376.",
+    "The respondent (Major Singh) did not appeal against his conviction under Section 354.",
+    "The Supreme Court primarily dealt with the interpretation of 'penetration' under Section 375 and the meaning of 'modesty' under Section 354 in the context of a very young child."
+  ],
+  "ipc_sections": [
+    "Section 375 (Rape - Definition)",
+    "Section 376 (Punishment for Rape)",
+    "Section 354 (Assault or criminal force to woman with intent to outrage her modesty)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The act constituted rape under Section 375/376 IPC as there was sufficient penetration, however slight, evidenced by the medical report showing injury (ruptured hymen).",
+      "precedents": [
+        "R. v. M'Rue (1838) 8 C & P 641 (Referenced for definition of penetration)",
+        "R. v. Allen (1839) 9 C & P 31 (Referenced for definition of penetration)",
+        "Ghuman v. Emperor, AIR 1925 Lah 619 (Illustrative of penetration standards pre-independence, likely context)"
+      ],
+      "elements": [
+        "Penetration (as defined in Explanation to Section 375 - 'penetration is sufficient to constitute the sexual intercourse necessary to the offence of rape')",
+        "Against her will or without her consent (Consent is immaterial given the victim's age - below the age of consent)",
+        "Sexual intercourse (carnal knowledge)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The extent of penetration might not meet the threshold required by Section 375, as interpreted strictly. The injury could potentially occur with minimal contact not amounting to legal penetration.",
+          "supporting_precedents": [
+            "Insufficient data on specific precedents used by defense on this point, but arguments typically revolve around strict interpretation of 'penetration'.",
+            "The High Court's acquittal under S.376 itself supports this loophole view."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Alternatively, if not rape, the act clearly constituted an assault or use of criminal force with the intent to outrage the modesty of the female child under Section 354 IPC.",
+      "precedents": [
+        "Ram Kripal S/O Shyamlal Charmakar vs State Of Madhya Pradesh (2007) 11 SCC 488 (Later case confirming modesty applies regardless of age, reflects the principle argued)",
+        "Rupan Deol Bajaj vs Kanwar Pal Singh Gill (1995) 6 SCC 194 (Defines modesty broadly)",
+        "Emperor v. Tatia Mahadev, (1912) 14 BOMLR 961 (Early case possibly discussing elements of S.354)"
+      ],
+      "elements": [
+        "Assault or use of criminal force",
+        "Victim must be a woman/female",
+        "Intent to outrage her modesty or knowledge that modesty is likely to be outraged"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "A child of 7.5 months lacks the mental capacity or understanding to possess a sense of 'modesty' or 'decency' that can be outraged.",
+          "supporting_precedents": [
+            "Insufficient data on specific precedents used by defense, this argument relied on the ordinary meaning of 'modesty' requiring consciousness.",
+            "The dissenting opinion within the Major Singh judgment itself articulates this loophole strongly (Justice Bachawat)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The evidence did not establish penetration sufficient to constitute the offence of rape under Section 375 IPC beyond a reasonable doubt.",
+      "edge_cases": [
+        "The definition and required degree of 'penetration' for Section 375.",
+        "Interpretation of medical evidence – whether the injury definitively proved penetration meeting the legal standard."
+      ],
+      "precedents": [
+        "Insufficient data on specific precedents cited by the defense.",
+        "Arguments likely focused on strict construction of penal statutes and the high burden of proof in criminal cases.",
+        "Reference to English cases requiring proof of 'some degree' of entry might have been made (e.g., contrasting views pre-Codification)."
+      ]
+    },
+    {
+      "argument": "The conviction under Section 354 was incorrect as the concept of 'modesty' requires a sense of decency or awareness, which a 7.5-month-old child does not possess. Therefore, the intent to 'outrage modesty' could not be fulfilled.",
+      "edge_cases": [
+        "The legal definition of 'modesty' – whether it is subjective (requiring awareness) or objective (an inherent attribute).",
+        "Applicability of Section 354 to victims incapable of understanding the nature of the act due to infancy."
+      ],
+      "precedents": [
+        "Insufficient data on specific precedents cited by the defense.",
+        "Arguments likely relied on dictionary definitions and the common understanding of 'modesty'.",
+        "Potential reference to cases where the victim's reaction or perception was considered relevant (though likely distinguishable)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal by State dismissed. The Supreme Court upheld the High Court's decision: Acquittal under Section 376 IPC, Conviction under Section 354 IPC confirmed (as it was not appealed by the respondent but its basis was analyzed).",
+    "reasoning": [
+      "Regarding Section 376 (Rape): The Court (Majority: Subba Rao C.J., Shelat J.) found that the evidence regarding penetration was ambiguous. While there was injury, it could not be definitively concluded beyond reasonable doubt that penetration, as required by Section 375, had occurred. Benefit of the doubt was given to the accused on this charge.",
+      "Regarding Section 354 (Outraging Modesty - Majority: Subba Rao C.J., Shelat J.): The Court held that 'modesty' is an attribute pertaining to the female sex as a class. It is an objective quality inherent in a woman/female, irrespective of her age or her own understanding of it. A very young female child possesses modesty which can be outraged by an indecent assault. The essence of the offence is the culpable intention of the offender.",
+      "Regarding Section 354 (Dissenting Opinion: Bachawat J.): Justice Bachawat dissented on the interpretation of Section 354. He opined that 'modesty' entails a sense of propriety and decency, which a child of tender years cannot possess. Therefore, an essential element of the offence (outraging that specific quality) could not be established when the victim is an infant lacking such awareness.",
+      "The Court confirmed that the act committed by the respondent was an assault intended to outrage the modesty of the victim, thus affirming the applicability of Section 354 based on the majority view."
+    ],
+    "cited_cases": [
+      "R. v. M'Rue (1838) 8 C & P 641",
+      "R. v. Allen (1839) 9 C & P 31",
+      "R v. Lines (1844) 1 Car & Kir 393",
+      "R v. Hughes (1841) 9 C & P 752",
+      "Ghuman v. Emperor, AIR 1925 Lah 619 (Mentioned in discussion)",
+      "Emperor v. Tatia Mahadev, (1912) 14 BOMLR 961 (Discussed in relation to S.354)",
+      "(Other English common law cases discussing penetration and assault were likely referenced implicitly or explicitly in the full judgment text)"
+    ]
+  }
+}

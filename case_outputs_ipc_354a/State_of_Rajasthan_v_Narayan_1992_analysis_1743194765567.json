@@ -1,0 +1,169 @@
+{
+  "case_id": "State of Rajasthan v. Narayan (1992) 3 SCC 615",
+  "facts": [
+    "Incident occurred during the night between 11th and 12th May 1978, in Village Padli Gujran, District Alwar, Rajasthan.",
+    "The victim was Mst. Sua, wife of the respondent-accused, Narayan.",
+    "Narayan and Mst. Sua were sleeping alone inside their house, which was bolted from the inside.",
+    "Around midnight, neighbours (PW1 Girdhari, PW2 Harphool, PW3 Moolchand) heard cries emanating from Narayan's house.",
+    "Witnesses went to the house and found the door bolted from inside.",
+    "After some delay, Narayan opened the door.",
+    "Witnesses entered and found Mst. Sua lying dead on the ground with injuries on her neck.",
+    "Narayan initially claimed his wife had been bitten by a snake.",
+    "Narayan subsequently changed his statement, claiming some unknown intruders had entered the house and killed her.",
+    "Narayan himself had injuries on his hands and chin.",
+    "First Information Report (FIR) was lodged, and investigation commenced.",
+    "Post-mortem examination (by PW5 Dr. R. C. Gupta) revealed incised wounds on the neck, caused by a sharp weapon like a Kulhari (axe). Death was due to shock and hemorrhage resulting from these injuries, which were ante-mortem.",
+    "A Kulhari (axe) was recovered from Narayan's house at his instance (disclosure statement leading to recovery).",
+    "The recovered Kulhari and Narayan's clothes (dhoti and shirt) were found to be stained with human blood.",
+    "Serological report confirmed the blood on the Kulhari and Narayan's clothes was Group 'A'.",
+    "The blood group of the deceased, Mst. Sua, was also determined to be Group 'A'.",
+    "The Sessions Judge, Alwar, acquitted Narayan, disbelieving the witnesses and doubting the recovery evidence.",
+    "The High Court of Rajasthan upheld the acquittal, agreeing with the Sessions Court's assessment.",
+    "The State of Rajasthan filed an appeal against the acquittal in the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder - Definition, applied contextually)",
+    "Section 106 Indian Evidence Act (Burden of proving fact especially within knowledge - invoked by SC)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The chain of circumstantial evidence is complete and points unerringly towards the guilt of the accused, Narayan.",
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Five principles for circumstantial evidence)",
+        "Hanumant Govind Nargundkar v. State of M.P. (1952) SCR 1091 (Circumstances must be conclusive and exclude all other hypotheses)",
+        "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681 (Last seen theory combined with absence of explanation)"
+      ],
+      "elements": [
+        "Accused and deceased were alone inside a locked room.",
+        "Death occurred during the night.",
+        "Neighbours heard cries from the house.",
+        "Accused delayed opening the door.",
+        "Accused offered false and conflicting explanations for the death.",
+        "Recovery of the murder weapon (Kulhari) stained with deceased's blood group from accused's house at his instance.",
+        "Accused's clothes were stained with deceased's blood group.",
+        "Accused had injuries on his person."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Minor discrepancies in the testimonies of neighbours (PW1, PW2, PW3) regarding timings or exact sequence, argued by defense as significant.",
+          "supporting_precedents": [
+            "State of U.P. v. M.K. Anthony (1985) 1 SCC 505 (While minor discrepancies are ignored, significant contradictions can affect credibility - Defense might argue contradictions are significant)",
+            "Suraj Singh v. State of U.P. (2008) 16 SCC 686 (Material discrepancies can lead to acquittal)"
+          ]
+        },
+        {
+          "loophole": "Defense contention that recovery of the Kulhari was planted or not conducted as per procedure (e.g., lack of independent witness, procedural flaw in memo).",
+          "supporting_precedents": [
+            "Mohd. Aman v. State of Rajasthan (1997) 10 SCC 44 (Strict proof required for recoveries under Section 27, Evidence Act)",
+            "State of Punjab v. Gurnam Kaur (2009) 14 SCC 111 (Importance of independent witnesses during recovery, though absence not always fatal)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The burden of explaining how the deceased died while inside a locked room solely with the accused lies heavily on the accused under Section 106 of the Indian Evidence Act, and his failure to provide a credible explanation (offering false ones instead) is an additional link strengthening the prosecution case.",
+      "precedents": [
+        "State of W.B. v. Mir Mohammad Omar (2000) 8 SCC 382 (Application of S.106 when facts are exclusively within accused's knowledge)",
+        "Ganeshlal v. State of Maharashtra (1992) 3 SCC 106 (False explanation or failure to explain under S.106 is an additional link in the chain of circumstances)",
+        "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681 (Reiterates principle of S.106 in last seen together cases)"
+      ],
+      "elements": [
+        "Exclusive knowledge of the accused regarding the incident inside the locked room.",
+        "Absence of any credible explanation from the accused.",
+        "Provision of demonstrably false explanations (snake bite, intruders) by the accused."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Section 106 does not relieve the prosecution of its primary burden to establish a prima facie case beyond reasonable doubt.",
+          "supporting_precedents": [
+            "Shambu Nath Mehra v. State of Ajmer (1956) SCR 199 (S.106 does not shift the main burden of proof from prosecution)",
+            "Nagendra Sah v. State of Bihar (2021) 10 SCC 725 (S.106 comes into play only after prosecution discharges initial burden)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The acquittal by the Trial Court and High Court was perverse, based on flimsy grounds and ignoring substantial, compelling evidence establishing the guilt of the accused.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Outlines grounds for appellate court interference in acquittal, including perversity)",
+        "State of U.P. v. Ram Swarup (1974) 4 SCC 764 (Powers of appellate court in appeals against acquittal)",
+        "Arun Kumar v. State of U.P. (1989) 3 SCC 1 (Interference justified when lower court findings are manifestly erroneous or conclusions unreasonable)"
+      ],
+      "elements": [
+        "Incorrect appreciation of witness testimonies.",
+        "Undue emphasis on minor discrepancies.",
+        "Wrongful rejection of credible recovery evidence.",
+        "Failure to consider the cumulative effect of circumstantial evidence.",
+        "Failure to correctly apply Section 106 of the Evidence Act."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The presumption of innocence is strengthened by acquittal, and appellate courts should exercise caution and interfere only for compelling reasons.",
+          "supporting_precedents": [
+            "Sheo Swarup v. King Emperor (AIR 1934 PC 227) (Principles guiding appellate review of acquittal)",
+            "Ramesh Babulal Doshi v. State of Gujarat (1996) 9 SCC 225 (Reversal of acquittal requires substantial and compelling reasons, not just a different possible view)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish guilt beyond a reasonable doubt as the circumstantial evidence presented is weak and does not form a complete chain.",
+      "edge_cases": [
+        "Highlighting inconsistencies in witness accounts (PW1, PW2, PW3).",
+        "Arguing the possibility of an unknown intruder (as initially claimed by Narayan), suggesting the investigation did not properly rule out other hypotheses."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Emphasis on the requirement that circumstantial evidence must be inconsistent with the innocence of the accused)",
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Burden of proof squarely on prosecution; suspicion, however strong, cannot replace proof)",
+        "Mousam Singha Roy v. State of W.B. (2003) 12 SCC 377 (Standard of proof in criminal cases is beyond reasonable doubt; benefit of doubt goes to accused)"
+      ]
+    },
+    {
+      "argument": "The recovery of the Kulhari (axe) is unreliable, potentially planted, and lacks proper procedural validation.",
+      "edge_cases": [
+        "Absence of independent public witnesses during the recovery process.",
+        "Potential inconsistencies in the documentation (recovery memo) or testimony regarding the recovery.",
+        "Delay between arrest and disclosure/recovery."
+      ],
+      "precedents": [
+        "Mohd. Aman v. State of Rajasthan (1997) 10 SCC 44 (Need for meticulous compliance with Section 27 Evidence Act requirements)",
+        "Dudhnath Pandey v. State of U.P. (1981) 2 SCC 166 (Conditions for admissibility of information leading to discovery under S.27)",
+        "Jackaran Singh v. State of Punjab (1995) Supp (3) SCC 432 (Importance of independent witnesses for recovery, though non-compliance isn't always fatal if evidence is otherwise reliable)"
+      ]
+    },
+    {
+      "argument": "The High Court, having confirmed the acquittal by the Trial Court, arrived at a reasonable conclusion based on the evidence presented, and the Supreme Court should respect the concurrent findings of fact unless they are demonstrably perverse.",
+      "edge_cases": [
+        "Principle of double presumption of innocence (initial presumption + acquittal).",
+        "Limited scope of Supreme Court review in appeals against acquittal under Article 136 (Special Leave Petition)."
+      ],
+      "precedents": [
+        "Sheo Swarup v. King Emperor (AIR 1934 PC 227) (Guiding principles for appeals against acquittal)",
+        "Basappa v. State of Karnataka (2014) 5 SCC 154 (Appellate court should be slow in reversing acquittal if the view taken by trial court is a possible view)",
+        "State of Kerala v. K.T. Mathew (2018) 15 SCC 339 (High threshold for interfering with concurrent acquittal)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The acquittal recorded by the Trial Court and affirmed by the High Court was set aside. The respondent, Narayan, was convicted under Section 302 IPC and sentenced to undergo imprisonment for life.",
+    "reasoning": [
+      "The Supreme Court found the reasoning of the Trial Court and High Court to be perverse and based on flimsy grounds, overlooking strong circumstantial evidence.",
+      "The chain of circumstances was held to be complete and conclusive: accused and deceased were alone in a locked room; cries were heard; accused delayed opening; gave false/conflicting explanations; weapon (Kulhari) recovered at his instance from his house was stained with deceased's blood group ('A'); accused's clothes were also stained with deceased's blood group ('A'); accused had injuries.",
+      "The Court emphasized the importance of Section 106 of the Evidence Act, stating that the accused had a duty to explain how his wife died under circumstances exclusively within his knowledge. His failure to do so and offering false explanations constituted an additional link incriminating him.",
+      "Minor discrepancies in the statements of PW1, PW2, and PW3 were deemed natural and insignificant, not affecting the core narrative.",
+      "The recovery of the blood-stained Kulhari at the instance of the accused was found to be credible and a vital piece of evidence connecting him to the crime.",
+      "The cumulative effect of the established circumstances excluded any reasonable hypothesis of innocence."
+    ],
+    "cited_cases": [
+      "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Principles of circumstantial evidence implicitly applied)",
+      "Hanumant Govind Nargundkar v. State of M.P. (1952) SCR 1091 (Principles of circumstantial evidence implicitly applied)",
+      "Ganeshlal v. State of Maharashtra (1992) 3 SCC 106 (Principle regarding false explanation under S.106 Evidence Act applied, contemporaneous judgment)",
+      "State of U.P. v. Ram Swarup (1974) 4 SCC 764 (Implicitly applied principles regarding appellate review of acquittal)",
+      "State of W.B. v. Mir Mohammad Omar (2000) 8 SCC 382 (Principle regarding S.106 Evidence Act implicitly applied, though this case is later)",
+      "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681 (Principle regarding S.106 Evidence Act implicitly applied, though this case is later)"
+    ]
+  }
+}

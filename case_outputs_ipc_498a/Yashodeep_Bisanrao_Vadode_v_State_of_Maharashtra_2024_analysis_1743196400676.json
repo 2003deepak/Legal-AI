@@ -1,0 +1,227 @@
+{
+  "case_id": "Yashodeep Bisanrao Vadode v. State of Maharashtra (2024) SCC OnLine SC 4 / Criminal Appeal No. 37 of 2024",
+  "facts": [
+    "On July 29, 2010, around 8:00 PM, Dilip Bapurao Donadkar (deceased) and Sunil Pandurang Nakle (PW-1, injured witness) were traveling on a motorcycle near Village Kapsi, District Yavatmal, Maharashtra.",
+    "They were stopped by four assailants: Yashodeep Bisanrao Vadode (Appellant/A1), Ram @ Ramya Bisanrao Vadode (A2, Absconding), Subhash Bisanrao Vadode (A3, Absconding), and one juvenile.",
+    "The assailants demanded money from the victims.",
+    "When Dilip Donadkar resisted, Yashodeep (A1) allegedly stabbed him in the chest with a knife.",
+    "Ram @ Ramya (A2) allegedly stabbed Sunil Nakle (PW-1) in the back.",
+    "The assailants took Rs. 500/- from the deceased's pocket and fled the scene.",
+    "PW-1 took the deceased to Rural Hospital, Ghatanji, where Dilip Donadkar was declared dead.",
+    "PW-1 lodged FIR No. 104/2010 at Ghatanji Police Station against the assailants.",
+    "Investigation included Spot Panchnama (Exh. 42), Inquest Panchnama (Exh. 44), seizure of blood-stained clothes (Exh. 45).",
+    "Post-mortem report (Exh. 38) indicated the cause of death as 'Hemorrhagic shock due to stab injury to vital organ i.e., right lung', and the injury was sufficient in the ordinary course of nature to cause death.",
+    "Yashodeep (A1) was arrested on August 1, 2010.",
+    "Pursuant to a memorandum statement by A1 (Exh. 50) under Section 27 of the Indian Evidence Act, a knife (Article A) was allegedly recovered from his house (Seizure Panchnama Exh. 51).",
+    "A Test Identification Parade (TIP) was conducted where PW-1 identified A1.",
+    "Chemical Analyzer (CA) reports confirmed human blood on A1's clothes and the recovered knife. The blood group on the knife ('B') matched the deceased's blood group.",
+    "The Trial Court (Sessions Judge, Yavatmal) convicted A1 under Sections 302, 394, 397 read with 34 IPC and Section 4/25 of the Arms Act, sentencing him to life imprisonment for murder and concurrent sentences for other offences.",
+    "The High Court of Bombay (Nagpur Bench) dismissed A1's appeal, confirming the conviction and sentence.",
+    "A1 (Yashodeep) filed the present appeal before the Supreme Court of India."
+  ],
+  "ipc_sections": [
+    "Section 34 IPC (Acts done by several persons in furtherance of common intention)",
+    "Section 300 IPC (Murder - Definition used for conviction under 302)",
+    "Section 302 IPC (Punishment for Murder)",
+    "Section 392 IPC (Punishment for Robbery - Implicit element)",
+    "Section 394 IPC (Voluntarily causing hurt in committing robbery)",
+    "Section 397 IPC (Robbery, or dacoity, with attempt to cause death or grievous hurt)",
+    "Section 4/25 of the Arms Act, 1959 (Punishment for possessing prohibited arms/ammunition without license)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The testimony of the injured eyewitness (PW-1) is credible, consistent, and sufficient for conviction. Being injured lends credence to his presence and account.",
+      "precedents": [
+        "State of UP v. Naresh (2011) 4 SCC 324",
+        "Jarnail Singh v. State of Punjab (2009) 9 SCC 719",
+        "Balraje @ Trimbak v. State of Maharashtra (2010) 6 SCC 673"
+      ],
+      "elements": [
+        "Presence of PW-1 at the scene",
+        "PW-1's ability to identify the assailant (A1)",
+        "Consistency of PW-1's testimony (FIR, statement, court deposition)",
+        "Corroboration of PW-1's injury"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Reliance on a single eyewitness for identifying the specific act of stabbing by A1, especially under potentially stressful circumstances and possibly low light.",
+          "supporting_precedents": [
+            "Wakkar v. State of UP (2011) 3 SCC 306",
+            "Raju v. State of Haryana (2010) 3 SCC 235",
+            "Joseph v. State of Kerala (2003) 1 SCC 465"
+          ]
+        },
+        {
+          "loophole": "Potential delay in conducting the Test Identification Parade (TIP) might affect its reliability.",
+          "supporting_precedents": [
+            "Musheer Khan @ Badshah Khan v. State of MP (2010) 2 SCC 748",
+            "Shaikh Umar Ahmed Shaikh v. State of Maharashtra (1998) 5 SCC 100",
+            "Raja v. State By Inspector Of Police (2019) 19 SCC 181"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Medical evidence (Post-mortem report Exh. 38) fully corroborates the ocular testimony of PW-1 regarding the nature and location of the fatal injury, establishing it as murder under Section 300 IPC.",
+      "precedents": [
+        "Solanki Chimanbhai Ukabhai v. State of Gujarat (1983) 2 SCC 174",
+        "Balaji Gunthu Dhule v. State of Maharashtra (2012) 11 SCC 685",
+        "Pruthivirajsinh Nodhubha Jadeja (D) By Lrs. vs. State Of Gujarat (2020) 16 SCC 151"
+      ],
+      "elements": [
+        "Cause of death (stab wound to lung)",
+        "Sufficiency of injury to cause death in ordinary course",
+        "Consistency with weapon alleged (knife)",
+        "Confirmation of death as homicidal"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Medical evidence confirms the injury but cannot identify the assailant; it only corroborates the type of attack described, not the identity of the attacker.",
+          "supporting_precedents": [
+            "Mani Ram v. State of Rajasthan (1993) Supp 3 SCC 18",
+            "State of Haryana v. Ram Singh (2002) 3 SCC 254",
+            "Amar Singh v. State Of M.P (1996) 11 SCC 575"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The recovery of the murder weapon (knife, Article A) at the instance of the accused (A1) under Section 27 of the Evidence Act, coupled with the CA report showing human blood matching the deceased's group ('B'), strongly implicates A1.",
+      "precedents": [
+        "State (NCT of Delhi) v. Navjot Sandhu @ Afsan Guru (2005) 11 SCC 600",
+        "Praveen Kumar v. State of Karnataka (2003) 12 SCC 199",
+        "Anter Singh v. State of Rajasthan (2004) 10 SCC 657"
+      ],
+      "elements": [
+        "Admissibility of disclosure statement leading to discovery",
+        "Actual discovery of the knife",
+        "Discovery traceable solely to accused's knowledge",
+        "Forensic link (human blood, group 'B')"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Recovery may be challenged based on lack of independent witnesses during panchnama, potential for planting the weapon, or delay in recovery.",
+          "supporting_precedents": [
+            "Mustkeem @ Sirajudeen v. State of Rajasthan (2011) 11 SCC 724",
+            "Subhash Chand v. State of Rajasthan (2002) 1 SCC 702",
+            "Asif Mamu v. State of Gujarat (2009) 11 SCC 74"
+          ]
+        },
+        {
+          "loophole": "Blood group 'B' is common, reducing the conclusive weight of the match in the absence of DNA evidence.",
+          "supporting_precedents": [
+            "Surinder Singh v. State of Punjab (2014) 4 SCC 373",
+            "Prabhu Dayal v. State of Rajasthan (2018) 8 SCC 214",
+            "Kansa Behera v. State of Orissa AIR 1987 SC 1507"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Common intention under Section 34 IPC is clearly established as all four assailants acted in concert: stopping the victims, demanding money, using violence when resisted, robbing, and fleeing together.",
+      "precedents": [
+        "Suresh Sakharam Nangare v. State of Maharashtra (2012) 9 SCC 249",
+        "Pandurang v. State of Hyderabad AIR 1955 SC 216",
+        "Balraje @ Trimbak v. State of Maharashtra (2010) 6 SCC 673"
+      ],
+      "elements": [
+        "Participation by multiple persons",
+        "Meeting of minds (pre-arranged plan or formed spontaneously)",
+        "Act done in furtherance of the shared intention (robbery, overcoming resistance)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "While common intention for robbery (Sec 394/397) might be clear, proving common intention specifically to commit murder (Sec 302) requires showing A1's specific intent to kill was shared by others, which is harder to establish directly.",
+          "supporting_precedents": [
+            "Dajya Moshya Bhil v. State of Maharashtra (1984) 3 SCC 484",
+            "State of UP v. Rohan Singh AIR 1996 SC 2432",
+            "Ramashish Yadav v. State of Bihar (1999) 8 SCC 555"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The ingredients of Section 394 (hurt during robbery) and Section 397 (use of deadly weapon during robbery causing death/hurt) are met, as A1 used a knife (deadly weapon) to cause the fatal injury during the commission of robbery.",
+      "precedents": [
+        "Phool Kumar v. Delhi Administration (1975) 1 SCC 797",
+        "Ashfaq v. State (Govt. of NCT of Delhi) (2004) 3 SCC 116",
+        "Dilawar Singh v. State of Delhi (2007) 12 SCC 641"
+      ],
+      "elements": [
+        "Commission of robbery (theft + violence/threat)",
+        "Voluntarily causing hurt (to PW-1 and deceased)",
+        "Use of a deadly weapon (knife by A1)",
+        "Causing death or grievous hurt during robbery"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense might argue the primary intent was only robbery and the fatal injury was an unintended escalation, attempting to mitigate murder to culpable homicide (though difficult given the nature of the wound).",
+          "supporting_precedents": [
+            "Sridharan Satheesan v. State of Kerala (1997) 11 SCC 39",
+            "Joginder Singh v. State of Punjab (1979) 1 SCC 345",
+            "State of Maharashtra v. Suresh (2000) 1 SCC 471"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Discrepancies and weaknesses in the sole eyewitness (PW-1) testimony regarding identification, sequence of events, and possibility of exaggeration under duress make it unreliable for conviction, especially for the murder charge.",
+      "edge_cases": [
+        "Effect of darkness/stress on identification accuracy",
+        "Reliability standards for a single eyewitness in capital cases"
+      ],
+      "precedents": [
+        "Hari Nath v. State of UP (1988) 1 SCC 14",
+        "Lallu Manjhi v. State of Jharkhand (2003) 2 SCC 401",
+        "Maya Kaur Baljeet Singh v. State of Maharashtra 2023 SCC OnLine Bom 1268"
+      ]
+    },
+    {
+      "argument": "The recovery of the knife is unreliable due to procedural flaws (e.g., potentially non-independent panch witnesses) and the inconclusive nature of the forensic evidence (common blood group 'B').",
+      "edge_cases": [
+        "Strict compliance requirements for Section 27 Evidence Act",
+        "Evidentiary weight of common blood group matches"
+      ],
+      "precedents": [
+        "Amar Singh v. State (NCT of Delhi) (2020) 19 SCC 164",
+        "Jackaran Singh v. State of Punjab (1995) Supp 2 SCC 415",
+        "Mohd. Arif @ Ashfaq v. State (NCT Of Delhi) (2011) 13 SCC 621"
+      ]
+    },
+    {
+      "argument": "Alternative Plea: The act causing death, while unlawful, might not constitute murder under Section 300 IPC. It could potentially fall under Section 304 Part I or II (culpable homicide not amounting to murder) if intent was primarily robbery and the stabbing occurred in a sudden fight or escalation without premeditated intent to kill.",
+      "edge_cases": [
+        "Distinguishing between intent to cause death/sufficient injury (S.300) vs. knowledge of likelihood of death (S.304)",
+        "Applicability of Exception 4 to Section 300 (sudden fight)"
+      ],
+      "precedents": [
+        "Virsa Singh v. State of Punjab AIR 1958 SC 465",
+        "Rampal Singh v. State of UP (2012) 8 SCC 289",
+        "Surinder Kumar v. Union Territory, Chandigarh (1989) 2 SCC 217"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. Conviction Upheld.",
+    "reasoning": [
+      "The Supreme Court found the testimony of the injured eyewitness (PW-1) to be credible, consistent, and reliable. His presence was undisputed, and his identification of A1 was firm.",
+      "The medical evidence (post-mortem) fully corroborated PW-1's account of the fatal stab wound to the chest, confirming it was sufficient in the ordinary course of nature to cause death, thus satisfying ingredients of Section 300 IPC.",
+      "The recovery of the knife (Article A) at the instance of A1 under Section 27 Evidence Act was deemed admissible and reliable. The CA report linking the human blood (group 'B') on the knife to the deceased provided crucial corroboration.",
+      "The Court affirmed the finding of common intention (Section 34) based on the collective actions of the assailants during the robbery and attack.",
+      "The requirements for Sections 394 and 397 IPC were clearly met, as A1 used a deadly weapon (knife) and caused fatal injury during the robbery.",
+      "The Court found no grounds to interfere with the concurrent findings of fact by the Trial Court and the High Court, as the conviction was based on cogent and reliable evidence.",
+      "The defense arguments regarding unreliable identification and recovery were rejected in light of the strength of the eyewitness testimony and corroborating evidence."
+    ],
+    "cited_cases": [
+      "State of UP v. Naresh (2011) 4 SCC 324",
+      "Balraje @ Trimbak v. State of Maharashtra (2010) 6 SCC 673",
+      "State (NCT of Delhi) v. Navjot Sandhu @ Afsan Guru (2005) 11 SCC 600",
+      "Jarnail Singh v. State of Punjab (2009) 9 SCC 719",
+      "Solanki Chimanbhai Ukabhai v. State of Gujarat (1983) 2 SCC 174",
+      "Phool Kumar v. Delhi Administration (1975) 1 SCC 797",
+      "Ashfaq v. State (Govt. of NCT of Delhi) (2004) 3 SCC 116"
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "case_id": "Sajjan Kumar v. CBI (2010) 9 SCC 368",
+  "facts": [
+    "The case originates from the anti-Sikh riots in Delhi following the assassination of Prime Minister Indira Gandhi on 31.10.1984.",
+    "Specifically relates to incidents of violence, arson, and murder in the Sultanpuri area of Delhi between 01.11.1984 and 04.11.1984.",
+    "FIR No. 416/1984 was registered at P.S. Sultanpuri regarding the killing of Surjit Singh, husband of complainant/witness Jagdish Kaur.",
+    "Initial investigations by Delhi Police did not name Sajjan Kumar; charge sheets were filed against other individuals who were eventually acquitted.",
+    "Several commissions and committees (Marwah, Misra, Kapur-Mittal, Jain-Aggarwal, Nanavati) investigated the riots over the years.",
+    "The Justice Nanavati Commission of Inquiry, in its report submitted in 2005, found credible evidence against Sajjan Kumar and others, recommending legal action.",
+    "Based on the Nanavati Commission report, the Government directed the Central Bureau of Investigation (CBI) to conduct further investigation.",
+    "CBI recorded statements of witnesses, including Jagdish Kaur, Nirpreet Kaur, and Jagsher Singh, who implicated Sajjan Kumar in instigating and participating in the mob violence.",
+    "CBI filed charge sheets against Sajjan Kumar and others for various offences related to the riots in the Sultanpuri area.",
+    "The Trial Court (Additional Sessions Judge, Delhi), after considering the materials submitted by the CBI, ordered framing of charges against Sajjan Kumar and co-accused under multiple IPC sections on 17.12.2009.",
+    "Sajjan Kumar challenged the Trial Court's order before the Delhi High Court.",
+    "The Delhi High Court dismissed Sajjan Kumar's petition and upheld the Trial Court's order framing charges on 19.07.2010.",
+    "Sajjan Kumar appealed the High Court's decision to the Supreme Court of India.",
+    "The core issue before the Supreme Court was whether a prima facie case and 'grave suspicion' existed based on the materials on record to justify the framing of charges under Sections 227/228 CrPC."
+  ],
+  "ipc_sections": [
+    "Section 120B (Criminal Conspiracy)",
+    "Section 147 (Rioting)",
+    "Section 148 (Rioting, armed with deadly weapon)",
+    "Section 149 (Unlawful assembly - liability of members)",
+    "Section 153A (Promoting enmity between different groups on grounds of religion, race, etc.)",
+    "Section 295 (Injuring or defiling place of worship with intent to insult the religion of any class)",
+    "Section 302 (Murder)",
+    "Section 307 (Attempt to murder)",
+    "Section 395 (Dacoity)",
+    "Section 427 (Mischief causing damage to the amount of fifty rupees)",
+    "Section 436 (Mischief by fire or explosive substance with intent to destroy house, etc.)",
+    "Section 449 (House-trespass in order to commit offence punishable with death)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Sufficient material exists on record raising grave suspicion against the accused, justifying the framing of charges. The standard at this stage is prima facie satisfaction, not proof beyond reasonable doubt.",
+      "precedents": [
+        "Union of India v. Prafulla Kumar Samal (1979) 3 SCC 4",
+        "State of Maharashtra v. Som Nath Thapa (1996) 4 SCC 659",
+        "State of M.P. v. S.B. Johari (2000) 2 SCC 57",
+        "State of Orissa v. Debendra Nath Padhi (2005) 1 SCC 568"
+      ],
+      "elements": [
+        "Existence of witness statements (Jagdish Kaur, Nirpreet Kaur, etc.) implicating the accused.",
+        "Statements alleging accused instigated mobs, participated in violence.",
+        "Material gathered through official inquiries (Nanavati Commission) and CBI investigation.",
+        "Low threshold ('grave suspicion') for framing charges under CrPC S. 228."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Significant delay in recording key witness statements specifically implicating Sajjan Kumar, casting doubt on reliability.",
+          "supporting_precedents": [
+            "State of A.P. v. M. Madhusudhan Rao (2008) 15 SCC 582",
+            "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371",
+            "Harbeer Singh vs Sheeshpal Singh (2016) 16 SCC 418 (on delay & credibility)"
+          ]
+        },
+        {
+          "loophole": "Witness statements are allegedly improvements/contradictory to earlier statements or lack thereof; potentially politically motivated.",
+          "supporting_precedents": [
+            "Kalyan Kumar Gogoi v. Ashutosh Agnihotri (2011) 2 SCC 532 (on assessing evidence quality)",
+            "Lallu Manjhi v. State of Jharkhand (2003) 2 SCC 401 (on scrutiny of interested witnesses)",
+            "State of U.P. v. M.K. Anthony (1985) 1 SCC 505 (on how courts treat discrepancies)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "A prima facie case of criminal conspiracy (S. 120B) is made out from the circumstances, including the accused's alleged presence, instigation, and the organized nature of the attacks.",
+      "precedents": [
+        "State (NCT of Delhi) v. Navjot Sandhu @ Afsan Guru (2005) 11 SCC 600",
+        "Kehar Singh v. State (Delhi Admn.) (1988) 3 SCC 609",
+        "Firozuddin Basheeruddin v. State of Kerala (2001) 7 SCC 596"
+      ],
+      "elements": [
+        "Implied agreement to commit offences.",
+        "Accused's alleged role in directing/instigating mobs.",
+        "Systematic targeting of a specific community.",
+        "Circumstantial evidence pointing towards a common design."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "No direct evidence of agreement for conspiracy; inference drawn from weak/delayed statements.",
+          "supporting_precedents": [
+            "State of Kerala v. P. Sugathan (2000) 8 SCC 203",
+            "V.C. Shukla v. State (Delhi Admn.) (1980) Supp SCC 92",
+            "Esher Singh v. State of A.P. (2004) 11 SCC 585 (need for conclusive proof of agreement)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Vicarious liability under Section 149 IPC is attracted prima facie, as the accused was allegedly part of an unlawful assembly sharing a common object to commit violence against the Sikh community.",
+      "precedents": [
+        "Muniappan v. State of Tamil Nadu (1981) 3 SCC 11",
+        "Lalji v. State of U.P. (1989) 1 SCC 437",
+        "Bhudeo Mandal v. State of Bihar (1981) 2 SCC 755"
+      ],
+      "elements": [
+        "Formation of unlawful assembly (5+ persons).",
+        "Common object (violence, arson, murder, etc.).",
+        "Accused's alleged membership (presence, instigation).",
+        "Offences committed in prosecution of the common object."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Mere presence (if proven) is insufficient; specific evidence of shared common object by the accused at the time is weak.",
+          "supporting_precedents": [
+            "Roy Fernandes v. State of Goa (2012) 3 SCC 221",
+            "Baladin v. State of U.P. AIR 1956 SC 181",
+            "Mizaji v. State of U.P. AIR 1959 SC 572 (on proving common object)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Inordinate and unexplained delay in naming the accused/recording statements renders the prosecution case weak and unreliable, failing to meet the 'grave suspicion' test.",
+      "edge_cases": [
+        "Evidentiary value of statements recorded decades after the incident.",
+        "Impact of multiple prior investigations/inquiries not implicating the accused.",
+        "Potential for memory lapse, tutoring, or political influence over time."
+      ],
+      "precedents": [
+        "State of A.P. v. M. Madhusudhan Rao (2008) 15 SCC 582",
+        "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371",
+        "State of Orissa vs. Mr. Brahmananda Nanda (2016) CriLJ 1716 (Orissa HC, on delay)"
+      ]
+    },
+    {
+      "argument": "Witness statements forming the basis of charges are contradictory, improved versions, and lack independent corroboration, making them insufficient for framing charges.",
+      "edge_cases": [
+        "Admissibility and weight of statements made before Commissions of Inquiry vs. statements under S.161 CrPC.",
+        "Credibility assessment at the charge stage.",
+        "Identification of the accused in a chaotic riot situation after many years."
+      ],
+      "precedents": [
+        "Kalyan Kumar Gogoi v. Ashutosh Agnihotri (2011) 2 SCC 532",
+        "Lallu Manjhi v. State of Jharkhand (2003) 2 SCC 401",
+        "Vadivelu Thevar v. State of Madras AIR 1957 SC 614"
+      ]
+    },
+    {
+      "argument": "The material on record, viewed objectively, does not disclose a prima facie case or raise 'grave suspicion' against the accused, warranting discharge under Section 227 CrPC.",
+      "edge_cases": [
+        "Distinction between 'suspicion', 'grave suspicion', and 'proof'.",
+        "Scope of court's power under S.227 CrPC to sift evidence.",
+        "Whether the High Court failed to properly exercise its revisional jurisdiction."
+      ],
+      "precedents": [
+        "P. Vijayan v. State of Kerala (2010) 2 SCC 398",
+        "Dilawar Balu Kurane v. State of Maharashtra (2002) 2 SCC 135",
+        "Niranjan Singh Karam Singh Punjabi v. Jitendra Bhimraj Bijja (1990) 4 SCC 76"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The Supreme Court upheld the orders of the Trial Court and High Court framing charges against Sajjan Kumar.",
+    "reasoning": [
+      "The standard for framing charges under Section 228 CrPC requires only a prima facie assessment of whether the material on record discloses 'grave suspicion' against the accused.",
+      "The court is not required to meticulously weigh evidence or conduct a mini-trial at the charge stage.",
+      "The probative value of witness statements (including those allegedly delayed or contradictory) is a matter for trial, not for determination at the charge stage.",
+      "The statements of witnesses like Jagdish Kaur, Nirpreet Kaur, etc., recorded by the CBI, along with findings of the Nanavati Commission, constitute sufficient material to raise grave suspicion.",
+      "Issues of delay, witness reliability, contradictions, and political motivation are defenses to be raised and tested during the trial through cross-examination.",
+      "The court cannot assume that the witness statements are unreliable at this preliminary stage.",
+      "The High Court correctly applied the settled legal principles regarding the framing of charges and did not err in upholding the Trial Court's order.",
+      "Arguments regarding the merits of the evidence, delay, and witness credibility cannot be accepted for quashing charges at this stage."
+    ],
+    "cited_cases": [
+      "Union of India v. Prafulla Kumar Samal (1979) 3 SCC 4",
+      "State of Maharashtra v. Som Nath Thapa (1996) 4 SCC 659",
+      "State of M.P. v. S.B. Johari (2000) 2 SCC 57",
+      "State of Orissa v. Debendra Nath Padhi (2005) 1 SCC 568",
+      "Kanti Bhadra Shah v. State of W.B. (2000) 1 SCC 722",
+      "Superintendent & Remembrancer of Legal Affairs, West Bengal v. Anil Kumar Bhunja (1979) 4 SCC 274",
+      "Niranjan Singh Karam Singh Punjabi v. Jitendra Bhimraj Bijja (1990) 4 SCC 76",
+      "State of Bihar v. Ramesh Singh (1977) 4 SCC 39",
+      "Dilawar Balu Kurane v. State of Maharashtra (2002) 2 SCC 135",
+      "P. Vijayan v. State of Kerala (2010) 2 SCC 398"
+    ]
+  }
+}

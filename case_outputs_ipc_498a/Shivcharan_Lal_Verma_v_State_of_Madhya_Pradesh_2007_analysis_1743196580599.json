@@ -1,0 +1,109 @@
+{
+  "case_id": "Shivcharan Lal Verma v. State of Madhya Pradesh (2007) 15 SCC 369 / AIR 2007 SC 761",
+  "facts": [
+    "The appellant, Shivcharan Lal Verma, was originally tried for an offence punishable under Section 302 of the Indian Penal Code (IPC).",
+    "The trial court convicted the appellant, but the specific section of conviction by the trial court is not detailed in the 2007 Supreme Court judgment.",
+    "On appeal, the High Court of Madhya Pradesh altered the conviction from the original charge (presumably Section 302 IPC or similar) to one under Section 304 Part II of the IPC.",
+    "The High Court sentenced the appellant to undergo rigorous imprisonment for a term of five years.",
+    "The appellant filed an appeal before the Supreme Court of India challenging the High Court's judgment.",
+    "During the pendency of the appeal in the Supreme Court, a compromise was reached between the appellant and the legal heirs (specifically the son and widow) of the deceased.",
+    "An application was filed in the Supreme Court seeking permission to compound the offence based on this compromise.",
+    "The appellant had already undergone a period of imprisonment (approximately four months as noted in the judgment).",
+    "The key issue before the Supreme Court in this specific (2007) judgment was the effect of the compromise on the conviction and sentence under Section 304 Part II IPC."
+  ],
+  "ipc_sections": [
+    "Section 302 (Original charge, context)",
+    "Section 304 Part II (Section under which conviction was upheld by High Court and considered by Supreme Court)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The offence under Section 304 Part II IPC is a serious offence against society and is non-compoundable under Section 320 of the Code of Criminal Procedure (CrPC). Therefore, the compromise cannot lead to acquittal.",
+      "precedents": [
+        "Surendra Nath Mohanty v. State of Orissa (1999) 5 SCC 238",
+        "Ram Lal v. State of J&K (1999) 2 SCC 213",
+        "Bankat v. State of Maharashtra (2005) 1 SCC 343"
+      ],
+      "elements": [
+        "Non-compoundable nature of the offence under Section 304 Part II IPC as per Section 320 CrPC.",
+        "Offences involving serious bodily harm or death impact society, not just individuals.",
+        "Legal prohibition against compounding offences not listed in Section 320 CrPC."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "While the offence is non-compoundable for acquittal, the fact of compromise can be a valid consideration for mitigation of sentence.",
+          "supporting_precedents": [
+            "Ram Pujan v. State of U.P. (1973) 2 SCC 456",
+            "B.S. Joshi v. State of Haryana (2003) 4 SCC 675 (Principle of considering settlement, though context was 498A/406 and quashing under 482 CrPC)",
+            "Ishwar Singh v. State of M.P. (2008) 15 SCC 667 (Post-dates, but confirms principle for 304 Part II)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court appropriately convicted the appellant under Section 304 Part II IPC based on evidence, and the sentence of 5 years RI is proportionate to the crime. The subsequent compromise does not negate the finding of guilt or the gravity.",
+      "precedents": [
+        "State of Karnataka v. Surappa Reddy (2000) 1 SCC 471 (General principles of sentencing)",
+        "Jashubha Ghanshyam Rana v. State of Gujarat (2014) 1 SCC 391 (Sentencing considerations for culpable homicide)",
+        "Alister Anthony Pareira v. State of Maharashtra (2012) 2 SCC 648 (Sentencing philosophy for offences like 304 Part II)"
+      ],
+      "elements": [
+        "Proof of culpable homicide not amounting to murder (knowledge of likelihood of causing death).",
+        "Proportionality of sentence.",
+        "Judicial discretion in sentencing based on facts and gravity."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Sentencing is not merely punitive but also reformative and considers post-conviction developments like compromise which indicates reduced societal harm/antagonism.",
+          "supporting_precedents": [
+            "Mohd. Giasuddin v. State of A.P. (1977) 3 SCC 287 (Reformative aspect of sentencing)",
+            "Hari Singh v. Sukhbir Singh (1988) 4 SCC 551 (Compensation and compromise as factors)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "A compromise has been effected between the appellant and the victim's legal heirs (son and widow). This amicable settlement should be given significant weight by the court.",
+      "edge_cases": [
+        "Using compromise not for acquittal (as barred by S.320 CrPC for this offence) but specifically as a ground for reduction of sentence.",
+        "Emphasis on restoration of peace between parties involved."
+      ],
+      "precedents": [
+        "Ram Pujan v. State of U.P. (1973) 2 SCC 456 (Compromise considered for sentence reduction in non-compoundable case)",
+        "Y. Suresh Babu v. State of A.P. (1987) Supp SCC 367 (Compromise in non-compoundable offence led to sentence reduction)",
+        "B.S. Joshi v. State of Haryana (2003) 4 SCC 675 (Acknowledges importance of settlement between parties even in non-compoundable offences, albeit in context of quashing via 482 CrPC)"
+      ]
+    },
+    {
+      "argument": "Considering the compromise, the period already undergone (approx. 4 months), and the objective of justice leaning towards reconciliation where possible, the sentence should be reduced to the period already served.",
+      "edge_cases": [
+        "Balancing the non-compoundable nature of the offence with judicial discretion in sentencing.",
+        "Invoking the court's power to mould relief in the interest of justice based on subsequent events (compromise)."
+      ],
+      "precedents": [
+        "Murari v. Union of India (1997) 1 SCC 15 (Implied consideration of factors like time served, though case context differs - relates more to remission/parole)",
+        "Narahari v. State of U.P. (2004) 13 SCC 206 (Sentence reduced based on specific facts, indicating flexibility)",
+        "Ishwar Singh v. State of M.P. (2008) 15 SCC 667 (Confirms compromise is relevant for sentence reduction under 304 Part II, supports the principle argued here)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal partly allowed. Conviction under Section 304 Part II IPC maintained. Sentence reduced to the period already undergone (approximately four months).",
+    "reasoning": [
+      "The offence under Section 304 Part II IPC is non-compoundable as per Section 320 CrPC.",
+      "Therefore, the court cannot permit compounding of the offence or grant acquittal based on the compromise.",
+      "However, the fact that a compromise has been reached between the appellant and the legal heirs of the deceased is a relevant circumstance.",
+      "This compromise can be taken into account for the purpose of reduction of the sentence.",
+      "Considering the compromise and the period of sentence already undergone by the appellant, the substantive sentence of 5 years RI imposed by the High Court is reduced to the period already undergone."
+    ],
+    "cited_cases": [
+      "Surendra Nath Mohanty v. State of Orissa (1999) 5 SCC 238",
+      "Ram Lal v. State of J&K (1999) 2 SCC 213",
+      "Bankat v. State of Maharashtra (2005) 1 SCC 343",
+      "Y. Suresh Babu v. State of A.P. (1987) Supp SCC 367 (Referenced by appellant)",
+      "Ram Pujan v. State of U.P. (1973) 2 SCC 456 (Principle applied, though not explicitly cited in the available short judgment text)",
+      "B.S. Joshi v. State of Haryana (2003) 4 SCC 675 (Principle applied, though not explicitly cited)"
+    ]
+  }
+}

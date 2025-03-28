@@ -1,0 +1,130 @@
+{
+  "case_id": "State of Haryana v. Bhagirath (1999) 5 SCC 96",
+  "facts": [
+    "Raj Bala (deceased) married Bhagirath (Respondent 1/Accused 1) on May 19, 1988.",
+    "Manphool (Respondent 2/Accused 2) is the father-in-law, and Anguri (Respondent 3/Accused 3) is the mother-in-law of the deceased.",
+    "Allegations surfaced soon after marriage regarding demands for dowry (scooter, television) by the accused.",
+    "The deceased allegedly faced harassment and cruelty due to non-fulfillment of these demands.",
+    "A 'panchayat' was reportedly convened sometime before the incident to address the dowry demands, but the date is not specified.",
+    "The deceased, Raj Bala, died due to burn injuries sustained at her matrimonial home on June 10, 1990 (within 7 years of marriage).",
+    "The father of the deceased (PW-3 Dharam Singh) lodged the First Information Report (FIR), alleging dowry harassment leading to death.",
+    "The defense claimed the death was accidental, occurring while the deceased was preparing tea on a stove.",
+    "The Trial Court acquitted all three accused, disbelieving the prosecution witnesses regarding dowry demands and cruelty, and finding the defense version of an accidental fire plausible.",
+    "The State of Haryana appealed the acquittal to the High Court.",
+    "The High Court reversed the Trial Court's judgment, convicted all three accused under Section 304B IPC, and sentenced them to 7 years of rigorous imprisonment. The High Court believed the prosecution witnesses, found the defense version unreliable, and invoked the presumption under Section 113B of the Indian Evidence Act.",
+    "The accused (Bhagirath, Manphool, Anguri) appealed the High Court's conviction to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty - Contextually relevant, though conviction was under 304B)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - Implied basis for convicting all three accused)",
+    "Section 113B, Indian Evidence Act (Presumption as to dowry death - Critically discussed)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly reversed the Trial Court's perverse acquittal, as evidence established dowry-related cruelty leading to death.",
+      "precedents": [
+        "State of U.P. v. Krishna Gopal (1988) 4 SCC 302 (On principles of reversing acquittal)",
+        "Dhananjay Chatterjee alias Dhana v. State of W.B. (1994) 2 SCC 220 (On appellate court's power to review evidence)",
+        "State of Punjab v. Karnail Singh (2003) 11 SCC 271 (While post-dating Bhagirath, reflects general principle that HC can reverse if trial court view is unreasonable)"
+      ],
+      "elements": [
+        "Perversity/unreasonableness of Trial Court judgment",
+        "Sufficiency of evidence for conviction",
+        "Correct application of Section 304B IPC elements by High Court"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Failure to establish a proximate link between the alleged cruelty/harassment and the death of the deceased, which is essential for 'soon before death' under Section 304B.",
+          "supporting_precedents": [
+            "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Emphasized need for proximate link for 'soon before death')",
+            "Pawan Kumar v. State of Haryana (1998) 3 SCC 309 (General allegations insufficient; specific instances linked to death needed)",
+            "Kamesh Panjiyar @ Kamlesh Panjiyar v. State of Bihar (2005) 2 SCC 388 (Reiterated need for proximity)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The death occurred under unnatural circumstances (burns) within 7 years of marriage, and evidence showed consistent dowry demands and harassment, justifying the presumption under Section 113B of the Evidence Act.",
+      "precedents": [
+        "Shanti v. State of Haryana (1991) 1 SCC 371 (On scope of S.304B and S.113B)",
+        "Hem Chand v. State of Haryana (1994) 6 SCC 727 (Presumption arises once foundational facts proven)",
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Dowry death provisions to be construed strictly but purposefully)"
+      ],
+      "elements": [
+        "Death within 7 years of marriage",
+        "Unnatural death (burns)",
+        "Evidence of dowry demands (PW-3, PW-4 testimony)",
+        "Evidence of harassment/cruelty linked to demands"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The crucial element of cruelty occurring 'soon before death' was not proven beyond reasonable doubt, making the Section 113B presumption inapplicable.",
+          "supporting_precedents": [
+            "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Clarified 'soon before death' requires proximity, not necessarily immediate)",
+            "Sunil Bajaj v. State of M.P. (2001) 9 SCC 417 ('Soon before' implies interval should not be much between cruelty and death)",
+            "Balwant Singh v. State of Punjab (2004) 7 SCC 724 (Mere fact of unnatural death within 7 years is not enough for presumption without proof of proximate cruelty)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court erred in reversing a plausible view taken by the Trial Court based on appreciation of evidence; appellate courts should be slow to reverse acquittals.",
+      "edge_cases": [
+        "Standard for appellate interference with acquittal under CrPC."
+      ],
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Principles governing appeal against acquittal)",
+        "Ajit Singh Thakur Singh v. State of Gujarat (1981) 1 SCC 495 (If two views possible, acquittal view should prevail)",
+        "Balak Ram v. State of U.P. (1975) 3 SCC 219 (Need compelling reasons to reverse acquittal)"
+      ]
+    },
+    {
+      "argument": "The prosecution failed to prove that the deceased was subjected to cruelty or harassment 'soon before her death' in connection with dowry demands.",
+      "edge_cases": [
+        "Interpretation of 'soon before death'; temporal gap between alleged demands/panchayat and the actual death."
+      ],
+      "precedents": [
+        "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Cruelty must be proximate cause, not remote)",
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Requires a 'live link'; interval matters)",
+        "Tarsem Singh v. State of Punjab (2008) 16 SCC 155 (Reiterated need for proximate connection)"
+      ]
+    },
+    {
+      "argument": "The evidence regarding dowry demands and cruelty consisted of general allegations by interested witnesses (parents of the deceased) and lacked specific, proximate instances.",
+      "edge_cases": [
+        "Reliability of testimony from close relatives without independent corroboration.",
+        "Vagueness of allegations."
+      ],
+      "precedents": [
+        "Surinder Kumar v. State of Haryana (2011) 10 SCC 173 (Caution required with interested witnesses in dowry cases)",
+        "Appasaheb v. State of Maharashtra (2007) 9 SCC 721 (Distinction between dowry demand and other customary demands)",
+        "State of A.P. v. Raj Gopal Asawa (2004) 4 SCC 470 (Need clear evidence of dowry demand as defined in law)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The Supreme Court set aside the judgment of the High Court convicting the accused under Section 304B IPC and restored the Trial Court's judgment of acquittal.",
+    "reasoning": [
+      "The Supreme Court analyzed the meaning of 'soon before her death' under Section 304B IPC and Section 113B of the Evidence Act.",
+      "It held that 'soon before' does not mean 'immediately before' but requires a proximate and live link between the effect of cruelty based on dowry demand and the death.",
+      "General allegations of torture and harassment over the entire duration of marriage are insufficient; specific instances proving proximate cruelty are necessary.",
+      "In this case, the evidence presented by the prosecution (testimony of PW-3 and PW-4) related to demands and a panchayat held much earlier, failing to establish any specific instance of cruelty or harassment proximate to the date of death (June 10, 1990).",
+      "The Court found no evidence demonstrating that the dowry demand was persistent and continued until the death, or was intensified shortly before it.",
+      "Since the prosecution failed to establish the foundational fact of cruelty 'soon before death', the presumption under Section 113B of the Evidence Act could not be invoked.",
+      "The High Court had erred in reversing the acquittal without adequately addressing the lack of proximate link identified by the Trial Court and without providing compelling reasons to overturn the Trial Court's assessment of evidence.",
+      "The Trial Court's view that the prosecution failed to prove its case beyond reasonable doubt, especially regarding the crucial element of 'soon before death', was considered a plausible view."
+    ],
+    "cited_cases": [
+      "Shanti v. State of Haryana (1991) 1 SCC 371",
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "Sham Lal v. State of Haryana (1997) 9 SCC 759",
+      "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+      "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Discussed principles, though decided later)",
+      "State of U.P. v. Ramesh Prasad Misra (1996) 10 SCC 360 (On appreciation of evidence)",
+      "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445 (On appellate review of acquittal - general principles)"
+    ]
+  }
+}

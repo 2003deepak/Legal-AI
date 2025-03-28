@@ -1,0 +1,130 @@
+{
+  "case_id": "Madhu Pamnani v. Hanish Pamnani & Anr. (Delhi High Court, Crl.M.C. 4200/2013, decided 14 January 2014)",
+  "facts": [
+    "Marriage between Madhu Pamnani (Complainant/Wife) and Hanish Pamnani (Petitioner No. 1/Husband) solemnized on 05.12.2010.",
+    "Parties resided in Mumbai after marriage.",
+    "Complainant alleges dowry demands commenced soon after marriage.",
+    "Allegations include taunts for insufficient dowry and demand for Rs. 25 lacs for husband's business.",
+    "Complainant alleges physical assault by husband on 15.08.2011.",
+    "Complainant alleges husband admitted to an extra-marital affair.",
+    "Complainant alleges Smt. Jyoti Pamnani (Petitioner No. 2/Mother-in-law) supported her son and participated in harassment.",
+    "Complainant left the matrimonial home in Mumbai on 16.08.2011 and returned to her parental home in Delhi.",
+    "Husband filed a divorce petition on 09.09.2011.",
+    "Complainant lodged FIR No. 279/2013 under Sections 498A/406/34 IPC at PS Rajouri Garden, New Delhi on 16.07.2013.",
+    "Complainant alleges petitioners retained her stridhan articles, refusal to return constitutes offence under Section 406 IPC.",
+    "Petitioners (Husband and Mother-in-law) filed Crl.M.C. 4200/2013 under Section 482 CrPC before Delhi High Court seeking quashing of the FIR."
+  ],
+  "ipc_sections": [
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 406 (Punishment for criminal breach of trust)",
+    "Section 34 (Acts done by several persons in furtherance of common intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The FIR and accompanying documents prima facie disclose cognizable offences under Sections 498A and 406 IPC against both petitioners.",
+      "precedents": [
+        "Rajesh Bajaj v. State NCT of Delhi (1999) 3 SCC 259 (FIR need not be an encyclopedia, focus on whether ingredients are disclosed).",
+        "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335 (Quashing power to be used sparingly, only if allegations do not constitute any offence).",
+        "Sunita Kumari Kashyap v. State of Bihar (2011) 11 SCC 301 (Jurisdiction exists where consequences of cruelty ensue, e.g., wife taking shelter at parental home)."
+      ],
+      "elements": [
+        "Section 498A: (i) Woman subjected to cruelty/harassment; (ii) By husband or his relative; (iii) Cruelty defined as willful conduct likely to drive suicide or cause grave injury/danger, OR harassment to coerce unlawful property demand.",
+        "Section 406: (i) Entrustment of property (stridhan); (ii) Misappropriation or conversion by accused; (iii) Dishonest intention.",
+        "Section 34: Common intention shared by both accused to commit the criminal acts."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Significant delay (almost 2 years) in lodging FIR after separation, suggesting malicious intent and use as a counterblast to divorce proceedings.",
+          "supporting_precedents": [
+            "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 (Caution against misuse of Section 498A, tendency to implicate entire family).",
+            "Kishan Singh v. Gurpal Singh (2010) 8 SCC 775 (Unexplained delay can be a factor raising doubt).",
+            "Insufficient data in judgment regarding specific precedent cited for delay argument, but principle is well-established."
+          ]
+        },
+        {
+          "loophole": "Allegations against mother-in-law (Petitioner No. 2) are general and omnibus, lacking specific instances, dates, and nature of cruelty attributed solely to her.",
+          "supporting_precedents": [
+            "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741 (Quashing justified for relatives implicated with vague/general allegations).",
+            "Neelu Chopra v. Bharti (2009) 10 SCC 184 (Specific allegations needed against each accused).",
+            "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Need for specific role attribution for relatives)."
+          ]
+        },
+        {
+          "loophole": "Lack of territorial jurisdiction for Delhi Police as primary matrimonial residence and most alleged acts of cruelty/demand occurred in Mumbai.",
+          "supporting_precedents": [
+            "Y. Abraham Ajith v. Inspector of Police (2004) 8 SCC 100 (Jurisdiction lies where offence committed).",
+            "Bhura Ram v. State of Rajasthan (2008) 11 SCC 103 (Territorial jurisdiction determined by place of offence).",
+            "Amarendu Jyoti v. State of Chhattisgarh (2014) 12 SCC 362 (Place of entrustment/refusal relevant for Sec 406)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "FIR is an abuse of the legal process, filed belatedly as a retaliatory measure against the husband's divorce petition, and lacks specific, actionable allegations against the petitioners, especially the mother-in-law.",
+      "edge_cases": [
+        "Whether delay of nearly two years in lodging FIR post-separation vitiates the complaint.",
+        "Whether general allegations against the mother-in-law meet the threshold required under S.498A read with precedents like Geeta Mehrotra.",
+        "Whether Delhi courts have territorial jurisdiction when the matrimonial home and most alleged incidents were in Mumbai."
+      ],
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335 (Specifically category 7: where proceeding is manifestly attended with mala fide and/or maliciously instituted with ulterior motive).",
+        "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741 (Need for specific allegations against relatives).",
+        "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 (Concern over misuse of S.498A)."
+      ]
+    },
+    {
+      "argument": "No prima facie case under S.406 IPC is made out as the list of stridhan is allegedly exaggerated, and there was willingness expressed (though disputed) to return legitimate items.",
+      "edge_cases": [
+        "Whether a mere allegation of non-return of stridhan, without specific proof of entrustment and dishonest misappropriation at the FIR stage, warrants continuation of proceedings under S.406.",
+        "Dispute over the actual list of stridhan items."
+      ],
+      "precedents": [
+        "Velji Raghavji Patel v. State of Maharashtra (AIR 1965 SC 1433) (Essential elements of criminal breach of trust).",
+        "Onkar Nath Mishra v. State (NCT of Delhi) (2008) 2 SCC 561 (Distinction between civil dispute over property and criminal breach of trust).",
+        "Insufficient data in judgment regarding specific precedent cited by defense on this point, but general principles apply."
+      ]
+    },
+    {
+      "argument": "The court should exercise its inherent powers under Section 482 CrPC to quash the FIR to prevent abuse of process and secure the ends of justice, given the nature of allegations, delay, and jurisdictional issues.",
+      "edge_cases": [
+        "Balancing the complainant's right to seek justice against the accused's right to protection from vexatious litigation.",
+        "Scope of inquiry under S.482 CrPC - whether court can look beyond FIR/chargesheet."
+      ],
+      "precedents": [
+        "R.P. Kapur v. State of Punjab (AIR 1960 SC 866) (Categories for quashing).",
+        "State of Karnataka v. L. Muniswamy (1977) 2 SCC 699 (Inherent power to prevent abuse of process).",
+        "Zandu Pharmaceutical Works Ltd. v. Mohd. Sharaful Haque (2005) 1 SCC 122 (Power under 482 to be exercised sparingly)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Petition Dismissed. The Delhi High Court declined to quash FIR No. 279/2013 registered under Sections 498A/406/34 IPC.",
+    "reasoning": [
+      "The Court found that the FIR contained specific allegations against both the husband (Petitioner No. 1) and the mother-in-law (Petitioner No. 2), detailing acts of physical cruelty, dowry demands, and harassment.",
+      "Distinguished from cases like Geeta Mehrotra, stating the allegations against the mother-in-law were not entirely vague or omnibus.",
+      "Regarding delay, the Court held that delay in lodging FIR in matrimonial cases is not always fatal and needs to be considered during trial.",
+      "On territorial jurisdiction, relying on *Sunita Kumari Kashyap*, the Court held that Delhi courts have jurisdiction as the consequences of cruelty (wife taking shelter at parental home) ensued in Delhi, and refusal to return stridhan could constitute a continuing offence or part of the cause of action arising in Delhi.",
+      "A prima facie case for entrustment and non-return of stridhan (Section 406 IPC) was found based on the complainant's allegations and list.",
+      "The Court reiterated that the power under Section 482 CrPC should be exercised sparingly and not when the FIR discloses prima facie cognizable offences. Detailed evaluation of evidence is the domain of the trial court.",
+      "The allegations required investigation and trial to determine veracity."
+    ],
+    "cited_cases": [
+      "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335)",
+      "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741",
+      "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667",
+      "Neelu Chopra v. Bharti (2009) 10 SCC 184",
+      "Kans Raj v. State of Punjab (2000) 5 SCC 207",
+      "Sunita Kumari Kashyap v. State of Bihar (2011) 11 SCC 301",
+      "Savitri Devi v. Ramesh Chand (104 (2003) DLT 824 / 2003 Crl. L.J. 2759 (Del HC))",
+      "State of Karnataka v. L. Muniswamy (1977) 2 SCC 699",
+      "Zandu Pharmaceutical Works Ltd. v. Mohd. Sharaful Haque (2005) 1 SCC 122",
+      "Rajesh Bajaj v. State NCT of Delhi (1999) 3 SCC 259",
+      "R.P. Kapur v. State of Punjab (AIR 1960 SC 866)",
+      "Y. Abraham Ajith v. Inspector of Police (2004) 8 SCC 100 (Cited by Petitioner, distinguished by court implicitly)",
+      "Velji Raghavji Patel v. State of Maharashtra (AIR 1965 SC 1433) (Principle relevant, may not be explicitly cited)",
+      "Onkar Nath Mishra v. State (NCT of Delhi) (2008) 2 SCC 561 (Principle relevant, may not be explicitly cited)"
+    ]
+  }
+}

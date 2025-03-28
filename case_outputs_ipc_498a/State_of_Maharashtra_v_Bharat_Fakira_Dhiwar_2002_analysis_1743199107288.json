@@ -1,0 +1,184 @@
+{
+  "case_id": "State of Maharashtra v. Bharat Fakira Dhiwar (2002) 1 SCC 622",
+  "facts": [
+    "The accused, Bharat Fakira Dhiwar, was married to the deceased, Kamalabai, for about 10 months prior to the incident.",
+    "Incident occurred on 11th May 1991, around 6:00 PM in the hut of the accused located in Village Sonewadi, Taluka Kopargaon, District Ahmednagar.",
+    "Prosecution alleged that the accused came home drunk and demanded Rs. 10/- from his wife, Kamalabai, to purchase more liquor.",
+    "When Kamalabai refused, stating there was no money, the accused allegedly became enraged, poured kerosene from a nearby tin onto her, and set her ablaze with a matchstick.",
+    "Kamalabai ran out of the hut screaming, engulfed in flames.",
+    "Neighbours, including PW2 Tarabai, PW3 Hausabai, and PW4 Sundarabai, rushed to the spot upon hearing her screams, extinguished the fire, and covered her with a quilt.",
+    "Kamalabai was taken to the Rural Hospital, Kopargaon, by PW5 Sampat (brother-in-law of the accused).",
+    "A dying declaration (DD1 - Exhibit 28) was recorded by the Special Judicial Magistrate (SJM), PW7 Mr. Bora, at around 10:30 PM on 11.05.1991, after PW1 Dr. Ashok Kumar certified her fit to make a statement. In this declaration, Kamalabai implicated the accused.",
+    "Kamalabai allegedly made a second, oral dying declaration (DD2) to her mother, PW6 Manjulabai, on the morning of 12.05.1991, again stating that the accused had set her on fire.",
+    "Kamalabai succumbed to her burn injuries (certified as 98% burns by the doctor conducting post-mortem) on 13.05.1991 at 6:15 AM.",
+    "The spot panchnama (Exhibit 17) recorded the seizure of a kerosene tin and a matchbox from the accused's hut.",
+    "The Trial Court (Sessions Judge, Ahmednagar) convicted the accused under Section 302 IPC and sentenced him to life imprisonment.",
+    "The High Court of Bombay (Aurangabad Bench) acquitted the accused, citing discrepancies in the dying declarations, lack of corroboration, and suggesting the possibility of accidental fire or suicide.",
+    "The State of Maharashtra filed an appeal against the acquittal in the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder definition - relevant clauses likely 'Thirdly' and 'Fourthly')"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The primary dying declaration (DD1 - Exhibit 28) recorded by the SJM (PW7) is reliable, voluntary, and truthful, forming a strong basis for conviction.",
+      "precedents": [
+        "Kushal Rao v. State of Bombay (AIR 1958 SC 22 / 1958 SCR 552)",
+        "Paniben (Smt) v. State of Gujarat ((1992) 2 SCC 474)",
+        "Laxman v. State of Maharashtra ((2002) 6 SCC 710)"
+      ],
+      "elements": [
+        "Statement made by deceased relating to the cause of her death",
+        "Deceased was conscious and mentally fit (certified by PW1 Dr. Ashok Kumar)",
+        "Statement recorded by a competent authority (SJM, PW7)",
+        "Statement is clear and directly implicates the accused"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Potential inconsistencies or omissions in DD1 (e.g., failure to mention neighbours extinguishing fire) cast doubt on its absolute accuracy or completeness.",
+          "supporting_precedents": [
+            "K. Ramachandra Reddy v. Public Prosecutor ((1976) 3 SCC 618)",
+            "State of UP v. Madan Mohan ((1989) 3 SCC 390)",
+            "Paparmbakam v. State of A.P. ((1996) 11 SCC 601)"
+          ]
+        },
+        {
+          "loophole": "The severity of burns (98%) might raise questions about the deceased's true state of mind and capacity for accurate narration, despite the doctor's certificate.",
+          "supporting_precedents": [
+            "State of Orissa v. Parasuram Naik ((1997) 11 SCC 15)",
+            "Laxmi v. Om Prakash ((2001) 6 SCC 118)",
+            "Darshana Devi v. State of Punjab (1995 Supp (4) SCC 126)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The dying declarations (DD1 and DD2) are corroborated by other evidence, including medical evidence and witness testimonies.",
+      "precedents": [
+        "Surajdeo Ojha v. State of Bihar (AIR 1979 SC 1505 / (1979) Supp SCC 77)",
+        "Sudhakar v. State of Maharashtra ((2000) 6 SCC 671)",
+        "State of Assam v. Mafizuddin Ahmed ((1983) 2 SCC 14)"
+      ],
+      "elements": [
+        "Consistency between DD1 (written) and DD2 (oral to mother PW6)",
+        "Testimony of neighbours (PW2, PW3, PW4) hearing screams and finding deceased burning immediately outside the hut",
+        "Medical evidence (98% burns) consistent with kerosene immolation",
+        "Seizure of kerosene tin and matchbox from the hut (Spot Panchnama)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Neighbours (PW2-PW4) did not witness the act of pouring kerosene or lighting the match; they only witnessed the aftermath.",
+          "supporting_precedents": [
+            "Balak Ram v. State of U.P. ((1975) 3 SCC 219)",
+            "State of Karnataka v. Shariff ((2003) 2 SCC 473)",
+            "Insufficient data"
+          ]
+        },
+        {
+          "loophole": "The oral dying declaration (DD2) was made to the mother (PW6), an interested witness, potentially reducing its independent corroborative value.",
+          "supporting_precedents": [
+            "Rasheed Beg v. State of M.P. ((1974) 4 SCC 264)",
+            "M. Narsinga Rao v. State of A.P. ((2001) 1 SCC 691)",
+            "State of Punjab v. Parveen Kumar ((2005) 9 SCC 769)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court erred in overturning the Trial Court's conviction by giving undue weight to minor discrepancies and speculative possibilities (accident/suicide) not supported by evidence.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka ((2007) 4 SCC 415)",
+        "State of U.P. v. Ramesh Prasad Misra ((1996) 1 SCC 360)",
+        "State of U.P. v. Ram Swarup ((1974) 4 SCC 764)"
+      ],
+      "elements": [
+        "Trial Court had the advantage of observing witness demeanor",
+        "High Court's reasons for acquittal were based on conjecture rather than evidence",
+        "No evidence presented suggesting accident (e.g., stove burst) or suicide",
+        "High Court failed to appreciate the cumulative effect of the evidence"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Appellate courts have a duty to acquit if the prosecution case is not proven beyond reasonable doubt, even if the trial court convicted. The High Court identified specific weaknesses.",
+          "supporting_precedents": [
+            "Arun Kumar v. State of U.P. ((1989) 3 SCC 1)",
+            "State of Rajasthan v. Raja Ram ((2003) 8 SCC 180)",
+            "Bhagwan Singh v. State of M.P. ((2002) 4 SCC 85)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The dying declarations (DD1 and DD2) are unreliable due to inconsistencies, the severe condition of the deceased, and the possibility of tutoring or misinterpretation.",
+      "edge_cases": [
+        "Admissibility and weight of DD from a person with 98% burns.",
+        "Impact of minor inconsistencies on the overall credibility of DDs."
+      ],
+      "precedents": [
+        "K. Ramachandra Reddy v. Public Prosecutor ((1976) 3 SCC 618)",
+        "State of Orissa v. Parasuram Naik ((1997) 11 SCC 15)",
+        "Laxmi v. Om Prakash ((2001) 6 SCC 118)"
+      ]
+    },
+    {
+      "argument": "There is insufficient independent corroboration for the dying declarations; neighbours did not witness the core incident, and the oral DD was to an interested party.",
+      "edge_cases": [
+        "Sufficiency of circumstantial evidence (presence at scene, finding victim burnt) as corroboration.",
+        "Evidentiary value of testimony from close relatives (PW6 - mother)."
+      ],
+      "precedents": [
+        "Surinder Kumar v. State of Haryana ((1996) 10 SCC 409)",
+        "M. Narsinga Rao v. State of A.P. ((2001) 1 SCC 691)",
+        "State of H.P. v. Mast Ram ((2004) 8 SCC 660)"
+      ]
+    },
+    {
+      "argument": "The prosecution failed to rule out the possibility of accidental fire or suicide, thus failing to prove guilt beyond a reasonable doubt.",
+      "edge_cases": [
+        "Burden of proof in criminal cases (on prosecution).",
+        "Whether defence must provide evidence for alternative hypotheses or merely raise plausible doubts."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra ((1984) 4 SCC 116)",
+        "Hanumant v. State of Madhya Pradesh (AIR 1952 SC 343 / 1952 SCR 1091)",
+        "State of U.P. v. Ashok Kumar Srivastava ((1992) 2 SCC 86)"
+      ]
+    },
+    {
+      "argument": "The High Court's decision to acquit was justified as it correctly identified serious doubts in the prosecution's case, and the appellate court should favour the view supporting acquittal if two views are possible.",
+      "edge_cases": [
+        "Principles of appellate review in appeals against acquittal (Section 378 CrPC)."
+      ],
+      "precedents": [
+        "Arun Kumar v. State of U.P. ((1989) 3 SCC 1)",
+        "State of Rajasthan v. Raja Ram ((2003) 8 SCC 180)",
+        "Basappa v. State of Karnataka ((2014) 5 SCC 154)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. High Court judgment set aside. Trial Court conviction under Section 302 IPC and sentence of life imprisonment restored.",
+    "reasoning": [
+      "The Supreme Court found the primary dying declaration (DD1) recorded by the SJM (PW7) after medical certification (PW1) to be reliable, consistent, and truthful. Minor omissions were deemed insignificant.",
+      "The oral dying declaration (DD2) to the mother (PW6) was considered valid corroboration to DD1.",
+      "The testimony of neighbours (PW2, PW3, PW4) who immediately reached the scene upon hearing screams strongly corroborated the dying declarations and the prosecution's case regarding the location and timing of the incident.",
+      "The medical evidence (98% burns) was consistent with the manner of death described in the dying declarations.",
+      "The High Court's reasoning for discarding the dying declarations based on minor discrepancies was held to be erroneous and perverse.",
+      "The High Court's suggestion of accident or suicide was found to be purely speculative and without any supporting evidence, whereas the prosecution case rested on direct evidence (dying declarations).",
+      "The Supreme Court concluded that the High Court was not justified in interfering with the well-reasoned judgment of the Trial Court, as the Trial Court's findings were based on credible evidence."
+    ],
+    "cited_cases": [
+      "Kushal Rao v. State of Bombay (AIR 1958 SC 22 / 1958 SCR 552)",
+      "Paniben (Smt) v. State of Gujarat ((1992) 2 SCC 474)",
+      "Laxman v. State of Maharashtra ((2002) 6 SCC 710)",
+      "State of U.P. v. Ram Sagar Yadav ((1985) 1 SCC 552)",
+      "Smt. Kamala v. State of Punjab ((1993) 1 SCC 1)",
+      "Chandrappa v. State of Karnataka ((2007) 4 SCC 415) (Implicitly applied principles)",
+      "Sheo Swarup v. King Emperor (AIR 1934 PC 227) (Implicitly applied principles)",
+      "Surajdeo Ojha v. State of Bihar (AIR 1979 SC 1505 / (1979) Supp SCC 77)"
+    ]
+  }
+}

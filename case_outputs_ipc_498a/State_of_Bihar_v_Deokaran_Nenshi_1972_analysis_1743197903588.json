@@ -1,0 +1,96 @@
+{
+  "case_id": "State of Bihar v. Deokaran Nenshi (1972)",
+  "facts": [
+    "The respondents, Deokaran Nenshi and Ramnibas Nessaria, were owners of the Pakuria Stone Quarry in the Sub-Division of Jamtara.",
+    "On December 25, 1960, Shri L. Paswan, Inspector of Mines, inspected the quarry.",
+    "During the inspection, it was found that the respondents had failed to furnish the half-yearly returns for the periods ending June 30, 1960, and December 31, 1960.",
+    "This non-submission was alleged to be a contravention of Regulation 19(1)(b) of the Indian Metalliferous Mines Regulations, 1926 (read with the Mines Act, 1952).",
+    "Regulation 19(1)(b) required owners, agents, or managers of mines to submit half-yearly returns in the prescribed Form II-A on or before the 21st day of July and the 21st day of January each year.",
+    "A complaint was filed by the State of Bihar against the respondents on April 12, 1961, before the Sub-Divisional Magistrate, Jamtara.",
+    "The complaint alleged contravention of Regulation 19(1)(b) punishable under Section 66 of the Mines Act, 1952.",
+    "The respondents were summoned to face trial.",
+    "The Trial Magistrate acquitted the respondents, holding that the prosecution was barred by limitation under Section 79 of the Mines Act, 1952.",
+    "The State of Bihar appealed to the High Court, which upheld the acquittal.",
+    "The State of Bihar then appealed to the Supreme Court of India.",
+    "The key legal issue was whether the failure to furnish returns by the specified dates constituted a 'continuing offence', thereby saving the prosecution from the limitation period prescribed in Section 79 of the Mines Act."
+  ],
+  "ipc_sections": [
+    "No IPC sections were directly charged or formed the basis of the prosecution in this case. The charges were under the Mines Act, 1952 and the Indian Metalliferous Mines Regulations, 1926."
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The failure to furnish the half-yearly returns as required by Regulation 19(1)(b) is a continuing offence. The obligation to submit the return persists every day until it is complied with.",
+      "precedents": [
+        "State of Bombay v. Bhiwandiwala, AIR 1957 SC 162 (Distinguished by the Court, but likely argued by prosecution for the principle of continuing duty)",
+        "Public Prosecutor v. J.P. Rego, AIR 1961 Mad 250 (Illustrative of continuing offences under specific statutes, though outcome might differ based on wording)",
+        "Insufficient data on specific precedents relied upon by prosecution in lower courts, other than those distinguished by the Supreme Court."
+      ],
+      "elements": [
+        "Existence of a statutory duty under Regulation 19(1)(b).",
+        "Failure to comply with the duty by the due dates (July 21, 1960, and January 21, 1961).",
+        "The nature of the duty implies continuous non-compliance constitutes a recurring offence.",
+        "Applicability of penalty under Section 66 of the Mines Act.",
+        "The offence continues day-to-day, making the limitation period under Section 79 of the Mines Act inapplicable or continuously restarting."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The regulation specifies distinct deadlines (July 21, Jan 21). Failure occurs once the deadline passes, making it a completed offence, not a continuing one.",
+          "supporting_precedents": [
+            "Emperor v. Karsandas Govindji Ved, AIR 1942 Bom 326 (Cited by SC, distinguishing single acts from continuing wrongs)",
+            "London County Council v. Worley, [1894] 2 Q.B. 826 (Cited by SC, illustrating non-continuing nature of failure to do an act by a specific time)"
+          ]
+        },
+        {
+          "loophole": "Section 79 explicitly provides a limitation period, suggesting legislative intent to cover such defaults unless clearly defined as continuing.",
+          "supporting_precedents": [
+            "Insufficient data for specific precedents on this point, but general principles of statutory interpretation apply."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The failure to submit the half-yearly returns by the specific dates (July 21, 1960, and January 21, 1961) constitutes distinct, completed offences on those respective dates. It is not a continuing offence.",
+      "edge_cases": [
+        "Interpretation of 'continuing offence' versus an offence committed 'once and for all'.",
+        "Application of the limitation period under Section 79 of the Mines Act, 1952."
+      ],
+      "precedents": [
+        "Emperor v. Karsandas Govindji Ved, AIR 1942 Bom 326 (Defines non-continuing offence)",
+        "London County Council v. Worley, [1894] 2 Q.B. 826 (Failure to do an act required by a certain time is not a continuing offence)",
+        "Public Prosecutor v. J.P. Rego, AIR 1961 Mad 250 (While finding a continuing offence there, the reasoning helps distinguish based on statutory language, potentially supporting the defense here)"
+      ]
+    },
+    {
+      "argument": "The complaint was filed on April 12, 1961, which is more than six months after the alleged commission of the offence related to the return due on July 21, 1960. Even considering the knowledge date (December 25, 1960), the argument hinges on the non-continuing nature of the offence.",
+      "edge_cases": [
+        "Calculation of the limitation period under Section 79: 'within six months of the date on which the alleged offence is said to have been committed OR within six months of the date on which the alleged commission of the offence came to the knowledge of the Inspector, whichever is later'. The defense argues the 'date of commission' is paramount for defining the nature (non-continuing) of the offence.",
+        "The offence regarding the Jan 21, 1961 return was committed after the inspector's visit; argument primarily focuses on the first instance."
+      ],
+      "precedents": [
+        "General principles of limitation laws in criminal statutes.",
+        "Insufficient data for specific precedents focused solely on the calculation aspect if the 'continuing offence' argument fails."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal dismissed. Acquittal of respondents upheld.",
+    "reasoning": [
+      "The Supreme Court differentiated between an offence committed 'once and for all' and a 'continuing offence'.",
+      "A continuing offence involves a failure to obey a rule that imposes a duty extending from day to day, like maintaining a register or premises in a certain condition.",
+      "The Court held that Regulation 19(1)(b) required the submission of returns by specific dates (July 21 and January 21).",
+      "The failure to submit the return by the specified date constituted a complete offence on that date (or the day immediately following the deadline).",
+      "The regulation did not impose a continuing duty to furnish the return after the deadline had passed.",
+      "Therefore, the failure to submit the returns was not a continuing offence.",
+      "Consequently, the prosecution initiated on April 12, 1961, was barred by the limitation period prescribed in Section 79 of the Mines Act, 1952, as it was filed more than six months after the commission of the offence (non-submission by the due date).",
+      "The Court reasoned that if the non-submission were treated as a continuing offence, the limitation clause in Section 79 would become otiose for such breaches."
+    ],
+    "cited_cases": [
+      "State of Bombay v. Bhiwandiwala, AIR 1957 SC 162",
+      "Emperor v. Karsandas Govindji Ved, AIR 1942 Bom 326",
+      "London County Council v. Worley, [1894] 2 Q.B. 826",
+      "Public Prosecutor v. J.P. Rego, AIR 1961 Mad 250"
+    ]
+  }
+}

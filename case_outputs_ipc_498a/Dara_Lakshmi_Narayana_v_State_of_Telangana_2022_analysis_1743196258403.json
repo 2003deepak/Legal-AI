@@ -1,0 +1,115 @@
+{
+  "case_id": "Dara Lakshmi Narayana v. State of Telangana (2022)",
+  "facts": [
+    "Incident occurred on 25.03.2008 around 9:30 PM near Pochamma Temple, Village Gudur, District Warangal, Telangana.",
+    "Accused persons: Dara Lakshmi Narayana (Appellant/A-1), Dara Sammaiah (A-2, Appellant's father), Dara Komalatha (A-3, Appellant's mother), Manda Raju (A-4), Manda Sampath (A-5).",
+    "Allegation: A-1 to A-5 formed an unlawful assembly with the common object of killing Pasunoori Raja @ Rajesh (PW-1).",
+    "Specific Acts Alleged: A-1 stabbed PW-1 in the abdomen with a knife (M.O.1); A-2 attacked with an axe (M.O.2); A-3 threw chilli powder; A-4 and A-5 beat PW-1 with sticks (M.O.3, M.O.4).",
+    "Motive Alleged: Previous enmity stemming from PW-1 allegedly teasing A-3 (mother of A-1).",
+    "FIR: Lodged by PW-1 (the injured victim) himself.",
+    "Key Prosecution Witnesses: PW-1 (Injured Victim), PW-2, PW-3, PW-4 (Eyewitnesses).",
+    "Medical Evidence: PW-7 (Medical Officer) examined PW-1. Medical Examination Report (Ex. P-5) and Injury Certificate (Ex. P-6) noted one stab injury (3 cm x 1 cm x depth not probed) on the left side of the abdomen.",
+    "Investigative Evidence: Scene of offence panchanama (Ex. P-7), Seizure of weapons (Knife M.O.1, Axe M.O.2, Sticks M.O.3 & M.O.4), FSL Report confirming human blood on the knife (M.O.1).",
+    "Trial Court Judgment (Sessions Judge, Mahila Court, Warangal): Convicted A-1 (Appellant) under Section 307 IPC, sentenced to 7 years Rigorous Imprisonment and fine of Rs. 5,000/-. Acquitted A-2 to A-5 of all charges.",
+    "High Court Judgment (High Court for the State of Telangana): Dismissed the appeal filed by A-1, confirming the Trial Court's conviction and sentence.",
+    "Supreme Court Appeal: Filed by A-1 (Dara Lakshmi Narayana) challenging the High Court's judgment confirming his conviction under Section 307 IPC."
+  ],
+  "ipc_sections": [
+    "Section 307 (Attempt to murder - Conviction upheld)",
+    "Section 148 (Rioting, armed with deadly weapon - Initial charge, implicitly negated by acquittal of co-accused)",
+    "Section 149 (Unlawful assembly - Initial charge, implicitly negated by acquittal of co-accused)",
+    "Section 324 (Voluntarily causing hurt by dangerous weapons or means - Argued by defence as alternative, rejected)",
+    "Section 34 (Common intention - Mentioned in context but acquittal of others limited its direct application to A1's conviction)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The act of stabbing the victim (PW-1) in the abdomen, a vital part of the body, with a knife (a dangerous weapon), clearly demonstrates the appellant's (A-1) intention or knowledge that such an act was likely to cause death, fulfilling the requirements of Section 307 IPC.",
+      "precedents": [
+        "State of Madhya Pradesh v. Saleem @ Chamaru (2005) 5 SCC 554 (Emphasis on intention/knowledge inferred from weapon nature and injury location)",
+        "State of Madhya Pradesh v. Kanha @ Omprakash (2019) 3 SCC 605 (Intent inferred from choosing vital part like abdomen for attack)",
+        "Jage Ram v. State of Haryana (2015) 11 SCC 366 (Focus on the nature of the act and intent, not merely the consequence or severity of injury)"
+      ],
+      "elements": [
+        "Intention or Knowledge: Accused intended to cause death or knew the act was likely to cause death.",
+        "Act towards Commission of Murder: The accused committed a physical act (stabbing).",
+        "Nature of Act: The act itself (stabbing in abdomen with knife) was capable of causing death, irrespective of whether death actually occurred."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Single stab wound inflicted, and the medical report did not definitively state the injury was 'dangerous to life'. Depth was not probed.",
+          "supporting_precedents": [
+            "Sarju Prasad v. State of Bihar, AIR 1965 SC 843 (Distinguishing attempt from preparation; requires act towards commission)",
+            "Ramesh v. State of Maharashtra (2011) 1 SCC 134 (Where nature of injury and circumstances indicated lack of intent to murder, conviction altered from 307)",
+            "Bishan Singh v. State (2007) 13 SCC 490 (Importance of medical evidence specifying if injury was sufficient in ordinary course of nature to cause death for inferring intent)"
+          ]
+        },
+        {
+          "loophole": "Reliance on eyewitnesses (PW-1 to PW-4) who might be considered interested or inimical due to the alleged motive (previous enmity). Lack of independent witnesses.",
+          "supporting_precedents": [
+            "Vadivelu Thevar v. State of Madras, AIR 1957 SC 614 (Categorization of witnesses; caution needed for interested witnesses)",
+            "Hari Obula Reddy v. State of Andhra Pradesh (1981) 3 SCC 675 (Conviction based solely on interested witnesses requires careful scrutiny and corroboration)",
+            "State of Rajasthan v. Kalki (1981) 2 SCC 752 (While related witnesses are not inherently unreliable, prudence requires corroboration if enmity exists)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The injury caused was simple in nature (as per medical evidence not explicitly stating it was dangerous to life), and therefore, the offence committed would fall under Section 324 IPC (Voluntarily causing hurt by dangerous weapon), not Section 307 IPC.",
+      "edge_cases": [
+        "Medical report's lack of detail on injury depth or explicit 'dangerous to life' opinion.",
+        "Absence of repeated blows suggesting lack of determined intent to kill."
+      ],
+      "precedents": [
+        "Maturi Sanjeeva Rao v. State of A.P. (2012) 8 SCC 45 (Where injury was simple despite vital part being hit, conviction altered from 307 to 326)",
+        "Kunhayippu v. State of Kerala (2000) 10 SCC 307 (Conviction altered from 307 to 324 when injury found simple and intent to murder not proven beyond doubt)",
+        "State of U.P. v. Gajey Singh (2009) 11 SCC 414 (Medical evidence crucial; simple injuries generally don't sustain 307 conviction unless intent is overwhelmingly clear from other factors)"
+      ]
+    },
+    {
+      "argument": "There were material inconsistencies and contradictions in the testimonies of the prosecution witnesses (PW-1 to PW-4), making their evidence unreliable for sustaining a conviction under Section 307 IPC.",
+      "edge_cases": [
+        "Potential variations in accounts regarding the sequence of events, specific roles of acquitted accused, or lighting conditions.",
+        "Failure to examine independent witnesses from the village despite the incident occurring in a public place."
+      ],
+      "precedents": [
+        "Suraj Mal v. State (Delhi Administration) AIR 1979 SC 1408 (Material contradictions in witness testimonies can be fatal to the prosecution case)",
+        "State of Rajasthan v. Bhanwar Singh (2004) 13 SCC 95 (Non-examination of independent witnesses available at the scene can raise doubts about prosecution version)",
+        "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371 (If eyewitness accounts are contradictory on crucial aspects, benefit of doubt may arise)"
+      ]
+    },
+    {
+      "argument": "The alleged motive (PW-1 teasing A-3) was weak and not adequately proven, diminishing the likelihood of an intention to commit murder.",
+      "edge_cases": [
+        "Lack of independent evidence corroborating the 'teasing' incident or prior enmity.",
+        "Disproportionate reaction (attempted murder) alleged for a relatively minor provocation."
+      ],
+      "precedents": [
+        "State of Punjab v. Bittu (2015) 14 SCC 351 (While motive is not essential for conviction with direct evidence, its absence or weakness is a factor to consider)",
+        "Nathuni Yadav v. State of Bihar (1998) 9 SCC 238 (Weak motive can make prosecution story less probable, especially in circumstantial cases or where evidence is otherwise doubtful)",
+        "Babu v. State of U.P. (2010) 7 SCC 189 (In cases relying on eyewitnesses with potential enmity, strong motive lends credence, weak motive raises caution)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The conviction of the appellant (Dara Lakshmi Narayana / A-1) under Section 307 IPC and the sentence imposed by the Trial Court, as confirmed by the High Court, were upheld.",
+    "reasoning": [
+      "The court prioritized the intention/knowledge element of Section 307 IPC over the actual severity of the injury caused.",
+      "The use of a knife (dangerous weapon) to stab the victim in the abdomen (a vital part of the body) was sufficient to infer the requisite intention or knowledge for Section 307 IPC.",
+      "The testimony of the injured witness (PW-1) was found reliable and consistent, corroborated by other eyewitnesses (PW-2, PW-3, PW-4) and medical evidence (Ex. P-5, P-6). Minor discrepancies were held to be insignificant.",
+      "The court relied on the principle that the testimony of an injured witness is generally considered trustworthy and requires strong reasons for rejection.",
+      "Non-examination of independent witnesses was not considered fatal as the evidence of the injured witness and other eyewitnesses was deemed credible and sufficient.",
+      "The argument to reduce the conviction to Section 324 IPC was explicitly rejected, emphasizing that the focus of Section 307 is the nature of the act and the accompanying intent/knowledge, not solely the result (gravity of injury).",
+      "The court found that the act committed by the appellant fell squarely within the definition of attempt to murder under Section 307 IPC based on the established facts and legal principles regarding intent derived from weapon and location of injury."
+    ],
+    "cited_cases": [
+      "State of Madhya Pradesh v. Saleem @ Chamaru (2005) 5 SCC 554",
+      "State of Madhya Pradesh v. Kanha @ Omprakash (2019) 3 SCC 605",
+      "Jage Ram v. State of Haryana (2015) 11 SCC 366",
+      "State of M.P. v. Harjeet Singh (2019) 20 SCC 524",
+      "Sadakat Kotwar v. State of Jharkhand (2021) SCC OnLine SC 906 (Cited for general principles on Sec 307)",
+      "Ansarudeen v. State of Kerala (2021) SCC OnLine SC 991 (Cited for general principles on Sec 307)"
+    ]
+  }
+}

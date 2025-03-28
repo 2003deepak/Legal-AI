@@ -1,0 +1,160 @@
+{
+  "case_id": "Sanjeev Singh v. State of Punjab (2022)",
+  "facts": [
+    "Sanjeev Singh (Appellant) married Amandeep Kaur (deceased) on October 18, 2009.",
+    "Amandeep Kaur died on July 12, 2010 (within 9 months of marriage) in her matrimonial home.",
+    "FIR No. 83 dated July 12, 2010, was registered at Police Station City Ahmedgarh, District Sangrur, Punjab, based on the statement of Mukhtiar Singh (PW-1, father of the deceased).",
+    "Allegations involved demands for dowry (specifically a car) and consequent harassment and cruelty towards the deceased by the appellant.",
+    "PW-1 stated that dowry demands started soon after marriage and continued, leading to the deceased being upset and informing her parents.",
+    "A panchayat meeting was allegedly held about 15 days before the death to resolve the issue, where the appellant reiterated the demand for a car.",
+    "Post-mortem examination conducted by Dr. Gurmanjit Rai (PW-4) concluded the cause of death was 'asphyxia due to strangulation which is sufficient to cause death in ordinary course of nature'. Ligature mark details were noted.",
+    "The defense pleaded that the deceased committed suicide by hanging.",
+    "The Trial Court convicted the appellant under Sections 304B and 498A of the IPC on October 29, 2011.",
+    "Sentence awarded: Rigorous Imprisonment (RI) for 10 years under Section 304B IPC and RI for 3 years with a fine of Rs. 5,000/- under Section 498A IPC. Sentences to run concurrently.",
+    "The High Court of Punjab and Haryana dismissed the appellant's appeal and upheld the Trial Court's judgment on May 25, 2020.",
+    "The appellant (Sanjeev Singh) filed the present appeal before the Supreme Court challenging the High Court's decision.",
+    "Key prosecution witnesses included Mukhtiar Singh (PW-1, father), Surjit Kaur (PW-2, mother), Dr. Gurmanjit Rai (PW-4, conducted post-mortem), and ASI Baldev Singh (PW-6, Investigating Officer).",
+    "Key defense witnesses included Gurmeet Singh (DW-1) and Kuldeep Singh @ Keepa (DW-2), neighbors who testified about the appellant's character and lack of knowledge about dowry demands."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 302 (Murder - discussed contextually)",
+    "Section 306 (Abetment of suicide - relevant due to defense plea)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The essential ingredients of Section 304B IPC are fully satisfied: death occurred within 7 years of marriage (9 months), under unnatural circumstances (strangulation), and evidence proves dowry-related cruelty 'soon before' death.",
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Defines ingredients of 304B)",
+        "Rajbir @ Raju v. State of Haryana (2010) 15 SCC 116 (Presumption under S.113B Evidence Act is mandatory once foundational facts proven)",
+        "Gurdeep Singh v. State of Punjab & Ors. (2022) SCC OnLine SC 153 (Reiterates principles for 304B conviction)"
+      ],
+      "elements": [
+        "Death of a woman caused by burns or bodily injury or occurs otherwise than under normal circumstances",
+        "Such death occurs within seven years of her marriage",
+        "Soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband",
+        "Such cruelty or harassment was for, or in connection with, any demand for dowry"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The term 'soon before death' lacks a precise definition and requires a proximate and live link, which the defense argues is missing based on the timing of the last specific alleged incident (panchayat).",
+          "supporting_precedents": [
+            "Surinder Singh v. State of Haryana (2014) 4 SCC 129 (Need for proximate link)",
+            "Major Singh v. State of Punjab (2015) 5 SCC 201 ('Soon before' implies proximity test)",
+            "Baijnath & Ors v. State of Madhya Pradesh (2017) 1 SCC 101 (Interpretation of 'soon before')"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The testimonies of the deceased's parents (PW-1 and PW-2) are consistent, credible, and establish a continuous pattern of dowry demands (car) and harassment, constituting cruelty under Section 498A IPC.",
+      "precedents": [
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Defines 'cruelty' under 498A)",
+        "State of Karnataka v. H.S. Srinivasa (2007) 12 SCC 550 (Parental testimony reliable in dowry cases)",
+        "Surinder Kumar v. State of Haryana (2011) 10 SCC 173 (Consistency in witness accounts)"
+      ],
+      "elements": [
+        "Woman was subjected to cruelty or harassment",
+        "Such cruelty or harassment was by her husband or his relative",
+        "Cruelty involved willful conduct likely to drive the woman to suicide or cause grave injury/danger OR harassment linked to unlawful demand for property/valuable security"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "PW-1 and PW-2 are 'interested witnesses' (close relatives), and their testimonies lack independent corroboration. Minor contradictions exist, and allegations could be exaggerated.",
+          "supporting_precedents": [
+            "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Caution needed with interested witnesses)",
+            "Surinder Kaur v. State of Haryana (2004) 4 SCC 109 (Need for careful scrutiny of relative testimony)",
+            "Sunil Kumar Sambhudayal Gupta (Dr.) v. State of Maharashtra (2010) 13 SCC 657 (Impact of contradictions and embellishments)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Medical evidence (post-mortem report by PW-4) definitively proves death by homicidal strangulation, directly contradicting the defense's unsubstantiated claim of suicide by hanging.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Importance of medical evidence in establishing cause of death)",
+        "Balwant Singh v. State of Punjab (2004) 7 SCC 724 (Distinguishing strangulation vs. hanging based on ligature marks)",
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Medical evidence as crucial circumstantial evidence)"
+      ],
+      "elements": [
+        "Proof of unnatural death",
+        "Establishment of cause of death (asphyxia due to strangulation)",
+        "Medical findings inconsistent with suicide by hanging (nature of ligature mark)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "While strangulation is established, the prosecution relies on circumstantial evidence to link the appellant directly to the act, as there were no eyewitnesses to the strangulation itself.",
+          "supporting_precedents": [
+            "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Burden of proof remains on prosecution)",
+            "Ashish Batham v. State of M.P. (2002) 7 SCC 317 (Chain of circumstantial evidence must be complete)",
+            "Sujit Biswas v. State of Assam (2013) 12 SCC 406 (Suspicion cannot replace proof beyond reasonable doubt)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish a clear 'proximate and live link' between the alleged dowry demands/harassment and the time of death. The 'soon before death' element required for Section 304B is not proven beyond reasonable doubt.",
+      "edge_cases": [
+        "Interpretation of 'soon before' – whether a 15-day gap (since alleged panchayat) qualifies.",
+        "Lack of documented complaints by the deceased immediately prior to her death."
+      ],
+      "precedents": [
+        "Major Singh v. State of Punjab (2015) 5 SCC 201 (Emphasis on proximity)",
+        "Surinder Singh v. State of Haryana (2014) 4 SCC 129 (Live link required)",
+        "Baijnath & Ors v. State of Madhya Pradesh (2017) 1 SCC 101 (Meaning of 'soon before death')"
+      ]
+    },
+    {
+      "argument": "The primary evidence comes from the deceased's parents (PW-1, PW-2), who are interested witnesses. Their testimony suffers from inconsistencies and lacks independent corroboration, making it unreliable for conviction.",
+      "edge_cases": [
+        "Standard for evaluating testimony of close relatives in dowry cases.",
+        "Whether discrepancies noted are minor or material contradictions affecting the core case.",
+        "Reliance on defense witnesses (DW-1, DW-2 - neighbors) who denied knowledge of dowry demands."
+      ],
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Scrutiny of interested witnesses)",
+        "State of Haryana v. Ram Singh (2002) 2 SCC 426 (Need for corroboration when witnesses are relatives)",
+        "Bhajan Singh @ Harbhajan Singh & Ors v. State of Haryana (2011) 7 SCC 421 (Credibility assessment of witnesses)"
+      ]
+    },
+    {
+      "argument": "The possibility of suicide by hanging has not been conclusively ruled out by the prosecution. The burden of proof lies entirely on the prosecution to establish homicide beyond all reasonable doubt.",
+      "edge_cases": [
+        "Whether medical evidence alone is sufficient to rule out suicide when other circumstances are ambiguous.",
+        "Appellant's conduct (e.g., informing others about the death) potentially viewed as inconsistent with guilt."
+      ],
+      "precedents": [
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Prosecution must prove its case irrespective of defense weakness)",
+        "State of West Bengal v. Orilal Jaiswal (1994) 1 SCC 73 (Distinction between abetment of suicide and dowry death scenarios)",
+        "Satbir Singh v. State of Haryana (2021) 6 SCC 1 (Discusses interplay of presumptions and burden of proof)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. Conviction under Sections 304B and 498A IPC and sentence upheld.",
+    "reasoning": [
+      "The death occurred within 9 months of marriage under unnatural circumstances (strangulation) in the matrimonial home, satisfying initial conditions for Section 304B.",
+      "The testimonies of PW-1 and PW-2 regarding dowry demands (car) and harassment were found consistent and reliable by both the Trial Court and High Court. Minor discrepancies were deemed insignificant.",
+      "The Supreme Court held that the cruelty/harassment was proximate ('soon before death') given the short duration of marriage and evidence of ongoing demands, including the panchayat meeting 15 days prior.",
+      "The requirements for invoking the presumption under Section 113B of the Indian Evidence Act were met, shifting the burden to the appellant to rebut the presumption, which he failed to do.",
+      "Medical evidence (PW-4's testimony and post-mortem report) clearly established homicidal strangulation, effectively ruling out the defense theory of suicide.",
+      "The testimonies of defense witnesses (DW-1, DW-2) were insufficient to counter the specific allegations made by the prosecution witnesses.",
+      "The concurrent findings of fact by the Trial Court and High Court were well-reasoned and based on proper appreciation of the evidence, warranting no interference by the Supreme Court."
+    ],
+    "cited_cases": [
+      "Kans Raj v. State of Punjab (2000) 5 SCC 207",
+      "Rajbir @ Raju v. State of Haryana (2010) 15 SCC 116",
+      "Major Singh v. State of Punjab (2015) 5 SCC 201",
+      "Surinder Singh v. State of Haryana (2014) 4 SCC 129",
+      "Baijnath & Ors v. State of Madhya Pradesh (2017) 1 SCC 101",
+      "Gurdeep Singh v. State of Punjab & Ors. (2022) SCC OnLine SC 153",
+      "Satbir Singh v. State of Haryana (2021) 6 SCC 1",
+      "Sher Singh @ Partapa v. State of Haryana (2015) 3 SCC 361",
+      "Kamlesh v. State of Rajasthan (2019) 18 SCC 537",
+      "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177"
+    ]
+  }
+}

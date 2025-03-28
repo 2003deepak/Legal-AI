@@ -1,0 +1,136 @@
+{
+  "case_id": "Chandra Shekhar v. State (2017)",
+  "facts": [
+    "Incident occurred on the evening of 04.07.2008 near Village Ghonda, Delhi.",
+    "An altercation took place between Hari Om @ Pintu (brother of the appellant Chandra Shekhar) and the deceased Jagat Singh.",
+    "During the initial altercation, Jagat Singh allegedly slapped Hari Om.",
+    "Hari Om called his brother, the appellant Chandra Shekhar, to the spot.",
+    "Upon Chandra Shekhar's arrival, a further altercation ensued between him and Jagat Singh.",
+    "During this second altercation, Chandra Shekhar allegedly stabbed Jagat Singh in the chest with a knife ('chhuri').",
+    "PW-1 (Ravi Dutt Sharma, friend of the deceased) was an eyewitness and lodged the FIR.",
+    "PW-2 (Sunil Kumar, another friend) was also present.",
+    "The deceased, Jagat Singh, was taken to GTB Hospital where he was declared brought dead.",
+    "Postmortem examination (conducted by PW-13, Dr. Arvind Kumar) revealed two injuries: Injury No. 1 (stab wound on the left side of the chest, penetrating the lung and aorta, deemed sufficient to cause death in the ordinary course of nature) and Injury No. 2 (incised wound on the left index finger).",
+    "The alleged weapon, a knife, was recovered pursuant to the disclosure statement made by the appellant Chandra Shekhar.",
+    "The Trial Court convicted Chandra Shekhar under Section 302 IPC and sentenced him to life imprisonment. Hari Om @ Pintu was acquitted.",
+    "The High Court of Delhi dismissed Chandra Shekhar's appeal, upholding the Trial Court's conviction and sentence.",
+    "Chandra Shekhar appealed the High Court's decision to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder definition, particularly Clause Thirdly and Exception 4)",
+    "Section 304 Part I (Punishment for Culpable Homicide not amounting to Murder - with intent/knowledge likely to cause death)",
+    "Section 304 Part II (Punishment for Culpable Homicide not amounting to Murder - with knowledge that act is likely to cause death, but without intention)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - relevant at trial stage due to co-accused)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The act of stabbing the deceased in the chest, a vital part of the body, with a knife, demonstrates the intention to cause bodily injury sufficient in the ordinary course of nature to cause death, squarely falling under Section 300 Clause Thirdly (Murder).",
+      "precedents": [
+        "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+        "State of A.P. v. Rayavarapu Punnayya (1976) 4 SCC 382",
+        "Pulicherla Nagaraju @ Nagaraja Reddy v. State of A.P. (2006) 11 SCC 444"
+      ],
+      "elements": [
+        "Death of a human being (Jagat Singh)",
+        "Death caused by the act of the accused (Chandra Shekhar stabbing)",
+        "Act done with the intention of causing bodily injury",
+        "The bodily injury intended to be inflicted was sufficient in the ordinary course of nature to cause death"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The incident arose from a sudden quarrel without premeditation, suggesting the absence of a calculated intention to cause a fatal injury, potentially bringing the case under Exception 4 to Section 300.",
+          "supporting_precedents": [
+            "Surinder Kumar v. Union Territory, Chandigarh (1989) 2 SCC 217",
+            "Ghapoo Yadav v. State of M.P. (2003) 3 SCC 528",
+            "Pappu v. State of M.P. (2006) 7 SCC 391"
+          ]
+        },
+        {
+          "loophole": "A single blow, even if resulting in death, inflicted during a sudden fight might indicate an intent to cause grievous hurt or injury likely to cause death, rather than the specific intent required for murder under S.300 Thirdly.",
+          "supporting_precedents": [
+            "Jagrup Singh v. State of Haryana (1981) 3 SCC 616",
+            "Randhir Singh @ Dhire v. State of Punjab (2004) 13 SCC 129",
+            "Sukhbir Singh v. State of Haryana (2002) 3 SCC 327"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Exception 4 to Section 300 IPC is not applicable as the appellant took undue advantage and acted in a cruel manner by using a dangerous weapon like a knife against an unarmed person in response to a prior altercation involving his brother.",
+      "precedents": [
+        "State of Rajasthan vs. Ram Kailash @ Ram Vilas (2016) 11 SCC 451",
+        "Bhagwan Munjaji Pawade vs. State of Maharashtra (1999) 7 SCC 331",
+        "Krishna Tiwari vs. State of Bihar (2001) 9 SCC 675"
+      ],
+      "elements": [
+        "Absence of 'undue advantage'",
+        "Absence of 'cruel or unusual manner'"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The use of a weapon readily available or brought spontaneously during a sudden fight doesn't automatically constitute 'undue advantage' or 'cruelty' if only a single blow is struck in the heat of passion.",
+          "supporting_precedents": [
+            "Surinder Kumar v. Union Territory, Chandigarh (1989) 2 SCC 217",
+            "Pappu v. State of M.P. (2006) 7 SCC 391",
+            "Ghapoo Yadav v. State of M.P. (2003) 3 SCC 528"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The offence committed does not amount to murder under Section 302 IPC, but falls under Exception 4 to Section 300 IPC (culpable homicide not amounting to murder committed in a sudden fight).",
+      "edge_cases": [
+        "Establishing the fight was 'sudden' and 'without premeditation'.",
+        "Demonstrating the act occurred 'in the heat of passion'.",
+        "Arguing that a single stab wound does not constitute taking 'undue advantage' or acting in a 'cruel or unusual manner'."
+      ],
+      "precedents": [
+        "Surinder Kumar v. Union Territory, Chandigarh (1989) 2 SCC 217",
+        "Ghapoo Yadav v. State of M.P. (2003) 3 SCC 528",
+        "Sukhbir Singh v. State of Haryana (2002) 3 SCC 327"
+      ]
+    },
+    {
+      "argument": "Even if Exception 4 is not fully applicable, the lack of clear intention to cause death or the specific fatal injury means the offence should be categorized under Section 304 Part I or Part II IPC, not Section 302 IPC.",
+      "edge_cases": [
+        "Distinguishing intention (required for S.300/S.304 Part I) from knowledge (sufficient for S.304 Part II).",
+        "Inferring the state of mind solely from the nature of the single injury and weapon used.",
+        "Impact of the prior altercation involving the appellant's brother on the appellant's state of mind."
+      ],
+      "precedents": [
+        "Pappu v. State of M.P. (2006) 7 SCC 391",
+        "Pulicherla Nagaraju @ Nagaraja Reddy v. State of A.P. (2006) 11 SCC 444 (for distinguishing factors)",
+        "Arun Raj v. Union of India (2010) 6 SCC 457"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal partly allowed. Conviction altered from Section 302 IPC to Section 304 Part I IPC. Sentence reduced from life imprisonment to 10 years rigorous imprisonment.",
+    "reasoning": [
+      "The incident originated from a trivial issue (slapping of appellant's brother) leading to a sudden quarrel.",
+      "There was no evidence of premeditation on the part of the appellant.",
+      "The appellant arrived at the scene unarmed and the altercation leading to the stabbing happened subsequently.",
+      "The stabbing occurred in the heat of passion during the sudden fight.",
+      "The appellant inflicted only a single blow, indicating he did not take undue advantage or act in a cruel or unusual manner despite using a knife.",
+      "Therefore, the essential ingredients of Exception 4 to Section 300 IPC were met.",
+      "However, the appellant, by stabbing in the chest with a knife, clearly intended to cause bodily injury likely to cause death.",
+      "The act falls under culpable homicide not amounting to murder, punishable under Section 304 Part I IPC, as the intention to cause such bodily injury as is likely to cause death was present."
+    ],
+    "cited_cases": [
+      "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+      "State of A.P. v. Rayavarapu Punnayya (1976) 4 SCC 382",
+      "Pulicherla Nagaraju @ Nagaraja Reddy v. State of A.P. (2006) 11 SCC 444",
+      "Surinder Kumar v. Union Territory, Chandigarh (1989) 2 SCC 217",
+      "Ghapoo Yadav v. State of M.P. (2003) 3 SCC 528",
+      "Sukhbir Singh v. State of Haryana (2002) 3 SCC 327",
+      "Pappu v. State of M.P. (2006) 7 SCC 391",
+      "Mahesh Balmiki @ Munna v. State of M.P. (2000) 1 SCC 319",
+      "Kandaswamy v. State of T.N. (2008) 11 SCC 97",
+      "Buddu Khan v. State of Uttarakhand (2010) 15 SCC 388",
+      "Singh Ram v. State of Haryana (2015) 17 SCC 139"
+    ]
+  }
+}

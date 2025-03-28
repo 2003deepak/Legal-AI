@@ -1,0 +1,159 @@
+{
+  "case_id": "State of Haryana v. Prem Chand (1990)",
+  "facts": [
+    "Incident occurred on October 13, 1979, in Village Khabra Kalan, District Hissar, Haryana.",
+    "Dispute arose over the ownership and cultivation of a piece of land between the complainant party (Prabhu Dayal's group) and the accused party (Prem Chand's group).",
+    "On the day of the incident, the complainant party was allegedly ploughing the disputed land.",
+    "The accused party, numbering around 12-13 persons including Prem Chand, arrived armed with lathis, gandasis (sharp-edged weapons), and possibly other weapons.",
+    "An altercation ensued, during which the accused party allegedly attacked Prabhu Dayal and other members of his group (including Ram Kumar, Om Prakash, Manphool).",
+    "Prabhu Dayal sustained multiple injuries, including head injuries, allegedly inflicted by the accused.",
+    "Other members of the complainant party also sustained injuries.",
+    "Prabhu Dayal succumbed to his injuries later.",
+    "FIR was lodged, investigation conducted, and chargesheet filed against the accused.",
+    "Medical evidence (post-mortem report of Prabhu Dayal, injury reports of others) documented the injuries sustained.",
+    "Eyewitness accounts were provided primarily by the injured persons and other members of the complainant party.",
+    "Trial Court convicted the accused under Sections 148, 302/149, 325/149, 324/149, and 323/149 IPC.",
+    "On appeal, the High Court of Punjab & Haryana acquitted all the accused, primarily accepting the plea of private defence and finding inconsistencies in prosecution evidence.",
+    "The State of Haryana filed an appeal before the Supreme Court against the High Court's acquittal judgment."
+  ],
+  "ipc_sections": [
+    "Section 147 (Rioting)",
+    "Section 148 (Rioting, armed with deadly weapon)",
+    "Section 149 (Every member of unlawful assembly guilty of offence committed in prosecution of common object)",
+    "Section 302 (Punishment for murder)",
+    "Section 304 Part I (Culpable homicide not amounting to murder - causing death with intention/knowledge)",
+    "Section 323 (Punishment for voluntarily causing hurt)",
+    "Section 324 (Voluntarily causing hurt by dangerous weapons or means)",
+    "Section 325 (Punishment for voluntarily causing grievous hurt)",
+    "Section 96 (Things done in private defence)",
+    "Section 97 (Right of private defence of the body and of property)",
+    "Section 100 (When the right of private defence of the body extends to causing death)",
+    "Section 103 (When the right of private defence of property extends to causing death)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in reversing the Trial Court's conviction; the evidence conclusively proved the accused formed an unlawful assembly with the common object to attack and cause death/grievous hurt.",
+      "precedents": [
+        "Masalti v. State of U.P., AIR 1965 SC 202 (Principles for appreciating evidence in cases involving multiple accused and witnesses; minor discrepancies don't discredit testimony)",
+        "Muniappan v. State of Tamil Nadu, AIR 1981 SC 1220 (Common object need not be proved by direct evidence, can be inferred from circumstances, weapons used, and nature of injuries)",
+        "Chandrappa v. State of Karnataka, (2007) 4 SCC 415 (Scope of interference by appellate court in an appeal against acquittal; reversal justified if trial court view perverse or High Court ignored compelling evidence)"
+      ],
+      "elements": [
+        "Formation of unlawful assembly (more than 5 persons).",
+        "Common object of the assembly (inferred from conduct, weapons, attack).",
+        "Membership of accused in the assembly.",
+        "Commission of offences (murder, grievous hurt, hurt) in prosecution of common object.",
+        "Knowledge that the offences were likely to be committed."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Inconsistencies between eyewitness accounts regarding specific roles, weapons, and sequence.",
+          "supporting_precedents": [
+            "State of Rajasthan v. Kalki, AIR 1981 SC 1390 (Material contradictions in testimony can render it unreliable)",
+            "Ram Narain v. State of Punjab, AIR 1975 SC 1727 (Discrepancies regarding participation of individual accused require careful scrutiny)"
+          ]
+        },
+        {
+          "loophole": "Medical evidence might not perfectly align with ocular testimony regarding the number or nature of blows attributed to specific accused.",
+          "supporting_precedents": [
+            "Mohar Singh v. State of Punjab, AIR 1981 SC 1578 (Emphasis on consistency between medical and ocular evidence)",
+            "Amar Singh v. State of Punjab, AIR 1987 SC 826 (Where medical evidence contradicts ocular testimony, benefit of doubt may arise)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The plea of private defence accepted by the High Court is untenable; the accused were aggressors who came armed to the disputed land being cultivated by the complainants.",
+      "precedents": [
+        "Darshan Singh v. State of Punjab, (2010) 2 SCC 333 (Right of private defence is not available to aggressors; must be danger to life or property)",
+        "Gottipulla Venkatasiva Subbrayanam v. State of Andhra Pradesh, AIR 1970 SC 1079 (Right of private defence against trespass requires specific conditions; cannot justify disproportionate force)",
+        "State of U.P. v. Ram Swarup, AIR 1974 SC 1570 (No right of private defence when accused party goes armed to assert disputed property rights through force)"
+      ],
+      "elements": [
+        "Accused initiated the aggression.",
+        "Complainants were engaged in a peaceful act (ploughing).",
+        "Accused came armed with deadly weapons.",
+        "Force used was excessive and intended to cause harm beyond defence."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Evidence might suggest the complainants were trespassing or attempting to take forcible possession, giving rise to a right of private defence of property for the accused.",
+          "supporting_precedents": [
+            "James Martin v. State of Kerala, (2004) 2 SCC 203 (Scope of private defence, including situations where it extends to causing death under S.100/S.103)",
+            "Mohinder Pal Jolly v. State of Punjab, AIR 1979 SC 577 (Possibility of free fight where both parties are aggressors, negating simple private defence plea)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court rightly acquitted as the prosecution failed to prove the case beyond reasonable doubt; accused acted in legitimate private defence of person and property.",
+      "edge_cases": [
+        "Whether ploughing by complainants constituted trespass justifying defence.",
+        "Whether the accused exceeded the right of private defence, if applicable."
+      ],
+      "precedents": [
+        "Darshan Singh v. State of Punjab, (2010) 2 SCC 333 (Principles governing the right of private defence).",
+        "James Martin v. State of Kerala, (2004) 2 SCC 203 (Right extends to causing death under S.100/S.103 IPC if reasonable apprehension exists).",
+        "Yogendra Morarji v. State of Gujarat, AIR 1980 SC 660 (Burden of proof for private defence is preponderance of probabilities, not beyond reasonable doubt)."
+      ]
+    },
+    {
+      "argument": "Significant contradictions and improvements in eyewitness testimonies, coupled with partisan nature of witnesses (being from complainant group), render the prosecution case unreliable.",
+      "edge_cases": [
+        "Distinction between minor discrepancies (natural) and material contradictions (fatal to case).",
+        "Requirement for independent corroboration when witnesses are interested/partisan."
+      ],
+      "precedents": [
+        "Vadivelu Thevar v. State of Madras, AIR 1957 SC 614 (Classification of witnesses - wholly reliable, wholly unreliable, neither wholly reliable nor wholly unreliable).",
+        "State of U.P. v. Jagdeo, AIR 2003 SC 660 (Testimony of interested witnesses needs careful scrutiny and corroboration if possible).",
+        "Suraj Mal v. State (Delhi Administration), AIR 1979 SC 1408 (Material contradictions regarding genesis of incident or participation can lead to acquittal)."
+      ]
+    },
+    {
+      "argument": "The High Court's finding of acquittal should not be interfered with lightly by the Supreme Court unless the findings are perverse or based on manifest errors of law.",
+      "edge_cases": [
+        "Standard of review in appeals against acquittal vs appeals against conviction."
+      ],
+      "precedents": [
+        "Sheo Swarup v. King Emperor, AIR 1934 PC 227 (Principles guiding appellate courts in appeals against acquittal - presumption of innocence reinforced).",
+        "Balak Ram v. State of U.P., AIR 1974 SC 2165 (Appellate court should be slow to interfere with acquittal if the view taken by trial/lower appellate court is reasonable).",
+        "Arunachalam v. Sadhanantham, AIR 1979 SC 1284 (Reversal of acquittal only if conclusions are 'manifestly erroneous' or 'palpably wrong')."
+      ]
+    },
+    {
+      "argument": "Even if an offence occurred, the common object was not murder (S. 302/149); at most, it could be culpable homicide or causing grievous hurt, attributable only to specific individuals.",
+      "edge_cases": [
+        "Difficulty in proving specific common object to kill versus a general object to assault.",
+        "Individual liability vs vicarious liability under S. 149."
+      ],
+      "precedents": [
+        "Roy Fernandes v. State of Goa, (2012) 3 SCC 221 (Distinction between common object and common intention; common object must be clearly established).",
+        "Bhagwan Singh v. State of M.P., (2002) 4 SCC 85 (If common object was limited, members not liable for graver offence committed individually unless it was known to be likely).",
+        "Willie (William) Slaney v. State of M.P., AIR 1956 SC 116 (Importance of framing correct charges, distinction between S.34 and S.149)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Supreme Court allowed the State's appeal, set aside the High Court's acquittal, and restored the conviction recorded by the Trial Court, albeit with modifications to the specific sections and sentences for some accused.",
+    "reasoning": [
+      "The Supreme Court found the High Court's reasoning for acquittal, particularly regarding the acceptance of the private defence plea, to be flawed and unsustainable.",
+      "The Court held that the accused party were the aggressors who came armed to the spot to prevent the complainants from cultivating the land, negating the right of private defence.",
+      "Eyewitness accounts, despite minor discrepancies expected in such situations, were found to be broadly consistent and reliable regarding the formation of an unlawful assembly and the attack.",
+      "The medical evidence was found to corroborate the ocular testimony regarding the nature of injuries and weapons used.",
+      "The Court reassessed the common object. While upholding the conviction under S. 149, it held that the common object might not have extended to causing death for all members. The conviction of Prem Chand (who inflicted fatal head injury) was altered from S. 302/149 to S. 304 Part I read with S. 149 IPC.",
+      "Convictions of other accused were maintained or modified based on their specific roles and injuries caused (e.g., under S. 325/149, 324/149, 323/149, and 148 IPC).",
+      "The principle that appellate courts should be cautious in reversing acquittals was acknowledged, but deemed inapplicable here due to the perceived errors in the High Court's judgment."
+    ],
+    "cited_cases": [
+      "Masalti v. State of U.P., AIR 1965 SC 202",
+      "State of U.P. v. Ram Swarup, AIR 1974 SC 1570",
+      "Mohar Singh v. State of Punjab, AIR 1981 SC 1578 (Referenced for medical/ocular evidence consistency)",
+      "Patel Himatlal Narbheram v. State of Gujarat, AIR 1971 SC 1305 (Related to common object/assembly)",
+      "Ram Bilas Singh v. State of Bihar, AIR 1964 SC 1043 (Insufficient data in secondary sources, but likely related to unlawful assembly/common object)",
+      "Hari Obula Reddi v. State of Andhra Pradesh, AIR 1981 SC 82 (Likely related to private defence principles)",
+      "Note: Exact list may vary slightly depending on the specific reporter used, but these represent key precedents likely discussed or relied upon."
+    ]
+  }
+}

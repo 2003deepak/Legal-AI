@@ -1,0 +1,212 @@
+{
+  "case_id": "Charan Singh v. State of Kerala (2022) SCC OnLine SC 1712 | (2023) 1 SCC 471",
+  "facts": [
+    "The appellant (Charan Singh) and the deceased (his wife) checked into Room No. 205, Pulimootil Tourist Home, Changanassery, Kerala on 14.01.2009 around 7:00 PM.",
+    "The appellant was last seen with the deceased in the said room.",
+    "Around 9:30-10:00 PM on 14.01.2009, the appellant left the lodge alone.",
+    "He informed the receptionist (PW-1) that his wife was sleeping, they would check out the next morning, and left the room key with PW-1.",
+    "On 15.01.2009, as the room remained locked from the inside and the occupants did not respond, PW-1 informed the manager (PW-2).",
+    "Police (PW-17, Investigating Officer) were informed, arrived, and broke open the room door.",
+    "The deceased was found lying dead on the bed inside the locked room.",
+    "FIR No. 29/2009 was registered at Changanassery Police Station based on the statement of PW-1.",
+    "Post-mortem examination (Ext. P9) conducted by PW-14 (doctor) concluded the cause of death was smothering.",
+    "Minor injuries (abrasions) were noted on the deceased's nose and upper lip, consistent with smothering.",
+    "The time of death estimated by PW-14 was consistent with the period after the appellant and deceased checked in and before the body was discovered.",
+    "The appellant was arrested on 16.01.2009 from Coimbatore Railway Station.",
+    "The prosecution alleged the motive was the appellant's suspicion regarding his wife's fidelity.",
+    "The Trial Court convicted the appellant under Section 302 IPC and sentenced him to life imprisonment.",
+    "The High Court of Kerala dismissed the appellant's appeal and confirmed the conviction and sentence.",
+    "The appellant appealed to the Supreme Court against the High Court's judgment."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder - Definition, invoked for conviction under S.302)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The case is based on circumstantial evidence, and the chain of circumstances is complete and unerringly points towards the guilt of the appellant.",
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+        "Hanumant Govind Nargundkar v. State of M.P. AIR 1952 SC 343",
+        "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681"
+      ],
+      "elements": [
+        "Establishment of circumstances forming the chain.",
+        "Proof that the established facts are consistent only with the hypothesis of guilt.",
+        "Proof that the established facts are inconsistent with any hypothesis of innocence.",
+        "Conclusive nature of the chain."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Failure to rule out possibility of intervention by a third party or alternative cause of death.",
+          "supporting_precedents": [
+            "Nizam v. State of Rajasthan (2016) 1 SCC 550 (Need to exclude every other hypothesis)",
+            "Ashish Jain v. Makrand Singh (2019) 3 SCC 770 (Benefit of doubt if chain is incomplete)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The 'last seen' theory applies strongly, as the appellant was exclusively last seen with the deceased in the locked hotel room shortly before her death.",
+      "precedents": [
+        "State of U.P. v. Satish (2005) 3 SCC 114",
+        "State of Rajasthan v. Kashi Ram (2006) 12 SCC 254",
+        "State of Goa v. Sanjay Thakran (2007) 3 SCC 755"
+      ],
+      "elements": [
+        "Proof that deceased died.",
+        "Proof that appellant was last seen with the deceased.",
+        "Proof of proximity between the time 'last seen' and the time of death."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Significant time gap between 'last seen' and discovery of body, potentially allowing for intervention.",
+          "supporting_precedents": [
+            "Jaswant Gir v. State of Punjab (2005) 12 SCC 438 (Time gap importance)",
+            "Kanhaiya Lal v. State of Rajasthan (2014) 4 SCC 715 (Last seen alone not sufficient)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Under Section 106 of the Indian Evidence Act, the burden of explaining how the deceased died while in the appellant's exclusive custody shifted to the appellant, which he failed to discharge.",
+      "precedents": [
+        "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681",
+        "State of Rajasthan v. Kashi Ram (2006) 12 SCC 254",
+        "Gajanan v. State of Maharashtra (2019) 14 SCC 687"
+      ],
+      "elements": [
+        "Fact especially within the knowledge of the accused (circumstances of death in a locked room occupied only by accused and deceased).",
+        "Failure of accused to offer any explanation or offering a false explanation."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Section 106 does not absolve the prosecution from proving the foundational facts and the prima facie case beyond reasonable doubt.",
+          "supporting_precedents": [
+            "Shambu Nath Mehra v. State of Ajmer AIR 1956 SC 404",
+            "Nagendra Sah v. State of Bihar (2021) 10 SCC 725"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The appellant's conduct post-incident (leaving alone, misleading PW-1, absconding until arrest from another state) is incriminating evidence.",
+      "precedents": [
+        "Prakash Chand v. State (Delhi Administration) (1979) 3 SCC 90",
+        "Bipin Kumar Mondal v. State of West Bengal (2010) 12 SCC 91",
+        "SK. Yusuf v. State of West Bengal (2011) 11 SCC 754"
+      ],
+      "elements": [
+        "Conduct of accused subsequent to the offence.",
+        "Relevance under Section 8, Indian Evidence Act.",
+        "Absconding as evidence of guilty mind."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Absconding can be due to panic or fear, not necessarily guilt.",
+          "supporting_precedents": [
+            "Matru v. State of U.P. (1971) 2 SCC 75",
+            "Rahman v. State of U.P. AIR 1972 SC 110"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Medical evidence (post-mortem report Ext. P9 and testimony of PW-14) conclusively establishes the homicidal nature of the death (smothering) and the time of death aligns with the prosecution's case.",
+      "precedents": [
+        "Baldev Singh v. State of Punjab (2009) 6 SCC 564 (Importance of medical evidence)",
+        "State of Karnataka v. Derepal Singh (2010) 12 SCC 299 (Corroborative value of PM report)",
+        "Mayur v. State of Gujarat (2017) 13 SCC 751 (Consistency of medical evidence with ocular/circumstantial evidence)"
+      ],
+      "elements": [
+        "Proof of unnatural death.",
+        "Medical opinion on cause of death (smothering).",
+        "Consistency of injuries with cause of death.",
+        "Consistency of estimated time of death with other evidence."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Inherent limitations in estimating the exact time of death based solely on post-mortem findings.",
+          "supporting_precedents": [
+            "Amar Singh v. State of Punjab AIR 1987 SC 826 (Time of death estimation difficulties)",
+            "Baso Prasad v. State of Bihar (2006) 13 SCC 65 (Medical evidence must be read with caution)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The chain of circumstantial evidence is not complete; there are missing links, and the circumstances do not exclude the hypothesis of innocence.",
+      "edge_cases": [
+        "Lack of direct evidence",
+        "Possibility of alternative scenarios not fully negated by prosecution."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+        "Nizam v. State of Rajasthan (2016) 1 SCC 550",
+        "Sujit Biswas v. State of Assam (2013) 12 SCC 406"
+      ]
+    },
+    {
+      "argument": "Conviction cannot be based solely on the 'last seen' theory without sufficient corroboration; the time gap allows for possibilities.",
+      "edge_cases": [
+        "Lack of motive proof",
+        "Absence of recovery of incriminating items."
+      ],
+      "precedents": [
+        "Kanhaiya Lal v. State of Rajasthan (2014) 4 SCC 715",
+        "Jaswant Gir v. State of Punjab (2005) 12 SCC 438",
+        "Ravi v. State of Karnataka (2011) 12 SCC 383"
+      ]
+    },
+    {
+      "argument": "The prosecution failed to prove motive (suspicion of fidelity) conclusively. Suspicion, however strong, cannot replace proof.",
+      "edge_cases": [
+        "Motive is weak or based on speculation",
+        "Absence of prior complaints or evidence of discord."
+      ],
+      "precedents": [
+        "Babu v. State of Kerala (2010) 9 SCC 189",
+        "Anthony D'Souza v. State of Karnataka (2003) 1 SCC 259 (Motive less relevant if chain complete, but relevant if chain weak)",
+        "Wakkar v. State of U.P. (2011) 3 SCC 306"
+      ]
+    },
+    {
+      "argument": "The burden under Section 106 of the Evidence Act does not arise until the prosecution establishes a prima facie case beyond reasonable doubt based on other evidence.",
+      "edge_cases": [
+        "Foundational facts not proven",
+        "Initial burden of proof not discharged by prosecution."
+      ],
+      "precedents": [
+        "Shambu Nath Mehra v. State of Ajmer AIR 1956 SC 404",
+        "Nagendra Sah v. State of Bihar (2021) 10 SCC 725",
+        "Sawai Singh v. State of Rajasthan AIR 1986 SC 995"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The conviction of the appellant under Section 302 IPC and the sentence of life imprisonment awarded by the Trial Court and confirmed by the High Court were upheld.",
+    "reasoning": [
+      "The case rests on circumstantial evidence, and the prosecution successfully established a complete chain of circumstances.",
+      "The 'last seen' circumstance was firmly established (PW-1, PW-2, PW-3 testimony).",
+      "The appellant and deceased were the only occupants of the locked room; death occurred soon after the appellant left.",
+      "Under Section 106 of the Evidence Act, the appellant had a duty to explain the circumstances under which his wife died in his exclusive custody, which he failed to do.",
+      "Medical evidence (PW-14 testimony and Ext. P9 post-mortem report) clearly established homicidal death due to smothering, consistent with the timeline.",
+      "The appellant's conduct after the incident (leaving the lodge alone, making a false statement to PW-1, absconding, being arrested from another state) was highly incriminating.",
+      "The motive alleged (suspicion of fidelity), while not definitively proven, lends credence to the prosecution case, although the conviction primarily stands on the strength of the circumstantial chain.",
+      "The concurrent findings of fact by the Trial Court and High Court were based on proper appreciation of evidence and did not suffer from perversity.",
+      "The defense failed to create any reasonable doubt or point out missing links in the prosecution's chain of evidence."
+    ],
+    "cited_cases": [
+      "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+      "Hanumant Govind Nargundkar v. State of M.P. AIR 1952 SC 343",
+      "State of U.P. v. Satish (2005) 3 SCC 114",
+      "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681",
+      "State of Rajasthan v. Kashi Ram (2006) 12 SCC 254",
+      "State of Goa v. Sanjay Thakran (2007) 3 SCC 755",
+      "Anthony D'Souza v. State of Karnataka (2003) 1 SCC 259",
+      "Ramreddy Rajeshkhanna Reddy v. State of A.P. (2006) 10 SCC 172"
+    ]
+  }
+}

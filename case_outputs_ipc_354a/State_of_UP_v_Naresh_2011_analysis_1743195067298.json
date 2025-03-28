@@ -1,0 +1,200 @@
+{
+  "case_id": "State of U.P. v. Naresh (2011) 4 SCC 324",
+  "facts": [
+    "Date of Incident: 27.07.1995, around 7:30 PM.",
+    "Location: Village Sakhauti, P.S. Daurala, District Meerut, Uttar Pradesh.",
+    "Victim: Prem Singh.",
+    "Accused: Naresh, Mahesh, Surender, Sukhbir, Ompal, Jagmer, and Balbir.",
+    "Sequence of Events: Prem Singh was returning home from his fields when he was attacked near the house of Rakesh by the accused persons.",
+    "Alleged Weapons: Lathis, Tabal (a sharp-edged weapon/axe), Spear.",
+    "FIR: Lodged by Balbir Singh (PW-1, brother of the deceased) on 27.07.1995 at 9:00 PM at P.S. Daurala (approx. 5 km from the village) against all 7 accused.",
+    "IPC Sections in FIR: Sections 147, 148, 149, 302 IPC.",
+    "Key Witnesses: Balbir Singh (PW-1, informant, brother), Tejbir Singh (PW-2, son), Om Wati (PW-3, wife). All claimed to have witnessed the incident.",
+    "Medical Evidence: Post-mortem conducted by Dr. Naresh Kumar Sharma (PW-4) on 28.07.1995. Findings included multiple ante-mortem injuries: 5 incised wounds (attributed to sharp-edged weapons like Tabal/Spear), 6 contusions, and abrasions (attributed to lathis/blunt weapons). Cause of death: Shock and haemorrhage due to ante-mortem injuries.",
+    "Investigation: IO (PW-5) visited the spot, prepared site plan, recovered blood-stained earth, recorded witness statements.",
+    "Trial Court Judgment (15.02.1999): Acquitted all accused. Reasons cited: PW-1, PW-2, PW-3 were related and interested witnesses; contradictions in their testimonies regarding specific weapons used by specific accused and sequence of events; delay in FIR copy reaching the Magistrate (sent on 28.07.1995, received on 29.07.1995); non-examination of independent witnesses named in the FIR; motive (minor previous altercation) deemed insufficient.",
+    "High Court Judgment: Allowed the State's appeal against acquittal. Convicted Naresh, Mahesh, Surender, Sukhbir, Ompal, and Jagmer under Section 302 read with Section 149 IPC (Life Imprisonment) and Section 148 IPC (1 year RI). Accused Balbir was acquitted by the High Court. HC found trial court's reasons for acquittal flimsy and perverse, held testimonies of PW-1, PW-2, PW-3 credible and corroborated by medical evidence.",
+    "Supreme Court Appeal: Filed by the six convicted accused against the High Court judgment."
+  ],
+  "ipc_sections": [
+    "Section 147 (Rioting)",
+    "Section 148 (Rioting, armed with deadly weapon)",
+    "Section 149 (Unlawful assembly - vicarious liability)",
+    "Section 300 (Murder definition)",
+    "Section 302 (Punishment for Murder)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly reversed the perverse acquittal by the Trial Court, which ignored credible evidence and focused on minor discrepancies.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415",
+        "State of Rajasthan v. Sohan Lal (2004) 5 SCC 573",
+        "Sheo Swarup v. King Emperor AIR 1934 PC 227"
+      ],
+      "elements": [
+        "Perversity in Trial Court judgment",
+        "Misappreciation of evidence by Trial Court",
+        "Correct application of appellate powers under CrPC Section 378"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense assertion that High Court merely substituted its view for a plausible view of the Trial Court.",
+          "supporting_precedents": [
+            "Murugesan v. State Through Inspector of Police (2012) 10 SCC 383",
+            "Ramesh Babulal Doshi v. State of Gujarat (1996) 9 SCC 225",
+            "Ayodhya Singh v. State of Bihar AIR 1974 SC 1880"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The ocular testimonies of PW-1, PW-2, and PW-3 (related witnesses) are consistent, credible, natural, and fully corroborated by the medical evidence (PW-4).",
+      "precedents": [
+        "Dalip Singh v. State of Punjab AIR 1953 SC 364",
+        "State of U.P. v. Samman Dass (1972) 3 SCC 201",
+        "Allarakha K. Mansuri v. State of Gujarat (2002) 3 SCC 57",
+        "Sachchey Lal Tiwari v. State of U.P. (2004) 11 SCC 410"
+      ],
+      "elements": [
+        "Credibility of related witnesses",
+        "Consistency in core narrative",
+        "Corroboration between ocular and medical evidence",
+        "Naturalness of witness presence at the scene"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense claim of contradictions, improvements, and bias due to relationship, plus non-examination of independent witnesses.",
+          "supporting_precedents": [
+            "State of Rajasthan v. Kalki (1981) 2 SCC 752",
+            "Lallu Manjhi v. State of Jharkhand (2003) 2 SCC 401",
+            "Vadivelu Thevar v. State of Madras AIR 1957 SC 614"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The formation of an unlawful assembly with the common object of murdering Prem Singh is proven by the number of accused, the deadly weapons carried, the manner of assault, and the nature/number of injuries inflicted.",
+      "precedents": [
+        "Masalti v. State of U.P. AIR 1965 SC 202",
+        "Lalji v. State of U.P. (1989) 1 SCC 437",
+        "Roy Fernandes v. State of Goa (2012) 3 SCC 221",
+        "Mizaji v. State of U.P. AIR 1959 SC 572"
+      ],
+      "elements": [
+        "Assembly of 5 or more persons",
+        "Common object (to commit murder)",
+        "Use of force/violence",
+        "Offence committed in prosecution of common object (Section 149 applicability)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense argument that specific roles were not clearly attributed and mere presence does not attract Section 149.",
+          "supporting_precedents": [
+            "Baladin v. State of U.P. AIR 1956 SC 181",
+            "Shambhu Nath Singh v. State of Bihar AIR 1960 SC 725",
+            "Kuldip Yadav v. State of Bihar (2011) 5 SCC 324"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Minor discrepancies or inconsistencies in witness statements do not affect the core credibility of the prosecution case, especially when corroborated by medical evidence.",
+      "precedents": [
+        "State of Punjab v. Karnail Singh (2003) 11 SCC 271",
+        "Leela Ram v. State of Haryana (1999) 9 SCC 525",
+        "Rammi alias Rameshwar v. State of M.P. (1999) 8 SCC 649"
+      ],
+      "elements": [
+        "Materiality of contradictions",
+        "Overall consistency of evidence",
+        "Impact of minor errors vs fatal flaws"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense position that the discrepancies identified by the Trial Court were material and indicated unreliability.",
+          "supporting_precedents": [
+            "State of U.P. v. Jagdeo (2003) 1 SCC 456",
+            "Hasib v. State of Bihar (1972) 4 SCC 773",
+            "Suraj Mal v. State (Delhi Administration) AIR 1979 SC 1408"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court exceeded its jurisdiction by reversing a well-reasoned acquittal merely because another view was possible. The Trial Court's assessment of evidence was plausible.",
+      "edge_cases": [
+        "Principles governing appeal against acquittal (CrPC Section 378).",
+        "Requirement for 'compelling and substantial reasons' or 'perversity' to overturn acquittal."
+      ],
+      "precedents": [
+        "Murugesan v. State Through Inspector of Police (2012) 10 SCC 383",
+        "Tota Singh v. State of Punjab AIR 1987 SC 1083",
+        "Basappa v. State of Karnataka (2014) 5 SCC 154"
+      ]
+    },
+    {
+      "argument": "The testimonies of PW-1, PW-2, and PW-3 are unreliable as they are close relatives of the deceased (interested witnesses) and their statements contain material contradictions and improvements over initial versions.",
+      "edge_cases": [
+        "Effect of non-examination of independent witnesses named in FIR.",
+        "Contradictions regarding weapon attribution and role specification."
+      ],
+      "precedents": [
+        "State of Rajasthan v. Kalki (1981) 2 SCC 752",
+        "Harbeer Singh v. Sheeshpal Singh (2016) 16 SCC 418",
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808"
+      ]
+    },
+    {
+      "argument": "The unexplained delay in the FIR copy reaching the Magistrate casts serious doubt on the authenticity and timing of the FIR, suggesting potential deliberation and concoction.",
+      "edge_cases": [
+        "Statutory requirement under CrPC Section 157.",
+        "Whether the prosecution offered any explanation for the delay."
+      ],
+      "precedents": [
+        "Thulia Kali v. State of Tamil Nadu (1972) 3 SCC 393",
+        "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371",
+        "Arjun Marik v. State of Bihar 1994 Supp (2) SCC 372"
+      ]
+    },
+    {
+      "argument": "The prosecution failed to establish a strong motive for such a heinous crime allegedly committed by seven individuals.",
+      "edge_cases": [
+        "Sufficiency of alleged minor altercation as motive.",
+        "Relevance of motive when ocular evidence is contested."
+      ],
+      "precedents": [
+        "State of U.P. v. Kishanpal (2008) 16 SCC 73 (Motive less important if direct evidence credible)",
+        "Nathuni Yadav v. State of Bihar (1998) 9 SCC 238 (Absence of motive can be relevant when evidence is doubtful)",
+        "Bipin Kumar Mondal v. State of West Bengal (2010) 12 SCC 91 (Motive is a circumstance but not indispensable)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The Supreme Court upheld the High Court's judgment convicting the appellants Naresh, Mahesh, Surender, Sukhbir, Ompal, and Jagmer under Section 302 read with Section 149 IPC and Section 148 IPC.",
+    "reasoning": [
+      "The Supreme Court concurred with the High Court that the Trial Court's acquittal was based on flimsy grounds and misappreciation of evidence, amounting to perversity.",
+      "The testimonies of the eye-witnesses (PW-1, PW-2, PW-3), although related, were found to be credible, consistent, and corroborated by the detailed medical evidence (PW-4). Relationship is not a factor affecting credibility if the testimony is otherwise reliable.",
+      "Minor discrepancies highlighted by the Trial Court were insignificant and did not detract from the core truthfulness of the prosecution case regarding the assault by the accused.",
+      "The medical evidence regarding multiple injuries caused by both sharp-edged and blunt weapons strongly supported the ocular account of assault by multiple persons armed with lathis, tabal, and spear.",
+      "The High Court was justified in exercising its appellate powers to reverse the acquittal, following the principles laid down in *Chandrappa v. State of Karnataka*.",
+      "The delay in the FIR reaching the Magistrate was considered but not found fatal in the circumstances of the case, especially given the prompt lodging of the FIR itself and the credible evidence.",
+      "The existence of an unlawful assembly with the common object to murder Prem Singh was clearly established from the evidence regarding the manner of attack, weapons used, and number of participants and injuries, making Section 149 IPC applicable."
+    ],
+    "cited_cases": [
+      "Chandrappa v. State of Karnataka (2007) 4 SCC 415",
+      "State of Rajasthan v. Sohan Lal (2004) 5 SCC 573",
+      "Allarakha K. Mansuri v. State of Gujarat (2002) 3 SCC 57",
+      "Sachchey Lal Tiwari v. State of U.P. (2004) 11 SCC 410",
+      "State of U.P. v. Samman Dass (1972) 3 SCC 201",
+      "Dalip Singh v. State of Punjab AIR 1953 SC 364",
+      "Masalti v. State of U.P. AIR 1965 SC 202",
+      "Lalji v. State of U.P. (1989) 1 SCC 437",
+      "State of Punjab v. Karnail Singh (2003) 11 SCC 271",
+      "Leela Ram v. State of Haryana (1999) 9 SCC 525",
+      "Rammi alias Rameshwar v. State of M.P. (1999) 8 SCC 649",
+      "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371"
+    ]
+  }
+}

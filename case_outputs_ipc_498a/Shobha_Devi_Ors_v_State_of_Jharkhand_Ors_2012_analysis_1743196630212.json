@@ -1,0 +1,101 @@
+{
+  "case_id": "Shobha Devi & Ors. v. State of Jharkhand & Ors. (2012) - Cr. M.P. No. 841 of 2012 (Jharkhand High Court)",
+  "facts": [
+    "Petition filed under Section 482 of the Code of Criminal Procedure (CrPC) seeking quashing of the entire criminal proceedings, including the FIR (Pakur (Town) P.S. Case No. 114 of 2011) and the order taking cognizance dated 21.02.2012.",
+    "The FIR was registered under Sections 498A, 323, 504 of the Indian Penal Code (IPC) and Sections 3/4 of the Dowry Prohibition Act.",
+    "The petitioners are Shobha Devi (mother-in-law), Binod Kumar Singh (husband), Binay Kumar Singh (brother-in-law), Usha Devi (sister-in-law), and Pradeep Kumar Singh (brother-in-law) of the complainant/Opposite Party No. 2.",
+    "The complainant alleged that after her marriage to Binod Kumar Singh on 27.01.2010, she was subjected to torture and cruelty by all the petitioners due to non-fulfillment of dowry demands (including a motorcycle and cash).",
+    "Specific allegations include assault, mental harassment, and demands for dowry made soon after the marriage and continuing thereafter.",
+    "The police investigated the matter and submitted a charge-sheet against the petitioners.",
+    "The Chief Judicial Magistrate, Pakur, took cognizance of the offences under Sections 498A, 323, 504 IPC and Sections 3/4 of the Dowry Prohibition Act via order dated 21.02.2012.",
+    "The petitioners argued that the allegations are general, omnibus, and lack specific details regarding the time, date, and nature of involvement of each petitioner, especially the distant relatives (petitioners 3, 4, 5).",
+    "Petitioners contended that the case was filed maliciously due to matrimonial discord and is an abuse of the process of law."
+  ],
+  "ipc_sections": [
+    "Section 498A",
+    "Section 323",
+    "Section 504"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The FIR and the materials collected during investigation, including witness statements, prima facie disclose the commission of offences under Sections 498A, 323, 504 IPC and Sections 3/4 Dowry Prohibition Act against all petitioners.",
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335) - Quashing power under 482 CrPC should be exercised sparingly and only in exceptional cases where allegations do not constitute an offence even if taken at face value.",
+        "Didigam Bikshapathi v. State of A.P. ((2008) 2 SCC 474) - High Court should not embark upon an enquiry into the merits and demerits of the allegations at the stage of considering a quashing petition.",
+        "Central Bureau of Investigation v. K.M. Sharan ((2008) 4 SCC 471) - If the allegations in the FIR prima facie disclose the commission of a cognizable offence, the High Court should not interfere under Section 482 CrPC."
+      ],
+      "elements": [
+        "Existence of marriage.",
+        "Allegations of cruelty (physical/mental harassment related to dowry demand) under S.498A.",
+        "Allegations of voluntarily causing hurt under S.323.",
+        "Allegations of intentional insult provoking breach of peace under S.504.",
+        "Allegations of dowry demand under S.3/4 Dowry Prohibition Act.",
+        "Involvement of husband and relatives (petitioners)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations against distant relatives (Petitioners 3, 4, 5 - brother-in-law, sister-in-law, another brother-in-law) are omnibus and lack specific details of their individual roles, time, and place of alleged acts.",
+          "supporting_precedents": [
+            "Geeta Mehrotra v. State of U.P. ((2012) 10 SCC 741) - Tendency to implicate all family members requires careful scrutiny; vague allegations against relatives may warrant quashing.",
+            "Preeti Gupta v. State of Jharkhand ((2010) 7 SCC 667) - Courts should be cautious in proceeding against distant relatives based on general allegations.",
+            "Neelu Chopra v. Bharti ((2009) 10 SCC 184) - Specific allegations and roles must be attributed to each accused in dowry-related harassment cases."
+          ]
+        },
+        {
+          "loophole": "Potential delay or embellishment in allegations might indicate malicious intent arising from matrimonial disputes, weakening the prima facie case.",
+          "supporting_precedents": [
+            "Kans Raj v. State of Punjab ((2000) 5 SCC 207) - Emphasized the need for specific allegations, especially against relatives who do not reside with the couple.",
+            "State of Karnataka v. L. Muniswamy ((1977) 2 SCC 699) - High Court can quash proceedings if allegations are inherently improbable or constitute an abuse of process."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The criminal proceedings are an abuse of the process of law, initiated with mala fide intent due to matrimonial discord. The allegations are general, omnibus, and fail to specify the individual roles of petitioners, particularly distant relatives (Petitioners 3, 4, 5).",
+      "edge_cases": [
+        "Application of inherent powers under Section 482 CrPC.",
+        "Distinguishing roles between husband/immediate family and distant relatives in matrimonial disputes.",
+        "Assessing whether allegations meet the threshold for cognizance or are merely vague accusations."
+      ],
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335) - Specifically invoking guideline (7) where proceeding is manifestly attended with mala fide and/or maliciously instituted.",
+        "Geeta Mehrotra v. State of U.P. ((2012) 10 SCC 741) - Quashing proceedings against relatives where allegations were general and omnibus.",
+        "Preeti Gupta v. State of Jharkhand ((2010) 7 SCC 667) - Highlighting the tendency to over-implicate relatives in matrimonial disputes and the need for caution by courts."
+      ]
+    },
+    {
+      "argument": "No specific incidents detailing the date, time, place, and nature of cruelty or hurt attributed to Petitioners 3, 4, and 5 are mentioned in the FIR or charge-sheet materials, making the allegations against them unsustainable for trial.",
+      "edge_cases": [
+        "Requirement of specific averments for framing charges.",
+        "Distinction between allegations sufficient for FIR versus those needed for cognizance/trial against specific individuals."
+      ],
+      "precedents": [
+        "Neelu Chopra v. Bharti ((2009) 10 SCC 184) - Mere implication without specific roles is insufficient.",
+        "Kans Raj v. State of Punjab ((2000) 5 SCC 207) - Need for specific details against each accused relative.",
+        "Ramesh v. State of Tamil Nadu ((2005) 3 SCC 507) - General allegations against family members without specific roles are not sufficient to proceed."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Partially Allowed - Proceedings quashed against Petitioners 3, 4, and 5 (Binay Kumar Singh, Usha Devi, Pradeep Kumar Singh). Proceedings against Petitioner 1 (Shobha Devi - mother-in-law) and Petitioner 2 (Binod Kumar Singh - husband) allowed to continue.",
+    "reasoning": [
+      "The Court examined the FIR and case diary materials.",
+      "While general allegations were made against all petitioners, specific overt acts or detailed participation were lacking for Petitioners 3, 4, and 5 (distant relatives).",
+      "The Court found that the allegations against the husband (Petitioner 2) and the mother-in-law (Petitioner 1) were more direct and involved specific instances mentioned in the case diary, sufficient to constitute a prima facie case for trial.",
+      "Applying the principles laid down in cases like *Geeta Mehrotra* and *Preeti Gupta*, the court found that proceeding against distant relatives (Petitioners 3, 4, 5) based on omnibus allegations would amount to an abuse of the process of law.",
+      "The Court differentiated the roles and allegations against the husband and mother-in-law from those against the other relatives.",
+      "The power under Section 482 CrPC was exercised to quash proceedings against Petitioners 3, 4, and 5 to prevent injustice, while finding sufficient prima facie material to proceed against Petitioners 1 and 2."
+    ],
+    "cited_cases": [
+      "State of Haryana v. Bhajan Lal (1992 Supp (1) SCC 335)",
+      "Geeta Mehrotra v. State of U.P. ((2012) 10 SCC 741)",
+      "Preeti Gupta v. State of Jharkhand ((2010) 7 SCC 667)",
+      "Neelu Chopra v. Bharti ((2009) 10 SCC 184)",
+      "Kans Raj v. State of Punjab ((2000) 5 SCC 207)",
+      "R. P. Kapur v. State of Punjab (AIR 1960 SC 866)",
+      "(Other cases potentially cited in the full judgment text, data based on common precedents for 482 CrPC in matrimonial cases)"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "case_id": "Jagmohan Singh v. State of Uttar Pradesh (1973)",
+  "facts": [
+    "The case concerns the constitutional validity of capital punishment in India.",
+    "The appellant, Jagmohan Singh, was convicted of murder and sentenced to death by the Sessions Court.",
+    "The conviction and sentence were upheld by the High Court of Allahabad.",
+    "The appellant challenged the sentence of death, arguing that it violated Article 14, 19, and 21 of the Indian Constitution.",
+    "The arguments were based on the grounds that the procedure for imposing the death sentence was arbitrary and discriminatory and lacked procedural safeguards.",
+    "The appellant argued that the judges had no uniform standards of sentencing and were given too much discretion.",
+    "The appeal was heard by the Supreme Court of India."
+  ],
+  "ipc_sections": [
+    "Section 302 (Murder)",
+    "Relevant Sections of CrPC relating to sentencing"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Capital punishment is a valid and necessary punishment to deter heinous crimes and maintain law and order.",
+      "precedents": [
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself",
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself",
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself"
+      ],
+      "elements": [
+        "Commission of murder under Section 302 IPC.",
+        "Justification for imposing capital punishment based on the nature of the crime and circumstances.",
+        "Absence of mitigating factors that would warrant a lesser sentence."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The procedure for imposing the death sentence is arbitrary and discriminatory, violating fundamental rights.",
+          "supporting_precedents": [
+            "Rajendra Prasad v. State of Uttar Pradesh (1979) 3 SCC 646 (arguing for mitigating circumstances)",
+            "Bachan Singh v. State of Punjab (1980) 2 SCC 684 (constitutionality challenged)",
+            "Mithu v. State of Punjab (1983) 2 SCC 277 (mandatory death penalty unconstitutional)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The judiciary is capable of exercising discretion fairly and justly when imposing the death sentence.",
+      "precedents": [
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself",
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself",
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself"
+      ],
+      "elements": [
+        "Discretionary power of the judiciary under the existing legal framework.",
+        "Judicial precedent supporting the imposition of the death penalty in certain cases.",
+        "Consideration of mitigating and aggravating circumstances during sentencing."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The lack of uniform standards and guidelines for sentencing leads to arbitrariness and unfair application of the death penalty.",
+          "supporting_precedents": [
+            "Ediga Anamma v. State of Andhra Pradesh (1974) 4 SCC 443 (appeal to reduce death sentence)",
+            "Santa Singh v. State of Punjab (1976) 4 SCC 190 (discretion in sentencing examined)",
+            "Dalbir Singh v. State of Punjab (1979) 3 SCC 745 (reversal of death sentence on appeal)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The death penalty violates fundamental rights guaranteed under the Indian Constitution, specifically Articles 14, 19, and 21.",
+      "edge_cases": [
+        "Constitutional interpretation of Articles 14, 19, and 21 in relation to capital punishment.",
+        "International human rights standards concerning the death penalty."
+      ],
+      "precedents": [
+        "Maneka Gandhi v. Union of India (1978) 1 SCC 248 (right to life and personal liberty)",
+        "Francis Coralie Mullin v. Administrator, Union Territory of Delhi (1981) 1 SCC 608 (expanding scope of Article 21)",
+        "Sunil Batra v. Delhi Administration (1978) 4 SCC 494 (human dignity in prison)"
+      ]
+    },
+    {
+      "argument": "The procedure for imposing the death sentence is arbitrary and discriminatory, lacking procedural safeguards.",
+      "edge_cases": [
+        "The extent of judicial discretion in sentencing.",
+        "The absence of clear guidelines and standards for imposing the death sentence."
+      ],
+      "precedents": [
+        "Rajendra Prasad v. State of Uttar Pradesh (1979) 3 SCC 646",
+        "Bachan Singh v. State of Punjab (1980) 2 SCC 684",
+        "Mithu v. State of Punjab (1983) 2 SCC 277"
+      ]
+    },
+    {
+      "argument": "The death penalty is cruel and unusual punishment and does not serve as a deterrent to crime.",
+      "edge_cases": [
+        "Social and criminological studies on the effectiveness of the death penalty as a deterrent.",
+        "Comparative analysis of crime rates in countries with and without the death penalty."
+      ],
+      "precedents": [
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself",
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself",
+        "Insufficient data to provide specific precedents for arguments presented during the initial trials. This case deals mainly with the constitutional validity of Capital Punishment and not with the trial itself"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Upheld the constitutional validity of the death penalty in India, subject to certain safeguards.",
+    "reasoning": [
+      "The Court held that the death penalty, as an alternative punishment for murder, is not per se unreasonable or violative of Articles 14, 19, and 21 of the Constitution.",
+      "The Court emphasized the importance of considering both the crime and the criminal in determining the appropriate sentence.",
+      "The Court recognized the judiciary's responsibility to exercise discretion fairly and justly in imposing the death sentence.",
+      "The Court laid the groundwork for the 'rarest of rare cases' doctrine, which was later elaborated in Bachan Singh v. State of Punjab (1980)."
+    ],
+    "cited_cases": [
+      "Bachan Singh v. State of Punjab (1980) 2 SCC 684 (laid down the 'rarest of rare cases' doctrine)",
+      "Maneka Gandhi v. Union of India (1978) 1 SCC 248 (right to life and personal liberty)",
+      "Rajendra Prasad v. State of Uttar Pradesh (1979) 3 SCC 646 (further developed sentencing guidelines)"
+    ]
+  }
+}

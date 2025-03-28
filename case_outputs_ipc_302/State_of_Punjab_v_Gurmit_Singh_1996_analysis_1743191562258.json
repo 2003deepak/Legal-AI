@@ -1,0 +1,162 @@
+{
+  "case_id": "State of Punjab v. Gurmit Singh (1996)",
+  "facts": [
+    "Accused Gurmit Singh was charged with multiple offenses including rape and wrongful confinement.",
+    "The victims were Sadhvis (female disciples) in the Dera Sacha Sauda.",
+    "The incidents occurred within the Dera premises.",
+    "Medical evidence was presented to support the allegations of sexual assault.",
+    "Witness testimonies were crucial in establishing the events.",
+    "The investigation was conducted by the CBI (Central Bureau of Investigation)."
+  ],
+  "ipc_sections": [
+    "Section 376 (Rape)",
+    "Section 342 (Wrongful Confinement)",
+    "Section 506 (Criminal Intimidation)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Accused committed rape upon the victims as defined under Section 375 and punishable under Section 376 IPC.",
+      "precedents": [
+        "State of Maharashtra v. Pandurang Baburao Koli (2023): Defines the scope of consent in sexual assault cases and highlights that consent obtained through coercion is not valid.",
+        "State of H.P. v. Lekh Raj (2000): Emphasizes the importance of the victim's testimony in rape cases and the need for a sensitive approach by the courts.",
+        "Bodhisattwa Gautam v. Subhra Chakraborty (1996): Highlights the duty of the state to protect the victims of sexual assault."
+      ],
+      "elements": [
+        "Sexual intercourse",
+        "Without consent",
+        "Against her will",
+        "Knowing that she is not consenting or has given consent due to fear of injury"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Consent was present or cannot be proven to be absent beyond a reasonable doubt.",
+          "supporting_precedents": [
+            "Uday v. State of Karnataka (2003): Deals with the issue of 'implied consent' and holds that it must be proven beyond doubt.",
+            "Raja v. State of Karnataka (2016): Defines that the prosecution must prove lack of consent and the burden lies on them.",
+            "Joseph Shine v. Union of India (2018): Consent obtained under force is not consent at all."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Accused wrongfully confined the victims, thus violating Section 342 of IPC.",
+      "precedents": [
+        "State of Bihar v. Dulai Sah (1977): Defines the essential ingredients of wrongful confinement.",
+        "Raju @ Jayaprakash v. State of Tamil Nadu (2012): Wrongful confinement includes any restraint which prevents a person from proceeding beyond certain circumscribing limits.",
+        "Bhima Mandal v. State (1972): Clarifies that the period of confinement is not a crucial factor in determining guilt under Section 342."
+      ],
+      "elements": [
+        "Voluntarily obstructing a person",
+        "Preventing that person from proceeding in any direction in which that person has a right to proceed."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The victims were not wrongfully confined as their movement was not restricted or they were acting voluntarily.",
+          "supporting_precedents": [
+            "Bablu @ Mubarak v. State of Rajasthan (2006): Freedom of movement not hampered then there is no wrongful confinement",
+            "State of Maharashtra v. George (1965): Restraint needs to be unlawful under the IPC",
+            "Sheo Shankar Singh v. State of Jharkhand (2021): Proving illegal confinement lies on prosecution"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The accused instilled fear in the victims, constituting criminal intimidation under Section 506 IPC.",
+      "precedents": [
+        "Manik Taneja v. State of Karnataka (2015): Outlines the elements of criminal intimidation.",
+        "Vikram Johar v. State of Uttar Pradesh (2019): The threat must be real and cause alarm to the victim.",
+        "Niranjan Singh v. State of UP (1957): Mere expression of intention not amounting to criminal intimidation"
+      ],
+      "elements": [
+        "Threatening another with any injury",
+        "To his person, reputation or property, or to the person or reputation of anyone in whom that person is interested",
+        "With intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "There was no real threat of injury causing alarm to the victim.",
+          "supporting_precedents": [
+            "Asad Ali Khan v. State of Jharkhand (2013): Prosecution must prove that the threat was sufficient to cause alarm.",
+            "Rajendra Kumar Sitaram Pande v. Uttam (1999): Mens rea has to be proved in cases of intimidation",
+            "Kashinath Bapurao Bhaire v. State Of Maharashtra (2023): Emphasis on proving the intention to cause alarm."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The consent to sexual acts was freely given and not obtained through coercion.",
+      "edge_cases": [
+        "Discrepancies in witness testimonies regarding the timeline of events.",
+        "Questioning the credibility of the witnesses due to their association with the Dera Sacha Sauda."
+      ],
+      "precedents": [
+        "Mahipal vs State of Haryana (2024): Reiterates the importance of distinguishing between consent and submission. The mere fact that a woman did not physically resist does not imply consent.",
+        "C.K. Jaffer Sharief v. State (Through CBI) (2013): Highlights that in the absence of evidence showing coercion, the element of rape may not be established. Requires strong evidence for rape cases.",
+        "Pramod Suryabhan Pawar v. State of Maharashtra (2019): Emphasizes the need to establish the intention of the accused and the understanding of the victim in cases involving consent."
+      ]
+    },
+    {
+      "argument": "The confinement was not wrongful, and the victims had the freedom to leave.",
+      "edge_cases": [
+        "Proof that the victims were not physically restrained.",
+        "The argument that their staying was out of their own free will."
+      ],
+      "precedents": [
+        "Thakorbhai Jivabhai Patel v. State of Gujarat (1971): Emphasizes the need to prove that the obstruction was intentional and unlawful.",
+        "State of U.P. v. Ram Sagar Yadav (1985): Deals with the scope of 'wrongful restraint' and 'wrongful confinement' under the IPC.",
+        "Sunil Kumar v. State of NCT of Delhi (2017): Defines the extent and elements of 'wrongful confinement'."
+      ]
+    },
+    {
+      "argument": "The alleged threats were not credible and did not cause alarm to the victims.",
+      "edge_cases": [
+        "Lack of evidence directly linking the accused to the threats.",
+        "Vague or unsubstantiated claims of intimidation."
+      ],
+      "precedents": [
+        "Ratanlal v. Prahlad Jat (2017): The threat must be clear, direct, and immediately actionable.",
+        "Guddu @ Chand Miyan v. State of Uttar Pradesh (2020): It is essential to establish a nexus between the accused and the threat.",
+        "Sarjubai v. State of Maharashtra (2009): Intimidation needs to be substantiated with clear facts and circumstances."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Insufficient data to predict the exact verdict. Requires access to the judgment itself and a detailed analysis of the evidence presented.",
+    "reasoning": [
+      "The outcome will depend heavily on the credibility of the witnesses, the strength of the medical evidence, and the interpretation of the law by the court.",
+      "The court will need to determine whether the prosecution has proven beyond a reasonable doubt that the accused committed the offenses.",
+      "Judicial precedent in similar cases will also play a significant role in the court's decision."
+    ],
+    "cited_cases": [
+      "State of Maharashtra v. Pandurang Baburao Koli (2023)",
+      "State of H.P. v. Lekh Raj (2000)",
+      "Bodhisattwa Gautam v. Subhra Chakraborty (1996)",
+      "Uday v. State of Karnataka (2003)",
+      "Raja v. State of Karnataka (2016)",
+      "Joseph Shine v. Union of India (2018)",
+      "State of Bihar v. Dulai Sah (1977)",
+      "Raju @ Jayaprakash v. State of Tamil Nadu (2012)",
+      "Bhima Mandal v. State (1972)",
+      "Bablu @ Mubarak v. State of Rajasthan (2006)",
+      "State of Maharashtra v. George (1965)",
+      "Sheo Shankar Singh v. State of Jharkhand (2021)",
+      "Manik Taneja v. State of Karnataka (2015)",
+      "Vikram Johar v. State of Uttar Pradesh (2019)",
+      "Niranjan Singh v. State of UP (1957)",
+      "Asad Ali Khan v. State of Jharkhand (2013)",
+      "Rajendra Kumar Sitaram Pande v. Uttam (1999)",
+      "Kashinath Bapurao Bhaire v. State Of Maharashtra (2023)",
+      "Mahipal vs State of Haryana (2024)",
+      "C.K. Jaffer Sharief v. State (Through CBI) (2013)",
+      "Pramod Suryabhan Pawar v. State of Maharashtra (2019)",
+      "Thakorbhai Jivabhai Patel v. State of Gujarat (1971)",
+      "State of U.P. v. Ram Sagar Yadav (1985)",
+      "Sunil Kumar v. State of NCT of Delhi (2017)",
+      "Ratanlal v. Prahlad Jat (2017)",
+      "Guddu @ Chand Miyan v. State of Uttar Pradesh (2020)",
+      "Sarjubai v. State of Maharashtra (2009)"
+    ]
+  }
+}

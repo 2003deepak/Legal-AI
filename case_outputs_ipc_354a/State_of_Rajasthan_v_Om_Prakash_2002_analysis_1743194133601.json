@@ -1,0 +1,175 @@
+{
+  "case_id": "State of Rajasthan v. Om Prakash (2002) 5 SCC 745",
+  "facts": [
+    "Marriage between Om Prakash (Respondent No. 1/Accused) and Kamlesh (deceased) solemnized on 25.04.1988.",
+    "Kamlesh died due to burn injuries at her matrimonial home in Village Mandawara, District Nagaur, Rajasthan on 08.09.1988.",
+    "The death occurred within approximately 4.5 months of the marriage.",
+    "Initial report (Ex. P-3) lodged by Om Prakash suggested accidental death due to stove bursting while preparing tea.",
+    "Bhanwar Lal (PW-2, father of the deceased) lodged a First Information Report (FIR) (Ex. P-1) on 09.09.1988 alleging that his daughter was harassed for dowry (demand for TV and Fridge) and killed by her husband and in-laws.",
+    "Prosecution witnesses, including PW-2 (father), PW-4 (Smt. Kamla, mother), and PW-6 (Jetha Ram, uncle), testified about dowry demands and harassment meted out to Kamlesh soon after marriage.",
+    "PW-2 testified he visited Kamlesh at her matrimonial home and observed her distress, and the accused complained about insufficient dowry.",
+    "Post-mortem report (Ex. P-11) indicated death due to shock as a result of extensive (90%) ante-mortem burns. Kerosene smell was detected.",
+    "The Trial Court acquitted all accused (Om Prakash - husband, Mangi Lal - father-in-law, Surji Devi - mother-in-law), disbelieving the prosecution witnesses on dowry demands and considering the possibility of accident or suicide.",
+    "The High Court, on appeal by the State, reversed the acquittal. It convicted Om Prakash under Section 304B IPC and sentenced him to 7 years RI. It also convicted Om Prakash, Mangi Lal, and Surji Devi under Section 498A IPC and sentenced them to 2 years RI each. Sentences were concurrent.",
+    "The accused (Respondents herein) did not appeal the High Court judgment; this appeal was filed by the State of Rajasthan seeking enhancement of sentence or conviction under Section 302 IPC.",
+    "The Supreme Court primarily examined the correctness of the High Court's conviction based on the evidence, despite the appeal's focus being enhancement (implicitly reviewing the conviction itself)."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 302 (Punishment for murder) - Considered but not applied by HC/SC for conviction.",
+    "Section 113B, Indian Evidence Act, 1872 (Presumption as to dowry death)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly reversed the perverse acquittal by the Trial Court, as evidence clearly established dowry demand and cruelty soon before death.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Principles for appeal against acquittal)",
+        "State of U.P. v. Banne @ Baijnath (2009) 4 SCC 271 (Reversal justified if trial court view is impossible or perverse)",
+        "Dhananjay Chatterjee v. State of W.B. (1994) 2 SCC 220 (Appellate court's power to review evidence)"
+      ],
+      "elements": [
+        "Perversity of Trial Court judgment",
+        "Credibility of PW-2, PW-4, PW-6",
+        "Appreciation of evidence by High Court"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Trial court's view regarding inconsistencies and possibility of suicide/accident was a plausible view, even if not the only one, limiting scope for reversal.",
+          "supporting_precedents": [
+            "State of Rajasthan v. Raja Ram (2003) 8 SCC 180 (Acquittal not to be reversed merely because another view is possible)",
+            "C. Antony v. K.G. Raghavan Nair (2003) 1 SCC 1 (High standard for interfering with acquittal)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "All ingredients of Section 304B IPC were satisfied against Om Prakash: Unnatural death (burns) within 7 years (4.5 months) of marriage, preceded by dowry-related cruelty and harassment.",
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 ('Soon before' implies proximate and live link, not necessarily immediate)",
+        "Satvir Singh v. State of Punjab (2001) 8 SCC 633 (Interpretation of S. 304B and S. 113B Evidence Act)",
+        "Shamnsaheb M. Multtani v. State of Karnataka (2001) 2 SCC 577 (Essential ingredients of S. 304B)"
+      ],
+      "elements": [
+        "Death otherwise than under normal circumstances",
+        "Death within 7 years of marriage",
+        "Subjected to cruelty/harassment for dowry",
+        "Cruelty occurred 'soon before' death",
+        "Presumption under Section 113B Evidence Act"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of specific, dated instances of cruelty immediately preceding the death weakens the 'soon before' requirement.",
+          "supporting_precedents": [
+            "Balwant Singh v. State of Punjab (2004) 7 SCC 724 (Requirement of proximate link for 'soon before')",
+            "Sunil Bajaj v. State of M.P. (2001) 9 SCC 417 (Stray demands or incidents long before death may not satisfy 'soon before')"
+          ]
+        },
+        {
+          "loophole": "The defence witness (DW-1) suggested accident/suicide, potentially rebutting the S.113B presumption.",
+          "supporting_precedents": [
+            "Baijnath v. State of Madhya Pradesh (2017) 1 SCC 101 (Presumption is rebuttable; defence can show death unrelated to dowry demand)",
+            "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Circumstantial evidence must rule out innocence)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Evidence of persistent demands for TV/Fridge and consequent harassment proved cruelty under Section 498A against husband and in-laws.",
+      "precedents": [
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Definition and scope of cruelty under S. 498A)",
+        "State of Karnataka v. H.S. Srinivasa (2001) 4 SCC 505 (Testimony of close relatives regarding dowry demands is reliable)",
+        "Gananath Pattnaik v. State of Orissa (2002) 2 SCC 619 (Mental cruelty sufficient for S. 498A)"
+      ],
+      "elements": [
+        "Subjection to cruelty (harassment linked to unlawful demand)",
+        "Act committed by husband or relative",
+        "Wilful conduct causing mental/physical harm"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations against in-laws (Mangi Lal, Surji Devi) were somewhat general; specific roles might be hard to pinpoint.",
+          "supporting_precedents": [
+            "Neelu Chopra v. Bharti (2009) 10 SCC 184 (Vague allegations against relatives insufficient for S. 498A)",
+            "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 (Tendency to implicate all relatives requires careful scrutiny)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The Trial Court's acquittal was well-reasoned, based on contradictions in prosecution evidence and plausible defence of accident or suicide.",
+      "edge_cases": [
+        "Appellate court's limited power to interfere with acquittal (CrPC S. 378)",
+        "Benefit of doubt must go to the accused when two views are possible"
+      ],
+      "precedents": [
+        "Arulvelu v. State (2009) 10 SCC 206 (Reversal of acquittal only if trial court findings are perverse or illegal)",
+        "Basappa v. State of Karnataka (2014) 5 SCC 154 (High Court should be slow to disturb acquittal unless compelling reasons exist)",
+        "Ramesh Babulal Doshi v. State of Gujarat (1996) 9 SCC 225 (Acquittal reversal requires glaring errors in trial court findings)"
+      ]
+    },
+    {
+      "argument": "Prosecution failed to establish a proximate and live link between alleged dowry demands/harassment and the death to satisfy the 'soon before death' requirement of Section 304B.",
+      "edge_cases": [
+        "Interpretation of 'soon before' requires more than general allegations over months",
+        "Absence of any complaint by the deceased to authorities prior to death"
+      ],
+      "precedents": [
+        "Major Singh v. State of Punjab (2015) 5 SCC 201 (Emphasis on proximate link for 'soon before')",
+        "Surinder Singh v. State of Haryana (2014) 4 SCC 129 (Temporal proximity is crucial)",
+        "Tarsem Singh v. State of Punjab (2008) 16 SCC 155 (Need for cogent evidence linking cruelty and death proximately)"
+      ]
+    },
+    {
+      "argument": "The possibility of accidental death (stove burst) or suicide due to other reasons (e.g., difficulty adjusting to marital life, homesickness) was not ruled out by the prosecution.",
+      "edge_cases": [
+        "Burden of proof rests entirely on the prosecution (beyond reasonable doubt)",
+        "Presence of kerosene can be consistent with cooking accident or suicide"
+      ],
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Prosecution must establish unnatural death linked to dowry cruelty)",
+        "Sanju alias Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Distinction between abetment of suicide (S. 306) and dowry death (S. 304B); requires proof beyond doubt)",
+        "Mangat Ram v. State of Haryana (2014) 12 SCC 595 (If suicide is a possibility, conviction under 304B requires strong evidence of preceding cruelty)"
+      ]
+    },
+    {
+      "argument": "Allegations against the in-laws (Mangi Lal, Surji Devi) under Section 498A were general and omnibus, lacking specific evidence of their individual involvement in cruelty.",
+      "edge_cases": [
+        "Over-implication of relatives is common in dowry cases",
+        "Lack of independent witness corroboration for specific acts by in-laws"
+      ],
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Caution against implicating all family members routinely)",
+        "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741 (Need for specific allegations against each accused relative in S. 498A cases)",
+        "Bhaskar Lal Sharma v. Monica (2009) 10 SCC 604 (Court must ascertain specific roles of relatives)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Conviction upheld. The Supreme Court dismissed the State's appeal (which sought enhancement/conversion to S. 302) and thereby confirmed the High Court's judgment convicting Om Prakash under S. 304B IPC and Om Prakash, Mangi Lal, and Surji Devi under S. 498A IPC.",
+    "reasoning": [
+      "The Supreme Court agreed with the High Court that the Trial Court's acquittal was perverse and ignored cogent evidence.",
+      "The testimonies of PW-2, PW-4, and PW-6 regarding dowry demands (TV, Fridge) and harassment were found credible and consistent.",
+      "The death was unnatural (burns) and occurred within 7 years (4.5 months) of marriage.",
+      "The term 'soon before death' under S. 304B does not mean 'immediately before'. It requires a proximate and live link. Given the short duration of marriage and continuous nature of demands/harassment testified to by witnesses, this link was established.",
+      "The presumption under Section 113B of the Indian Evidence Act was correctly raised against the husband (Om Prakash) for S. 304B, and he failed to rebut it.",
+      "The evidence was sufficient to establish cruelty under S. 498A against the husband and the in-laws based on persistent dowry demands and harassment.",
+      "The initial report by Om Prakash suggesting an accident was viewed as a potential attempt to create a false defense.",
+      "The High Court's appraisal of evidence was found to be sound."
+    ],
+    "cited_cases": [
+      "Kans Raj v. State of Punjab (2000) 5 SCC 207",
+      "Satvir Singh v. State of Punjab (2001) 8 SCC 633",
+      "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177",
+      "Shamnsaheb M. Multtani v. State of Karnataka (2001) 2 SCC 577",
+      "State of H.P. v. Nikku Ram (1995) 6 SCC 219",
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+      "Trimukh Maroti Kirkan v. State of Maharashtra (2006) 10 SCC 681 (Cited for principles, though decided later)",
+      "State of Karnataka v. H.S. Srinivasa (2001) 4 SCC 505",
+      "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445"
+    ]
+  }
+}

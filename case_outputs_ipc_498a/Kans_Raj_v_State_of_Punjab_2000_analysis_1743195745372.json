@@ -1,0 +1,144 @@
+{
+  "case_id": "Kans Raj v. State of Punjab (2000)",
+  "facts": [
+    "Kans Raj (Appellant) was married to the deceased.",
+    "The marriage took place approximately 1.5 years before the incident.",
+    "The deceased died due to poisoning on 16th July 1992 at her matrimonial home.",
+    "The deceased's father lodged an FIR alleging that the deceased was subjected to harassment and cruelty by the appellant and his family members in connection with demands for dowry (specifically, a scooter).",
+    "It was alleged that due to non-fulfillment of dowry demands, the deceased was often beaten and turned out of her matrimonial home.",
+    "The deceased had allegedly informed her parents about the continuous harassment and demands.",
+    "The Trial Court convicted the appellant under Sections 304B and 306 of the Indian Penal Code (IPC).",
+    "The High Court upheld the conviction under both sections.",
+    "The appellant appealed to the Supreme Court against the High Court's judgment."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 306 (Abetment of suicide)",
+    "Section 113B, Indian Evidence Act (Presumption as to dowry death)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The death of the deceased was a 'dowry death' under Section 304B IPC, as all essential ingredients were fulfilled.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+        "Shanti v. State of Haryana (1991) 1 SCC 371",
+        "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445"
+      ],
+      "elements": [
+        "Death occurred otherwise than under normal circumstances (poisoning).",
+        "Death occurred within seven years of marriage (approx 1.5 years).",
+        "Deceased was subjected to cruelty or harassment by the husband (appellant).",
+        "Cruelty or harassment was in connection with demand for dowry (scooter).",
+        "Such cruelty or harassment was inflicted 'soon before' her death."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The evidence of cruelty or harassment being 'soon before' death was not sufficiently proximate or live.",
+          "supporting_precedents": [
+            "Sham Lal v. State of Haryana (1997) 9 SCC 759",
+            "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+            "Kamesh Panjiyar @ Kamlesh Panjiyar v. State of Bihar (2005) 2 SCC 388"
+          ]
+        },
+        {
+          "loophole": "General allegations of harassment without specific instances linked closely to the time of death weaken the 'soon before death' requirement.",
+          "supporting_precedents": [
+            "Surinder Singh v. State of Haryana (2014) 4 SCC 129",
+            "Tarsem Singh v. State of Punjab (2008) 16 SCC 155"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Alternatively, the appellant abetted the suicide of the deceased under Section 306 IPC through continuous cruelty and harassment.",
+      "precedents": [
+        "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618",
+        "State of W.B. v. Orilal Jaiswal (1994) 1 SCC 73",
+        "Chitresh Kumar Chopra v. State (Govt. of NCT of Delhi) (2009) 16 SCC 605"
+      ],
+      "elements": [
+        "Deceased committed suicide (an interpretation of poisoning).",
+        "Appellant instigated, conspired, or intentionally aided the commission of suicide through acts of cruelty related to dowry demands."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Cruelty under Section 498A does not automatically translate to abetment under Section 306; specific proof of instigation/aiding directly leading to suicide is required.",
+          "supporting_precedents": [
+            "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371",
+            "Gangula Mohan Reddy v. State of A.P. (2010) 1 SCC 750",
+            "Rajesh v. State of Haryana (2019) 6 SCC 368"
+          ]
+        },
+        {
+          "loophole": "No direct evidence (like a suicide note) or specific act of instigation immediately preceding the death to prove abetment beyond reasonable doubt.",
+          "supporting_precedents": [
+            "Mahendra Singh v. State of M.P. (1995) Supp (3) SCC 731",
+            "Amalendu Pal @ Jhantu v. State of West Bengal (2010) 1 SCC 707"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Prosecution failed to establish a proximate and live link between the alleged dowry demand/harassment and the death, failing the 'soon before death' test for Section 304B.",
+      "edge_cases": [
+        "Interpretation of 'soon before death' requiring temporal proximity and a causal connection.",
+        "Whether general allegations suffice or specific instances close to the time of death are mandatory."
+      ],
+      "precedents": [
+        "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+        "Kaliyaperumal v. State of Tamil Nadu (2004) 9 SCC 157",
+        "Rajinder Singh v. State of Punjab (2015) 6 SCC 477"
+      ]
+    },
+    {
+      "argument": "Conviction under both Section 304B and Section 306 IPC is legally untenable as they represent distinct offences with different ingredients and burdens of proof.",
+      "edge_cases": [
+        "Section 304B involves a presumption (Section 113B Evidence Act) once foundational facts are proven.",
+        "Section 306 requires positive proof of mens rea (instigation/aiding) for abetment, no statutory presumption applies.",
+        "Whether the same set of facts (cruelty) can simultaneously satisfy the requirements for both the presumption under 304B and the positive proof of abetment under 306."
+      ],
+      "precedents": [
+        "Satvir Singh v. State of Punjab (2001) 8 SCC 633",
+        "Shinder Pal Kaur v. State of Punjab (2004) 11 SCC 431 (discussing overlap but distinct nature)",
+        "Bhupendra v. State of Madhya Pradesh (2014) 2 SCC 106 (emphasizing distinction)"
+      ]
+    },
+    {
+      "argument": "The evidence presented does not meet the higher threshold required to prove abetment of suicide under Section 306 IPC beyond reasonable doubt.",
+      "edge_cases": [
+        "Distinguishing cruelty (Section 498A) from the specific act of abetment leading to suicide (Section 306).",
+        "Requirement of active suggestion or instigation for Section 306."
+      ],
+      "precedents": [
+        "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371",
+        "Gangula Mohan Reddy v. State of A.P. (2010) 1 SCC 750",
+        "Gurjit Singh v. State of Punjab (2019) 16 SCC 484"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal partly allowed. Conviction under Section 304B IPC upheld. Conviction under Section 306 IPC set aside.",
+    "reasoning": [
+      "The Court found that the essential ingredients of Section 304B IPC were met: unnatural death within 7 years of marriage, preceded by dowry-related cruelty.",
+      "The evidence indicated persistent harassment for dowry (scooter), satisfying the requirement of cruelty 'soon before death' under Section 304B, thereby invoking the presumption under Section 113B of the Evidence Act.",
+      "The Court emphasized the distinction between Section 304B and Section 306 IPC. While cruelty was proven, which is common to both Section 498A and potentially 304B, it did not automatically satisfy the requirements for abetment under Section 306.",
+      "To sustain a conviction under Section 306, positive proof of action proximate to the time of occurrence, involving instigation, conspiracy, or intentional aiding for suicide, is necessary. This was found lacking.",
+      "The Court held that convicting under both Sections 304B and 306 for the same set of facts was inappropriate, as Section 304B is a distinct offence relating to dowry death with a specific statutory presumption, whereas Section 306 requires proof of active abetment.",
+      "Since the ingredients for dowry death (Section 304B) were established, triggering the presumption under Section 113B, this conviction was sustained. However, the evidence did not independently establish the elements required for abetment of suicide under Section 306 beyond reasonable doubt."
+    ],
+    "cited_cases": [
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "Shanti v. State of Haryana (1991) 1 SCC 371",
+      "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+      "Satvir Singh v. State of Punjab (2001) 8 SCC 633",
+      "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618",
+      "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445",
+      "State of W.B. v. Orilal Jaiswal (1994) 1 SCC 73",
+      "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Though decided later, reflects the principle discussed)",
+      "Sham Lal v. State of Haryana (1997) 9 SCC 759"
+    ]
+  }
+}

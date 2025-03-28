@@ -1,0 +1,168 @@
+{
+  "case_id": "State of Rajasthan v. Narayan (1992)",
+  "facts": [
+    "The case involves an appeal by the State of Rajasthan against the acquittal of the respondent, Narayan, by the High Court.",
+    "Narayan (respondent) was married to Gulab Bai (deceased).",
+    "Incident occurred during the night between 14th and 15th September 1978, in village Rampura, District Tonk, Rajasthan.",
+    "Prosecution alleged Narayan suspected his wife Gulab Bai of infidelity.",
+    "PW1 (Mst. Anchi, mother of deceased) and PW2 (Nanda, brother of deceased) testified they saw the accused and deceased together going towards their 'Bara' (enclosure) on the evening of 14th September 1978.",
+    "On the morning of 15th September 1978, Gulab Bai was found dead inside the 'Bara'.",
+    "PW3 (Kana Ram) and PW4 (Chhogalal) were among the first to discover the body.",
+    "Medical evidence (PW7 - Dr. K.C. Khandelwal) established the cause of death as asphyxia due to strangulation.",
+    "Ligature mark was found on the neck.",
+    "The accused, Narayan, was found absconding after the incident.",
+    "Prosecution alleged Narayan made an extra-judicial confession to PW10 (Gheesa Ram) on 18th September 1978, admitting he killed his wife due to her alleged illicit relations.",
+    "Based on information provided by the accused during interrogation (Section 27, Evidence Act), certain silver ornaments belonging to the deceased were recovered from his house.",
+    "A blood-stained 'dhoti' allegedly worn by the accused at the time of the offence was also recovered.",
+    "The Trial Court convicted Narayan under Section 302 IPC and sentenced him to life imprisonment.",
+    "The High Court, on appeal by Narayan, acquitted him, disbelieving the prosecution evidence, particularly the extra-judicial confession, 'last seen' evidence, and recovery.",
+    "The State of Rajasthan appealed the acquittal to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in overturning the Trial Court's conviction by dissecting the circumstantial evidence and analysing each circumstance in isolation, rather than considering their cumulative effect.",
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+        "Hanumant Govind Nargundkar v. State of M.P. (AIR 1952 SC 343)",
+        "State of U.P. v. Ashok Kumar Srivastava (1992) 2 SCC 86"
+      ],
+      "elements": [
+        "Chain of Circumstantial Evidence",
+        "Motive (Suspicion of Infidelity)",
+        "Last Seen Together (PW1, PW2)",
+        "Medical Evidence (Strangulation)",
+        "Absconding of Accused",
+        "Extra-Judicial Confession (PW10)",
+        "Recovery of Ornaments (Section 27, Evidence Act)",
+        "Recovery of Blood-stained Dhoti"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The High Court correctly found that individual pieces of circumstantial evidence were weak and unreliable, thus breaking the chain.",
+          "supporting_precedents": [
+            "Kali Ram v. State of H.P. (1973) 2 SCC 808",
+            "Padala Veera Reddy v. State of A.P. (AIR 1990 SC 79)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The extra-judicial confession made to PW10 (Gheesa Ram) was reliable and corroborated by other evidence, including the recovery of ornaments and the motive.",
+      "precedents": [
+        "Piara Singh v. State of Punjab (1977) 4 SCC 452",
+        "State of U.P. v. M.K. Anthony (1985) 1 SCC 505",
+        "Gura Singh v. State of Rajasthan (2001) 2 SCC 205"
+      ],
+      "elements": [
+        "Voluntariness of confession",
+        "Credibility of witness (PW10)",
+        "Corroboration (Recovery, Motive)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Extra-judicial confessions are inherently weak evidence; PW10's testimony suffered from delay in disclosure and potential bias, as noted by the High Court.",
+          "supporting_precedents": [
+            "Sahadevan v. State of Tamil Nadu (2012) 6 SCC 403",
+            "Pakala Narayana Swami v. Emperor (AIR 1939 PC 47)",
+            "Balwinder Singh v. State of Punjab (1995) Supp (4) SCC 259"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The 'last seen' evidence provided by PW1 and PW2, combined with the short time gap before the discovery of the body, strongly pointed towards the accused's involvement.",
+      "precedents": [
+        "State of U.P. v. Satish (2005) 3 SCC 114",
+        "Ramreddy Rajeshkhanna Reddy v. State of A.P. (2006) 10 SCC 172",
+        "State of Goa v. Sanjay Thakran (2007) 3 SCC 755"
+      ],
+      "elements": [
+        "Proximity of time between last seen and death",
+        "Absence of explanation from accused (Section 106, Evidence Act implication)",
+        "Credibility of PW1 and PW2"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The time gap between 'last seen' (evening) and discovery (next morning) was sufficient for intervention by another party; PW1 and PW2 are close relatives of the deceased.",
+          "supporting_precedents": [
+            "Bodhraj @ Bodha v. State of J&K (2002) 8 SCC 45",
+            "Jaswant Gir v. State of Punjab (2005) 12 SCC 438"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The recovery of the deceased's ornaments and the blood-stained dhoti at the instance of the accused under Section 27 of the Evidence Act provides strong corroboration linking the accused to the crime.",
+      "precedents": [
+        "Pulukuri Kottaya v. Emperor (AIR 1947 PC 67)",
+        "State of Maharashtra v. Suresh (2000) 1 SCC 471",
+        "Mohmed Amin v. State of Maharashtra (2008) 15 SCC 38"
+      ],
+      "elements": [
+        "Information leading to discovery",
+        "Fact discovered must be consequence of information",
+        "Accused in custody",
+        "Credibility of recovery witnesses"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The High Court rightly doubted the recovery process, potentially due to inconsistencies in witness accounts or procedural lapses.",
+          "supporting_precedents": [
+            "Mustkeem @ Sirajudeen v. State of Rajasthan (2011) 11 SCC 724",
+            "Asif Khan v. State of Maharashtra (2019) 17 SCC 25"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court's acquittal was justified as the prosecution failed to establish guilt beyond a reasonable doubt based on the circumstantial evidence presented.",
+      "edge_cases": [
+        "Standard of proof in circumstantial evidence cases (chain must be complete, incompatible with innocence).",
+        "Appellate court's caution in interfering with acquittal unless findings are perverse."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116",
+        "M.G. Agarwal v. State of Maharashtra (AIR 1963 SC 200)",
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (regarding limits on appeal against acquittal)"
+      ]
+    },
+    {
+      "argument": "The evidence relied upon by the prosecution (extra-judicial confession, last seen, recovery) is weak, unreliable, and insufficient to form a complete chain pointing exclusively to the accused.",
+      "edge_cases": [
+        "Credibility of related witnesses (PW1, PW2).",
+        "Admissibility and weight of extra-judicial confession, especially with delay in reporting (PW10).",
+        "Potential procedural flaws in recovery (Section 27)."
+      ],
+      "precedents": [
+        "Sahadevan v. State of Tamil Nadu (2012) 6 SCC 403 (on extra-judicial confessions)",
+        "Bodhraj @ Bodha v. State of J&K (2002) 8 SCC 45 (on 'last seen' evidence)",
+        "Kali Ram v. State of H.P. (1973) 2 SCC 808 (on burden of proof and reasonable doubt)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The acquittal order of the High Court was set aside, and the conviction and sentence imposed by the Trial Court under Section 302 IPC were restored.",
+    "reasoning": [
+      "The Supreme Court held that the High Court erred in its approach by analysing each piece of circumstantial evidence in isolation.",
+      "The correct approach is to consider the cumulative effect of all circumstances.",
+      "The circumstances established by the prosecution – motive (suspicion of infidelity), 'last seen' testimony (PW1, PW2), medical evidence (strangulation), absconding of the accused, extra-judicial confession (PW10) corroborated by recovery of ornaments (Section 27) and blood-stained dhoti – formed a complete chain.",
+      "This chain of evidence was consistent only with the hypothesis of the guilt of the accused and inconsistent with his innocence.",
+      "The Court found the extra-judicial confession reliable, especially when corroborated by the recovery of ornaments at the instance of the accused.",
+      "The 'last seen' evidence, combined with the short time interval and lack of explanation from the accused, was considered significant.",
+      "The recovery of ornaments under Section 27 was deemed credible.",
+      "The High Court's reasons for discarding the evidence were found to be unsustainable and its interference with the Trial Court's well-reasoned judgment was unjustified."
+    ],
+    "cited_cases": [
+      "Hanumant Govind Nargundkar v. State of M.P. (AIR 1952 SC 343) (Principle regarding circumstantial evidence implicitly followed)",
+      "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Principle regarding circumstantial evidence implicitly followed)",
+      "State of U.P. v. Ashok Kumar Srivastava (1992) 2 SCC 86 (Cited for cumulative effect of circumstances)",
+      "Pulukuri Kottaya v. Emperor (AIR 1947 PC 67) (Principle regarding Section 27 Evidence Act applied)",
+      "Piara Singh v. State of Punjab (1977) 4 SCC 452 (Potentially relevant principle on extra-judicial confession considered, though not explicitly cited in available summaries for this specific point)"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "case_id": "State of Karnataka v. Yarappa Reddy (1999)",
+  "facts": [
+    "The respondent, Yarappa Reddy, was accused of murdering Venkatamma, the wife of his elder brother PW-3 (Venkataswamy Reddy).",
+    "The incident occurred during the night between 10-11-1986 and 11-11-1986 in their village (Chikkaballapur Taluk, Kolar District, Karnataka).",
+    "Motive alleged by prosecution: Disputes over the partition of joint family property, for which PW-3 had filed a civil suit against the respondent and others.",
+    "The deceased was sleeping on a cot outside her house with her children.",
+    "PW-4 (Lakshmidevamma), the 10-year-old daughter of the deceased, was sleeping nearby and was presented as an eyewitness.",
+    "PW-4 testified that she woke up hearing her mother's cries ('Ayyo') and saw the respondent hitting her mother on the head with a stone (MO-1). She claimed she identified him in the moonlight and then ran inside the house crying.",
+    "PW-3 (husband) testified that he was sleeping inside, woke up on hearing PW-4's cries, came out, and saw the respondent running away from near the scene towards his own house.",
+    "PW-3 lodged the First Information Report (FIR).",
+    "PW-1 (Dr. Nanja Reddy) conducted the post-mortem examination. He found a lacerated wound on the left side of the head and a fracture of the underlying skull bone. Cause of death was shock and hemorrhage due to head injury.",
+    "PW-1 opined the injury could be caused by the stone MO-1.",
+    "MO-1 (a blood-stained stone) was allegedly recovered from an open field near the respondent's house based on a disclosure statement made by the respondent while in police custody (Section 27, Evidence Act). PW-6 was a mahazar witness to the recovery.",
+    "The Sessions Court convicted the respondent under Section 302 IPC, relying primarily on the testimonies of PW-3 and PW-4, supported by medical evidence, recovery, and motive.",
+    "The High Court of Karnataka, on appeal by the respondent, set aside the conviction and acquitted him.",
+    "The High Court disbelieved PW-4 (child witness) citing delay in recording her statement (only after inquest), possibility of tutoring, and improbability of identification in the dark.",
+    "The High Court found PW-3's testimony unreliable due to inconsistencies and his status as an interested witness, noting he didn't initially name the accused to the doctor (PW-1).",
+    "The High Court doubted the recovery of MO-1 under Section 27, as it was recovered from an open place accessible to all.",
+    "The High Court found the motive evidence weak.",
+    "The State of Karnataka appealed the High Court's acquittal to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in discarding the credible testimony of PW-4, the child eyewitness.",
+      "precedents": [
+        "Dattu Ramrao Sakhare v. State of Maharashtra (1997) 5 SCC 341 (Child witness competency)",
+        "Panchhi v. State of U.P. (1998) 7 SCC 177 (Caution, but conviction possible if reliable)",
+        "State of M.P. v. Ramesh (2011) 4 SCC 786 (Child witness testimony can be reliable)"
+      ],
+      "elements": [
+        "Competency of child witness",
+        "Credibility and consistency of testimony",
+        "Absence of tutoring",
+        "Possibility of identification (moonlight, familiarity)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Significant delay in recording PW-4's statement raises suspicion of tutoring.",
+          "supporting_precedents": [
+            "Suryanarayana v. State of Karnataka (2001) 9 SCC 129 (Delay in examining child witness fatal if tutoring possible)",
+            "State of Rajasthan v. Om Prakash (2007) 12 SCC 116 (Scrutiny needed for child witness examined late)"
+          ]
+        },
+        {
+          "loophole": "Difficulty in identification at night, even with moonlight, casts doubt.",
+          "supporting_precedents": [
+            "Harijana Thirupala v. Public Prosecutor, High Court of A.P. (2002) 6 SCC 470 (Identification in poor light needs corroboration)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court wrongly rejected the testimony of PW-3, the husband, whose evidence was natural and corroborated.",
+      "precedents": [
+        "Leela Ram v. State of Haryana (1999) 9 SCC 525 (Minor discrepancies do not discredit witness)",
+        "State of U.P. v. M.K. Anthony (1985) 1 SCC 505 (Appreciating evidence with minor flaws)",
+        "Sardul Singh v. State of Haryana (2002) 8 SCC 372 (Related witness not necessarily untruthful)"
+      ],
+      "elements": [
+        "Consistency of core testimony",
+        "Natural conduct of witness",
+        "Corroboration (presence at scene, lodging FIR)",
+        "Explanation for minor discrepancies"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "PW-3 being the husband and brother of the accused makes him an interested witness requiring careful scrutiny and strong corroboration.",
+          "supporting_precedents": [
+            "Dalip Singh v. State of Punjab AIR 1953 SC 364 (Need for caution with related witnesses)",
+            "Ramashish Rai v. Jagdish Singh (2005) 10 SCC 498 (Interested witness testimony needs corroboration)"
+          ]
+        },
+        {
+          "loophole": "PW-3's failure to name the accused immediately to the doctor (PW-1) is a significant omission.",
+          "supporting_precedents": [
+            "State of Orissa v. Brahmananda Nanda (1976) 4 SCC 288 (Omission to name assailant in earliest opportunity affects credibility)",
+            "State of U.P. v. Harihar Bux Singh AIR 1974 SC 1890 (Similar omission found significant)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The recovery of the blood-stained stone (MO-1) at the instance of the accused under Section 27, Evidence Act, is reliable corroborative evidence.",
+      "precedents": [
+        "State of Maharashtra v. Damu (2000) 6 SCC 269 (Essentials of Section 27 recovery)",
+        "State (NCT of Delhi) v. Navjot Sandhu (2005) 11 SCC 600 (Scope and application of Section 27)",
+        "Praveen Kumar v. State of Karnataka (2003) 12 SCC 199 (Recovery can be corroborative)"
+      ],
+      "elements": [
+        "Information given by accused in custody",
+        "Discovery of a fact (the stone)",
+        "Discovery was a consequence of the information",
+        "Voluntariness of statement"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Recovery was made from an open place accessible to all, diminishing its evidentiary value.",
+          "supporting_precedents": [
+            "Dudh Nath Pandey v. State of U.P. (1981) 2 SCC 166 (Recovery from open/public place less reliable)",
+            "Pohalya Motya Valvi v. State of Maharashtra (1979) 4 SCC 532 (Similar principle)",
+            "Mohd. Aslam v. State of Maharashtra (2001) 9 SCC 362 (Disclosure must lead to discovery of a fact not previously known)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court exceeded its jurisdiction in interfering with the well-reasoned judgment of conviction by the Trial Court, especially in an appeal against conviction where the Trial Court had the advantage of observing witness demeanor.",
+      "precedents": [
+        "State of U.P. v. Krishna Gopal (1988) 4 SCC 302 (Principles for appellate review of conviction)",
+        "State of Kerala v. K. M. Abdullah (1964) 2 SCR 639 (Limited scope unless judgment perverse)",
+        "Dhananjay Chatterjee v. State of W.B. (1994) 2 SCC 220 (Appellate court slow to interfere if trial court view plausible)"
+      ],
+      "elements": [
+        "Perversity in High Court's findings",
+        "Misreading or ignoring material evidence by HC",
+        "Trial Court's view was reasonable and plausible"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The High Court has a duty to reappraise the evidence fully in an appeal against conviction.",
+          "supporting_precedents": [
+            "Rama Shankar Singh v. State of West Bengal (1962) Supp 1 SCR 49 (Full power of reappraisal)",
+            "Amar Singh v. State (NCT of Delhi) (2020) 19 SCC 180 (HC obligated to reconsider evidence)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court correctly acquitted the respondent as the prosecution failed to prove its case beyond reasonable doubt; the acquittal should not be interfered with.",
+      "edge_cases": [
+        "Presumption of innocence strengthened by acquittal",
+        "Limited scope of appeal against acquittal"
+      ],
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Principles for appeal against acquittal - interference only if findings perverse/unreasonable)",
+        "State of Rajasthan v. Raja Ram (2003) 8 SCC 180 (If two views possible, view favouring accused prevails)",
+        "Marudanal Augusti v. State of Kerala AIR 1980 SC 638 (High threshold for overturning acquittal)"
+      ]
+    },
+    {
+      "argument": "The testimony of PW-4 (child witness) is unreliable due to delay in examination, possibility of tutoring, and impossibility of identification in darkness.",
+      "edge_cases": [
+        "Need for corroboration for child witness testimony, especially when examined late."
+      ],
+      "precedents": [
+        "Suryanarayana v. State of Karnataka (2001) 9 SCC 129 (Delay and tutoring possibility)",
+        "Panchhi v. State of U.P. (1998) 7 SCC 177 (Need for caution and scrutiny)",
+        "Alagupandi v. State of Tamil Nadu (2012) 6 SCC 411 (Identification in darkness requires strong proof)"
+      ]
+    },
+    {
+      "argument": "The testimony of PW-3 (husband) is unreliable as he is an interested witness, and his evidence suffers from material omissions and contradictions.",
+      "edge_cases": [
+        "Credibility of witness related to both victim and accused.",
+        "Impact of failure to name accused at earliest opportunity."
+      ],
+      "precedents": [
+        "Dalip Singh v. State of Punjab AIR 1953 SC 364 (Caution with interested witnesses)",
+        "State of U.P. v. Harihar Bux Singh AIR 1974 SC 1890 (Omission to name accused early is significant)",
+        "Ram Lakhan Singh v. State of U.P. (1977) 3 SCC 268 (Need for corroboration of interested witness)"
+      ]
+    },
+    {
+      "argument": "The alleged recovery of MO-1 under Section 27, Evidence Act, is inadmissible and unreliable as it was recovered from an open, easily accessible place.",
+      "edge_cases": [
+        "Requirement that the place of concealment should be known only to the accused for recovery to be credible."
+      ],
+      "precedents": [
+        "Dudh Nath Pandey v. State of U.P. (1981) 2 SCC 166 (Recovery from open place)",
+        "Mohd. Aslam v. State of Maharashtra (2001) 9 SCC 362 (Place accessible to others)",
+        "Subhash Chand v. State of Rajasthan (2002) 1 SCC 702 (Weak evidentiary value if recovered from open place)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Acquittal upheld. The Supreme Court dismissed the appeal filed by the State of Karnataka.",
+    "reasoning": [
+      "The Supreme Court emphasized the principles governing appeals against acquittal: the appellate court should not interfere unless the High Court's findings are 'palpably wrong, manifestly erroneous or demonstrably unsustainable'.",
+      "The Court agreed with the High Court's assessment that PW-4's testimony was unreliable. The delay in recording her statement until after the inquest, coupled with her tender age, made the possibility of tutoring plausible. Identification in the dark was also considered doubtful.",
+      "The Court found PW-3's testimony questionable. As the elder brother of the accused involved in a property dispute, he was an interested witness. His failure to name the accused immediately, particularly to the doctor (PW-1) soon after the incident, was deemed a significant omission casting doubt on his claim of seeing the accused run away.",
+      "The Court concurred with the High Court that the recovery of MO-1 (stone) from an open place accessible to all significantly weakened its evidentiary value under Section 27 of the Evidence Act.",
+      "Motive (property dispute) alone was insufficient to sustain conviction when the primary evidence (eyewitness testimony and recovery) was unreliable.",
+      "The Supreme Court concluded that the view taken by the High Court in acquitting the respondent was a possible and plausible view based on the evidence on record, and therefore, no interference was warranted.",
+      "The presumption of innocence in favour of the accused was further reinforced by the High Court's acquittal."
+    ],
+    "cited_cases": [
+      "Sheo Swarup v. King Emperor AIR 1934 PC 227 (Principles for appeal against acquittal)",
+      "Surajpal Singh v. State AIR 1952 SC 52 (Non-interference if acquittal reasonable)",
+      "Sanwat Singh v. State of Rajasthan AIR 1961 SC 715 (Power to review evidence but reluctance to interfere)",
+      "Tulsiram Kanu v. State AIR 1954 SC 1 (Interference only for compelling reasons)",
+      "Marudanal Augusti v. State of Kerala AIR 1980 SC 638 (High threshold for overturning acquittal)",
+      "State of U.P. v. Harihar Bux Singh AIR 1974 SC 1890 (Significance of omission to name accused early)",
+      "Ajit Singh Thakur Singh v. State of Gujarat AIR 1981 SC 733 (General principles on appeal against acquittal)",
+      "State of U.P. v. Krishna Gopal (1988) 4 SCC 302 (Discussed general appellate principles)",
+      "Ramesh Babulal Doshi v. State of Gujarat (1996) 9 SCC 225 (Interference if acquittal perverse)",
+      "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Summarized principles on appeal against acquittal - though decided later, reflects consistent principles)"
+    ]
+  }
+}

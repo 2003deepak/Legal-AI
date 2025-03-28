@@ -1,0 +1,198 @@
+{
+  "case_id": "Ravinder @ Julie vs The State (NCT of Delhi) (2020)",
+  "facts": [
+    "Appellant (Ravinder @ Julie) married the deceased (Pooja) approximately two years prior to the incident.",
+    "Incident occurred on 15.07.2016 at House No. 174, Gali No. 5, Village Mandoli Extension, Delhi.",
+    "Information regarding Pooja hanging herself was received vide DD No. 34A at PS Harsh Vihar on 15.07.2016.",
+    "Police officials (SI Narender Kumar, Ct. Parveen Kumar) reached the spot and found Pooja hanging from a ceiling fan with a 'chunni'.",
+    "The body was brought down with the help of family members and sent to GTB Hospital.",
+    "Neeraj Kumar (PW1), brother of the deceased, gave a statement alleging dowry demands (car, cash) and harassment by the appellant soon after marriage.",
+    "PW1 alleged that due to non-fulfillment of demands, Pooja was harassed and beaten by the appellant.",
+    "PW1 stated that Pooja had informed him and his sister (PW2-Poonam) about the harassment over the phone.",
+    "Based on PW1's statement, FIR No. 494/2016 was registered under Sections 498A/304B IPC at PS Harsh Vihar.",
+    "Post-mortem examination (conducted by PW3-Dr. Munish Wadhawan) concluded the cause of death as 'asphyxia as a result of ante-mortem hanging'.",
+    "Investigation included site inspection, seizure of ligature material ('chunni'), recording witness statements, and arresting the appellant.",
+    "Trial Court (ASJ, Karkardooma Courts, Delhi) framed charges under Sections 498A/304B IPC against the appellant.",
+    "Trial Court convicted the appellant under Sections 498A and 304B IPC vide judgment dated 28.05.2019.",
+    "Appellant was sentenced to Rigorous Imprisonment (RI) for 10 years for the offence under Section 304B IPC and RI for 3 years with a fine of Rs. 10,000/- for the offence under Section 498A IPC (sentences to run concurrently).",
+    "Appellant filed an appeal (CRL.A. 678/2019) in the Delhi High Court challenging the conviction and sentence."
+  ],
+  "ipc_sections": [
+    "Section 498A",
+    "Section 304B"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The death of Pooja occurred otherwise than under normal circumstances (hanging) within 7 years of marriage, fulfilling initial requirements of Section 304B IPC.",
+      "precedents": [
+        "State of Punjab vs Iqbal Singh (1991) 3 SCC 1",
+        "Pathan Hussain Basha vs State of A.P. (2012) 8 SCC 594",
+        "Kamesh Panjiyar @ Kamlesh Panjiyar vs State of Bihar (2005) 2 SCC 388"
+      ],
+      "elements": [
+        "Death of a woman",
+        "Occurred within 7 years of marriage",
+        "Death occurred otherwise than under normal circumstances (hanging is unnatural)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "While unnatural death within 7 years is established, this alone doesn't prove dowry death without proof of proximate cruelty.",
+          "supporting_precedents": [
+            "Baljeet Singh vs State of Haryana (2004) 3 SCC 122",
+            "Appasaheb vs State of Maharashtra (2007) 9 SCC 721"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The deceased was subjected to cruelty and harassment in connection with dowry demands soon before her death, as evidenced by the testimonies of PW1 (brother) and PW2 (sister).",
+      "precedents": [
+        "Kans Raj vs State of Punjab (2000) 5 SCC 207",
+        "Surinder Kaur vs State of Haryana (2004) 4 SCC 109",
+        "Trimukh Maroti Kirkan vs State of Maharashtra (2006) 10 SCC 681"
+      ],
+      "elements": [
+        "Cruelty or harassment",
+        "Connection with demand for dowry",
+        "'Soon before death' element (proximate link)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Testimonies of PW1 and PW2, being close relatives, are interested and lack independent corroboration. Allegations are general without specific dates or incidents proximate to the death.",
+          "supporting_precedents": [
+            "Rajinder Singh vs State of Punjab (2015) 6 SCC 477",
+            "Surinder Singh vs State of Haryana (2014) 4 SCC 129",
+            "Tarsem Singh vs State of Punjab (2008) 16 SCC 155"
+          ]
+        },
+        {
+          "loophole": "The term 'soon before death' requires a clear and proximate link, not just past instances of harassment. Prosecution failed to establish this link.",
+          "supporting_precedents": [
+            "Sher Singh @ Partapa vs State of Haryana (2015) 3 SCC 268",
+            "Dinesh vs State of Haryana (2014) 11 SCC 570",
+            "Baijnath vs State of Madhya Pradesh (2017) 1 SCC 101"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Once the foundational facts of Section 304B IPC are established (unnatural death within 7 years, dowry-related cruelty soon before death), the presumption under Section 113B of the Indian Evidence Act applies, shifting the burden to the accused.",
+      "precedents": [
+        "State of Punjab vs Iqbal Singh (1991) 3 SCC 1",
+        "Hem Chand vs State of Haryana (1994) 5 SCC 718",
+        "Anand Kumar vs State of M.P. (2011) 15 SCC 295"
+      ],
+      "elements": [
+        "Establishment of Section 304B foundational facts",
+        "Applicability of Section 113B IEA presumption",
+        "Burden shifts to accused to rebut the presumption"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The presumption under Section 113B is triggered only if the prosecution *first* proves the element of dowry-related cruelty 'soon before death' beyond reasonable doubt. If this link is weak, the presumption cannot be invoked.",
+          "supporting_precedents": [
+            "Bakshish Ram vs State of Punjab (2013) 4 SCC 131",
+            "Ashok Kumar vs State of Haryana (2010) 12 SCC 350",
+            "Major Singh vs State of Punjab (2015) 5 SCC 201"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Independent of Section 304B, the evidence of PW1 and PW2 proves cruelty under Section 498A IPC, involving harassment linked to unlawful dowry demands.",
+      "precedents": [
+        "Kaliyaperumal vs State of Tamil Nadu (2004) 9 SCC 157",
+        "Girdhar Shankar Tawade vs State of Maharashtra (2002) 5 SCC 177",
+        "Reema Aggarwal vs Anupam (2004) 3 SCC 199"
+      ],
+      "elements": [
+        "Subjecting a married woman to cruelty",
+        "Cruelty includes harassment for unlawful (dowry) demand",
+        "Proof of demands and resultant harassment"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations for 498A are also general and lack specific details. Standard omnibus allegations against husband without corroboration should be viewed cautiously.",
+          "supporting_precedents": [
+            "Neelu Chopra vs Bharti (2009) 10 SCC 184",
+            "Preeti Gupta vs State of Jharkhand (2010) 7 SCC 667",
+            "Kahkashan Kausar @ Sonam vs State of Bihar (2022) 6 SCC 599"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish a proximate and live link between the alleged dowry demands/harassment and the death of Pooja. The 'soon before death' requirement for Section 304B IPC is not met.",
+      "edge_cases": [
+        "Interpretation of 'soon before death' requiring temporal proximity and causal connection.",
+        "Distinction between general marital discord/past harassment and specific cruelty triggering the unnatural death."
+      ],
+      "precedents": [
+        "Rajinder Singh vs State of Punjab (2015) 6 SCC 477",
+        "Sher Singh @ Partapa vs State of Haryana (2015) 3 SCC 268",
+        "Surinder Singh vs State of Haryana (2014) 4 SCC 129"
+      ]
+    },
+    {
+      "argument": "The primary witnesses (PW1, PW2) are close relatives of the deceased and thus interested witnesses. Their testimonies lack independent corroboration and contain general, vague allegations without specific dates or details, making them unreliable.",
+      "edge_cases": [
+        "Standard of proof in criminal cases: Beyond reasonable doubt.",
+        "Judicial caution regarding testimonies of interested witnesses in matrimonial disputes."
+      ],
+      "precedents": [
+        "M. Narsinga Rao vs State of A.P. (2001) 1 SCC 691",
+        "Harbeer Singh vs Sheeshpal Singh (2016) 16 SCC 418",
+        "Appabhai vs State of Gujarat (1988) Supp SCC 241"
+      ]
+    },
+    {
+      "argument": "The trial court erred in invoking the presumption under Section 113B of the Evidence Act as the foundational requirement of proving dowry-related cruelty 'soon before death' was not established by the prosecution.",
+      "edge_cases": [
+        "Conditions precedent for invoking Section 113B presumption.",
+        "Burden of proof remains on prosecution until all ingredients of 304B are proven."
+      ],
+      "precedents": [
+        "Baijnath vs State of Madhya Pradesh (2017) 1 SCC 101",
+        "Ramesh Kumar vs State of Chhattisgarh (2001) 9 SCC 618",
+        "Major Singh vs State of Punjab (2015) 5 SCC 201"
+      ]
+    },
+    {
+      "argument": "Even if some harassment occurred, it may constitute cruelty under Section 498A IPC, but does not automatically translate to meeting the higher threshold required for dowry death under Section 304B IPC.",
+      "edge_cases": [
+        "Distinction between the scope and ingredients of Section 498A and Section 304B.",
+        "Cruelty for 498A may exist without meeting the 'soon before death' requirement of 304B."
+      ],
+      "precedents": [
+        "Kaliyaperumal vs State of Tamil Nadu (2004) 9 SCC 157",
+        "Gurcharan Singh vs State of Punjab (2017) 1 SCC 433",
+        "Bhupendra vs State of Madhya Pradesh (2014) 2 SCC 106"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Acquittal under Section 304B IPC. Conviction under Section 498A IPC upheld, but sentence modified.",
+    "reasoning": [
+      "The High Court found that while the death occurred within 7 years of marriage under unnatural circumstances (hanging), the crucial element of 'soon before death' for Section 304B was not established beyond reasonable doubt.",
+      "Testimonies of PW1 and PW2 regarding dowry demands and harassment were accepted as proving cruelty under Section 498A.",
+      "However, the court observed that the evidence did not establish a proximate or live link between the specific acts of dowry-related cruelty and the death of Pooja. The allegations were somewhat general, and no specific incident immediately preceding the death was proven.",
+      "The court emphasized the distinction between cruelty under 498A (which was established) and the requirement of dowry-related cruelty 'soon before death' for invoking the presumption under Section 113B Evidence Act and convicting under Section 304B IPC.",
+      "Since the 'soon before death' element failed, the presumption under Section 113B could not be invoked, and the conviction under Section 304B was set aside.",
+      "The conviction under Section 498A was upheld based on the evidence of harassment related to dowry demands.",
+      "Considering the appellant had already undergone a substantial period of incarceration (over 3 years and 9 months), the sentence for Section 498A was modified to the period already undergone."
+    ],
+    "cited_cases": [
+      "Rajinder Singh vs State of Punjab (2015) 6 SCC 477",
+      "Sher Singh @ Partapa vs State of Haryana (2015) 3 SCC 268",
+      "Kans Raj vs State of Punjab (2000) 5 SCC 207",
+      "Surinder Singh vs State of Haryana (2014) 4 SCC 129",
+      "Baijnath vs State of Madhya Pradesh (2017) 1 SCC 101",
+      "Girdhar Shankar Tawade vs State of Maharashtra (2002) 5 SCC 177",
+      "Kaliyaperumal vs State of Tamil Nadu (2004) 9 SCC 157",
+      "State of Punjab vs Iqbal Singh (1991) 3 SCC 1",
+      "Mustafa Shahadal Shaikh vs State of Maharashtra (2012) 11 SCC 397"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "case_id": "Saddak Hussain vs State (NCT Of Delhi) (2019)",
+  "facts": [
+    "Incident Date: 16.02.2018, around 09:15 PM.",
+    "Location: Near Pillar No. 714, Main Road, Uttam Nagar, New Delhi.",
+    "Complainant/Victim: Sh. Arun Kumar.",
+    "Allegation: While the complainant was returning home, two boys on a motorcycle snatched his mobile phone (Make: LYF). When the complainant resisted, one boy (pillion rider, identified as the appellant Saddak Hussain) attacked him with a sharp object ('Sua'/Ice Pick), causing injury to his left thigh.",
+    "FIR No. 171/2018 registered at PS Bindapur under Sections 392/394/397/34 IPC.",
+    "Medical Examination (MLC): Complainant examined at DDU Hospital; injury noted as 'Incised wound 1x0.5 cm on left thigh', nature of injury opined as 'simple' caused by 'sharp object'.",
+    "Arrest: Appellant Saddak Hussain arrested on 18.02.2018.",
+    "Test Identification Parade (TIP): Conducted on 07.03.2018; complainant identified the appellant.",
+    "Recovery: No recovery of the snatched mobile phone or the weapon ('Sua') was made from the appellant.",
+    "Co-accused: Juvenile apprehended separately.",
+    "Trial Court Judgment (ASJ-03, West, Tis Hazari Courts): Convicted the appellant under Sections 392/397 IPC and sentenced him to 7 years Rigorous Imprisonment (minimum mandatory sentence under S. 397) and a fine.",
+    "Appeal: Appellant challenged the conviction and sentence before the High Court of Delhi.",
+    "Judicial Observation (Trial Court): Found the testimony of the complainant (PW-1) consistent and reliable regarding the incident, identification, and use of the weapon.",
+    "Judicial Observation (High Court): Noted the core issue was the applicability of Section 397 IPC in the absence of recovery of the weapon and the nature of injury being 'simple'."
+  ],
+  "ipc_sections": [
+    "Section 34 (Common Intention)",
+    "Section 392 (Punishment for Robbery)",
+    "Section 394 (Voluntarily causing hurt in committing robbery)",
+    "Section 397 (Robbery, or dacoity, with attempt to cause death or grievous hurt)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The appellant, along with a co-accused (juvenile), committed robbery by snatching the complainant's mobile phone and used a deadly weapon ('Sua') causing injury.",
+      "precedents": [
+        "Phool Kumar vs. Delhi Administration (1975) 1 SCC 797: Use of a weapon, even if injury is simple, attracts S. 397 if weapon is deadly.",
+        "Ashfaq vs. State (Govt. of NCT of Delhi) (2004) 3 SCC 116: For S. 397, 'uses' means the offender must employ the weapon; brandishing can suffice.",
+        "State of Maharashtra vs. Vinayak Tukaram Utekar (1997) Cr.LJ 3988 (Bom HC): Injury nature (simple/grievous) is not determinative for S. 397 if a deadly weapon is used."
+      ],
+      "elements": [
+        "Theft of movable property (mobile phone)",
+        "Use of force or threat of immediate hurt/wrongful restraint (snatching and attack)",
+        "Act committed voluntarily",
+        "Use of a 'deadly weapon' ('Sua')",
+        "Injury caused during the commission of robbery (Incised wound)",
+        "Identification of the appellant as the perpetrator"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Non-recovery of the weapon ('Sua') makes its 'deadly' nature and actual use speculative.",
+          "supporting_precedents": [
+            "Bhim Singh vs. State of Punjab AIR 1984 SC 1622: Conviction requires proof beyond reasonable doubt; non-recovery weakens the case.",
+            "Balwant Singh vs. State of Punjab AIR 1976 SC 230: Mere oral testimony about weapon use without recovery needs careful scrutiny.",
+            "Sahdev vs. State (Delhi Admin.) 1993 CriLJ 3681 (Del HC): Doubt regarding weapon nature/use benefits the accused, especially for S. 397."
+          ]
+        },
+        {
+          "loophole": "The injury was opined as 'simple', raising doubt if the threshold for S. 397 (attempt to cause death or grievous hurt) was met.",
+          "supporting_precedents": [
+            "Dilawar Singh vs. State of Delhi (2007) 12 SCC 641: While S. 397 focuses on 'use' of deadly weapon, the overall context including injury nature is relevant.",
+            "Raj Kumar @ Raju vs State Of Punjab Criminal Appeal No. 1537 of 2009 (SC): Interpretation of 'uses' under S. 397 requires careful consideration of context.",
+            "Ram Ratan vs State of Madhya Pradesh (2004) 1 MPHT 130: Simple injury might, in some contexts, suggest weapon wasn't 'used' in the manner contemplated by S. 397."
+          ]
+        },
+        {
+          "loophole": "Potential discrepancies or lack of corroboration in the complainant's identification during TIP, given the circumstances (night time, sudden attack).",
+          "supporting_precedents": [
+            "Matru vs. State of U.P. (1971) 2 SCC 75: Guidelines for reliable Test Identification Parades.",
+            "Dana Yadav alias Dahu & Ors vs State Of Bihar (2002) 7 SCC 295: Evidentiary value of TIP depends on promptness and procedure.",
+            "Ravi vs State, Represented By Inspector Of Police (2007) 15 SCC 372: Identification by single witness at night requires strong corroboration."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to prove the use of a 'deadly weapon' beyond reasonable doubt, as the alleged weapon ('Sua') was never recovered.",
+      "edge_cases": [
+        "Distinction between S. 394 (causing hurt during robbery) and S. 397 (use of deadly weapon)."
+      ],
+      "precedents": [
+        "Balwant Singh vs. State of Punjab AIR 1976 SC 230: Emphasizes scrutiny when weapon is not recovered.",
+        "Sahdev vs. State (Delhi Admin.) 1993 CriLJ 3681 (Del HC): Non-recovery casts doubt on the nature and use of the weapon for S. 397.",
+        "Kishan Singh vs State Of Rajasthan 1995 CriLJ 1055 (Raj HC): Recovery of weapon is significant corroborative evidence; absence weakens S. 397 charge."
+      ]
+    },
+    {
+      "argument": "The injury being 'simple' suggests that even if a sharp object was used, it wasn't used as a 'deadly weapon' with the intent contemplated under Section 397 IPC.",
+      "edge_cases": [
+        "Interpretation of 'uses' under S. 397 - whether it requires more than merely causing simple injury."
+      ],
+      "precedents": [
+        "Dilawar Singh vs. State of Delhi (2007) 12 SCC 641: Discusses interpretation of 'uses' in S. 397.",
+        "Rakesh vs State Of NCT Of Delhi 2011 (1) JCC 548 (Del HC): Simple injury caused by a knife may not always attract S. 397 if not brandished or used menacingly.",
+        "Govind @ Govinda vs State of Madhya Pradesh ILR 2014 MP 1311: Held that merely causing simple hurt with a knife doesn't automatically invoke S. 397 without proof of its use as a deadly weapon."
+      ]
+    },
+    {
+      "argument": "Identification in the TIP is unreliable due to procedural flaws or lack of corroboration; complainant's sole testimony is insufficient for conviction under stringent S. 397.",
+      "edge_cases": [
+        "Evidentiary value of TIP conducted after significant delay or without following proper guidelines."
+      ],
+      "precedents": [
+        "Matru vs. State of U.P. (1971) 2 SCC 75: Stresses the need for proper TIP procedures.",
+        "Dana Yadav alias Dahu & Ors vs State Of Bihar (2002) 7 SCC 295: Highlights weak evidentiary value of flawed TIPs.",
+        "Malkhan Singh vs. State of M.P. (2003) 5 SCC 746: Identification evidence needs careful assessment, especially if it's the primary basis for conviction."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Partly Allowed. Conviction modified from Sections 392/397 IPC to Section 394 IPC. Sentence reduced.",
+    "reasoning": [
+      "The High Court found the complainant's (PW-1) testimony regarding the robbery and being attacked credible and consistent, including the identification of the appellant.",
+      "The MLC proved that 'simple' injury was caused by a 'sharp object' during the robbery, clearly establishing the ingredients of Section 394 IPC (voluntarily causing hurt in committing robbery).",
+      "However, for Section 397 IPC, the Court emphasized the requirement of proving the 'use' of a 'deadly weapon'.",
+      "The alleged weapon ('Sua'/Ice Pick) was not recovered. While recovery is not always essential, its absence makes it difficult to ascertain if the weapon was indeed 'deadly' as contemplated by S. 397.",
+      "Relying on precedents like Phool Kumar and Ashfaq, the court noted that 'use' implies employing the weapon offensively or to create terror. Merely causing a simple injury with a sharp object, without recovery or further evidence of its deadly nature or menacing use, was deemed insufficient to meet the higher threshold of Section 397.",
+      "The court differentiated between causing hurt (S. 394) and using a deadly weapon (S. 397). Since the 'deadly' nature and specific 'use' under S. 397 couldn't be proven beyond reasonable doubt due to non-recovery, the conviction under S. 397 was set aside.",
+      "The conviction was maintained under Section 392 IPC (as robbery was proven) read with Section 394 IPC (as simple hurt was proven to be caused during the robbery).",
+      "Consequently, the mandatory minimum sentence of 7 years under S. 397 was no longer applicable, and the sentence was reduced based on the period already undergone or a lesser term deemed appropriate for S. 394 IPC."
+    ],
+    "cited_cases": [
+      "Phool Kumar vs. Delhi Administration (1975) 1 SCC 797",
+      "Ashfaq vs. State (Govt. of NCT of Delhi) (2004) 3 SCC 116",
+      "Dilawar Singh vs. State of Delhi (2007) 12 SCC 641",
+      "Rakesh vs State Of NCT Of Delhi 2011 (1) JCC 548 (Del HC) (or similar Delhi HC judgments distinguishing 394/397 based on injury/weapon recovery)",
+      "State of Maharashtra vs. Vinayak Tukaram Utekar (1997) Cr.LJ 3988 (Bom HC) (likely discussed regarding interpretation of 'use')",
+      "Balwant Singh vs. State of Punjab AIR 1976 SC 230 (likely discussed regarding non-recovery)",
+      "Matru vs. State of U.P. (1971) 2 SCC 75 (likely discussed regarding TIP reliability)"
+    ]
+  }
+}

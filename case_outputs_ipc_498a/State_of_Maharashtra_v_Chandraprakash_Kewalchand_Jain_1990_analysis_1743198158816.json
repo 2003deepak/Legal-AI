@@ -1,0 +1,192 @@
+{
+  "case_id": "State of Maharashtra v. Chandraprakash Kewalchand Jain (1990)",
+  "facts": [
+    "Marriage between Aruna (deceased) and Chandraprakash Kewalchand Jain (Respondent No. 1/Accused No. 1) took place on June 21, 1987.",
+    "Aruna died due to extensive burn injuries on July 1, 1987, merely 10 days after her marriage, at her matrimonial home in Bhusawal.",
+    "On July 1, 1987, around 8:30 AM, Aruna was found with 100% burn injuries in the bathroom.",
+    "She was taken to the Central Railway Hospital, Bhusawal.",
+    "First Dying Declaration (Ex. 26) was recorded by Head Constable D.K. Patil (PW 10) around 10:30 AM, stating her saree accidentally caught fire from a stove while preparing tea. A medical officer certified her fitness for the statement.",
+    "Second Dying Declaration (Ex. 33) was recorded by Special Judicial Magistrate, R.K. Kulkarni (PW 13) around 12:30 PM. In this, Aruna stated her husband (Chandraprakash) poured kerosene on her and set her ablaze because she refused his demand to write a letter to her parents asking for Rs. 50,000 for his business. A medical officer again certified her fitness.",
+    "Aruna succumbed to her injuries later the same day.",
+    "Post-mortem report indicated death due to shock from 100% burns, consistent with kerosene burns.",
+    "The accused were Chandraprakash (husband, A1), Kewalchand (father-in-law, A2), Kantabai (mother-in-law, A3), and Sharadchand (brother-in-law, A4).",
+    "Letters written by Aruna to her parents shortly after marriage (Ex. 16, 17, 18) indicated she was happy.",
+    "Testimony of Aruna's father (PW 1) and mother (PW 5) mentioned demands related to marriage expenses made *before* the wedding, but no complaints of harassment or demand received from Aruna *after* the marriage until the incident.",
+    "The Trial Court acquitted all four accused, disbelieving the second dying declaration and accepting the first (accident theory). It found no evidence of cruelty or dowry demand soon before death.",
+    "The High Court, on appeal by the State, reversed the Trial Court's judgment. It convicted Chandraprakash (husband) under Section 302 IPC (life imprisonment) and Section 498A IPC (2 years RI). It upheld the acquittal of the other three relatives (A2, A3, A4). The HC found the second dying declaration reliable and the first unreliable.",
+    "Appeals were filed in the Supreme Court: one by the State against the acquittal of A2, A3, A4, and another by Chandraprakash (A1) against his conviction."
+  ],
+  "ipc_sections": [
+    "Section 302 (Murder)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 304B (Dowry Death - Discussed contextually)",
+    "Section 34 (Acts done by several persons in furtherance of common intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly reversed the Trial Court's acquittal, as the Trial Court's finding was perverse and ignored crucial evidence, particularly the second dying declaration.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Principles for appeal against acquittal)",
+        "Arunachalam v. P.S.R. Sadhanantham (1979) 2 SCC 297 (Powers of appellate court to review evidence)",
+        "Balak Ram v. State of U.P. (1975) 3 SCC 219 (Interference with acquittal justified if trial court ignored evidence or took perverse view)"
+      ],
+      "elements": [
+        "Perversity in Trial Court judgment",
+        "Misappreciation of evidence by Trial Court",
+        "Existence of compelling reasons for reversal"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The Trial Court provided reasons for disbelieving the second DD (contradiction with first DD, lack of prior complaint). Reversal requires showing these reasons were completely untenable, not just that another view is possible.",
+          "supporting_precedents": [
+            "Sheo Swarup v. King Emperor (AIR 1934 PC 227) (High standard for overturning acquittal)",
+            "Khedu Mohton v. State of Bihar (1970) 2 SCC 450 (Appellate court should be slow to disturb finding of fact)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The second dying declaration (Ex. 33) recorded by the Magistrate is truthful, voluntary, and reliable, establishing the husband's guilt for murder.",
+      "precedents": [
+        "Kushal Rao v. State of Bombay (AIR 1958 SC 22) (Principles for reliability of dying declarations)",
+        "Munnu Raja v. State of M.P. (1976) 3 SCC 104 (Preference for Magistrate-recorded DD over police-recorded)",
+        "Paniben v. State of Gujarat (1992) 2 SCC 474 (Conviction can be based solely on reliable DD)"
+      ],
+      "elements": [
+        "Declarant's fitness to make statement (certified by doctor)",
+        "Statement recorded by competent Magistrate",
+        "Voluntariness (no tutoring or coercion)",
+        "Consistency and coherence of the narrative",
+        "Corroboration (Medical evidence of kerosene burns, motive of dowry demand)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The second declaration directly contradicts the first declaration made closer to the time of the incident. The possibility of tutoring or influence in the interval cannot be ruled out.",
+          "supporting_precedents": [
+            "State of UP v. Madan Mohan (AIR 1989 SC 1519) (Caution required with multiple conflicting DDs)",
+            "Nanhau Ram v. State of M.P. (AIR 1988 SC 912) (Where multiple DDs exist, the one recorded earliest might be more reliable)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The act described in the second dying declaration (pouring kerosene and setting ablaze due to refusal of dowry demand) constitutes both cruelty under Section 498A and murder under Section 302 IPC.",
+      "precedents": [
+        "Shobha Rani v. Madhukar Reddi (1988) 1 SCC 105 (Definition and scope of 'cruelty' under 498A)",
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Dowry demands linked to cruelty and providing motive for extreme acts)",
+        "Virbhan Singh v. State of U.P. (AIR 1983 SC 1002) (Cruelty established through conduct leading to harm)"
+      ],
+      "elements": [
+        "Willful conduct likely to drive woman to suicide or cause grave injury (498A)",
+        "Harassment for unlawful demand (498A)",
+        "Intention to cause death (pouring kerosene, setting fire) (302)",
+        "Act causing death (302)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of prior evidence of harassment or dowry demands after marriage. Letters written by the deceased indicated happiness, contradicting the narrative of persistent cruelty or demand leading to murder.",
+          "supporting_precedents": [
+            "Surinder Kumar v. State of Haryana (1990) Supp SCC 710 (Need for reliable evidence beyond the dying declaration, especially regarding prior conduct)",
+            "Appasaheb v. State of Maharashtra (2007) 9 SCC 721 (Demand must be for 'dowry' as defined, not just any property)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Even if Section 304B elements are considered, the circumstances (death within 10 days of marriage due to burns, linked to dowry demand in DD) strongly support culpability, justifying conviction under S.302 given the direct evidence of intentional killing.",
+      "precedents": [
+        "Satvir Singh v. State of Punjab (2001) 8 SCC 633 (Discussing overlap and distinction between 304B and 302)",
+        "Rajbir @ Raju v. State of Haryana (2010) 15 SCC 116 (If evidence discloses intentional murder, conviction should be under 302 even if 304B elements present)",
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Interpretation of 'soon before death' depends on facts, can be immediate)"
+      ],
+      "elements": [
+        "Unnatural death within 7 years of marriage",
+        "Cruelty/harassment linked to dowry demand",
+        "Demand proximate to death ('soon before')",
+        "Evidence pointing towards intentional killing (murder)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Prosecution primarily relied on S.302 based on the second DD. If the second DD is doubted, the basis for both S.302 and the dowry-link required for S.304B/498A becomes weak.",
+          "supporting_precedents": [
+            "Kaliaperumal v. State of Tamil Nadu (2004) 9 SCC 157 (Strict proof required for conviction under S. 302)",
+            "Baljeet Singh v. State of Haryana (2004) 3 SCC 122 (Presumption under 113B IEA requires proof of cruelty soon before death)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court erred in reversing the well-reasoned acquittal by the Trial Court; the appellate court should not interfere merely because another view is possible.",
+      "edge_cases": [
+        "Standard of proof in appeals against acquittal vs appeals against conviction"
+      ],
+      "precedents": [
+        "Sheo Swarup v. King Emperor (AIR 1934 PC 227) (Acquittal should not be disturbed unless judgment is unreasonable or perverse)",
+        "Khedu Mohton v. State of Bihar (1970) 2 SCC 450 (Limited scope for interference in acquittal appeals)",
+        "Ramesh Babulal Doshi v. State of Gujarat (1996) 9 SCC 225 (Acquittal reversal only if conclusions are 'palpably wrong, manifestly erroneous or demonstrably unsustainable')"
+      ]
+    },
+    {
+      "argument": "The first dying declaration (Ex. 26), stating accidental fire, is reliable as it was recorded earliest and without opportunity for tutoring. The second declaration (Ex. 33) is suspect due to contradictions and possibility of influence.",
+      "edge_cases": [
+        "Admissibility and weight of conflicting dying declarations",
+        "Time factor in reliability"
+      ],
+      "precedents": [
+        "Nanhau Ram v. State of M.P. (AIR 1988 SC 912) (First declaration often preferred if reliable)",
+        "State of UP v. Madan Mohan (AIR 1989 SC 1519) (Court must carefully weigh conflicting declarations)",
+        "Rasheed Beg v. State of M.P. (1974) 4 SCC 264 (Unreliable dying declaration should be discarded)"
+      ]
+    },
+    {
+      "argument": "There is no credible evidence of dowry demand or cruelty by the husband (or any accused) soon before the death, apart from the contested second dying declaration. Prior letters and parental testimony contradict such a claim.",
+      "edge_cases": [
+        "Requirement of corroboration for dying declaration",
+        "Absence of prior complaints"
+      ],
+      "precedents": [
+        "Laxman v. State of Maharashtra (AIR 1974 SC 1803) (Prudence requires corroboration for dying declaration)",
+        "Balak Ram v. State of U.P. (1975) 3 SCC 219 (While conviction possible solely on DD, caution needed if suspicions exist)",
+        "Inder Singh v. State of Punjab (1994) Supp (2) SCC 493 (Lack of prior complaints a relevant factor)"
+      ]
+    },
+    {
+      "argument": "(Specifically for acquitted relatives A2, A3, A4): There was absolutely no evidence implicating the father-in-law, mother-in-law, and brother-in-law in the alleged crime or any preceding cruelty/demand. The High Court correctly upheld their acquittal.",
+      "edge_cases": [
+        "Vicarious liability vs specific roles in family offences",
+        "Standard of proof for each accused"
+      ],
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Need for specific evidence against each relative)",
+        "Kashmiri Lal v. State of Haryana (2013) 6 SCC 595 (Cannot implicate relatives merely based on relation)",
+        "Savitri Devi v. Ramesh Chand (2003) Cr LJ 2759 (Delhi HC - Reiterates need for specific allegations against relatives in 498A cases)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal by Chandraprakash Kewalchand Jain dismissed. His conviction under Sections 302 and 498A IPC upheld. Appeal by the State of Maharashtra against the acquittal of Kewalchand Jain, Kantabai Jain, and Sharadchand Jain dismissed. Their acquittal upheld.",
+    "reasoning": [
+      "The Supreme Court found the second dying declaration (Ex. 33) recorded by the Magistrate to be reliable, voluntary, and true.",
+      "The Court considered the Magistrate's testimony (PW 13) and the procedures followed, including certification of fitness by the doctor before and after the recording, ensuring its voluntariness and authenticity.",
+      "Reasons were provided for disfavoring the first dying declaration (Ex. 26): possibility of the deceased being in shock, potential influence by relatives present, inherent preference for Magistrate-recorded declaration over police-recorded one.",
+      "The contradiction between the two declarations was resolved in favor of the second one, finding it a more accurate account provided after the deceased had some time to reflect.",
+      "The contents of the second declaration clearly made out a case of intentional murder under Section 302 IPC, motivated by the demand for money (linked to dowry/business).",
+      "The Court held that even if elements of Section 304B were present (death within 7 years, unnatural, demand related), when the evidence clearly points to intentional killing (homicide), Section 302 is the appropriate charge.",
+      "The conviction under Section 498A was also justified based on the harassment related to the unlawful demand described in the second dying declaration.",
+      "Regarding the other accused (A2, A3, A4), the Court agreed with the High Court that there was a lack of sufficient and credible evidence to prove their involvement in the crime or any preceding cruelty/demand beyond reasonable doubt. Hence, their acquittal was confirmed."
+    ],
+    "cited_cases": [
+      "Kushal Rao v. State of Bombay (AIR 1958 SC 22)",
+      "Tarachand Damu Sutar v. State of Maharashtra (AIR 1962 SC 130)",
+      "Kusa v. State of Orissa (AIR 1980 SC 559)",
+      "Munnu Raja v. State of M.P. ((1976) 3 SCC 104)",
+      "State of Assam v. Mafizuddin Ahmed (AIR 1983 SC 274)",
+      "State of U.P. v. Ram Sagar Yadav ((1985) 1 SCC 552)",
+      "Ramawati Devi v. State of Bihar ((1983) 1 SCC 211)",
+      "Paniben v. State of Gujarat ((1992) 2 SCC 474 - Referenced for principle though decided later)",
+      "Lallubhai Devchand Shah v. State of Gujarat ((1972) 3 SCR 706 / AIR 1972 SC 1776)"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "case_id": "State of Punjab v. Major Singh (1966)",
+  "facts": [
+    "The respondent, Major Singh, was accused of committing an offense under Section 354 of the Indian Penal Code.",
+    "The victim was a female child aged 7 and a half months.",
+    "The incident occurred on March 13, 1962, around 6:00 PM in the village of Ludhiana district.",
+    "The child's mother found her crying and bleeding from her private parts shortly after the respondent had taken the child out of the house.",
+    "Medical examination conducted by Dr. Harpal Kaur revealed multiple injuries inside the vagina, including tears in the hymen and posterior fourchette, indicating forceful penetration by a hard object, possibly a human finger or male organ.",
+    "The doctor opined that the injuries constituted an 'attempt to rape'.",
+    "The respondent was initially charged under Section 376 (Rape) read with Section 511 (Attempt) IPC, but the Sessions Judge altered the charge to Section 354 IPC (Assault or criminal force to woman with intent to outrage her modesty).",
+    "The Sessions Judge convicted the respondent under Section 354 IPC and sentenced him to two years' rigorous imprisonment.",
+    "On appeal, the High Court of Punjab acquitted the respondent, holding that a female infant of 7.5 months could not possess a sense of 'modesty' and therefore, her modesty could not be outraged.",
+    "The State of Punjab appealed the High Court's acquittal to the Supreme Court.",
+    "The key legal question before the Supreme Court was whether a female child of such a tender age could be considered to have 'modesty' capable of being outraged under Section 354 IPC."
+  ],
+  "ipc_sections": [
+    "Section 354 (Assault or criminal force to woman with intent to outrage her modesty)",
+    "Section 10 (Definition of 'Man', 'Woman' - specifying 'woman' denotes a female human being of any age)",
+    "Section 349 (Definition of 'Force')",
+    "Section 350 (Definition of 'Criminal Force')",
+    "Section 351 (Definition of 'Assault')",
+    "Section 375 (Discussed contextually regarding 'rape' definition)",
+    "Section 376 (Rape - initial consideration/charge)",
+    "Section 511 (Attempt - initial consideration/charge)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The respondent used criminal force on the victim, a female child, with the intention of outraging her modesty, fulfilling all elements of Section 354 IPC. Modesty is an inherent attribute of womanhood, irrespective of the victim's age or her subjective understanding.",
+      "precedents": [
+        "Section 10 IPC (Explicitly defines 'woman' as a female of any age)",
+        "Girdhar Gopal v. State (AIR 1953 MB 147) (Discussed the essence of modesty in relation to Sec 354)",
+        "Emperor v. Tatia Mahadev (1912) 14 Bom LR 961 (Implied that the act itself, judged objectively, determines the outrage)"
+      ],
+      "elements": [
+        "Use of criminal force or assault.",
+        "Victim was a 'woman' (female of any age per Sec 10 IPC).",
+        "Intention or knowledge that the act is likely to outrage modesty.",
+        "Modesty is an objective attribute of femaleness, not dependent on the victim's age or awareness."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The concept of 'outraging modesty' inherently implies that the victim possesses a sense of modesty or decency which can be shocked or offended. An infant lacks this cognitive or emotional attribute.",
+          "supporting_precedents": [
+            "Arguments mirroring the minority view in the Major Singh case itself (as expressed by Justice Bachawat).",
+            "Cases emphasizing the subjective element or consciousness required for certain offenses (though potentially distinguishable).",
+            "Insufficient data: Specific precedents directly supporting the view that infants lack 'outrageable modesty' prior to Major Singh are scarce; this case largely established the precedent landscape."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The nature of the act, involving penetration causing injury to the victim's private parts, is objectively indecent and constitutes an outrage to the essence of womanhood represented by the female child.",
+      "precedents": [
+        "R. v. Beale (1865) L.R. 1 C.C.R. 39 (English case potentially relevant to objective standards of decency/assault)",
+        "State v. Ram Autar (AIR 1955 All 138) (Discussed intent in sexual offenses)",
+        "Insufficient data: Precedents specifically linking objective act analysis to infant victims under Sec 354 pre-Major Singh are limited."
+      ],
+      "elements": [
+        "Objective nature of the act (injuries to genitals).",
+        "Act violates societal norms of decency concerning females.",
+        "Inference of requisite intent/knowledge from the act itself."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "While the act is reprehensible and constitutes hurt/assault, labeling it as 'outraging modesty' under Sec 354 requires proving a specific mental element related to modesty, which is difficult when the victim lacks awareness.",
+          "supporting_precedents": [
+            "Cases distinguishing between simple assault/hurt and assault specifically aimed at outraging modesty.",
+            "Arguments emphasizing mens rea requirement specific to the 'outraging modesty' component.",
+            "Insufficient data: Finding specific precedents directly matching this nuance for infant victims pre-Major Singh is difficult."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "An essential ingredient of Section 354 IPC is the outraging of 'modesty'. Modesty is a virtue or attribute that develops with age and understanding; it cannot exist in an infant of 7.5 months who lacks consciousness of sex and decency. Therefore, the offense under Section 354 is legally impossible.",
+      "edge_cases": [
+        "Interpretation of the term 'modesty' – whether it's inherent or acquired.",
+        "Applicability of Sec 354 based on victim's age and cognitive development."
+      ],
+      "precedents": [
+        "Arguments aligned with the High Court's reasoning in this case.",
+        "Minority judgment of Justice Bachawat in the Supreme Court ruling of this case.",
+        "Insufficient data: Specific pre-1966 precedents definitively stating infants lack 'modesty' for Sec 354 are not readily identifiable; the defense likely relied on interpretation and first principles."
+      ]
+    },
+    {
+      "argument": "The prosecution failed to prove the specific intent required under Section 354 – the intent to 'outrage modesty'. While the act caused injury, it cannot be concluded beyond reasonable doubt that the intent was specifically to 'outrage modesty' when the concept itself is inapplicable to the victim.",
+      "edge_cases": [
+        "Distinguishing intent to cause harm/injury from the specific intent to outrage modesty.",
+        "Requirement of specific mens rea for Section 354 IPC."
+      ],
+      "precedents": [
+        "Cases requiring strict proof of mens rea for specific intent offenses.",
+        "Ram Das v. State of W.B. (AIR 1954 SC 711) (General principles on proving intention)",
+        "Insufficient data: Precedents directly applying this intent argument to the specific context of infant victims under Sec 354 pre-Major Singh are limited."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed (State's appeal succeeded). The Supreme Court (by majority) set aside the High Court's acquittal and restored the conviction and sentence passed by the Sessions Judge under Section 354 IPC.",
+    "reasoning": [
+      "Majority View (Sarkar, Mudholkar JJ.):",
+      "- 'Woman' under Section 10 IPC includes females of all ages.",
+      "- 'Modesty' is an attribute of the female sex, inherent from birth. It is not contingent on the victim's age or her subjective understanding or awareness of it.",
+      "- The term 'outrage' relates to the CULPRIT'S action, judged objectively. If the act committed is inherently indecent and is done with the intention or knowledge that it would offend the modesty of a woman (in the objective sense), the offense is complete.",
+      "- The essence of a woman's modesty is her sex. An act involving forceful penetration into the private parts of a female child, regardless of her age, is intrinsically an affront to her womanhood and thus an outrage to her modesty.",
+      "Minority View (Bachawat J.):",
+      "- 'Modesty' implies a sense of propriety, decency, and shame, which develops with age and understanding. An infant lacks this sense.",
+      "- An act cannot 'outrage' something that does not exist or is not perceived by the victim.",
+      "- While the act committed was punishable under other sections (like causing hurt), it did not fulfill the specific requirements of Section 354 as the element of 'outraging modesty' (in the subjective sense understood by the minority) was absent."
+    ],
+    "cited_cases": [
+      "Girdhar Gopal v. State (AIR 1953 MB 147)",
+      "Emperor v. Tatia Mahadev (1912) 14 Bom LR 961",
+      "R. v. Beale (1865) L.R. 1 C.C.R. 39",
+      "R. v. Bankes (1865) L.R. 1 C.C.R. 41 (footnote reference)",
+      "R. v. Cockburn (1846) 3 Cox C.C. 543",
+      "State v. Ram Autar (AIR 1955 All 138)",
+      "Khalilur Rahman v. King Emperor (AIR 1933 Rang 98)",
+      "Emperor v. Ramajiraoji (1888) ILR 12 Bom 1",
+      "Empress v. Shanker (Unreported, referred in commentary)",
+      "Note: The judgment itself contains detailed discussions but may not formally 'cite' all mentioned authorities in the standard modern format. The listed cases are those prominently discussed or referred to in the text of AIR 1967 SC 63."
+    ]
+  }
+}

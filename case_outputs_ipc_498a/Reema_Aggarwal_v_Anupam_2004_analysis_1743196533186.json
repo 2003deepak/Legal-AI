@@ -1,0 +1,114 @@
+{
+  "case_id": "Reema Aggarwal v. Anupam (2004) 3 SCC 199",
+  "facts": [
+    "Reema Aggarwal (Appellant) married Anupam (Respondent No. 1) on June 27, 1996, according to Hindu rites.",
+    "Prior to this marriage, Anupam was already married to Roopa, and this first marriage was subsisting.",
+    "Reema alleged that she was unaware of Anupam's first marriage at the time of her marriage.",
+    "Reema alleged that soon after the marriage, she was subjected to physical and mental torture, harassment, and cruelty by Anupam and his relatives (Respondents No. 2 to 5) over demands for dowry.",
+    "Reema filed a complaint alleging offenses under Sections 498A, 323, and 506 of the Indian Penal Code (IPC).",
+    "The Respondents filed a petition under Section 482 of the Code of Criminal Procedure (CrPC) before the High Court seeking quashing of the FIR and consequent proceedings.",
+    "The High Court quashed the proceedings, primarily on the ground that the marriage between Reema and Anupam was null and void due to Anupam's existing first marriage, and therefore, Anupam could not be considered Reema's 'husband' within the meaning of Section 498A IPC.",
+    "Reema Aggarwal appealed the High Court's decision to the Supreme Court of India."
+  ],
+  "ipc_sections": [
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 323 (Punishment for voluntarily causing hurt)",
+    "Section 506 (Punishment for criminal intimidation)",
+    "Section 494 (Marrying again during lifetime of husband or wife - Contextually relevant for determining void marriage status)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - Likely invoked for relatives)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The term 'husband' in Section 498A IPC should be interpreted purposively to include a man whose marriage is void/voidable, especially when he has projected himself as the husband and the woman has lived with him in that capacity. A strict literal interpretation would defeat the object of the law, which is to protect women from cruelty in a domestic setting resembling marriage.",
+      "precedents": [
+        "Shivcharan Lal Verma v. State of M.P. (2002) 2 SCALE 1 (Initial view suggesting applicability even in void marriages, though reasoning later refined/distinguished).",
+        "State of Maharashtra v. Ashok Chotelal Shukla (1997) 11 SCC 26 (Emphasizes the social purpose behind Section 498A).",
+        "G.V. Siddaramesh v. State of Karnataka (2010) 3 SCC 152 (Discusses the legislative intent and object of Section 498A)."
+      ],
+      "elements": [
+        "Existence of a marital relationship (even if legally void).",
+        "Accused (Anupam) held himself out as the husband.",
+        "The woman (Reema) was subjected to cruelty (as defined in Explanation to S. 498A).",
+        "Cruelty was inflicted by the person claiming to be the 'husband' or his relatives."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Penal statutes require strict interpretation. If the marriage is void *ab initio*, there is no legally recognized 'husband'. The definition cannot be stretched beyond its plain meaning.",
+          "supporting_precedents": [
+            "Yamunabai Anantrao Adhav v. Anantrao Shivram Adhav (1988) 1 SCC 530 (Woman in void marriage not a 'wife' entitled to maintenance under S. 125 CrPC).",
+            "Savitaben Somabhai Bhatiya v. State of Gujarat (2005) 3 SCC 636 (Reinforces the principle in Yamunabai for S. 125 CrPC).",
+            "Bhausaheb alias Sandu Raghuji Magar v. State of Maharashtra (1996 Cri LJ 1134 Bom) (High Court view holding S. 498A inapplicable in void marriages, representing the conflicting judicial opinion pre-Reema Aggarwal SC ruling)."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court erred in quashing the FIR under Section 482 CrPC at a preliminary stage. The allegations of cruelty, hurt, and intimidation constituted prima facie offenses that required investigation and trial. The interpretation of 'husband' should not have been decided definitively without trial.",
+      "precedents": [
+        "State of Haryana v. Bhajan Lal (1992) Supp (1) SCC 335 (Lays down guidelines for exercising power under S. 482 CrPC, emphasizing caution).",
+        "Diddeppa alias Suresh v. State of Karnataka (2007) 13 SCC 165 (Quashing power should be used sparingly, especially when factual investigation is needed).",
+        "Mosiruddin Munshi v. Md. Siraj (2014) 14 SCC 29 (High Court should not act as an investigating agency or conduct a mini-trial under S. 482)."
+      ],
+      "elements": [
+        "Prima facie case disclosed in the FIR.",
+        "Allegations require factual determination through investigation/trial.",
+        "High Court's interpretation of law was premature and incorrect."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "If a core legal requirement (existence of a 'husband') is clearly absent based on admitted facts (void marriage), the continuation of proceedings would be an abuse of process, justifying quashing under S. 482 CrPC.",
+          "supporting_precedents": [
+            "Pepsi Foods Ltd. v. Special Judicial Magistrate (1998) 5 SCC 749 (S. 482 can be invoked if allegations, even if taken at face value, do not constitute an offense).",
+            "Inder Mohan Goswami v. State of Uttaranchal (2007) 12 SCC 1 (Power to quash used to prevent abuse of process or secure ends of justice).",
+            "Nagawwa v. Veeranna Shivalingappa Konjalgi (1976) 3 SCC 736 (Process can be quashed if complaint is legally barred)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The marriage between Reema Aggarwal and Anupam is null and void *ab initio* under Section 11 read with Section 5(i) of the Hindu Marriage Act, 1955, due to Anupam's pre-existing valid marriage. Consequently, Anupam is not the 'husband' of Reema within the strict legal meaning required by Section 498A IPC, a penal provision.",
+      "edge_cases": [
+        "Strict interpretation of penal statutes.",
+        "Distinction between legally valid marriage and relationship resembling marriage.",
+        "Applicability of civil law definitions (Hindu Marriage Act) to criminal law provisions (IPC)."
+      ],
+      "precedents": [
+        "Yamunabai Anantrao Adhav v. Anantrao Shivram Adhav (1988) 1 SCC 530 (Leading case establishing that a woman in a void marriage under HMA is not a 'wife' for S. 125 CrPC).",
+        "Savitaben Somabhai Bhatiya v. State of Gujarat (2005) 3 SCC 636 (Confirms Yamunabai; emphasizes legal status over factual cohabitation for S. 125).",
+        "Surjit Singh v. Garja Singh (1994) 1 SCC 407 (On conditions for valid Hindu marriage and consequences of violation, including voidness under S. 11 HMA)."
+      ]
+    },
+    {
+      "argument": "Allowing prosecution under Section 498A in cases of void marriage would unduly broaden the scope of the penal provision beyond the legislative intent, which was presumed to cover legally recognized marital relationships.",
+      "edge_cases": [
+        "Legislative silence on applicability to void marriages specifically in S. 498A.",
+        "Potential for misuse of the provision in relationships not amounting to legal marriage."
+      ],
+      "precedents": [
+        "Kanwar Singh v. Delhi Administration (AIR 1965 SC 871) (General principle: Penal statutes must be construed strictly).",
+        "Tolaram Relumal v. State of Bombay (AIR 1954 SC 496) (If two reasonable constructions possible, the one favouring the accused should be adopted).",
+        "Bijender Singh vs State of Haryana (2005) 3 SCC 685 (Strict proof required for criminal conviction)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. The judgment of the High Court quashing the proceedings was set aside. The Supreme Court held that the term 'husband' in Section 498A IPC includes men who enter into marital relationships, even if the marriage is legally null and void.",
+    "reasoning": [
+      "The Supreme Court adopted a purposive interpretation of Section 498A, emphasizing its object to protect women from cruelty occurring within a domestic relationship resembling marriage.",
+      "It held that a person who enters into a marital arrangement and holds himself out to society as a husband cannot be allowed to take shelter behind the legality of the marriage (or lack thereof) to escape liability under Section 498A, especially when the invalidity arises from his own prior subsisting marriage.",
+      "To deny the applicability of Section 498A would be to reward the accused for his own wrongdoing (bigamy).",
+      "The Court distinguished the object and scope of Section 498A IPC from Section 125 CrPC (maintenance). While maintenance requires a legally valid 'wife', Section 498A addresses cruelty within a relationship having the *semblance* of marriage.",
+      "The definition of 'cruelty' in Section 498A is specifically tailored and broader than concepts under matrimonial laws.",
+      "The Court found that the High Court erred in quashing the complaint at the threshold based on a restrictive interpretation of 'husband'."
+    ],
+    "cited_cases": [
+      "Shivcharan Lal Verma v. State of M.P. (2002) 2 SCALE 1",
+      "Yamunabai Anantrao Adhav v. Anantrao Shivram Adhav (1988) 1 SCC 530",
+      "Savitaben Somabhai Bhatiya v. State of Gujarat (2005) 3 SCC 636 (Discussed as representing the S.125 CrPC view, though decided slightly later, the principle was known)",
+      "State of Haryana v. Bhajan Lal (1992) Supp (1) SCC 335",
+      "Bhausaheb alias Sandu Raghuji Magar v. State of Maharashtra (1996 Cri LJ 1134 Bom) (Cited as representing the contrary High Court view)"
+    ]
+  }
+}

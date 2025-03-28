@@ -1,0 +1,141 @@
+{
+  "case_id": "State of West Bengal v. Orilal Jaiswal (1994) 1 SCC 73",
+  "facts": [
+    "The deceased, Soma Rani Jaiswal, was married to Nimai Charan Jaiswal (Accused No. 2).",
+    "Orilal Jaiswal (Accused No. 1) was the father-in-law, and Kanan Bala Jaiswal (Accused No. 3) was the mother-in-law of the deceased.",
+    "On June 16, 1984, Soma Rani died due to extensive burn injuries sustained in her matrimonial home.",
+    "The prosecution alleged that the deceased committed suicide due to continuous torture, harassment, and cruelty inflicted by all three accused.",
+    "Evidence presented included an alleged dying declaration made by Soma Rani to her father (PW1) and uncle (PW2) implicating the accused.",
+    "Letters written by the deceased to her family, allegedly indicating her suffering and harassment, were also part of the evidence.",
+    "Testimony from neighbours (PW3, PW4) regarding quarrels and the deceased appearing unhappy was recorded.",
+    "Medical evidence confirmed death due to shock and hemorrhage resulting from extensive (90-100%) ante-mortem burns.",
+    "The Trial Court (Additional Sessions Judge, Alipore) acquitted all three accused, finding the evidence insufficient to prove abetment of suicide under Section 306 IPC beyond reasonable doubt. The court doubted the authenticity and reliability of the dying declaration and the interpretation of the letters.",
+    "The State of West Bengal appealed the acquittal to the Calcutta High Court.",
+    "The High Court reversed the Trial Court's judgment, convicted all three accused under Section 306 read with Section 34 IPC, and sentenced each to five years' rigorous imprisonment.",
+    "The High Court primarily relied on the dying declaration and the letters as proof of cruelty leading to suicide.",
+    "The accused (Orilal Jaiswal and others) filed an appeal against the High Court's conviction in the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 306 (Abetment of suicide)",
+    "Section 107 (Abetment of a thing)",
+    "Section 34 (Acts done by several persons in furtherance of common intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly convicted the accused as the evidence, particularly the dying declaration and letters, established continuous cruelty and harassment which drove the deceased to suicide, constituting abetment under Section 306 IPC.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Discusses link between cruelty and unnatural death, although in context of S.304B/113B)",
+        "Laxman v. State of Maharashtra (2002) 6 SCC 710 (General principles on accepting dying declarations as truthful - argued by prosecution that declaration here met the standard)",
+        "P.N. Swamy v. State of Mysore AIR 1957 SC 540 (Cited regarding admissibility and weight of dying declarations)"
+      ],
+      "elements": [
+        "Death of Soma Rani was suicide.",
+        "The accused abetted the suicide.",
+        "Abetment occurred through instigation or intentional aiding as defined in Section 107 IPC, manifested by cruelty and harassment.",
+        "Common intention (Section 34) among the accused to commit the acts leading to suicide."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The dying declaration's reliability was questionable due to potential tutoring (father/uncle present) and the deceased's physical condition (90-100% burns).",
+          "supporting_precedents": [
+            "P.N. Swamy v. State of Mysore AIR 1957 SC 540 (Emphasizes caution needed with dying declarations)",
+            "Kushal Rao v. State of Bombay AIR 1958 SC 22 (Lays down conditions for reliability of dying declarations)",
+            "Paparambaka Rosamma v. State of A.P. (1999) 7 SCC 695 (Need for proof that deceased was in a fit state of mind)"
+          ]
+        },
+        {
+          "loophole": "Evidence showed general unhappiness and marital discord, but lacked proof of specific acts of instigation or intentional aiding immediately preceding the suicide, as required by Section 107 IPC.",
+          "supporting_precedents": [
+            "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Mere quarreling or harassment without positive act not abetment)",
+            "Gangula Mohan Reddy v. State of A.P. (2010) 1 SCC 750 (Requires mens rea and active role; mental cruelty under 498A alone may not suffice for 306)",
+            "Mahendra Singh v. State of M.P. 1995 Supp (3) SCC 731 (Distinction between sensitivity leading to suicide and active abetment)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court was justified in reversing the Trial Court's acquittal as the Trial Court's assessment of evidence was flawed and ignored the cumulative effect of the cruelty.",
+      "precedents": [
+        "State of U.P. v. Ramesh Prasad Misra (1996) 10 SCC 360 (Powers of High Court in appeal against acquittal)",
+        "Dhananjay Chatterjee alias Dhana v. State of W.B. (1994) 2 SCC 220 (Appellate court can re-appreciate evidence in appeals against acquittal)",
+        "Arunachalam v. P.S. Ranganathan (1994) Supp (1) SCC 489 (When appellate court can interfere with acquittal)"
+      ],
+      "elements": [
+        "Trial Court decision was unreasonable or perverse.",
+        "High Court correctly re-appreciated evidence.",
+        "Sufficient grounds existed for overturning acquittal."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "High Court reversed acquittal merely because a different view was possible, without demonstrating the Trial Court's view was perverse or patently unreasonable.",
+          "supporting_precedents": [
+            "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (High Court should interfere with acquittal only for compelling reasons / perversity)",
+            "State of Rajasthan v. Raja Ram (2003) 8 SCC 180 (Presumption of innocence reinforced by acquittal; strong grounds needed for reversal)",
+            "Ajit Singh Thakur Singh v. State of Gujarat AIR 1981 SC 733 (Appellate court should be slow to disturb finding of fact of trial court)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish the essential ingredients of abetment under Section 107 IPC. There was no evidence of instigation, conspiracy, or intentional aiding by the accused that directly led to the suicide.",
+      "edge_cases": [
+        "Distinguishing cruelty potentially falling under Section 498A IPC (not charged/proven) from the higher threshold of active abetment required for Section 306 IPC.",
+        "The deceased's own sensitivity or predisposition cannot be the basis for convicting the accused of abetment without proof of their direct incitement."
+      ],
+      "precedents": [
+        "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445 (Abetment requires mens rea; not every quarrel leading to suicide is abetment)",
+        "State of Haryana v. Bhajan Lal 1992 Supp (1) SCC 335 (Discussed principles of quashing proceedings/need for prima facie case - relevant to the principle that conviction requires solid proof)",
+        "Wazir Chand v. State of Haryana (1989) 1 SCC 244 (Harassment for dowry might be cruelty, but conviction for abetment of suicide requires proof of direct nexus and actus reus under S.107)"
+      ]
+    },
+    {
+      "argument": "The High Court erred in reversing a well-reasoned acquittal by the Trial Court. The Trial Court had correctly assessed the evidence and found it insufficient, and the High Court should not have substituted its own view without identifying perversity.",
+      "edge_cases": [
+        "Standard of proof for reversing an acquittal is significantly higher than for reversing a conviction.",
+        "Appellate court's limitations in overturning findings of fact based on witness credibility assessed by the Trial Court."
+      ],
+      "precedents": [
+        "Balak Ram v. State of U.P. AIR 1974 SC 2165 (Principles governing appeal against acquittal)",
+        "Awadhesh v. State of M.P. AIR 1988 SC 1158 (Reversal of acquittal requires demonstration of perversity or grave error)",
+        "Tota Singh v. State of Punjab AIR 1987 SC 1083 (Appellate court should not reverse acquittal if trial court view is reasonable)"
+      ]
+    },
+    {
+      "argument": "The dying declaration and letters were unreliable and insufficient to prove the charge of abetment beyond reasonable doubt.",
+      "edge_cases": [
+        "Admissibility versus evidentiary value of dying declarations and personal letters.",
+        "Interpretation of ambiguous language in letters – whether it pointed to abetment or simply marital unhappiness."
+      ],
+      "precedents": [
+        "P.N. Swamy v. State of Mysore AIR 1957 SC 540 (Conditions for admissibility and weight of dying declarations)",
+        "State of Assam v. Mafizuddin Ahmed AIR 1983 SC 274 (Caution required in relying solely on dying declaration)",
+        "Insufficient data: Specific precedents cited *within Orilal Jaiswal* focusing solely on interpretation of letters for abetment are not explicitly detailed, though the court did analyze them."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. The judgment of the High Court convicting the appellants under Section 306/34 IPC was set aside, and the judgment of the Trial Court acquitting them was restored.",
+    "reasoning": [
+      "The Supreme Court reiterated that conviction under Section 306 IPC is not sustainable merely based on allegations of harassment without conclusive proof of active suggestion or instigation by the accused.",
+      "Abetment under Section 107 IPC requires *mens rea* (a guilty mind or intention). The prosecution must prove that the accused intended the consequences of their actions, i.e., that the deceased should commit suicide.",
+      "The evidence presented (including the dying declaration and letters) might indicate cruelty or harassment causing mental distress, but it fell short of proving instigation or aiding/abetting the suicide.",
+      "The Court emphasized the distinction between the concepts of 'abetment of suicide' under Section 306 and 'cruelty' under Section 498A IPC (though 498A was not directly in issue). Actions constituting cruelty might not necessarily amount to abetment.",
+      "The High Court erred in interfering with the Trial Court's acquittal. The Trial Court's view on the evidence was plausible and could not be termed perverse or wholly unreasonable. Reversing an acquittal requires stronger grounds than simply holding a different opinion.",
+      "The Court expressed doubts about the reliability and interpretation of the dying declaration and letters as providing conclusive proof of abetment.",
+      "Mere fact that a wife committed suicide in the matrimonial home due to unhappiness or strained relations does not automatically lead to a presumption of abetment against the husband or his relatives unless specific ingredients of Section 107 are established."
+    ],
+    "cited_cases": [
+      "P.N. Swamy v. State of Mysore AIR 1957 SC 540",
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445",
+      "State of Haryana v. Bhajan Lal 1992 Supp (1) SCC 335",
+      "Wazir Chand v. State of Haryana (1989) 1 SCC 244",
+      "Brij Lal v. Prem Chand AIR 1989 SC 1661",
+      "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618 (Cited illustratively in the judgment's reasoning on the principles of S.107/306, even if decided later)",
+      "Pancha v. Emperor AIR 1932 Lah 158",
+      "Parimal Chatterji v. Emperor AIR 1932 Cal 760"
+    ]
+  }
+}

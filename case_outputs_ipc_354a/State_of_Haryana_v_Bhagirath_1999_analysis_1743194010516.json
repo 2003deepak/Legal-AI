@@ -1,0 +1,155 @@
+{
+  "case_id": "State of Haryana v. Bhagirath (1999) 5 SCC 96",
+  "facts": [
+    "Smt. Roshni was married to Bhagirath (Respondent No. 1) about 1.5 years prior to her death.",
+    "Respondents 2-5 were the parents-in-law and brothers-in-law of the deceased.",
+    "On 10.06.1991, Smt. Roshni died due to burn injuries sustained at her matrimonial home.",
+    "The prosecution alleged that Roshni was subjected to harassment and cruelty by the respondents in connection with demands for dowry, specifically a scooter.",
+    "PW-4 (Ram Niwas, father of the deceased) testified that Roshni had complained about the dowry demands and harassment approximately 10-15 days before her death when she visited her parental home.",
+    "PW-4 also stated that he had tried to convene a panchayat to resolve the issue, but the accused party did not attend.",
+    "PW-5 (Dharam Pal, a relative) corroborated the claims of dowry demands.",
+    "The Trial Court acquitted all the accused, finding the evidence regarding dowry demands and cruelty unreliable.",
+    "The High Court, on appeal by the State, reversed the acquittal and convicted all five respondents under Section 304B of the IPC, sentencing them to 7 years of rigorous imprisonment.",
+    "The High Court upheld the acquittal under Section 302 IPC.",
+    "The respondents (accused) appealed the High Court's conviction under Section 304B IPC to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 302 (Punishment for murder - Acquitted)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - Implicitly applied with substantive sections)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The ingredients of Section 304B IPC were fully established: unnatural death (burns) within 7 years of marriage, coupled with evidence of dowry-related cruelty 'soon before' death.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Establishes scope of Sec 113B Evidence Act presumption)",
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Interprets 'soon before her death' - requires proximate link, but not necessarily immediate)",
+        "Pawan Kumar v. State of Haryana (1998) 3 SCC 309 (Dowry demand itself constitutes harassment)"
+      ],
+      "elements": [
+        "Death by burns (unnatural)",
+        "Death within 7 years of marriage (1.5 years)",
+        "Subjected to cruelty/harassment for dowry (scooter demand)",
+        "Cruelty occurred 'soon before death' (based on complaint 10-15 days prior, ongoing nature)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The term 'soon before' requires a more immediate and proximate link than events 10-15 days prior, especially without specific details of intervening harassment.",
+          "supporting_precedents": [
+            "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Emphasizes proximity for 'soon before')",
+            "Surinder Singh v. State of Haryana (2014) 4 SCC 129 ('Soon before' is relative but requires nexus; stale demands insufficient)",
+            "Tarsem Singh v. State of Punjab (2008) 16 SCC 155 (Need for live and proximate link between cruelty and death)"
+          ]
+        },
+        {
+          "loophole": "Testimony of father (PW-4) and relative (PW-5) are from interested witnesses and lack independent corroboration regarding specific acts of cruelty immediately preceding death.",
+          "supporting_precedents": [
+            "M. Narsinga Rao v. State of A.P. (2001) 1 SCC 691 (Testimony of interested witnesses needs careful scrutiny and corroboration if possible)",
+            "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Burden of proof squarely on prosecution; suspicion cannot replace proof)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The evidence of PW-4 and PW-5 clearly established cruelty as defined under Section 498A, linked to dowry demands.",
+      "precedents": [
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Defines 'cruelty' broadly including mental harassment)",
+        "Inder Raj Malik v. Sunita Malik (1986) Cr LJ 1510 (Delhi HC) (Harassment for dowry falls under Sec 498A(b))",
+        "State of Karnataka v. Dattaraj (2004) 1 SCC 281 (Conviction under 498A can stand even if 304B fails)"
+      ],
+      "elements": [
+        "Subjecting woman (Roshni) to cruelty/harassment",
+        "By husband or relatives (Respondents 1-5)",
+        "Harassment was to coerce her/relatives to meet unlawful demand for property (scooter)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations of harassment are general; lack specific incidents, dates, or detailed descriptions required to meet the threshold of 'cruelty' beyond normal marital discord.",
+          "supporting_precedents": [
+            "Manju Ram Kalita v. State of Assam (2009) 13 SCC 330 (Cruelty must be of a nature to drive woman to suicide or cause grave injury/danger)",
+            "Savitri Devi v. Ramesh Chand (2003) Cr LJ 2759 (Del) (Petty quarrels do not constitute cruelty under 498A)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court correctly reversed the Trial Court's perverse acquittal, properly appreciating the evidence of dowry demand and harassment.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Appellate court has power to review evidence and reverse acquittal if judgment is perverse or conclusions unreasonable)",
+        "Sheo Swarup v. King Emperor AIR 1934 PC 227 (Principles for appellate review of acquittals)",
+        "State of U.P. v. Ramesh Prasad Misra (1996) 10 SCC 360 (Reversal permissible if trial court ignored relevant evidence)"
+      ],
+      "elements": [
+        "Trial Court ignored credible testimony (PW-4, PW-5)",
+        "Trial Court findings were contrary to evidence on record",
+        "High Court applied correct legal principles (Sec 304B, 113B Evidence Act)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The High Court should not substitute its own view if the Trial Court's view was also plausible based on the evidence; acquittal should stand unless findings are patently unreasonable.",
+          "supporting_precedents": [
+            "Murugesan v. State Through Inspector of Police (2012) 10 SCC 383 (High threshold for reversing acquittal; mere different view is insufficient)",
+            "Ramesh Babulal Doshi v. State of Gujarat (1996) 9 SCC 225 (Acquittal reversal only if glaring errors or manifest illegality by trial court)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to prove the essential element of 'soon before her death' under Section 304B IPC. The alleged demand/complaint 10-15 days prior lacks the necessary proximity.",
+      "edge_cases": [
+        "Interpretation of 'soon before' requires establishing a live, proximate link, not just historical harassment.",
+        "Absence of evidence detailing continuous harassment between the complaint (10-15 days prior) and the date of death."
+      ],
+      "precedents": [
+        "Sham Lal v. State of Haryana (1997) 9 SCC 759 (Crucial interpretation distinguishing 498A cruelty from 304B's 'soon before' requirement)",
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (While not needing to be 'immediately before', a proximate link must exist)",
+        "Baldev Singh v. State of Punjab (2009) 16 SCC 231 (Mere fact of unnatural death within 7 years is not enough; cruelty soon before death must be proved)"
+      ]
+    },
+    {
+      "argument": "The evidence regarding dowry demand and cruelty provided by PW-4 and PW-5 (father and relative) is unreliable, being interested testimony without independent corroboration.",
+      "edge_cases": [
+        "Standard of proof in criminal cases requires evidence beyond reasonable doubt.",
+        "Potential for exaggeration or embellishment by relatives of the deceased in dowry-related cases."
+      ],
+      "precedents": [
+        "Sarwan Singh v. State of Punjab AIR 1957 SC 637 (Caution required while evaluating testimony of interested witnesses)",
+        "Surinder Kumar v. State of Haryana (2011) 10 SCC 173 (Need for corroboration increases when witnesses are closely related and potentially biased)",
+        "Appabhai v. State of Gujarat AIR 1988 SC 696 (Acquittal appropriate if evidence is unreliable or insufficient)"
+      ]
+    },
+    {
+      "argument": "Even if general harassment (cruelty under Section 498A) is assumed, it does not automatically satisfy the stringent conditions for dowry death under Section 304B, particularly the temporal connection ('soon before').",
+      "edge_cases": [
+        "Section 304B creates a specific offence with a presumption (Sec 113B Evidence Act) that requires strict proof of preconditions.",
+        "Distinction between ongoing marital cruelty and specific dowry-related cruelty immediately preceding death."
+      ],
+      "precedents": [
+        "State of Himachal Pradesh v. Nikku Ram (1995) 6 SCC 219 (Distinction between Sec 498A and Sec 306/304B explained)",
+        "Kaliyaperumal v. State of Tamil Nadu (2004) 9 SCC 157 (All ingredients of 304B must be established independently, including 'soon before')",
+        "Major Singh v. State of Punjab (2015) 5 SCC 201 (Cruelty established for 498A may not be sufficient for 304B without the proximate link)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. Conviction under Section 304B IPC set aside (Acquitted). Conviction under Section 498A IPC upheld.",
+    "reasoning": [
+      "The Supreme Court differentiated between cruelty under Section 498A and the requirement of cruelty 'soon before her death' under Section 304B.",
+      "While the evidence of PW-4 and PW-5 established harassment and cruelty related to dowry demands, sufficient to uphold the conviction under Section 498A, it did not meet the stricter requirement of Section 304B.",
+      "The term 'soon before her death' under Section 304B requires a proximate and live link between the effect of cruelty based on dowry demand and the death.",
+      "The Court found that the prosecution failed to demonstrate specific incidents of cruelty or harassment immediately preceding the death. The complaint made 10-15 days earlier, without evidence of continuing proximate harassment linked to the death, was insufficient to establish the 'soon before' condition for Section 304B.",
+      "The presumption under Section 113B of the Indian Evidence Act could not be invoked as the foundational fact ('soon before death') was not established beyond reasonable doubt.",
+      "Therefore, while cruelty punishable under Section 498A was proven, the essential temporal element linking that cruelty directly to the death, as required by Section 304B, was missing."
+    ],
+    "cited_cases": [
+      "Sham Lal v. State of Haryana (1997) 9 SCC 759",
+      "Pawan Kumar v. State of Haryana (1998) 3 SCC 309",
+      "Kans Raj v. State of Punjab (2000) 5 SCC 207",
+      "State of Punjab v. Iqbal Singh (1991) 3 SCC 1",
+      "(Possibly others referenced implicitly or for general principles, but these are central to the reasoning on 304B vs 498A and 'soon before')"
+    ]
+  }
+}

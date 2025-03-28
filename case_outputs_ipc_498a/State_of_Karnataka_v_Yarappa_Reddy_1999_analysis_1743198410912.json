@@ -1,0 +1,129 @@
+{
+  "case_id": "State of Karnataka v. Yarappa Reddy (1999) 8 SCC 715",
+  "facts": [
+    "Accused persons (Respondents, including Yarappa Reddy) were charged with offences including murder under the Indian Penal Code (IPC) and also under the Terrorist and Disruptive Activities (Prevention) Act, 1987 (TADA).",
+    "During the investigation, confessions were recorded from some of the accused by a Superintendent of Police under Section 15 of the TADA Act.",
+    "The TADA Act, 1987, lapsed/was repealed with effect from May 23, 1995.",
+    "The trial against the accused continued after the repeal of TADA, primarily for offences under the IPC.",
+    "The Designated Court (acting as the trial court) convicted the accused based substantially on the confessions recorded under Section 15 of TADA.",
+    "The accused appealed the conviction to the Supreme Court.",
+    "The central legal question before the Supreme Court was whether confessions recorded under Section 15 of TADA, when the Act was in force, could be admissible in a trial for IPC offences conducted *after* the repeal of TADA."
+  ],
+  "ipc_sections": [
+    "Section 302 (Murder - Assumed primary IPC charge based on context, specific charge details often focus on the TADA admissibility issue in summaries)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - Likely invoked due to multiple accused)",
+    "Section 120B (Criminal Conspiracy - Potentially invoked)",
+    "Section 201 (Causing disappearance of evidence of offence, or giving false information to screen offender - Potentially invoked)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The confessions recorded under Section 15 of TADA by a competent police officer remain admissible evidence even after the repeal of the TADA Act, due to the savings clause in Section 1(4) of TADA and Section 6 of the General Clauses Act, 1897.",
+      "precedents": [
+        "Gurbachan Singh v. Satpal Singh (1990) AIR SC 209 (General admissibility under TADA during its force)",
+        "State of Punjab v. Mohar Singh (1955) AIR SC 84 (Interpretation of Section 6, General Clauses Act regarding saving of rights/liabilities under repealed acts)",
+        "Kolhapur Canesugar Works Ltd. v. Union of India (2000) AIR SC 811 (On scope of Section 6, General Clauses Act)"
+      ],
+      "elements": [
+        "Confession recorded by authorized officer (SP Rank) under TADA Section 15.",
+        "TADA Act was in force when the confession was recorded.",
+        "Applicability of savings clauses (TADA Sec 1(4), General Clauses Act Sec 6) to preserve the admissibility.",
+        "Continuation of legal proceedings initiated under TADA despite its repeal."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Section 6 of the General Clauses Act saves rights and liabilities accrued under the repealed act, but it does not perpetuate a special rule of procedure (like admissibility of confessions to police under TADA Sec 15) for trials under a different, general law (IPC) held after the repeal.",
+          "supporting_precedents": [
+            "Kalpnath Rai v. State (Through CBI) (1998) AIR SC 201 (Discussed TADA's application and repeal effects, indicating special procedures might not survive repeal for general law trials)",
+            "Keshavan Madhava Menon v. State of Bombay (1951) AIR SC 128 (Laws are generally prospective; repeal usually obliterates the statute unless saved)",
+            "Ambalal Sarabhai Enterprises Ltd. v. Amritlal & Co. (2001) AIR SC 3580 (Distinction between substantive rights saved by Sec 6 and procedural rules which may lapse)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Even if the confessions under Section 15 TADA are held inadmissible post-repeal for the IPC trial, any facts discovered as a consequence of information received from the accused during these confessions are admissible under Section 27 of the Indian Evidence Act, 1872.",
+      "precedents": [
+        "Pulukuri Kottaya v. Emperor (1947) AIR PC 67 (Leading case establishing the scope and requirements of Section 27)",
+        "Mohmed Inayatullah v. State of Maharashtra (1976) AIR SC 483 (Clarifying 'fact discovered' under Section 27)",
+        "State of Bombay v. Kathi Kalu Oghad (1961) AIR SC 1808 (Discussed relationship between confessions and discoveries)"
+      ],
+      "elements": [
+        "Information received from accused while in police custody.",
+        "Information led directly to the discovery of a fact.",
+        "The fact discovered is relevant to the case.",
+        "The portion of information strictly relating to the fact discovered."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The prosecution must prove independently that the discovery was a direct result of the specific information provided, not from other sources, and that the requirements of Section 27 are strictly met, distinct from the general admissibility of the confession itself.",
+          "supporting_precedents": [
+            "Udairaj v. State of U.P. (1979) AIR SC 1787 (Strict compliance needed for Section 27)",
+            "Pohalya Motya Valvi v. State of Maharashtra (1979) AIR SC 1949 (Need for clear link between information and discovery)",
+            "Jaffar Hussain Dastagir v. State of Maharashtra (1969) 2 SCC 872 (Information must be the direct cause)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Confessions made to a police officer are inadmissible under Sections 25 and 26 of the Indian Evidence Act. Section 15 of TADA was a special exception applicable only to TADA offences and proceedings. With TADA's repeal, this exception vanished, and the general law (Evidence Act) applies fully to the ongoing IPC trial.",
+      "edge_cases": [
+        "Trial for IPC offences being conducted after TADA repeal.",
+        "Admissibility determined by the law in force at the time of trial, not when evidence was recorded."
+      ],
+      "precedents": [
+        "Kalpnath Rai v. State (Through CBI) (1998) AIR SC 201 (Implied that special TADA procedures wouldn't apply post-repeal to non-TADA trials)",
+        "State of Karnataka v. Yarappa Reddy (1999) 8 SCC 715 (This case itself established the point)",
+        "Nandini Satpathy v. P.L. Dani (1978) AIR SC 1025 (Discussed general principles against self-incrimination and admissibility of police confessions under CrPC/Evidence Act)"
+      ]
+    },
+    {
+      "argument": "The savings clauses (TADA Sec 1(4), General Clauses Act Sec 6) do not save procedural provisions like Section 15 TADA (rule of evidence) for application in trials under general criminal law (IPC) after TADA's repeal. They primarily save the investigation, proceedings, rights, and liabilities related to *TADA offences*.",
+      "edge_cases": [
+        "Distinction between substantive law (offences, penalties) and procedural law (evidence admissibility).",
+        "Interpretation of 'proceedings' in savings clauses – whether it extends special evidentiary rules to subsequent non-TADA trials."
+      ],
+      "precedents": [
+        "Kolhapur Canesugar Works Ltd. v. Union of India (2000) AIR SC 811 (Section 6 preserves substantive rights/liabilities, not necessarily all procedures)",
+        "State of Punjab v. Mohar Singh (1955) AIR SC 84 (Effect of repeal on pending proceedings under the repealed act)",
+        "Ambalal Sarabhai Enterprises Ltd. v. Amritlal & Co. (2001) AIR SC 3580 (Procedural rights generally governed by law in force at the time of proceedings)"
+      ]
+    },
+    {
+      "argument": "Excluding the inadmissible TADA confessions, the remaining evidence on record is insufficient to prove the charges under IPC sections (like 302) beyond a reasonable doubt.",
+      "edge_cases": [
+        "Case heavily reliant on confessions.",
+        "Weakness or absence of corroborating circumstantial evidence (motive, last seen, recoveries independent of confession)."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) AIR SC 1622 (Standard of proof for circumstantial evidence)",
+        "Hanumant Govind Nargundkar v. State of M.P. (1952) AIR SC 343 (Chain of circumstances must be complete)",
+        "Ashish Batham v. State of M.P. (2002) AIR SC 3206 (Suspicion cannot replace proof)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Acquittal. The Supreme Court allowed the appeal and set aside the conviction and sentence passed by the Designated Court.",
+    "reasoning": [
+      "The Supreme Court held that confessions recorded under Section 15 of TADA are not admissible in a trial for IPC offences conducted after the repeal of the TADA Act.",
+      "Section 15 of TADA provided a special rule of evidence, making confessions to specified police officers admissible, contrary to Sections 25 and 26 of the Indian Evidence Act.",
+      "This special rule of evidence was intrinsically linked to the TADA Act and lapsed with its repeal.",
+      "The savings clause under Section 1(4) of TADA and Section 6 of the General Clauses Act do not perpetuate this special procedural rule for trials under the general criminal law (IPC) post-repeal.",
+      "Admissibility of evidence must be determined by the law in force at the time the evidence is sought to be led in court. For an IPC trial after TADA's repeal, the governing law is the Indian Evidence Act.",
+      "Under Sections 25 and 26 of the Evidence Act, confessions made to police officers (even of SP rank) are inadmissible.",
+      "While Section 27 of the Evidence Act remains applicable for discoveries made pursuant to information from the accused, the confession *itself* recorded under TADA Section 15 cannot be admitted.",
+      "Since the conviction by the Designated Court was primarily based on these inadmissible confessions, and the remaining evidence was deemed insufficient, the conviction could not be sustained."
+    ],
+    "cited_cases": [
+      "Kalpnath Rai v. State (Through CBI) (1998) AIR SC 201",
+      "Gurbachan Singh v. Satpal Singh (1990) AIR SC 209",
+      "State of Punjab v. Mohar Singh (1955) AIR SC 84",
+      "Keshavan Madhava Menon v. State of Bombay (1951) AIR SC 128",
+      "Pulukuri Kottaya v. Emperor (1947) AIR PC 67",
+      "Sections 25, 26, 27 of Indian Evidence Act, 1872",
+      "Section 15, Section 1(4) of TADA, 1987",
+      "Section 6 of General Clauses Act, 1897"
+    ]
+  }
+}

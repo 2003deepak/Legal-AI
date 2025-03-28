@@ -1,0 +1,100 @@
+{
+  "case_id": "Bachan Singh v. State of Punjab (1980)",
+  "facts": [
+    "Bachan Singh was convicted of murder under Section 302 of the Indian Penal Code by the Sessions Court.",
+    "The High Court confirmed the conviction and sentenced him to death.",
+    "The main question before the Supreme Court was whether the death penalty was constitutionally valid."
+  ],
+  "ipc_sections": [
+    "Section 302 (Murder)",
+    "Section 354(3) (Special Reasons for Death Penalty)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The death penalty is a valid punishment and a deterrent to crime.",
+      "precedents": [
+        "Jagmohan Singh v. State of U.P. (1973) 1 SCC 20: Upheld the constitutional validity of the death penalty, stating that judges are capable of exercising discretion in imposing the death sentence.",
+        "Rajendra Prasad v. State of U.P. (1979) 3 SCC 646: Discussed the application of the death penalty and emphasized the need to consider the circumstances of the offender and the offense.",
+        "Ediga Anamma v. State of Andhra Pradesh (1974) 4 SCC 443: Highlighted the relevance of mitigating circumstances in deciding the sentence."
+      ],
+      "elements": [
+        "Establish the accused committed murder beyond a reasonable doubt.",
+        "Prove that the crime falls within the rarest of rare cases."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The death penalty is irreversible and there is a risk of executing innocent individuals.",
+          "supporting_precedents": [
+            "Santosh Kumar Satishbhushan Bariyar v. State of Maharashtra (2009) 6 SCC 498: Concerned about erroneous convictions and the irreversible nature of the death penalty.",
+            "Shankar Kisanrao Khade v. State of Maharashtra (2013) 5 SCC 547: Emphasized the need for caution and care when imposing the death penalty.",
+            "Machhi Singh v. State of Punjab (1983) 3 SCC 470: Defined the 'rarest of rare' doctrine, but does not eliminate risk of wrongful application."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The Constitution does not prohibit the death penalty, and it is within the legislature's power to prescribe it.",
+      "precedents": [
+        "Jagmohan Singh v. State of U.P. (1973) 1 SCC 20:  Constitutional validity of the death penalty upheld. ",
+        "Kehar Singh v. Union of India (1989) 1 SCC 204: Court affirmed the power to impose death penalty.",
+        "Deena Dayal v. Union of India (1983) 4 SCC 645: Further clarified the legislative intent behind Section 354(3) of the CrPC."
+      ],
+      "elements": [
+        "Constitutional interpretation allowing for the possibility of capital punishment.",
+        "Judicial deference to legislative choices in penal policy."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Article 21 of the Constitution guarantees the right to life, which includes the right not to be subjected to inhuman or degrading punishment.",
+          "supporting_precedents": [
+            "Sunil Batra v. Delhi Administration (1978) 4 SCC 494: Emphasized the importance of human dignity and the right to life.",
+            "Francis Coralie Mullin v. Administrator, Union Territory of Delhi (1981) 1 SCC 608: Further elaborated on the scope of Article 21.",
+            "Maneka Gandhi v. Union of India (1978) 1 SCC 248:  Expansive interpretation of Article 21 requiring fairness and reasonableness."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The death penalty is cruel and unusual punishment and violates Article 21 of the Constitution.",
+      "edge_cases": [
+        "Arguments centered around the procedural fairness of capital sentencing.",
+        "The disproportionate impact of the death penalty on marginalized communities."
+      ],
+      "precedents": [
+        "Sunil Batra v. Delhi Administration (1978) 4 SCC 494: Highlighted the need to protect the fundamental rights of prisoners.",
+        "Charles Sobhraj v. Superintendent, Central Jail, Tihar, New Delhi (1978) 4 SCC 104: Further emphasized the importance of human dignity and the right to life.",
+        "Santa Singh v. State of Punjab (1976) 4 SCC 190: Addressed the constitutionality of other forms of punishment and their impact on fundamental rights."
+      ]
+    },
+    {
+      "argument": "Sentencing guidelines are vague and arbitrary, leading to inconsistencies in the imposition of the death penalty.",
+      "edge_cases": [
+        "Challenges to the 'rarest of rare' doctrine as being subjective and lacking clear criteria.",
+        "Arguments for a more structured sentencing framework to ensure fairness and consistency."
+      ],
+      "precedents": [
+        "Rajendra Prasad v. State of U.P. (1979) 3 SCC 646: Justice Krishna Iyer's dissenting opinion questioned the application of the death penalty.",
+        "Sangeet v. State of Haryana (2013) 2 SCC 452: Highlighted the need for fairness and consistency in sentencing.",
+        "Swamy Shraddananda (2) v. State of Karnataka (2008) 13 SCC 767: Further addressed the application of the 'rarest of rare' doctrine."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Upheld the constitutional validity of the death penalty but emphasized that it should only be imposed in the 'rarest of rare' cases.",
+    "reasoning": [
+      "The Court held that the death penalty is not per se unconstitutional and does not violate Article 21 of the Constitution.",
+      "However, it emphasized that it should only be imposed in the 'rarest of rare' cases when the crime is heinous and shocking to the conscience of the community.",
+      "The Court introduced the 'rarest of rare' doctrine to guide sentencing decisions and ensure that the death penalty is not imposed arbitrarily.",
+      "The Court also stated that mitigating circumstances relating to the offender must be given due weight."
+    ],
+    "cited_cases": [
+      "Jagmohan Singh v. State of U.P. (1973) 1 SCC 20",
+      "Rajendra Prasad v. State of U.P. (1979) 3 SCC 646",
+      "Ediga Anamma v. State of Andhra Pradesh (1974) 4 SCC 443",
+      "Sunil Batra v. Delhi Administration (1978) 4 SCC 494",
+      "Maneka Gandhi v. Union of India (1978) 1 SCC 248"
+    ]
+  }
+}

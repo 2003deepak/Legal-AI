@@ -1,0 +1,142 @@
+{
+  "case_id": "Bhaskar Lal Sharma & Anr. v. Monica (2014) 3 SCC 383",
+  "facts": [
+    "Marriage between Bhaskar Lal Sharma (Appellant 1) and Monica (Respondent) solemnized on 16.02.1999.",
+    "Monica allegedly left the matrimonial home on 14.07.1999 due to harassment and dowry demands.",
+    "Monica filed an FIR (Crime No. 276/1999) on 03.10.1999 at Police Station Kotwali, Alwar (Rajasthan) against Bhaskar Lal Sharma (husband), Bimla Devi (mother-in-law, Appellant 2), and other relatives (father-in-law, brother-in-law).",
+    "Allegations in FIR included demands for a Maruti car and cash (initially Rs. 50,000, later Rs. 1,00,000), physical and mental torture, and non-return of 'stridhan' articles.",
+    "Offences alleged in FIR: Sections 498A, 406 of the Indian Penal Code (IPC) and Sections 3 and 4 of the Dowry Prohibition Act, 1961.",
+    "Police investigated and submitted a charge sheet against the appellants (husband and mother-in-law) under Sections 498A and 406 IPC.",
+    "The learned Additional Chief Judicial Magistrate, Alwar took cognizance of the offences.",
+    "Appellants filed an application under Section 227 of the Code of Criminal Procedure (CrPC) for discharge before the Trial Court.",
+    "The Trial Court dismissed the discharge application vide order dated 07.03.2001, finding sufficient grounds to proceed.",
+    "Appellants filed a Criminal Revision Petition (No. 204/2001) before the High Court of Judicature for Rajasthan at Jaipur Bench.",
+    "The High Court dismissed the revision petition vide order dated 17.01.2007, upholding the Trial Court's order.",
+    "Appellants challenged the High Court's order before the Supreme Court via Special Leave Petition, leading to this appeal.",
+    "The core issue before the Supreme Court was whether a prima facie case existed to frame charges under Sections 498A and 406 IPC against the appellants."
+  ],
+  "ipc_sections": [
+    "Section 406",
+    "Section 498A"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Sufficient prima facie evidence exists on record (FIR, witness statements) to frame charges under Section 498A IPC against both appellants.",
+      "precedents": [
+        "State of M.P. v. S.B. Johari (2000) 2 SCC 57 (Court at charge stage needs to see if prima facie case exists, not detailed evaluation).",
+        "State of Orissa v. Debendra Nath Padhi (2005) 1 SCC 568 (Only prosecution material to be considered at charge stage).",
+        "Sajjan Kumar v. CBI (2010) 9 SCC 368 (Strong suspicion founded on material is sufficient for framing charge)."
+      ],
+      "elements": [
+        "Subjecting the wife (Monica) to cruelty.",
+        "Cruelty inflicted by the husband (Appellant 1) or his relative (Appellant 2).",
+        "Cruelty consisting of willful conduct likely to cause grave injury or harassment linked to unlawful dowry demands (car, cash)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations of cruelty are general and vague, lacking specific dates and details.",
+          "supporting_precedents": [
+            "Neelu Chopra v. Bharti (2009) 10 SCC 184 (Vague and omnibus allegations insufficient for charge framing).",
+            "Preeti Gupta v. State of Jharkhand (2010) 7 SCC 667 (Tendency to implicate all relatives needs careful scrutiny)."
+          ]
+        },
+        {
+          "loophole": "Delay in filing FIR (events July, FIR October) weakens credibility and suggests potential embellishment.",
+          "supporting_precedents": [
+            "Kishan Singh v. Gurpal Singh (2010) 8 SCC 775 (Unexplained delay in FIR raises suspicion, though not fatal per se)."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Prima facie case for criminal breach of trust under Section 406 IPC established regarding non-return of stridhan.",
+      "precedents": [
+        "Rashmi Kumar v. Mahesh Kumar Bhada (1997) 2 SCC 397 (Stridhan is wife's absolute property; refusal to return upon demand constitutes criminal breach of trust).",
+        "Pratibha Rani v. Suraj Kumar (1985) 2 SCC 370 (Holding stridhan amounts to entrustment; non-return is CBT).",
+        "State of Bihar v. Ramesh Singh (1977) 4 SCC 39 (At charge stage, even strong suspicion is enough)."
+      ],
+      "elements": [
+        "Entrustment of property (stridhan articles) to the appellants.",
+        "Dishonest misappropriation or conversion of that property for their own use.",
+        "Refusal to return the property upon demand."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of specific inventory or proof of entrustment of particular stridhan items mentioned in the complaint at the time of entrustment.",
+          "supporting_precedents": [
+            "Velji Raghavji Patel v. State of Maharashtra AIR 1965 SC 1433 (Distinction between civil liability and criminal misappropriation requires proof of dishonest intent)."
+          ]
+        },
+        {
+          "loophole": "Dispute over property between husband and wife is essentially civil in nature, not criminal.",
+          "supporting_precedents": [
+            "State of Haryana v. Bhajan Lal 1992 Supp (1) SCC 335 (Guidelines for quashing FIR, including where dispute is primarily civil)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Allegations in the FIR and statements are vague, general, omnibus, and lack specific details regarding time, place, and nature of alleged incidents of cruelty and entrustment/demand for stridhan, failing to make out a prima facie case.",
+      "edge_cases": [
+        "Failure to specify individual roles, particularly of the mother-in-law (Appellant 2).",
+        "Discrepancies between initial complaint and later statements (Insufficient data in judgment summary to confirm, but a common defense)."
+      ],
+      "precedents": [
+        "Onkar Nath Mishra v. State (NCT of Delhi) (2008) 2 SCC 561 (Discharge warranted if evidence is totally insufficient or does not disclose essential ingredients).",
+        "Geeta Mehrotra v. State of U.P. (2012) 10 SCC 741 (Caution against roping in all family members without specific allegations).",
+        "Union of India v. Prafulla Kumar Samal (1979) 3 SCC 4 (Principles for discharge under S.227 CrPC: If two views possible, judge can discharge; must consider record and documents)."
+      ]
+    },
+    {
+      "argument": "The dispute is fundamentally a matrimonial discord and property disagreement, which has been given a criminal color; the appropriate remedy lies in civil court.",
+      "edge_cases": [
+        "Use of criminal law as a tool for harassment or leverage in matrimonial disputes.",
+        "Overlap between civil remedies (recovery of property, divorce) and criminal allegations."
+      ],
+      "precedents": [
+        "Inder Mohan Goswami v. State of Uttaranchal (2007) 12 SCC 1 (Courts should be careful before issuing criminal process in matters potentially civil).",
+        "Binod Kumar v. State of Bihar (2014) 10 SCC 663 (Criminal proceedings not shortcut for civil recovery).",
+        "Anand Kumar Mohatta v. State (Govt. of NCT of Delhi) (2019) 11 SCC 706 (Distinction between mere breach of contract and cheating/CBT)."
+      ]
+    },
+    {
+      "argument": "No specific role or overt act attributed to the mother-in-law (Appellant 2) distinct from general allegations against the family, warranting her discharge.",
+      "edge_cases": [
+        "Liability of relatives residing separately or having limited interaction (Insufficient data on living arrangements).",
+        "Stereotypical implication of mother-in-law in dowry cases."
+      ],
+      "precedents": [
+        "Kans Raj v. State of Punjab (2000) 5 SCC 207 (Specific evidence needed against each accused relative).",
+        "Neelu Chopra v. Bharti (2009) 10 SCC 184 (Reiterated need for specific allegations against relatives).",
+        "Tabrez Khan @ Guddu v. State of U.P. (2019) - Allahabad HC (Illustrative HC case emphasizing specific roles for relatives)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal dismissed. The Supreme Court upheld the orders of the High Court and the Trial Court refusing to discharge the appellants.",
+    "reasoning": [
+      "The scope of interference at the stage of framing charges (Section 227/228 CrPC) is limited.",
+      "The court is required to evaluate the material and documents on record only to determine if the facts alleged therein, taken at face value, disclose the existence of all ingredients constituting the alleged offences.",
+      "The court cannot act as if it is conducting a trial; meticulous examination or appreciation of evidence is not required at this stage.",
+      "A 'prima facie' case or 'grave suspicion' based on the prosecution material is sufficient to frame charges.",
+      "The allegations in the FIR and statements collected during investigation, prima facie, disclosed commission of offences under Sections 498A and 406 IPC against the appellants.",
+      "Specific allegations regarding demand for dowry (car, cash) and resultant harassment were present.",
+      "Allegations regarding entrustment of stridhan and refusal to return it were sufficient to constitute a prima facie case under Section 406 IPC, based on principles laid down in Pratibha Rani and Rashmi Kumar.",
+      "Arguments regarding vagueness or credibility of allegations are matters for trial, not grounds for discharge when basic ingredients are prima facie made out.",
+      "The High Court and Trial Court correctly applied the legal principles for charge framing."
+    ],
+    "cited_cases": [
+      "State of Bihar v. Ramesh Singh (1977) 4 SCC 39",
+      "Union of India v. Prafulla Kumar Samal (1979) 3 SCC 4",
+      "Dilawar Balu Kurane v. State of Maharashtra (2002) 2 SCC 135",
+      "State of Orissa v. Debendra Nath Padhi (2005) 1 SCC 568",
+      "Onkar Nath Mishra v. State (NCT of Delhi) (2008) 2 SCC 561",
+      "Rumi Dhar v. State of West Bengal (2009) 6 SCC 364",
+      "Sajjan Kumar v. CBI (2010) 9 SCC 368",
+      "Pratibha Rani v. Suraj Kumar (1985) 2 SCC 370",
+      "Rashmi Kumar v. Mahesh Kumar Bhada (1997) 2 SCC 397"
+    ]
+  }
+}

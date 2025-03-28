@@ -1,0 +1,118 @@
+{
+  "case_id": "Vikram Johar v. State of Uttar Pradesh (2019) 14 SCC 290",
+  "facts": [
+    "An FIR was registered on 09.05.2013 at Police Station Civil Lines, District Moradabad, Uttar Pradesh, based on an application under Section 156(3) CrPC filed by Vikas Johar (brother of the appellant).",
+    "The complainant alleged that on 09.05.2013, the appellant (Vikram Johar) along with his parents (Gyan Johar and Pushpa Johar) came to his house, used abusive language, threatened to kill him and his family, and that the appellant fired shots from his pistol with the intention to kill.",
+    "Initially, the application under Section 156(3) CrPC was rejected by the Magistrate but allowed by the Additional Sessions Judge in revision, leading to the FIR registration.",
+    "After investigation, the police submitted a chargesheet only under Sections 504 and 506 of the IPC against the appellant and his parents.",
+    "Cognizance was taken by the Magistrate, and summons were issued under Sections 504, 506 IPC.",
+    "During the trial, after the examination of the complainant (Vikas Johar) as PW-1, an application under Section 319 CrPC was filed by the complainant.",
+    "The application sought to summon the appellant (Vikram Johar) to face trial for the offence punishable under Section 307 IPC (attempt to murder), based on the allegations in the FIR, the complainant's statement under Section 161 CrPC, and his deposition as PW-1.",
+    "The Trial Court allowed the application under Section 319 CrPC and summoned the appellant to face trial under Section 307 IPC.",
+    "The appellant challenged this summoning order before the High Court of Judicature at Allahabad.",
+    "The High Court dismissed the appellant's petition, upholding the Trial Court's order summoning him under Section 307 IPC.",
+    "The appellant filed the present appeal before the Supreme Court challenging the High Court's judgment and the summoning order."
+  ],
+  "ipc_sections": [
+    "Section 307 (Attempt to murder - Summoning under Sec 319 CrPC)",
+    "Section 504 (Intentional insult with intent to provoke breach of the peace - Original charge)",
+    "Section 506 (Punishment for criminal intimidation - Original charge)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Sufficient evidence emerged during trial (PW-1 deposition) warranting the summoning of the appellant under Section 307 IPC via Section 319 CrPC.",
+      "precedents": [
+        "Hardeep Singh v. State of Punjab (2014) 3 SCC 92 (Establishes the 'more than prima facie case' standard for Section 319 CrPC)",
+        "Sarabjit Singh v. State of Punjab (2009) 16 SCC 46 (Power under 319 CrPC is discretionary and should be used based on evidence during trial)",
+        "Rajendra Singh v. State of U.P. (2007) 7 SCC 378 (Evidence required is more than required for framing charge but less than required for conviction)"
+      ],
+      "elements": [
+        "Act of firing pistol by the appellant.",
+        "Intention or knowledge that such act could cause death (mens rea for murder).",
+        "Circumstances such that if death had occurred, it would be murder.",
+        "Evidence meeting the standard required under Sec 319 CrPC ('more than prima facie', strong likelihood of conviction)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Initial police investigation and chargesheet did not find sufficient evidence for Section 307 IPC, only for Sections 504/506 IPC.",
+          "supporting_precedents": [
+            "Brijendra Singh v. State of Rajasthan (2017) 7 SCC 706 (Emphasizes caution and need for strong evidence beyond mere probability for Sec 319)",
+            "Periyasami v. S. Nallasamy (2019) 4 SCC 342 (Reiterates the high standard set in Hardeep Singh for invoking Sec 319)"
+          ]
+        },
+        {
+          "loophole": "Lack of independent corroboration; reliance primarily on the complainant's (PW-1) testimony, who is an interested witness.",
+          "supporting_precedents": [
+            "Sunil Bharti Mittal v. CBI (2015) 4 SCC 609 (Higher standard required when summoning someone not originally chargesheeted)",
+            "Michael Machado v. Central Bureau of Investigation (2000) 3 SCC 262 (Cautioned against mechanical use of Sec 319 based solely on trial testimony differing from initial investigation)"
+          ]
+        },
+        {
+          "loophole": "No evidence of injury caused by the alleged firing, weakening the claim of intent to murder.",
+          "supporting_precedents": [
+            "State of Madhya Pradesh v. Saleem @ Chamaru (2005) 5 SCC 554 (Nature of injury or lack thereof is relevant, though not conclusive, for inferring intent under Sec 307)",
+            "Hari Mohan v. State of U.P. (2019) SCC OnLine SC 1664 (While injury isn't essential for 307, its absence can be considered alongside other factors regarding intent)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The evidence on record, particularly PW-1's deposition, does not meet the stringent standard required for summoning under Section 319 CrPC as laid down by the Supreme Court.",
+      "edge_cases": [
+        "The power under Section 319 CrPC is extraordinary and should be used sparingly, not routinely.",
+        "Difference between evidence sufficient for framing charge versus evidence sufficient for summoning under Sec 319 CrPC (latter requires higher degree of satisfaction)."
+      ],
+      "precedents": [
+        "Hardeep Singh v. State of Punjab (2014) 3 SCC 92 (Definitive ruling setting the high threshold: 'more than prima facie case as exercised at the time of framing charge, but short of satisfaction to an extent that the evidence, if goes unrebutted, would lead to conviction')",
+        "Brijendra Singh v. State of Rajasthan (2017) 7 SCC 706 (Summoning order quashed as evidence didn't meet the Hardeep Singh test)",
+        "Periyasami v. S. Nallasamy (2019) 4 SCC 342 (Reinforces the need for strong and cogent evidence likely leading to conviction for invoking Sec 319)"
+      ]
+    },
+    {
+      "argument": "The initial investigation concluded lack of evidence for Section 307 IPC, and the trial court/High Court erred by substituting its view without compelling new evidence meeting the 319 CrPC standard.",
+      "edge_cases": [
+        "Discrepancy between police investigation outcome and court's later assessment based on same/similar evidence.",
+        "Weightage given to complainant's deposition versus initial police findings."
+      ],
+      "precedents": [
+        "Hardeep Singh v. State of Punjab (2014) 3 SCC 92 (Discusses the level of satisfaction required)",
+        "Sukhpal Singh Khaira v. State of Punjab (2023) 1 SCC 289 (Recent affirmation of principles in Hardeep Singh)",
+        "Labhuji Amratji Thakor v. State of Gujarat (2019) 12 SCC 644 (Mere assertion by witness not sufficient, requires credible evidence showing complicity)"
+      ]
+    },
+    {
+      "argument": "The complainant's statement (PW-1), being that of an interested party involved in a dispute, lacks sufficient corroboration to justify adding a serious charge like Section 307 IPC mid-trial.",
+      "edge_cases": [
+        "Reliability of testimony from witnesses involved in prior disputes.",
+        "Absence of physical evidence (e.g., bullet casings, impact marks, injury report)."
+      ],
+      "precedents": [
+        "Hardeep Singh v. State of Punjab (2014) 3 SCC 92 (Implicitly requires reliable evidence)",
+        "Sunil Bharti Mittal v. CBI (2015) 4 SCC 609 (High standard for summoning requires strong evidence)",
+        "Insufficient data (Specific precedent on corroboration necessity solely for 319 CrPC based on interested witness, beyond general principles)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The impugned judgment of the High Court and the summoning order of the Trial Court under Section 319 CrPC for the offence under Section 307 IPC were set aside.",
+    "reasoning": [
+      "The Supreme Court reiterated the principles laid down in Hardeep Singh v. State of Punjab regarding the standard of evidence required for summoning under Section 319 CrPC.",
+      "The standard is 'more than a prima facie case' as exercised at the time of framing charge, but short of satisfaction that the evidence, if unrebutted, would lead to conviction.",
+      "The power under Section 319 CrPC is discretionary and extraordinary, to be used sparingly only if compelling evidence surfaces during the trial.",
+      "The Court examined the evidence on record, including the FIR, charge sheet, Section 161 statement, and deposition of PW-1.",
+      "It concluded that the evidence presented did not meet the high threshold required by Hardeep Singh to summon the appellant for the offence under Section 307 IPC.",
+      "The initial investigation by the police, resulting in a chargesheet only under Sections 504/506 IPC, was implicitly considered relevant contextually, although the court's decision primarily rested on whether the trial evidence *itself* met the 319 standard.",
+      "The Court found that the Trial Court and High Court had not correctly applied the stringent test required for invoking Section 319 CrPC."
+    ],
+    "cited_cases": [
+      "Hardeep Singh v. State of Punjab (2014) 3 SCC 92",
+      "Brijendra Singh v. State of Rajasthan (2017) 7 SCC 706",
+      "Periyasami v. S. Nallasamy (2019) 4 SCC 342",
+      "Michael Machado v. Central Bureau of Investigation (2000) 3 SCC 262",
+      "Sarabjit Singh v. State of Punjab (2009) 16 SCC 46",
+      "Rajendra Singh v. State of U.P. (2007) 7 SCC 378"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "case_id": "Vikram Johar v. State of Uttar Pradesh (2019) SCC Online SC 619",
+  "facts": [
+    "Appeal filed by Vikram Johar against the final judgment and order dated 29.01.2018 passed by the High Court of Judicature at Allahabad.",
+    "The High Court allowed the Government Appeal filed by the State of Uttar Pradesh against the judgment dated 15.03.2013 of the Additional Chief Judicial Magistrate, Ghaziabad.",
+    "The Trial Court (ACJM, Ghaziabad) had acquitted the appellant (Vikram Johar) and one co-accused (since deceased) of offences punishable under Sections 452, 323, 504, and 506 of the Indian Penal Code, 1860.",
+    "The High Court, reversing the acquittal, convicted the appellant under Sections 452, 323, 504, and 506 IPC and sentenced him accordingly (details of sentence not specified in the core analysis section of the SC judgment but implied conviction).",
+    "The FIR (No. 1333/2009) was lodged on 03.08.2009 at PS Indrapuram, Ghaziabad by Respondent No. 2 (Smt. Madhu Garg).",
+    "Allegations in FIR: On 03.08.2009 at around 1:00 PM, the appellant and co-accused (Sudhir Kumar Garg, deceased) forcibly entered the house of the complainant (Respondent No. 2), hurled abuses related to a property dispute, threatened to kill her and her husband, and physically assaulted them.",
+    "Investigation followed, charge sheet filed against the appellant and co-accused.",
+    "Prosecution examined three witnesses: PW-1 (Smt. Madhu Garg - complainant), PW-2 (Shri Sunil Kumar Garg - husband), and PW-3 (Dr. Akhilesh Kumar - medical officer).",
+    "Defense examined one witness (DW-1) and relied on documentary evidence.",
+    "Trial Court acquitted based on: Material contradictions in testimonies of PW-1 and PW-2, lack of independent witness support despite the incident occurring in a populated area during daytime, delay in medical examination, and finding the prosecution case not proved beyond reasonable doubt.",
+    "High Court, in the Government Appeal, re-appreciated the evidence and concluded that the Trial Court's view was erroneous and based on flimsy grounds, leading to the reversal of acquittal and conviction of the appellant."
+  ],
+  "ipc_sections": [
+    "Section 34 (Implied, due to co-accused)",
+    "Section 323 (Punishment for voluntarily causing hurt)",
+    "Section 452 (House-trespass after preparation for hurt, assault or wrongful restraint)",
+    "Section 504 (Intentional insult with intent to provoke breach of the peace)",
+    "Section 506 (Punishment for criminal intimidation)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly reversed the Trial Court's perverse acquittal, as the Trial Court ignored credible evidence of the complainant (PW-1) and her husband (PW-2).",
+      "precedents": [
+        "Chandrappa & Ors. vs. State of Karnataka (2007) 4 SCC 415 (Principles for appeal against acquittal)",
+        "State of U.P. vs. Anil Singh 1988 (Supp) SCC 686 (Appellate court can review evidence in appeal against acquittal)",
+        "State of Rajasthan vs. Shera Ram @ Vishnu Dutta (2012) 1 SCC 602 (Defines 'perverse' finding)"
+      ],
+      "elements": [
+        "Credibility of PW-1 and PW-2 testimonies",
+        "Proof of house trespass (Section 452)",
+        "Proof of voluntary hurt (Section 323 via medical evidence/testimony)",
+        "Proof of intentional insult likely to provoke breach of peace (Section 504)",
+        "Proof of criminal intimidation (Section 506)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Trial court acquittal was based on identified contradictions and lack of independent witnesses, making its view plausible, not perverse.",
+          "supporting_precedents": [
+            "Murugesan & Ors. vs. State through Inspector of Police (2012) 10 SCC 383 (High Court cannot reverse acquittal merely because another view is possible)",
+            "Sambasivan & Ors. vs. State of Kerala (1998) 5 SCC 412 (High threshold for reversing acquittal)",
+            "Ajit Singh Thakur Singh and Anr. vs. State of Gujarat (1981) 1 SCC 495 (Benefit of doubt based on plausible view of trial court)"
+          ]
+        },
+        {
+          "loophole": "PW-1 and PW-2 are interested witnesses (parties to the property dispute); lack of independent corroboration weakens their testimony.",
+          "supporting_precedents": [
+            "Vadivelu Thevar vs. State of Madras AIR 1957 SC 614 (Categorization of witnesses; caution with interested witnesses)",
+            "Rai Sandeep @ Deepu vs. State of NCT of Delhi (2012) 8 SCC 21 (Need for caution when sole witnesses are interested)",
+            "Insufficient data in SC judgment for specific precedent on this point, but general principle applies."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court exceeded its jurisdiction by substituting its own view for a plausible view taken by the Trial Court, without demonstrating perversity.",
+      "edge_cases": [
+        "Standard of proof required for reversing acquittal vs. reversing conviction.",
+        "Appellate court's limitation in interfering with trial court findings based on appreciation of oral evidence."
+      ],
+      "precedents": [
+        "Murugesan & Ors. vs. State through Inspector of Police (2012) 10 SCC 383 (Seminal case on limited scope of appeal against acquittal)",
+        "Sambasivan & Ors. vs. State of Kerala (1998) 5 SCC 412 (Reversal only for compelling and substantial reasons)",
+        "Chandrappa & Ors. vs. State of Karnataka (2007) 4 SCC 415 (Cited by both sides; defense uses it to highlight the high bar for reversal)"
+      ]
+    },
+    {
+      "argument": "The Trial Court correctly identified material contradictions in the testimonies of PW-1 and PW-2, raising reasonable doubt.",
+      "edge_cases": [
+        "Impact of discrepancies regarding sequence of events, nature of abuses/threats.",
+        "Whether contradictions were minor or went to the root of the matter."
+      ],
+      "precedents": [
+        "State of Rajasthan vs. Raja Ram (2003) 8 SCC 180 (Benefit of doubt arising from material contradictions)",
+        "Sunil Kumar Sambhudayal Gupta (Dr.) vs. State of Maharashtra (2010) 13 SCC 657 (Effect of contradictions and improvements in witness statements)",
+        "Insufficient data in SC judgment for specific precedent, but general principle on material contradictions applies."
+      ]
+    },
+    {
+      "argument": "Absence of independent witnesses, despite the incident occurring in daytime in a populated locality, makes the prosecution case doubtful.",
+      "edge_cases": [
+        "Whether non-examination of independent witnesses was justified.",
+        "Reliance solely on interested witnesses in presence of potential independent witnesses."
+      ],
+      "precedents": [
+        "Alamgir vs. State (NCT, Delhi) (2003) 1 SCC 21 (Adverse inference possible for non-examination of material independent witnesses)",
+        "Yakub Ismailbhai Patel vs. State of Gujarat (2004) 12 SCC 229 (Importance of independent corroboration, especially in faction-ridden disputes)",
+        "Insufficient data in SC judgment for specific precedent, but general principle applies."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The High Court's judgment dated 29.01.2018 convicting the appellant was set aside, and the Trial Court's judgment dated 15.03.2013 acquitting the appellant was restored.",
+    "reasoning": [
+      "The Supreme Court reaffirmed the principles governing appeals against acquittal, emphasizing that the appellate court has power to review evidence but should not interfere if the trial court's view is plausible and based on evidence.",
+      "Interference is justified only if the trial court's findings are 'perverse', 'illegal', or 'contrary to the evidence on record'.",
+      "The High Court cannot reverse an acquittal merely because a different view is possible based on the evidence.",
+      "The Supreme Court found that the Trial Court had considered the evidence (PW-1, PW-2, PW-3, DW-1, documents) and provided reasons for acquittal, including contradictions in testimonies and lack of independent witnesses.",
+      "The Trial Court's view was deemed a 'plausible view' based on the evidence.",
+      "The High Court, while re-appreciating evidence, failed to demonstrate that the Trial Court's findings were perverse or manifestly illegal. It essentially substituted its own view for that of the Trial Court.",
+      "The High Court did not adhere to the specific limitations placed on appellate courts when dealing with an appeal against acquittal."
+    ],
+    "cited_cases": [
+      "Murugesan & Ors. vs. State through Inspector of Police (2012) 10 SCC 383",
+      "Sambasivan & Ors. vs. State of Kerala (1998) 5 SCC 412",
+      "Chandrappa & Ors. vs. State of Karnataka (2007) 4 SCC 415",
+      "State of Rajasthan vs. Shera Ram @ Vishnu Dutta (2012) 1 SCC 602",
+      "State of U.P. vs. Anil Singh 1988 (Supp) SCC 686"
+    ]
+  }
+}
