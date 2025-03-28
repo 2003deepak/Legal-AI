@@ -262,7 +262,7 @@ async function analyzeCase(caseTitle) {
         const prompt = legalAnalysisPrompt(caseTitle);
         
         const response = await ai.models.generateContent({
-            model: "gemini-2.0-flash",  
+            model: "gemini-2.5-pro-exp-03-25",  
             contents: [{
                 role: "user",
                 parts: [{ text: prompt }]
