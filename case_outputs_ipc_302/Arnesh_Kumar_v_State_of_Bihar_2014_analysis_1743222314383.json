@@ -1,0 +1,117 @@
+{
+  "case_id": "Arnesh Kumar v. State of Bihar & Anr. (2014) 8 SCC 273",
+  "facts": [
+    "Marriage between Arnesh Kumar (Appellant) and Sweta Kiran (Respondent No. 2) solemnized on July 1, 2007.",
+    "Sweta Kiran alleged demands for dowry (Rs. 8 lakhs, a Maruti car, an air-conditioner, a television set etc.) soon after marriage.",
+    "Allegations of cruelty and harassment against the husband (Arnesh Kumar), mother-in-law, father-in-law, and other relatives.",
+    "Sweta Kiran was allegedly driven out of the matrimonial home due to non-fulfillment of dowry demands.",
+    "FIR No. 95 of 2012 was registered on behalf of Sweta Kiran under Section 498A of the Indian Penal Code (IPC) and Section 4 of the Dowry Prohibition Act, 1961.",
+    "Arnesh Kumar apprehended arrest based on the FIR.",
+    "Arnesh Kumar filed an application for anticipatory bail (under Section 438 CrPC) before the Sessions Judge, Patna, which was rejected.",
+    "Arnesh Kumar then filed an application for anticipatory bail before the High Court of Patna, which was also dismissed by order dated November 13, 2013.",
+    "Arnesh Kumar filed a Special Leave Petition before the Supreme Court of India against the High Court's order, challenging the denial of anticipatory bail and highlighting the routine nature of arrests under Section 498A IPC.",
+    "The core issue before the Supreme Court was the interpretation and application of Section 41 and Section 41A of the Code of Criminal Procedure, 1973 (CrPC) concerning the power of police to arrest, particularly in cases involving offences punishable with imprisonment for a term which may be less than seven years or which may extend to seven years, with or without fine, like Section 498A IPC."
+  ],
+  "ipc_sections": [
+    "Section 498A IPC (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 4 of the Dowry Prohibition Act, 1961 (Penalty for demanding dowry)",
+    "Note: The judgment extensively discusses and interprets Section 41 and Section 41A of the Code of Criminal Procedure, 1973, which govern police powers of arrest."
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Necessity of Arrest for Investigation: Implicit argument (countered by SC) that arrest was necessary for custodial interrogation to investigate the serious allegations of dowry demand and cruelty under Section 498A IPC and Section 4 DPA.",
+      "precedents": [
+        "Insufficient data: The SC judgment focuses on countering routine arrests, not on specific precedents cited by the prosecution/state to justify arrest in the lower courts in this particular case."
+      ],
+      "elements": [
+        "For 498A IPC: (a) Marriage existence; (b) Subjection to cruelty (willful conduct causing danger to life/health or harassment for unlawful demand); (c) Cruelty by husband or relative.",
+        "For Sec 4 DPA: (a) Demand for dowry; (b) Demand made directly/indirectly from parents/relatives/guardian."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Failure to record reasons satisfying Section 41(1)(b)(ii) CrPC conditions justifying arrest (e.g., preventing further offence, proper investigation needs, preventing tampering, ensuring appearance). Arrest power doesn't mean automatic arrest obligation.",
+          "supporting_precedents": [
+            "Joginder Kumar v. State of U.P. (1994) 4 SCC 260 (Arrest should not be made merely on suspicion or routinely).",
+            "Section 41 CrPC (As amended) mandates recording reasons for arrest based on necessity.",
+            "Section 41A CrPC provides for notice of appearance as an alternative to arrest when arrest is not required under S.41(1)."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Non-Bailable Offence & Gravity: Section 498A is cognizable and non-bailable, suggesting a legislative intent towards treating the offence seriously, thus potentially justifying arrest to prevent the accused from absconding or influencing witnesses.",
+      "precedents": [
+        "Insufficient data: Specific precedents arguing for arrest solely based on the non-bailable nature of 498A in this case context are not detailed in the SC judgment."
+      ],
+      "elements": [
+        "Classification of offence under CrPC Schedule I (Cognizable, Non-bailable)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Classification as 'non-bailable' does not automatically mandate arrest. Discretion to arrest must still be exercised judiciously as per CrPC Section 41 requirements, especially post-amendment emphasizing necessity.",
+          "supporting_precedents": [
+            "Siddharam Satlingappa Mhetre v. State of Maharashtra (2011) 1 SCC 694 (Emphasized liberty; principles for granting anticipatory bail).",
+            "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273 (This case itself establishes that non-bailable nature doesn't override Section 41 CrPC checks).",
+            "Criminal Law (Amendment) Act, 2008/2010 (Amending Section 41 CrPC to introduce checks on arrest power for offences punishable up to 7 years)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "No Automatic Arrest under Section 498A IPC: Argued that arrest cannot be made routinely or mechanically simply because an FIR under Section 498A IPC / Section 4 DPA has been registered. Police must follow the procedure and satisfy the conditions laid down in Section 41 CrPC.",
+      "edge_cases": [
+        "Widespread practice of police making immediate arrests in matrimonial disputes under Section 498A without assessing the necessity.",
+        "Mechanical rejection of anticipatory bail by lower courts without considering CrPC Section 41 compliance.",
+        "Potential for Section 498A misuse as a tool for harassment."
+      ],
+      "precedents": [
+        "Joginder Kumar v. State of U.P. (1994) 4 SCC 260 (Arrest is a serious matter; power must be exercised sparingly and with justification).",
+        "Section 41 CrPC (Mandates conditions precedent for arrest without warrant, especially for offences punishable up to 7 years).",
+        "Pretti Gupta & Anr v. State Of Jharkhand & Anr (2010) 7 SCC 667 (Cautioned against mechanical implication of relatives in 498A cases)."
+      ]
+    },
+    {
+      "argument": "Anticipatory Bail Justified: Pleaded for anticipatory bail under Section 438 CrPC, arguing that custodial interrogation was unnecessary, the allegations were potentially exaggerated due to marital discord, and the appellant was willing to cooperate with the investigation. Highlighted the social stigma and loss of liberty associated with arrest.",
+      "edge_cases": [
+        "Balancing the complainant's protection against the accused's right to liberty before trial.",
+        "Assessing flight risk and potential for evidence tampering in matrimonial disputes."
+      ],
+      "precedents": [
+        "Siddharam Satlingappa Mhetre v. State of Maharashtra (2011) 1 SCC 694 (Detailed principles for granting anticipatory bail, emphasizing personal liberty).",
+        "Gurbaksh Singh Sibbia v. State of Punjab (1980) 2 SCC 565 (Landmark case on the scope and purpose of anticipatory bail).",
+        "DK Basu v. State of West Bengal (1997) 1 SCC 416 (While dealing with custodial violence, underscored the importance of procedural safeguards during arrest/detention)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Directions Issued; Appeal Allowed implicitly regarding Bail Principles: The Supreme Court did not rule on the merits of the 498A allegations but allowed the appeal in principle by laying down mandatory guidelines for police and magistrates regarding arrest procedures under Section 41 and 41A CrPC for offences punishable up to 7 years (including Section 498A IPC). The court directed these guidelines be followed, effectively setting the standard for whether arrest was justified, thereby impacting the basis on which bail was denied.",
+    "reasoning": [
+      "Acknowledged the phenomenal increase in matrimonial disputes and the rampant misuse of Section 498A IPC, often used as a weapon rather than a shield.",
+      "Emphasized that arrest brings humiliation, curtails freedom, and casts scars forever; it should not be the first step.",
+      "Analyzed Section 41 CrPC (as amended), stressing that police officers must record reasons based on the checklist in Section 41(1)(b)(ii) before making an arrest for offences punishable up to 7 years.",
+      "Highlighted that police must also record reasons for *not* making an arrest.",
+      "Mandated the use of Section 41A CrPC (Notice of appearance) when arrest is not required under Section 41(1).",
+      "Stressed the duty of the Magistrate, under Section 41(1)(b) read with other provisions, to verify police compliance with Section 41 requirements and recorded reasons before authorizing detention. Casual and mechanical authorization of detention was deprecated.",
+      "Issued specific directions (often referred to as 'Arnesh Kumar Guidelines'):",
+      "  - All State Governments to instruct police not to automatically arrest under Section 498A IPC/similar offences, but satisfy Section 41 CrPC parameters.",
+      "  - Police to fill a checklist (containing specified sub-clauses of Section 41(1)(b)(ii)) and furnish reasons/materials justifying arrest.",
+      "  - Magistrate to peruse the checklist and reasons before authorizing detention.",
+      "  - Failure to comply by police officers would render them liable for departmental action and contempt of court.",
+      "  - Failure by Judicial Magistrate to comply would render them liable for departmental action by the High Court.",
+      "  - Notice under Section 41A CrPC to be served within 2 weeks of case institution if arrest not needed (extendable by SP).",
+      "  - These directions apply to all cases with offences punishable up to 7 years imprisonment.",
+      "The objective was to ensure that police officers do not arrest accused unnecessarily and magistrates do not authorize detention casually and mechanically."
+    ],
+    "cited_cases": [
+      "Joginder Kumar v. State of U.P. (1994) 4 SCC 260",
+      "DK Basu v. State of West Bengal (1997) 1 SCC 416 (Principles implicitly relied upon)",
+      "Code of Criminal Procedure, 1973 (Sections 41, 41A, 57, 60A, 167)",
+      "Indian Penal Code, 1860 (Section 498A)",
+      "Dowry Prohibition Act, 1961 (Section 4)",
+      "Law Commission Reports (Discussed contextually)",
+      "National Crime Records Bureau (NCRB) Data (Used to highlight misuse)"
+    ]
+  }
+}

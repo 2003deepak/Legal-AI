@@ -1,0 +1,161 @@
+{
+  "case_id": "State of Gujarat v. Anirudhsing (1997) 4 SCC 302",
+  "facts": [
+    "The case involves an appeal by the State of Gujarat against the acquittal of the respondents (Anirudhsing and potentially others, specific relationship to the deceased not detailed in summary) by the High Court.",
+    "The respondents were initially tried and convicted by the Sessions Court under Sections 498A and 306 of the Indian Penal Code (IPC).",
+    "The deceased, wife of one of the respondents (details inferred, likely Anirudhsing), died by suicide.",
+    "The prosecution alleged that the deceased was subjected to cruelty and harassment by the respondents in connection with demands for dowry, which led her to commit suicide.",
+    "Evidence presented likely included testimonies of the deceased's relatives (parents/siblings) regarding the alleged cruelty and demands.",
+    "Medical evidence (post-mortem report) would have confirmed the cause of death as suicide.",
+    "The specific nature and timing of the alleged cruelty and demands, and the timeframe between the last alleged act of cruelty and the suicide, were key factual elements under consideration.",
+    "The Sessions Court found the evidence sufficient to establish cruelty under Section 498A and concluded that this cruelty constituted abetment leading to the suicide under Section 306 IPC, possibly invoking the presumption under Section 113A of the Indian Evidence Act.",
+    "The High Court, on appeal by the accused, re-evaluated the evidence and acquitted the respondents, likely finding the evidence insufficient to prove either cruelty under 498A beyond reasonable doubt or that such cruelty directly led to or constituted abetment of suicide under Section 306.",
+    "The State of Gujarat appealed the High Court's acquittal to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 306 (Abetment of suicide)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 107 (Abetment - Defines abetment used in Sec 306)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in acquitting the respondents; the evidence on record sufficiently proved cruelty under Section 498A IPC.",
+      "precedents": [
+        "State of Punjab v. Gurmit Singh (1996) 2 SCC 384 (On credibility of victim/relative testimony in sexual/domestic offenses)",
+        "Girdhar Shankar Tawade v. State of Maharashtra (2002) 5 SCC 177 (Clarifying 'cruelty' under 498A including mental cruelty)",
+        "State of West Bengal v. Orilal Jaiswal (1994) 1 SCC 73 (On standard of proof for cruelty under 498A)"
+      ],
+      "elements": [
+        "Willful conduct likely to drive the woman to suicide or cause grave injury/danger to life, limb, or health (mental or physical).",
+        "Harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security.",
+        "Proof connecting the accused (husband or relative) to such conduct/harassment."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Allegations of cruelty were general and omnibus, lacking specific instances or dates, making them unreliable.",
+          "supporting_precedents": [
+            "Kans Raj v. State of Punjab (2000) 5 SCC 207 (General allegations insufficient for 498A conviction)",
+            "Manju Ram Kalita v. State of Assam (2009) 13 SCC 330 (Need for specific evidence linking accused to cruelty)"
+          ]
+        },
+        {
+          "loophole": "Witnesses (deceased's relatives) were interested parties, and their testimony lacked independent corroboration.",
+          "supporting_precedents": [
+            "Surinder Kumar v. State of Haryana (2011) 10 SCC 173 (Caution needed with interested witnesses, especially if contradictions exist)",
+            "M. Narsinga Rao v. State of A.P. (2001) 1 SCC 691 (Requirement of corroboration for interested witnesses, though not an absolute rule)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The cruelty established under Section 498A directly led to the suicide, constituting abetment under Section 306 IPC, especially given the presumption under Section 113A of the Evidence Act.",
+      "precedents": [
+        "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618 (Established link between 498A cruelty and 306 abetment)",
+        "Pawan Kumar v. State of Haryana (1998) 3 SCC 309 (Continuous harassment under 498A can amount to instigation for 306)",
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (Explaining scope of Section 113A presumption)"
+      ],
+      "elements": [
+        "Death of the woman was suicide.",
+        "Suicide occurred within 7 years of marriage (required for Section 113A presumption).",
+        "The accused abetted the suicide (instigated, conspired, or intentionally aided).",
+        "Cruelty under Section 498A was established.",
+        "Causal link between the cruelty and the suicide."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Proof of cruelty under 498A does not automatically mean abetment under 306. There was no direct act of instigation or aiding immediately preceding the suicide.",
+          "supporting_precedents": [
+            "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Mere quarrels or demands may not amount to instigation under Sec 107/306)",
+            "Gangula Mohan Reddy v. State of A.P. (2010) 1 SCC 750 (Higher degree of proof needed for 306; requires positive act by accused to instigate/aid suicide)",
+            "Chitresh Kumar Chopra v. State (Govt. of NCT of Delhi) (2009) 16 SCC 605 (Mens rea is essential for 306; requires intention to provoke suicide)"
+          ]
+        },
+        {
+          "loophole": "The time gap between the last alleged act of cruelty and the suicide was significant, breaking the causal chain required for Section 306 / Section 113A presumption.",
+          "supporting_precedents": [
+            "Hans Raj v. State of Haryana (2004) 12 SCC 257 (Presumption under 113A is rebuttable; depends on facts and proximity)",
+            "State of Haryana v. Ram Kumar (2007) 15 SCC 351 (Proximity test for 'soon before death' relevant for Section 113A)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court's acquittal was based on a misappreciation of evidence and law, ignoring the findings of the Trial Court and the statutory presumption.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Powers of appellate court while dealing with appeal against acquittal)",
+        "State of U.P. v. Banne @ Baijnath (2009) 4 SCC 271 (Interference with acquittal permissible if findings are perverse or view taken is unreasonable)",
+        "Sheo Swarup v. King Emperor AIR 1934 PC 227 (Principles for setting aside acquittal)"
+      ],
+      "elements": [
+        "Perversity in High Court's findings.",
+        "Misapplication of legal principles (e.g., regarding 498A, 306, 113A).",
+        "Failure to consider relevant evidence or giving undue weight to minor discrepancies."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The High Court is entitled to take a different view on evidence if the Trial Court's view is not plausible or if two views are possible. Acquittal strengthens the presumption of innocence.",
+          "supporting_precedents": [
+            "State of Rajasthan v. Raja Ram (2003) 8 SCC 180 (Presumption of innocence reinforced by acquittal)",
+            "Ayodhya Singh v. State of Bihar (1974) 4 SCC 374 (Appellate court should be slow to disturb finding of fact of trial court but not if view is unreasonable)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to prove cruelty under Section 498A beyond a reasonable doubt. Allegations were vague, uncorroborated, and possibly motivated.",
+      "edge_cases": [
+        "Distinguishing between ordinary marital discord and criminal cruelty.",
+        "Lack of independent witnesses despite alleged public nature of some incidents (if any)."
+      ],
+      "precedents": [
+        "Neelu Chopra v. Bharti (2009) 10 SCC 184 (Over-implication of relatives; need specific roles)",
+        "Sushil Kumar Sharma v. Union of India (2005) 6 SCC 281 (Misuse of Section 498A acknowledged by court)",
+        "Bhaskar Lal Sharma v. Monica (2009) 10 SCC 604 (Need for specific allegations against each accused relative)"
+      ]
+    },
+    {
+      "argument": "Even if some harassment occurred, it did not constitute abetment of suicide under Section 306 IPC. There was no instigation, aiding, or conspiracy as required by Section 107 IPC.",
+      "edge_cases": [
+        "Victim's hypersensitivity or other personal reasons for suicide not attributable to the accused.",
+        "Absence of a suicide note implicating the accused.",
+        "Lack of proximity between alleged cruelty and suicide."
+      ],
+      "precedents": [
+        "Mahendra Singh v. State of M.P. (1995) Supp (3) SCC 731 ('Go and die' utterance not necessarily instigation)",
+        "Randhir Singh v. State of Punjab (2004) 13 SCC 129 (Need clear mens rea and active role for abetment)",
+        "Madan Mohan Singh v. State of Gujarat (2010) 8 SCC 628 (Abetment requires a mental process of instigating or intentionally aiding)"
+      ]
+    },
+    {
+      "argument": "The High Court correctly appreciated the evidence and found the prosecution case lacking. The acquittal was justified and should not be interfered with.",
+      "edge_cases": [
+        "Standard of proof in criminal cases (beyond reasonable doubt).",
+        "Benefit of doubt must go to the accused."
+      ],
+      "precedents": [
+        "Murugesan v. State Through Inspector of Police (2012) 10 SCC 383 (Principles governing appeal against acquittal)",
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Fundamentals of 'beyond reasonable doubt' and presumption of innocence)",
+        "Ghurey Lal v. State of U.P. (2008) 10 SCC 450 (Summary of principles for appellate review of acquittal)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal dismissed. The Supreme Court upheld the High Court's acquittal.",
+    "reasoning": [
+      "The Supreme Court reiterated the distinction between cruelty under Section 498A and abetment of suicide under Section 306 IPC.",
+      "While cruelty under 498A can be a factor in assessing abetment under 306, it does not automatically lead to a conviction under Section 306.",
+      "To establish abetment under Section 306, the prosecution must prove beyond reasonable doubt that the accused instigated the suicide or engaged in a conspiracy or intentionally aided the commission of suicide.",
+      "The Court likely found that the evidence, while potentially indicating some harassment or cruelty (sufficient perhaps for 498A, though acquitted on that too by HC), did not reach the threshold required to prove active instigation or aiding necessary for a Section 306 conviction.",
+      "The requirement of a positive act on the part of the accused to instigate or aid the commission of suicide was emphasized.",
+      "The High Court's appreciation of evidence was found to be reasonable and not perverse, warranting no interference in an appeal against acquittal.",
+      "The presumption under Section 113A of the Evidence Act is rebuttable and does not automatically apply or suffice for conviction under Section 306 without proof of direct abetment as defined in Section 107 IPC.",
+      "Insufficient data in available summaries to detail specific witness accounts or evidence points discussed by the SC, but the core reasoning revolved around the higher burden of proof for Section 306 compared to Section 498A."
+    ],
+    "cited_cases": [
+      "Insufficient data from standard summaries to list all cases cited *by the Supreme Court in this specific judgment*. Key precedents likely discussed conceptually include those defining 'abetment' (Sec 107), 'cruelty' (Sec 498A), the distinction between 498A and 306, and the scope of Sec 113A Evidence Act.",
+      "Cases typically cited in such contexts include: State of West Bengal v. Orilal Jaiswal (1994), Ramesh Kumar v. State of Chhattisgarh (2001), Sanju @ Sanjay Singh Sengar v. State of M.P. (2002), Gangula Mohan Reddy v. State of A.P. (2010)."
+    ]
+  }
+}

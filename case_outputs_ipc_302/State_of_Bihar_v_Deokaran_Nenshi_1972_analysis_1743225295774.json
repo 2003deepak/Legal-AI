@@ -1,0 +1,117 @@
+{
+  "case_id": "State of Bihar v. Deokaran Nenshi (1972)",
+  "facts": [
+    "The respondents were the owners/agents of a stone quarry in Bihar.",
+    "Under Regulation 3 of the Indian Metalliferous Mines Regulations, 1926, framed under the Mines Act, they were required to furnish annual returns for the preceding year to the Chief Inspector of Mines by January 21st each year.",
+    "The respondents failed to furnish the annual return for the year ending December 31, 1959, by the due date of January 21, 1960.",
+    "An Inspector of Mines visited the quarry on May 12, 1960, and discovered this non-compliance.",
+    "A complaint was filed against the respondents in the Court of a Magistrate, First Class, Sasaram, on April 12, 1961.",
+    "The complaint alleged an offense under Regulation 3 read with Section 66 of the Mines Act, 1952.",
+    "The Magistrate acquitted the respondents, holding that the prosecution was barred by limitation under Section 79 of the Mines Act, 1952.",
+    "Section 79 stipulated that a complaint must be filed within six months of the date of the alleged offense or within six months of the date of discovery of the offense by the Inspector, whichever date is later.",
+    "The State of Bihar appealed the acquittal to the Patna High Court, which upheld the Magistrate's decision.",
+    "The State of Bihar then appealed to the Supreme Court of India.",
+    "The core issue before the Supreme Court was whether the failure to furnish the annual return by the specified date constituted a continuing offense."
+  ],
+  "ipc_sections": [
+    "No Indian Penal Code (IPC) sections were directly involved in the charges or the core legal dispute.",
+    "The relevant legal provisions were:",
+    "Regulation 3, Indian Metalliferous Mines Regulations, 1926 (Duty to file annual returns)",
+    "Section 66, Mines Act, 1952 (Penalty for contravention of regulations)",
+    "Section 79, Mines Act, 1952 (Limitation period for prosecution)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The failure to furnish the annual return by the specified date (Jan 21, 1960) constituted a continuing offense, which recurred each day the default persisted.",
+      "precedents": [
+        "State of Bombay v. Bhiwandiwala (1955) 1 SCR 727 / AIR 1955 SC 161 (Running a factory without a license was held to be a continuing offense).",
+        "Bhagirath Kanoria v. State of M.P. AIR 1984 SC 1688 (Failure to deposit employer's contribution to provident fund deemed continuing - though a later case, illustrates the principle argued).",
+        "Udai Shankar Awasthi v. State of U.P. (2013) 2 SCC 435 (Discusses principles of continuing offense, often involving ongoing breaches)."
+      ],
+      "elements": [
+        "Existence of a duty imposed by Regulation 3 to file the return.",
+        "Failure to comply with the duty by the specified date (Jan 21, 1960).",
+        "Argue that the nature of the duty implies it continues until performed, making non-performance a daily recurring offense."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The specific wording of Regulation 3 only penalizes the failure to file *by* a certain date, not the continuous state of non-filing thereafter.",
+          "supporting_precedents": [
+            "Emperor v. Karsandas Govindji AIR 1942 Bom 326 (Failure to furnish information by a specified date held not a continuing offense).",
+            "Public Prosecutor v. K. V. Subba Rao AIR 1944 Mad 479 (Failure to furnish return by specified date held not a continuing offense).",
+            "G.D. Bhattar v. State AIR 1957 Cal 483 (Similar view on non-continuing nature of failing to file return by due date)."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Even if not a continuing offense, the complaint was filed within the limitation period prescribed by Section 79 of the Mines Act, 1952, considering the date of discovery.",
+      "precedents": [
+        "P.D. Jambekar v. State of Gujarat (1973) 3 SCC 520 (Interprets limitation periods in analogous statutes, emphasizing the 'discovery' date importance).",
+        "Sushil Kumar Jaiswal v. State of Bihar (2004) 1 BLJR 517 (Patna HC case discussing Mines Act limitation - context specific).",
+        "Insufficient data: Specific precedents directly supporting this interpretation *in this specific context* beyond general principles of limitation based on discovery date are limited."
+      ],
+      "elements": [
+        "Date of offense: January 21, 1960.",
+        "Date of discovery by Inspector: May 12, 1960.",
+        "Section 79 allows complaint within 6 months of the later date (May 12, 1960).",
+        "Argue that the complaint on April 12, 1961 falls within a permissible timeframe (This seems factually incorrect as April 12, 1961 is more than 6 months after May 12, 1960; the primary argument rested on the 'continuing offense' theory)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The complaint dated April 12, 1961, is demonstrably filed more than six months after both the date of the offense (Jan 21, 1960) and the date of discovery (May 12, 1960).",
+          "supporting_precedents": [
+            "The clear text of Section 79, Mines Act, 1952.",
+            "Arun Vyas v. Anita Vyas (1999) 4 SCC 690 (General principle: Limitation statutes must be strictly construed).",
+            "Popat Bahiru Govardhane v. Special Land Acquisition Officer (2013) 10 SCC 765 (Reiterates strict construction of limitation periods)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The offense of failing to file the annual return under Regulation 3 was complete on January 21, 1960. It is not a continuing offense.",
+      "edge_cases": [
+        "Interpretation of statutory language: Does the regulation imply a continuing duty or a one-time obligation tied to a deadline?"
+      ],
+      "precedents": [
+        "Emperor v. Karsandas Govindji AIR 1942 Bom 326 (Directly analogous fact pattern: failure to furnish information by a date certain is not continuing).",
+        "Public Prosecutor v. K. V. Subba Rao AIR 1944 Mad 479 (Directly analogous fact pattern: failure to furnish return by a specified date is not continuing).",
+        "G.D. Bhattar v. State AIR 1957 Cal 483 (Supports the view that such omissions are completed offenses, not continuing ones)."
+      ]
+    },
+    {
+      "argument": "The prosecution is barred by limitation under Section 79 of the Mines Act, 1952, as the complaint was filed more than six months after the date of the offense and more than six months after its discovery by the Inspector.",
+      "edge_cases": [
+        "Application of Section 79's dual time-limit condition ('whichever date is later')."
+      ],
+      "precedents": [
+        "State of Bihar v. Deokaran Nenshi (1972) 2 SCC 890 (The present case itself established this outcome).",
+        "Japan Sahu v. Mano Ranjan Commodity (1992) Supp 1 SCC 509 (General principle on limitation barring prosecution after expiry).",
+        "Surinder Mohan Vikal v. Ascharaj Lal Chopra (1978) 2 SCC 403 (Cognizance taken after limitation period is illegal unless delay is condoned, where applicable)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal dismissed; Acquittal upheld.",
+    "reasoning": [
+      "The Supreme Court analyzed the concept of a 'continuing offense'.",
+      "A continuing offense is one susceptible of continuance and is distinguishable from an offense committed once and for all.",
+      "The crucial factor is the language of the statute creating the offense.",
+      "Regulation 3 required filing the return by January 21st. The offense was the failure to comply with this requirement by that specific date.",
+      "The regulation did not impose a penalty for every day the default continued after the deadline.",
+      "Therefore, the offense was completed on January 21, 1960, and was not a continuing offense.",
+      "Section 79 of the Mines Act requires the complaint to be filed within six months of the offense (Jan 21, 1960) or its discovery (May 12, 1960), whichever is later.",
+      "The complaint was filed on April 12, 1961, which was more than six months after both January 21, 1960, and May 12, 1960.",
+      "Consequently, the prosecution was barred by limitation under Section 79.",
+      "The Court distinguished this from cases like *State of Bombay v. Bhiwandiwala*, where the offense (running a factory without a license) inherently continued daily."
+    ],
+    "cited_cases": [
+      "State of Bombay v. Bhiwandiwala (1955) 1 SCR 727 / AIR 1955 SC 161",
+      "Emperor v. Karsandas Govindji AIR 1942 Bom 326",
+      "Public Prosecutor v. K. V. Subba Rao AIR 1944 Mad 479",
+      "G.D. Bhattar v. State AIR 1957 Cal 483"
+    ]
+  }
+}

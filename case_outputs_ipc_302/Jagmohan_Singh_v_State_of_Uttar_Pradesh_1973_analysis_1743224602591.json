@@ -1,0 +1,154 @@
+{
+  "case_id": "Jagmohan Singh v. State of Uttar Pradesh (1973)",
+  "facts": [
+    "Jagmohan Singh (Appellant) was convicted by the Sessions Judge under Section 302 of the Indian Penal Code (IPC) for the murder of his cousin, Chhotey Singh.",
+    "The alleged motive for the murder was a long-standing enmity related to a land dispute.",
+    "The Sessions Judge sentenced Jagmohan Singh to death.",
+    "The High Court of Uttar Pradesh confirmed the death sentence imposed by the Sessions Judge.",
+    "Jagmohan Singh appealed to the Supreme Court of India.",
+    "The primary ground of appeal before the Supreme Court was the challenge to the constitutional validity of the death penalty provided under Section 302 IPC.",
+    "The appellant argued that the death penalty violated Articles 14, 19, and 21 of the Constitution of India.",
+    "Specific arguments included: lack of legislative guidelines for imposing death vs. life imprisonment, rendering the choice arbitrary (violating Articles 14 and 21); and that the death penalty constitutes an unreasonable restriction on fundamental freedoms under Article 19."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder - Definition, used implicitly for conviction basis)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The conviction for murder under Section 302 IPC is based on sufficient evidence proving guilt beyond a reasonable doubt (details specific to the murder facts not the focus of the constitutional challenge).",
+      "precedents": [
+        "Standard precedents on proving murder based on circumstantial or direct evidence existing at the time (specific cases depend on trial record, often not detailed in constitutional judgments).",
+        "Cases defining 'proof beyond reasonable doubt', e.g., Shivaji Sahabrao Bobade v. State of Maharashtra (1973) 2 SCC 793."
+      ],
+      "elements": [
+        "Actus Reus: Causing the death of Chhotey Singh.",
+        "Mens Rea: Intention to cause death or intention to cause bodily injury sufficient in the ordinary course of nature to cause death (as per Section 300 IPC).",
+        "Motive: Pre-existing enmity over land dispute."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Potential weaknesses in evidence linking the accused directly to the act (e.g., witness credibility, circumstantial evidence gaps). Specifics not detailed in the Supreme Court judgment focusing on constitutionality.",
+          "supporting_precedents": [
+            "Cases on appreciation of evidence and requirements for conviction in murder cases based on the specific type of evidence presented (e.g., circumstantial, eyewitness).",
+            "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Although later, outlines principles for circumstantial evidence)."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Section 302 IPC, providing for the death penalty, is constitutionally valid and does not violate Articles 14, 19, or 21.",
+      "precedents": [
+        "Constitution of India, Article 21 ('procedure established by law' allows deprivation of life).",
+        "Pre-constitutional legislative history retaining the death penalty.",
+        "Arguments based on deterrence, retribution, and societal protection as justifications for the death penalty."
+      ],
+      "elements": [
+        "Legality of Section 302 IPC under the Constitution.",
+        "Justification for retaining capital punishment.",
+        "Compatibility of judicial discretion in sentencing with constitutional principles."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The argument that 'procedure established by law' under Article 21 must be 'just, fair, and reasonable' (a principle gaining traction, later solidified in Maneka Gandhi).",
+          "supporting_precedents": [
+            "A.K. Gopalan v. State of Madras (AIR 1950 SC 27) (Interpreted 'procedure established by law' more literally, which prosecution might rely on, but defense would argue against its narrowness).",
+            "Arguments anticipating the reasoning later adopted in Maneka Gandhi v. Union of India (1978) 1 SCC 248 regarding fairness of procedure."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Judicial discretion in sentencing (choosing between death and life imprisonment) is not inherently arbitrary or discriminatory under Article 14.",
+      "precedents": [
+        "Cases upholding judicial discretion in other areas of law.",
+        "State of West Bengal v. Anwar Ali Sarkar (AIR 1952 SC 75) (Distinguished on the basis that sentencing discretion is guided by case facts, unlike the unguided discretion struck down here).",
+        "Kathi Raning Rawat v. State of Saurashtra (AIR 1952 SC 123) (Upholding classification based on intelligible differentia)."
+      ],
+      "elements": [
+        "Rational basis for differential sentencing based on aggravating/mitigating factors.",
+        "Inherent nature of judicial function involving discretion based on facts."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of explicit statutory guidelines in IPC/CrPC (at the time) channeling the sentencing discretion for capital cases.",
+          "supporting_precedents": [
+            "Arguments highlighting potential for subjectivity and inconsistency in sentencing outcomes across different judges/courts.",
+            "Furman v. Georgia (408 U.S. 238 (1972)) (US Supreme Court case striking down death penalty statutes for arbitrariness, potentially cited for persuasive value)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Section 302 IPC, by conferring unguided discretion on judges to choose between life imprisonment and death, violates Article 14 (Equality before Law) as it leads to arbitrary and potentially discriminatory sentencing.",
+      "edge_cases": [
+        "Lack of legislative standards distinguishing cases deserving death from those deserving life.",
+        "Potential for subjective factors influencing judicial decisions."
+      ],
+      "precedents": [
+        "State of West Bengal v. Anwar Ali Sarkar (AIR 1952 SC 75) (Principle that unguided discretion can lead to discrimination).",
+        "Ram Krishna Dalmia v. Shri Justice S. R. Tendolkar (AIR 1958 SC 538) (Principles of valid classification under Article 14; argued that sentencing discretion here lacks such basis).",
+        "Furman v. Georgia (408 U.S. 238 (1972)) (Cited for comparative jurisprudence on arbitrary sentencing in capital cases)."
+      ]
+    },
+    {
+      "argument": "The death penalty, being the extinguishment of life and all fundamental freedoms, is an unreasonable restriction and violates the freedoms guaranteed under Article 19.",
+      "edge_cases": [
+        "Argument that no crime warrants the complete annihilation of fundamental rights.",
+        "Questioning the deterrent effect of the death penalty as a justification for such a severe restriction."
+      ],
+      "precedents": [
+        "A.K. Gopalan v. State of Madras (AIR 1950 SC 27) (While interpreted narrowly then, used to argue the scope of fundamental rights).",
+        "Cases discussing 'reasonable restrictions' under Article 19(2) to 19(6), arguing death penalty fails this test.",
+        "Principle that fundamental rights should be interpreted broadly."
+      ]
+    },
+    {
+      "argument": "The death penalty violates Article 21 (Protection of Life and Personal Liberty) because the 'procedure established by law' for imposing it is not fair, just, and reasonable due to the arbitrary sentencing discretion.",
+      "edge_cases": [
+        "Argument that Article 21 requires substantive due process, not just formal adherence to procedure.",
+        "The irrevocability of the death sentence necessitates higher procedural safeguards."
+      ],
+      "precedents": [
+        "A.K. Gopalan v. State of Madras (AIR 1950 SC 27) (Argued against its narrow interpretation of 'procedure established by law').",
+        "Anticipatory arguments reflecting the evolution towards Maneka Gandhi v. Union of India (1978) 1 SCC 248 (which held procedure must be fair, just, reasonable).",
+        "International Covenants on Civil and Political Rights (ICCPR) (potentially cited regarding right to life and procedural fairness, although India's ratification status/reservations might be relevant)."
+      ]
+    },
+    {
+      "argument": "Insufficient evidence to prove murder beyond reasonable doubt (standard defense against the conviction itself).",
+      "edge_cases": [
+        "Challenges to witness testimonies.",
+        "Gaps in circumstantial evidence.",
+        "Alternative hypotheses explaining the death."
+      ],
+      "precedents": [
+        "Cases setting standards for burden of proof in criminal trials (e.g., Woolmington v DPP principle adopted in India).",
+        "Kali Ram v. State of Himachal Pradesh (1973) 2 SCC 808 (Emphasizing prosecution's duty to prove guilt beyond doubt).",
+        "Cases on evaluating specific types of evidence (eyewitness, circumstantial)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The Supreme Court upheld the constitutional validity of the death penalty under Section 302 IPC and confirmed the death sentence imposed on Jagmohan Singh.",
+    "reasoning": [
+      "The Court held that the death penalty per se was not violative of the Constitution.",
+      "Article 19 was deemed inapplicable to the death penalty, as the rights under Article 19 are contingent upon the existence of life, which can be deprived following the 'procedure established by law' under Article 21.",
+      "The Court interpreted 'procedure established by law' in Article 21 (at that time, pre-Maneka Gandhi) as the procedure prescribed by the state's legislature. The Code of Criminal Procedure provided such a procedure for trial and sentencing.",
+      "Regarding Article 14, the Court held that the discretion vested in judges to choose between death and life imprisonment was not unguided or arbitrary. It reasoned that this discretion is to be exercised judicially, taking into account the facts and circumstances of the case, including aggravating and mitigating factors. Providing exhaustive legislative standards was deemed impossible.",
+      "The Court observed that the retention of the death penalty was a matter of legislative policy and it was not for the Court to question the wisdom of the legislature unless the provision was constitutionally invalid.",
+      "The Court found no reason to interfere with the conviction and sentence based on the facts of the specific murder case (details often omitted in constitutional analysis sections)."
+    ],
+    "cited_cases": [
+      "A.K. Gopalan v. State of Madras (AIR 1950 SC 27)",
+      "Ram Singh v. The State of Delhi (AIR 1951 SC 270)",
+      "State of West Bengal v. Anwar Ali Sarkar (AIR 1952 SC 75)",
+      "Kathi Raning Rawat v. State of Saurashtra (AIR 1952 SC 123)",
+      "Budhan Choudhry v. State of Bihar (AIR 1955 SC 191)",
+      "(Reference to US cases like Furman v. Georgia was made in arguments but distinguished/not followed by the court at this time)",
+      "(Note: Bachan Singh v. State of Punjab (1980) 2 SCC 684, which later revisited and upheld the death penalty but laid down the 'rarest of rare' doctrine, built upon and refined the discussion initiated in Jagmohan Singh)."
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "case_id": "State of Punjab v. Major Singh (1966)",
+  "facts": [
+    "The respondent, Major Singh, was accused of committing an offense under Section 354 of the Indian Penal Code.",
+    "The victim was a female child aged 7 and a half months.",
+    "The specific act involved the respondent causing injuries to the victim's vagina, including rupture of the hymen, indicating some form of penetration.",
+    "The incident occurred on March 13, 1962, in the evening.",
+    "Medical examination by Dr. R. L. Bhandari confirmed the injuries (vaginal tear, hymenal rupture, bleeding).",
+    "The Sessions Judge convicted Major Singh under Section 354 IPC.",
+    "The High Court of Punjab acquitted Major Singh on appeal, reasoning that a female child of 7.5 months could not possess a 'sense of modesty' and therefore, her modesty could not be outraged.",
+    "The State of Punjab filed an appeal against the High Court's acquittal to the Supreme Court of India."
+  ],
+  "ipc_sections": [
+    "Section 354 (Assault or criminal force to woman with intent to outrage her modesty)",
+    "Section 10 (Definition of 'Man', 'Woman' - clarifying 'Woman' denotes a female human being of any age)",
+    "Section 319 (Definition of Hurt - relevant to alternative view considered)",
+    "Section 351 (Definition of Assault - relevant to S. 354)",
+    "Section 350 (Definition of Criminal Force - relevant to S. 354)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The accused committed an act falling under Section 354 IPC by using criminal force (penetration/injury) on a female child with the knowledge that the act was likely to outrage her modesty.",
+      "precedents": [
+        "Section 10 IPC (Statutory definition establishing 'woman' includes a female of any age)",
+        "R. v. Timmins (1846) Le & Cave 506 (English case discussed regarding indecent assault on young children, indicating protection regardless of age/consent)",
+        "Ramkripal S/O Shyam Lal Charmakar v. State of Madhya Pradesh (2007) 11 SCC 265 (Later case affirming the principle laid down in Major Singh)"
+      ],
+      "elements": [
+        "Use of criminal force or assault",
+        "Victim was a 'woman' (female human being)",
+        "Act was done with intent or knowledge likely to outrage modesty",
+        "Modesty is an objective attribute of the female sex, irrespective of victim's age or subjective understanding"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The core element 'outraging modesty' inherently requires the victim to possess a subjective sense of modesty which can be outraged, which an infant lacks.",
+          "supporting_precedents": [
+            "High Court Judgment in State of Punjab v. Major Singh (Overturned by SC, but represents the counter-argument)",
+            "Insufficient data (Specific precedents supporting the High Court's narrow view prior to this SC judgment are not readily cited or established)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The offense under Section 354 IPC requires the victim to have a developed sense of modesty capable of being outraged. An infant of 7.5 months lacks this attribute, so the essential ingredient of the offense is missing. The act, while potentially constituting hurt or simple assault, does not fit Section 354.",
+      "edge_cases": [
+        "Distinction between objective act of indecency and subjective experience of 'outrage'.",
+        "Whether 'modesty' under S. 354 is purely objective attribute or requires subjective element.",
+        "Applicability of S. 354 vs. simpler offenses like S. 323 (Hurt) for acts against infants."
+      ],
+      "precedents": [
+        "High Court Judgment in State of Punjab v. Major Singh (Source of the acquittal, based on the reasoning that an infant lacks modesty)",
+        "Insufficient data (Prior authoritative precedents supporting this specific interpretation for infants under S.354 were not established or cited extensively; the High Court view was novel/contentious)",
+        "Insufficient data"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. The acquittal order of the High Court was set aside, and the conviction of Major Singh under Section 354 IPC by the Sessions Judge was restored (Majority decision: Sarkar and Mudholkar JJ.; Minority dissenting view: Bachawat J.).",
+    "reasoning": [
+      "Majority View (Sarkar & Mudholkar JJ.):",
+      "The term 'woman' in Section 354 IPC, read with Section 10 IPC, includes a female human being of any age, including an infant.",
+      "'Modesty' is an essential attribute of the female sex. It is not a subjective concept dependent on the victim's age or understanding. It is an objective standard related to female bodily integrity and decency.",
+      "The intention or knowledge of the accused must be judged concerning the act itself (whether it is indecent) and the victim being female, not based on the victim's subjective reaction.",
+      "The act of the accused (injuring the vagina) was inherently indecent and constituted an affront to the objective modesty associated with the female sex.",
+      "The essence of a woman's modesty is her sex, and the culpable intention of the accused is the crux of the matter.",
+      "Minority View (Bachawat J.):",
+      "Agreed that 'woman' includes a female child.",
+      "Differed on the interpretation of 'modesty', arguing it relates to propriety, decency, and chastity, implying a degree of understanding or development that an infant lacks.",
+      "An infant does not possess the attribute of 'modesty' in the sense required by Section 354.",
+      "The act committed was an indecent assault but did not constitute 'outraging the modesty' of the infant victim under S. 354. It could potentially be punished under other sections like assault or hurt."
+    ],
+    "cited_cases": [
+      "R. v. Beale (1866) L.R. 1 C.C.R. 39 (Discussed - English law on indecent assault)",
+      "R. v. McGavaran (1852) 6 Cox C.C. 64 (Discussed - English law on indecent assault)",
+      "R. v. Day (1841) 9 C. & P. 722 (Discussed - English law on indecent assault)",
+      "R. v. Timmins (1846) Le & Cave 506; 169 E.R. 1489 (Discussed - English law on indecent assault on young child)"
+    ]
+  }
+}

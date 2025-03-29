@@ -1,0 +1,197 @@
+{
+  "case_id": "C. Mangesh & Ors v. State of Karnataka (2010) 7 SCC 667",
+  "facts": [
+    "Marriage between C. Mangesh (Appellant No. 1/Accused No. 1 - A-1) and deceased Manjula on 15.05.1996.",
+    "Alleged demand of Rs. 10,000 cash and 50 grams gold as dowry at the time of marriage.",
+    "Rs. 5,000 cash and 25 grams gold were allegedly given, with a promise to pay the balance later.",
+    "Prosecution alleged continuous harassment and torture of Manjula by A-1 (husband), A-2 (father-in-law T. Venkatappa), and A-3 (brother-in-law T. Narayanappa) for the remaining dowry.",
+    "Manjula was allegedly sent back to her parental home after about 6 months due to non-payment.",
+    "A panchayat was held, and Manjula was taken back to the matrimonial home.",
+    "On 11.07.1997 (within 1 year and 2 months of marriage), Manjula was found dead by hanging in her matrimonial home in Madhugiri Taluk, Tumkur District.",
+    "FIR registered based on the complaint by PW-1 (father of the deceased).",
+    "Post-mortem examination conducted by Dr. Hanumantharaya (PW-12) opined death due to asphyxia as a result of hanging.",
+    "Investigation led by PW-13 (Investigating Officer).",
+    "Charge-sheet filed against A-1, A-2, and A-3 under Sections 498-A, 304-B, 302 read with Section 34 IPC, and Sections 3 & 4 of the Dowry Prohibition Act, 1961.",
+    "Trial Court (Sessions Judge, Tumkur) acquitted all accused of all charges by judgment dated 31.01.2000, citing discrepancies in witness testimonies (PW-1, PW-2, PW-3) and lack of reliable evidence for dowry demand/cruelty 'soon before death'.",
+    "State of Karnataka appealed to the High Court of Karnataka.",
+    "High Court, by judgment dated 16.12.2005, reversed the acquittal in part: Convicted A-1, A-2, and A-3 under Section 304-B read with Section 34 IPC (7 years RI) and Section 498-A read with Section 34 IPC (3 years RI and fine of Rs. 2000 each). Acquittal under Section 302/34 IPC and Dowry Prohibition Act sections was confirmed.",
+    "High Court found the trial court's acquittal regarding Sections 304-B and 498-A to be perverse, relying on testimonies of PW-1 (father), PW-2 (mother), PW-3 (brother) and invoking the presumption under Section 113-B of the Indian Evidence Act.",
+    "The present appeal before the Supreme Court was filed by the convicted accused (A-1, A-2, A-3) against the High Court's judgment."
+  ],
+  "ipc_sections": [
+    "Section 34 (Common Intention)",
+    "Section 302 (Murder - charged, acquitted by HC)",
+    "Section 304B (Dowry Death - convicted by HC)",
+    "Section 498A (Cruelty by Husband or Relatives - convicted by HC)",
+    "Section 3 & 4, Dowry Prohibition Act, 1961 (Charged, acquitted by HC)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court correctly reversed the perverse acquittal by the Trial Court, as the Trial Court ignored credible evidence establishing dowry demand and cruelty.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka, (2007) 4 SCC 415 (Principles for appeal against acquittal)",
+        "State of U.P. v. Ramesh Prasad Misra, (1996) 10 SCC 360 (Appellate court's power to re-appreciate evidence in appeal against acquittal)",
+        "Dhananjay Chatterjee alias Dhana v. State of W.B., (1994) 2 SCC 220 (Interference with acquittal justified when trial court findings are unreasonable or distorted)"
+      ],
+      "elements": [
+        "Perversity of Trial Court judgment",
+        "Credibility of PW-1, PW-2, PW-3 testimonies",
+        "Correct application of appellate powers by High Court"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "High Court re-appreciated evidence simply because a different view was possible, without demonstrating clear perversity or unreasonableness in the Trial Court's assessment.",
+          "supporting_precedents": [
+            "Basappa v. State of Karnataka, (2014) 5 SCC 154 (High threshold for reversing acquittal)",
+            "Ramesh Babulal Doshi v. State of Gujarat, (1996) 9 SCC 225 (Acquittal reversal requires glaring errors/misreading of evidence)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "All ingredients of Section 304-B IPC were proven: unnatural death within 7 years of marriage, preceded by dowry-related cruelty/harassment.",
+      "precedents": [
+        "Kamesh Panjiyar v. State of Bihar, (2005) 2 SCC 388 (Definition and scope of 'dowry demand' and 'cruelty' under 304B/498A)",
+        "State of Punjab v. Iqbal Singh, (1991) 3 SCC 1 (Presumption under Section 113B Evidence Act arises once foundational facts of 304B are shown)",
+        "Pawan Kumar v. State of Haryana, (1998) 3 SCC 309 (Link between dowry demand, cruelty, and death)"
+      ],
+      "elements": [
+        "Death otherwise than under normal circumstances (hanging)",
+        "Death within 7 years of marriage (1 year 2 months)",
+        "Subjection to cruelty/harassment for dowry",
+        "Cruelty occurring 'soon before' death"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The prosecution failed to establish a proximate and live link between the alleged harassment and the death; 'soon before death' element not conclusively proven.",
+          "supporting_precedents": [
+            "Kaliaperumal v. State of T.N., (2004) 9 SCC 157 (Meaning of 'soon before death' requires proximity)",
+            "Rajinder Singh v. State of Punjab, (2015) 6 SCC 477 (Mere death within 7 years and past harassment insufficient; need link)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Testimonies of close relatives (PW-1, PW-2, PW-3) regarding dowry demand and cruelty are credible and sufficient for conviction under Sections 304-B and 498-A.",
+      "precedents": [
+        "State of Punjab v. Gurmit Singh, (1996) 2 SCC 384 (Testimony of victim/relatives in sexual/family offenses carries weight)",
+        "Trimukh Maroti Kirkan v. State of Maharashtra, (2006) 10 SCC 681 (Dowry deaths often occur within privacy of home; relative testimony crucial)",
+        "Gura Singh v. State of Rajasthan, (2001) 2 SCC 205 (Minor discrepancies in relative testimonies do not negate core case)"
+      ],
+      "elements": [
+        "Witness credibility (PW-1, PW-2, PW-3)",
+        "Proof of dowry demand",
+        "Proof of harassment/cruelty linked to demand"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Witnesses are close relatives and thus 'interested'; their testimonies lacked independent corroboration and contained contradictions noted by the Trial Court.",
+          "supporting_precedents": [
+            "Surinder Kumar v. State of Haryana, (2011) 10 SCC 173 (Caution needed with interested witnesses; corroboration desirable)",
+            "M. Narsinga Rao v. State of A.P., (2001) 1 SCC 691 (Scrutiny of interested witness testimony required)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The presumption under Section 113-B of the Indian Evidence Act was correctly invoked by the High Court, shifting the burden onto the accused to disprove culpability for dowry death.",
+      "precedents": [
+        "Shamnsaheb M. Multtani v. State of Karnataka, (2001) 2 SCC 577 (Conditions for invoking Section 113B presumption)",
+        "Pathan Hussain Basha v. State of A.P., (2012) 8 SCC 594 (Nature of Section 113B presumption - mandatory once prerequisites met)",
+        "Sher Singh @ Partapa v. State of Haryana, (2015) 3 SCC 724 (Rebuttal of presumption requires proof beyond reasonable doubt by accused)"
+      ],
+      "elements": [
+        "Establishment of foundational facts for Sec 304-B",
+        "Applicability of statutory presumption"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The prosecution failed to establish the foundational fact of cruelty 'soon before death' beyond reasonable doubt, thus the presumption under Section 113-B could not be legally invoked.",
+          "supporting_precedents": [
+            "Baijnath v. State of M.P., (2017) 1 SCC 101 (Prosecution must prove foundational facts beyond reasonable doubt before presumption applies)",
+            "Baljeet Singh v. State of Haryana, (2004) 3 SCC 122 (If basic ingredients not proven, presumption cannot be drawn)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court erred in reversing the well-reasoned acquittal by the Trial Court, exceeding its jurisdiction under CrPC governing appeals against acquittal.",
+      "edge_cases": [
+        "Scope of appellate review in acquittal appeals",
+        "Distinction between 'possible view' and 'perverse view'"
+      ],
+      "precedents": [
+        "Sheo Swarup v. King Emperor, AIR 1934 PC 227 (Principles for appeal against acquittal)",
+        "Muralidhar @ Gidda v. State of Karnataka, (2014) 5 SCC 730 (Reversal only if trial court view is impossible or perverse)",
+        "Ghurey Lal v. State of U.P., (2008) 10 SCC 450 (Reiterating stringent standards for overturning acquittal)"
+      ]
+    },
+    {
+      "argument": "The crucial element of 'soon before death' for Section 304-B was not established. General allegations of past harassment are insufficient.",
+      "edge_cases": [
+        "Interpretation of temporal proximity ('soon before')",
+        "Requirement of a live link between cruelty and death"
+      ],
+      "precedents": [
+        "Tarsem Singh v. State of Punjab, (2008) 16 SCC 155 ('Soon before' implies proximate link, not remote instances)",
+        "Surinder Singh v. State of Haryana, (2014) 4 SCC 129 (Need for cogent evidence of cruelty proximate to death)",
+        "Bansi Lal v. State of Haryana, (2011) 11 SCC 359 (Vague allegations insufficient for 'soon before death')"
+      ]
+    },
+    {
+      "argument": "Evidence against A-2 (father-in-law) and A-3 (brother-in-law) was based on general and omnibus allegations, insufficient to prove their specific involvement in cruelty or dowry demand under Sections 498-A or 304-B.",
+      "edge_cases": [
+        "Vicarious liability in dowry cases",
+        "Requirement of specific allegations against each accused relative"
+      ],
+      "precedents": [
+        "Kans Raj v. State of Punjab, (2000) 5 SCC 207 (Need for specific evidence against each relative)",
+        "Preeti Gupta v. State of Jharkhand, (2010) 7 SCC 667 (Tendency to implicate all family members; need for caution)",
+        "Geeta Mehrotra v. State of U.P., (2012) 10 SCC 741 (Quashing of charges based on vague allegations against distant relatives)"
+      ]
+    },
+    {
+      "argument": "The testimonies of PW-1, PW-2, and PW-3 (father, mother, brother) were contradictory, improved, and lacked independent corroboration, making them unreliable.",
+      "edge_cases": [
+        "Evaluation of interested witness testimony",
+        "Impact of contradictions and improvements on witness credibility"
+      ],
+      "precedents": [
+        "Harijan Bhala Teja v. State of Gujarat, (2016) 12 SCC 665 (Contradictions affecting core of case warrant acquittal)",
+        "Dalip Singh v. State of Punjab, AIR 1953 SC 364 (Principles for evaluating related/interested witnesses)",
+        "Vadivelu Thevar v. State of Madras, AIR 1957 SC 614 (Classification of witnesses - wholly reliable, wholly unreliable, neither wholly reliable nor wholly unreliable)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The judgment of the High Court convicting the appellants (A-1, A-2, A-3) under Sections 304-B/34 and 498-A/34 IPC was set aside. The judgment of the Trial Court acquitting all appellants was restored.",
+    "reasoning": [
+      "The Supreme Court found that the High Court was not justified in reversing the Trial Court's acquittal.",
+      "The Trial Court had identified significant contradictions and improvements in the testimonies of key prosecution witnesses (PW-1, PW-2, PW-3) regarding the dowry demand and harassment.",
+      "There was no independent witness corroborating the allegations of cruelty or dowry demand.",
+      "The crucial ingredient of Section 304-B, that the cruelty or harassment occurred 'soon before death', was not convincingly established by the prosecution. The allegations were mostly general in nature, relating to incidents long before the death.",
+      "The panchayat meeting mentioned occurred several months prior to the incident, weakening the proximity required for 'soon before death'.",
+      "Given the lack of reliable evidence proving cruelty 'soon before death' beyond reasonable doubt, the presumption under Section 113-B of the Evidence Act could not be invoked.",
+      "The Trial Court's view based on the evidence on record was a possible and plausible view. The High Court erred in substituting its own view without demonstrating that the Trial Court's findings were perverse or patently erroneous.",
+      "The allegations against the father-in-law (A-2) and brother-in-law (A-3) were particularly vague and lacked specific details of their involvement.",
+      "For Section 498-A conviction also, the evidence regarding cruelty was found unreliable due to contradictions and lack of corroboration."
+    ],
+    "cited_cases": [
+      "Kaliyaperumal v. State of T.N., (2004) 9 SCC 157",
+      "Harjit Singh v. State of Punjab, (2006) 1 SCC 463",
+      "Trimukh Maroti Kirkan v. State of Maharashtra, (2006) 10 SCC 681",
+      "State of Punjab v. Iqbal Singh, (1991) 3 SCC 1",
+      "Kans Raj v. State of Punjab, (2000) 5 SCC 207",
+      "S. Gopal Reddy v. State of A.P., (1996) 4 SCC 596",
+      "Appasaheb v. State of Maharashtra, (2007) 9 SCC 721",
+      "Surinder Kumar v. State of Haryana, (2003) 11 SCC 343 (Appears to be a typo in judgment text, likely meant another Surinder Kumar case or similar precedent on interested witnesses)",
+      "Chandrappa v. State of Karnataka, (2007) 4 SCC 415",
+      "State of Goa v. Sanjay Thakran, (2007) 3 SCC 755",
+      "State of U.P. v. Ram Veer Singh, (2007) 13 SCC 102",
+      "Ganpat v. State of Haryana, (2010) 12 SCC 59 (Referenced as Preeti Gupta v. State of Jharkhand, (2010) 7 SCC 667 in other contexts for similar principle)",
+      "Balwant Singh v. State of Punjab, (2004) 7 SCC 724"
+    ]
+  }
+}

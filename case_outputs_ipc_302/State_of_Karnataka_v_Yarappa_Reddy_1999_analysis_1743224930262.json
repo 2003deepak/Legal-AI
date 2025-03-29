@@ -1,0 +1,159 @@
+{
+  "case_id": "State of Karnataka v. Yarappa Reddy (1999) 4 SCC 380",
+  "facts": [
+    "The case pertains to the alleged murder of Narasimha Reddy on 24.07.1987 at about 6:30 PM near Gangasandra village.",
+    "The First Information Report (FIR) was lodged by PW-1 (Venkataswamy Reddy), the brother of the deceased, at about 8:00 PM the same day.",
+    "The FIR initially named Yarappa Reddy (respondent/accused) and three others (Papanna, Munivenkatappa, Pillavenkatappa) as assailants.",
+    "The alleged motive was a long-standing land dispute between the accused party and the deceased's family.",
+    "PW-1 claimed he heard the deceased cry out 'Ayyo! Yarappa Reddy, Papanna, Munivenkatappa and Pillavenkatappa are killing me!' from about 200 yards away.",
+    "PW-1 stated he rushed towards the scene and saw the four accused running away.",
+    "PW-2 (Ashwathappa) and PW-3 (Munivenkatappa), cousins of the deceased, claimed they were returning from their fields and saw the four accused running away from the direction of the incident.",
+    "An inquest was held (Ex.P-10), and a spot mahazar (Ex.P-11) was prepared.",
+    "Post-mortem examination (Dr. B. M. Chandrasekhar, PW-8) revealed 12 incised wounds, consistent with assault by sharp-edged weapons. Cause of death was shock and haemorrhage due to multiple injuries.",
+    "Accused Yarappa Reddy was arrested on 26.07.1987.",
+    "Based on Yarappa Reddy's alleged voluntary statement (Ex.P-14), a chopper (MO.1) was recovered from beneath thorny bushes near his Ragi field under a mahazar (Ex.P-5) attested by PW-4 (Rama Reddy) and PW-7 (Venkatesha).",
+    "The chopper (MO.1) was sent for chemical examination, but the serologist's report indicated human blood, but the origin/grouping was inconclusive.",
+    "The Trial Court (Sessions Judge, Kolar) acquitted all four accused, citing discrepancies in witness testimonies, doubt about PW-1 hearing the specific names from 200 yards, the interested nature of witnesses (PW-1, PW-2, PW-3 being relatives), lack of independent corroboration, and unconvincing recovery evidence.",
+    "The State of Karnataka appealed the acquittal to the High Court of Karnataka.",
+    "The High Court reversed the trial court's judgment, convicted Yarappa Reddy under Section 302 read with Section 34 IPC, and sentenced him to life imprisonment. The acquittal of the other three accused was maintained.",
+    "The High Court found the testimonies of PW-1, PW-2, and PW-3 credible, accepted the motive, and relied on the recovery of MO.1 at the instance of Yarappa Reddy.",
+    "Yarappa Reddy filed the present appeal before the Supreme Court challenging the High Court's conviction."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 34 (Acts done by several persons in furtherance of common intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court rightly reversed the perverse acquittal by the Trial Court, as the evidence of eyewitnesses (PW-1, PW-2, PW-3) was credible and consistent.",
+      "precedents": [
+        "State of U.P. v. Zakaullah (1998) 1 SCC 557 (Minor discrepancies do not discard credible ocular evidence)",
+        "Leela Ram v. State of Haryana (1999) 9 SCC 525 (Evidence of related witnesses not automatically unreliable, requires scrutiny)",
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Powers of appellate court in appeal against acquittal)"
+      ],
+      "elements": [
+        "Credibility of PW-1 hearing the cry naming accused.",
+        "Credibility of PW-1, PW-2, PW-3 seeing accused flee the scene.",
+        "Sufficiency of ocular evidence for conviction.",
+        "Demonstration that trial court view was unreasonable/perverse."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Witnesses are close relatives (interested); PW-1 hearing specific names from 200 yards is improbable; PWs 2 & 3 only saw accused fleeing, not attacking.",
+          "supporting_precedents": [
+            "Hari Obula Reddy v. State of A.P. (1981) 3 SCC 675 (Need for corroboration for interested witnesses)",
+            "Ram Kumar Pande v. State of M.P. (1975) 3 SCC 815 (Caution required when dealing with related witnesses)",
+            "State of Rajasthan v. Kalki (1981) 2 SCC 752 (Distinction between minor discrepancies and major contradictions affecting core case)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The motive (land dispute) was clearly established through evidence and provides strong corroboration for the involvement of the accused.",
+      "precedents": [
+        "State of H.P. v. Gian Chand (2001) 6 SCC 71 (Motive gains importance in cases based on direct evidence if witnesses are related)",
+        "Suresh Chandra Bahri v. State of Bihar 1995 Supp (1) SCC 80 (Motive is a relevant factor that can support prosecution case)",
+        "Mulakh Raj v. Satish Kumar (1992) 3 SCC 43 (Proof of motive helps in assessing evidence)"
+      ],
+      "elements": [
+        "Existence of a significant land dispute.",
+        "Link between the dispute and the animosity leading to murder.",
+        "Corroborative value of motive evidence."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Motive is a double-edged sword; it can also suggest a reason for false implication by the deceased's relatives.",
+          "supporting_precedents": [
+            "Surinder Pal Jain v. Delhi Administration 1993 Supp (3) SCC 681 (Motive alone is insufficient for conviction)",
+            "Nathuni Yadav v. State of Bihar (1998) 9 SCC 238 (Absence of motive not fatal, presence not conclusive)",
+            "State of Punjab v. Bhajan Singh AIR 1975 SC 258 (Motive may indicate reason for false implication)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The recovery of the blood-stained chopper (MO.1) at the instance of accused Yarappa Reddy under Section 27 of the Evidence Act is a crucial piece of incriminating evidence.",
+      "precedents": [
+        "State of Maharashtra v. Damu (2000) 6 SCC 269 (Requirements for admissibility under Section 27)",
+        "Pulukuri Kottaya v. Emperor AIR 1947 PC 67 (Landmark case explaining 'fact discovered')",
+        "Mohmed Amin v. State of Maharashtra (2004) 7 SCC 317 (Emphasis on voluntariness and proper procedure for Section 27 recovery)"
+      ],
+      "elements": [
+        "Information given by accused while in custody.",
+        "Information led to the discovery of a fact (weapon).",
+        "Voluntariness of the statement.",
+        "Credibility of recovery witnesses (PW-4, PW-7)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Recovery from an open place accessible to others; inconclusive serologist report (blood group not determined); possibility of planting the weapon; credibility of panch witnesses.",
+          "supporting_precedents": [
+            "Bodhraj v. State of J&K (2002) 8 SCC 45 (Recovery from open/accessible place less reliable)",
+            "Mustkeem alias Sirajudeen v. State of Rajasthan (2011) 11 SCC 724 (Doubts cast on recovery if procedure flawed or place accessible)",
+            "Jackaran Singh v. State of Punjab (1995) Supp 3 SCC 488 (Strict compliance with seizure procedures necessary)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court erred in reversing the well-reasoned acquittal by the Trial Court; it should not substitute its own view when the trial court's view was plausible.",
+      "edge_cases": [
+        "Principles governing appeals against acquittal (presumption of innocence reinforced).",
+        "Appellate court's limitations in re-appreciating evidence, especially witness demeanor assessed by trial court."
+      ],
+      "precedents": [
+        "Chandrappa v. State of Karnataka (2007) 4 SCC 415 (Summary of principles for appeal against acquittal)",
+        "Muralidhar alias Gidda v. State of Karnataka (2014) 5 SCC 730 (Reversal only if trial court view is perverse or impossible)",
+        "Sanwat Singh v. State of Rajasthan AIR 1961 SC 715 (High Court should be slow to disturb acquittal findings)"
+      ]
+    },
+    {
+      "argument": "The testimonies of key prosecution witnesses (PW-1, PW-2, PW-3) are unreliable due to close relationship with the deceased, material contradictions, and inherent improbabilities.",
+      "edge_cases": [
+        "Effect of delay in recording witness statements under Section 161 CrPC.",
+        "Absence of independent witnesses despite the incident occurring near a village pathway."
+      ],
+      "precedents": [
+        "State of Rajasthan v. Kalki (1981) 2 SCC 752 (Contradictions affecting core of prosecution case are fatal)",
+        "Dattu Ramrao Sakhare v. State of Maharashtra (1997) 5 SCC 341 (Need for careful scrutiny of related/interested witnesses)",
+        "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371 (Effect of delay in examination of witnesses)"
+      ]
+    },
+    {
+      "argument": "The recovery evidence related to the chopper (MO.1) is weak and unreliable due to procedural infirmities and lack of conclusive forensic linkage.",
+      "edge_cases": [
+        "Admissibility vs. Reliability of Section 27 recovery.",
+        "Credibility of stock panch witnesses.",
+        "Significance of inconclusive serological report."
+      ],
+      "precedents": [
+        "Mohd. Aman v. State of Rajasthan (1997) 10 SCC 44 (Strict proof required for Section 27 recovery)",
+        "State of Haryana v. Ram Singh (2002) 2 SCC 426 (Inconclusive forensic report weakens recovery evidence)",
+        "Amar Singh v. State Of M.P (2007) 13 SCC 209 (Challenge to credibility of panch witnesses)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Acquittal. The Supreme Court allowed the appeal, set aside the High Court's judgment of conviction, and restored the Trial Court's judgment of acquittal.",
+    "reasoning": [
+      "The Supreme Court reaffirmed the principles governing appeals against acquittal, stating that the High Court should not interfere unless the trial court's findings are perverse, unreasonable, or ignore material evidence.",
+      "The Court found that the trial court had considered all evidence and provided valid reasons for acquittal, including the improbability of PW-1 hearing specific names from 200 yards, the interested nature of witnesses, and lack of independent corroboration.",
+      "The testimonies of PW-2 and PW-3 only established that they saw the accused running away, which is not sufficient to prove their participation in the murder itself.",
+      "The recovery of the chopper (MO.1) was deemed unreliable. The serologist report was inconclusive, failing to connect the blood on the weapon specifically to the deceased. The recovery was from an open place.",
+      "Motive alone, even if established, cannot form the basis of conviction, especially when the primary evidence (ocular testimony and recovery) is weak.",
+      "The High Court erred in reversing the acquittal merely because a different view was possible on the evidence. The trial court's view was considered a plausible one.",
+      "The presumption of innocence is strengthened by an acquittal, and strong reasons are needed for reversal."
+    ],
+    "cited_cases": [
+      "Balak Ram v. State of U.P. (1975) 3 SCC 219",
+      "Awadhesh v. State of M.P. (1988) 2 SCC 557",
+      "State of U.P. v. Ram Swarup 1974 SCC (Cri) 674",
+      "Padam Singh v. State of U.P. AIR 1961 SC 218 (Incorrect citation in judgment text, likely referring to principles, actual Padam Singh cases differ)",
+      "Dhananjoy Chatterjee alias Dhana v. State of W.B. (1994) 2 SCC 220",
+      "Ashok Kumar v. State of Rajasthan (1990) Supp SCC 131",
+      "Ram Kumar v. State of Haryana (1995) Supp (1) SCC 248"
+    ]
+  }
+}

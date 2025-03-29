@@ -1,0 +1,190 @@
+{
+  "case_id": "State of Uttar Pradesh v. Naresh (2011) 4 SCC 786",
+  "facts": [
+    "Date of Incident: 24.07.1980, around 4:00 PM.",
+    "Location: Near the field of Chhidda Singh, Village Khedi, P.S. Khurja, District Bulandshahr, Uttar Pradesh.",
+    "Victim: Raghunath Singh.",
+    "Accused: Naresh, Giraj, Balbir, Khacheru (sons of Chhidda Singh).",
+    "Informant/Eyewitness (PW1): Mahendra Singh (brother of the deceased).",
+    "Eyewitness (PW2): Babu Singh (nephew of the deceased).",
+    "Allegation: The four accused assaulted Raghunath Singh with lathis and kantas (sharp-edged weapons). Naresh allegedly used a kanta, while the others used lathis.",
+    "Motive: Alleged previous enmity related to land.",
+    "FIR: Lodged by PW1 Mahendra Singh on 24.07.1980 at 5:10 PM at P.S. Khurja (approx. 7 km from the place of occurrence).",
+    "Medical Evidence (Post-mortem by Dr. S. Kumar - PW4): Multiple injuries found, including incised wounds (consistent with kanta) and contusions/lacerated wounds (consistent with lathis). Cause of death opined as shock and hemorrhage due to ante-mortem injuries.",
+    "Recoveries: Blood-stained earth and plain earth were collected from the spot.",
+    "Trial Court: Convicted all four accused under Section 302 read with Section 34 IPC and sentenced them to life imprisonment (Judgment dated 31.05.1982).",
+    "High Court: Acquitted all accused, primarily disbelieving the eyewitness testimony of PW1 and PW2, citing discrepancies and their relationship with the deceased (Judgment dated 04.02.2004).",
+    "Appeal: State of Uttar Pradesh appealed the High Court's acquittal to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 34 (Acts done by several persons in furtherance of common intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in disbelieving the eyewitness accounts of PW1 (Mahendra Singh) and PW2 (Babu Singh), who were natural witnesses and gave consistent testimonies regarding the assault by all four accused.",
+      "precedents": [
+        "Vadivelu Thevar v. State of Madras (AIR 1957 SC 614): Testimony of a single eyewitness, if found wholly reliable, is sufficient for conviction.",
+        "Masalti v. State of U.P. (AIR 1965 SC 202): Evidence of interested witnesses is not necessarily unreliable; requires careful scrutiny.",
+        "State of U.P. v. Jalal (1997) 1 SCC 173: Relationship is not a factor affecting credibility of a witness if testimony is otherwise reliable."
+      ],
+      "elements": [
+        "Presence of PW1 and PW2 at the scene.",
+        "Credibility and consistency of their deposition.",
+        "Identification of the accused.",
+        "Description of the assault and weapons used."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "PW1 and PW2 are closely related to the deceased (brother and nephew), making them interested witnesses prone to exaggeration or falsehood due to enmity.",
+          "supporting_precedents": [
+            "Dalip Singh v. State of Punjab (AIR 1953 SC 364): Testimony of related/interested witnesses needs careful scrutiny and corroboration.",
+            "Hari Obula Reddy v. State of Andhra Pradesh (1981) 3 SCC 675: Partisan witnesses require independent corroboration.",
+            "M. Narsinga Rao v. State of A.P. (2001) 1 SCC 691: Court must be cautious in relying solely on interested witnesses."
+          ]
+        },
+        {
+          "loophole": "Minor discrepancies in witness statements regarding specific acts or sequence, which the High Court found significant.",
+          "supporting_precedents": [
+            "State of Rajasthan v. Kalki (1981) 2 SCC 752: Normal discrepancies due to memory lapse over time should not discard testimony.",
+            "Leela Ram v. State of Haryana (1999) 9 SCC 525: Only material contradictions affecting core of the case are relevant, not minor ones.",
+            "Krishna Mochi v. State of Bihar (2002) 6 SCC 81: Discrepancies are natural; parrot-like versions suggest tutoring."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Medical evidence (post-mortem report by PW4) fully corroborates the ocular testimony regarding the nature of injuries (incised wounds from kanta, blunt force injuries from lathis) and cause of death.",
+      "precedents": [
+        "Solanki Chimanbhai Ukabhai v. State of Gujarat (AIR 1983 SC 484): Medical evidence is important corroborative evidence.",
+        "State of U.P. v. Krishna Gopal (AIR 1988 SC 2154): Ocular evidence generally prevails over medical evidence if consistent and credible, but consistency strengthens the case.",
+        "Malleshi v. State of Karnataka (2004) 8 SCC 95: Medical evidence confirming injuries described by eyewitnesses adds weight to prosecution case."
+      ],
+      "elements": [
+        "Consistency between injuries described by PW1/PW2 and found in post-mortem.",
+        "Medical opinion on cause of death matching the alleged assault.",
+        "Type of injuries corresponding to weapons allegedly used (kanta, lathis)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Medical evidence cannot pinpoint which specific injury was caused by which accused, especially in a group attack.",
+          "supporting_precedents": [
+            "Mohar Singh v. State of Punjab (AIR 1981 SC 1578): Difficulty in determining individual fatal blows in group attacks.",
+            "State of U.P. v. Ram Swarup (AIR 1974 SC 1570): Common intention makes specific attribution less critical if participation is proved.",
+            "Maqsoodan v. State of U.P. (1983) 1 SCC 218: Need to establish common intention clearly when specific roles are blurred."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Common intention (Section 34 IPC) is clearly established by the fact that all four accused, armed with weapons, arrived together, attacked the deceased simultaneously, and fled together, indicating a pre-concerted plan or meeting of minds.",
+      "precedents": [
+        "Mahbub Shah v. Emperor (AIR 1945 PC 118): Defined common intention as pre-arranged plan.",
+        "Pandurang v. State of Hyderabad (AIR 1955 SC 216): Common intention can develop on the spot; requires participation.",
+        "Suresh v. State of U.P. (2001) 3 SCC 673: Common intention implies a pre-arranged plan or prior meeting of minds, inferable from conduct and circumstances."
+      ],
+      "elements": [
+        "Participation of all accused in the assault.",
+        "Presence of accused at the scene, armed.",
+        "Simultaneous attack.",
+        "Shared motive (prior enmity).",
+        "Conduct before, during, and after the incident (arriving and fleeing together)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Mere presence or causing simple injuries might not automatically attract Section 34 for murder, especially if one accused inflicted the fatal blow(s) without a shared intent to kill.",
+          "supporting_precedents": [
+            "Ramashish Yadav v. State of Bihar (1999) 8 SCC 555: Distinction between common intention and similar intention; mere presence insufficient.",
+            "Anda v. State of Rajasthan (AIR 1966 SC 148): Individual liability possible if common intention to murder is not proved beyond doubt.",
+            "Musa Khan v. State of Maharashtra (AIR 1976 SC 2566): Need clear evidence of shared intention for the specific criminal act (murder)."
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The FIR was lodged promptly (within 1 hour 10 mins), naming all accused and detailing the incident, which lends credibility to the prosecution case and minimizes the chance of fabrication.",
+      "precedents": [
+        "Thulia Kali v. State of Tamil Nadu (1972) 3 SCC 393: Prompt FIR is a strong corroborative factor.",
+        "State of Punjab v. Gurmit Singh (1996) 2 SCC 384: Prompt FIR corroborates the informant's version given at the earliest opportunity.",
+        "Ram Jag v. State of U.P. (AIR 1974 SC 606): Reasonable time taken to reach police station doesn't constitute fatal delay."
+      ],
+      "elements": [
+        "Time of incident vs. Time of FIR lodging.",
+        "Distance to police station.",
+        "Content of FIR (naming accused, detailing incident)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "While FIR is prompt, PW1's statement under S.161 CrPC was recorded later (next day), potentially allowing time for deliberation (as noted by High Court regarding PW1's specific claim about fatal blow by Naresh).",
+          "supporting_precedents": [
+            "Ganesh Bhavan Patel v. State of Maharashtra (1978) 4 SCC 371: Delay in recording witness statements can be detrimental if unexplained.",
+            "Balakrushna Swain v. State of Orissa (1971) 3 SCC 192: Undue delay in examining key witnesses casts doubt.",
+            "Marudanal Augusti v. State of Kerala (1980) 4 SCC 425: Delay needs satisfactory explanation."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court correctly acquitted the accused as PW1 and PW2 were interested witnesses (close relatives) and their testimonies contained material contradictions and improvements, making them unreliable.",
+      "edge_cases": [
+        "Distinguishing minor discrepancies from material contradictions affecting the core narrative.",
+        "Impact of relationship when testimonies lack independent corroboration."
+      ],
+      "precedents": [
+        "Dalip Singh v. State of Punjab (AIR 1953 SC 364): Caution required for interested witnesses.",
+        "State of Punjab v. Jagir Singh (AIR 1973 SC 2407): Acquittal justifiable if evidence of interested witnesses is unreliable or lacks corroboration.",
+        "Bihari Nath v. State of M.P. (1997) SCC (Cri) 882: Improvements and contradictions in testimony of related witnesses can be fatal to prosecution."
+      ]
+    },
+    {
+      "argument": "The prosecution failed to prove common intention (Section 34) beyond reasonable doubt. The High Court rightly found that the evidence did not establish a shared intention among all accused to commit murder.",
+      "edge_cases": [
+        "Assessing individual acts vs. collective action.",
+        "Whether common intention was only to assault, not necessarily to kill."
+      ],
+      "precedents": [
+        "Ramashish Yadav v. State of Bihar (1999) 8 SCC 555: Need to prove shared intention for the specific offence.",
+        "Dajya Kaku v. State of Gujarat (1994 Supp (3) SCC 618): If common intention is doubtful, conviction under S.302/34 cannot be sustained.",
+        "Musa Khan v. State of Maharashtra (AIR 1976 SC 2566): Individual roles matter if common intention is not clearly established."
+      ]
+    },
+    {
+      "argument": "There were discrepancies highlighted by the High Court, such as PW1's late statement under S.161 CrPC attributing the fatal blow specifically to Naresh (not mentioned in FIR), suggesting embellishment.",
+      "edge_cases": [
+        "Whether omission in FIR amounts to contradiction.",
+        "Effect of delayed recording of witness statements under S.161 CrPC."
+      ],
+      "precedents": [
+        "Hasib v. State of Bihar (1972) 4 SCC 773: Omissions in FIR may be significant if they relate to vital aspects.",
+        "State of Karnataka v. Mapilla P.P. Soopi (2003) 11 SCC 504: Delay in examination of witnesses, if unexplained, reduces evidentiary value.",
+        "Appabhai v. State of Gujarat (AIR 1988 SC 696): Minor omissions in FIR not fatal, but significant omissions on crucial facts raise doubts."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The Supreme Court set aside the High Court's judgment of acquittal and restored the Trial Court's judgment convicting all four accused (Naresh, Giraj, Balbir, Khacheru) under Section 302 read with Section 34 IPC.",
+    "reasoning": [
+      "The Supreme Court found the High Court's reasons for discarding eyewitness testimony (PW1, PW2) to be flimsy and based on hyper-technicalities.",
+      "Eyewitnesses PW1 and PW2 were deemed natural witnesses being related to the deceased and present near the fields. Their relationship was not a valid ground for disbelieving them, following Masalti.",
+      "Minor discrepancies in testimony were considered normal and did not affect the core narrative of the assault by the four accused.",
+      "Medical evidence (PW4's testimony and post-mortem report) strongly corroborated the ocular evidence regarding the nature and number of injuries and the weapons used.",
+      "The FIR was lodged promptly, naming all accused and giving essential details, strengthening the prosecution case.",
+      "Common intention (Section 34) was clearly inferable from the circumstances: all four accused arrived armed, participated in the assault simultaneously, and had a shared motive (enmity). The acts indicated a pre-concerted plan or shared intention formed during the assault.",
+      "The High Court's approach in overturning the Trial Court's conviction was flawed; the acquittal was based on misinterpretation and misappreciation of evidence.",
+      "The Supreme Court emphasized that appellate courts should not interfere with trial court convictions merely because another view is possible, unless the trial court's findings are perverse or based on no evidence."
+    ],
+    "cited_cases": [
+      "Vadivelu Thevar v. State of Madras (AIR 1957 SC 614)",
+      "Masalti v. State of U.P. (AIR 1965 SC 202)",
+      "Dalip Singh v. State of Punjab (AIR 1953 SC 364)",
+      "State of Punjab v. Jagir Singh (AIR 1973 SC 2407)",
+      "Leela Ram v. State of Haryana (1999) 9 SCC 525",
+      "Ramashish Yadav v. State of Bihar (1999) 8 SCC 555",
+      "Suresh v. State of U.P. (2001) 3 SCC 673",
+      "State of U.P. v. Krishna Gopal (AIR 1988 SC 2154)",
+      "Thulia Kali v. State of Tamil Nadu (1972) 3 SCC 393"
+    ]
+  }
+}

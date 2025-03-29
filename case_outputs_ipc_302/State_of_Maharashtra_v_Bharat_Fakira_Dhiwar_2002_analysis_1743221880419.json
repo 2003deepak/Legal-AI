@@ -1,0 +1,163 @@
+{
+  "case_id": "State of Maharashtra v. Bharat Fakira Dhiwar (2002) 1 SCC 622",
+  "facts": [
+    "The incident occurred on 27th May 1993 around 4:00 PM.",
+    "Accused Bharat Fakira Dhiwar and his wife Anjanabai were residing in front of the house of PW-4 (Tarabai) in village Khapri, District Nagpur.",
+    "A quarrel took place between the accused and his wife Anjanabai.",
+    "Following the quarrel, the accused went inside his house.",
+    "The accused came out of the house armed with an axe.",
+    "The accused inflicted a single blow with the axe on the neck of Anjanabai.",
+    "Anjanabai collapsed and died instantaneously on the spot.",
+    "PW-4 (Tarabai) and PW-5 (Sau. Bebibai), neighbours, witnessed the incident.",
+    "After the incident, the accused went to the Police Station, Kuhi, and surrendered himself along with the axe.",
+    "FIR was registered based on the report lodged by the accused.",
+    "Post-mortem examination confirmed the cause of death as shock due to injury to the neck (incised wound).",
+    "The Trial Court (Additional Sessions Judge, Nagpur) convicted the accused under Section 302 IPC and sentenced him to life imprisonment.",
+    "The accused appealed to the High Court of Bombay (Nagpur Bench).",
+    "The High Court altered the conviction from Section 302 IPC to Section 304 Part I IPC, maintaining the life imprisonment sentence.",
+    "The State of Maharashtra filed an appeal before the Supreme Court against the High Court's decision altering the conviction."
+  ],
+  "ipc_sections": [
+    "Section 300 (Murder definition, including Exceptions)",
+    "Section 302 (Punishment for Murder)",
+    "Section 299 (Culpable Homicide definition)",
+    "Section 304 Part I (Punishment for Culpable Homicide not amounting to Murder - act done with intention of causing death, or causing bodily injury likely to cause death)",
+    "Section 304 Part II (Punishment for Culpable Homicide not amounting to Murder - act done with knowledge it is likely to cause death, but without intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in altering the conviction from Section 302 to Section 304 Part I IPC; the act squarely falls under Section 300 (Thirdly).",
+      "precedents": [
+        "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+        "State of A.P. v. Rayavarapu Punnayya (1976) 4 SCC 382",
+        "Jagrup Singh v. State of Haryana ((1981) 3 SCC 616)"
+      ],
+      "elements": [
+        "Intention to cause bodily injury (inflicting axe blow).",
+        "The inflicted injury was objectively sufficient in the ordinary course of nature to cause death (axe blow to the neck).",
+        "The specific injury intended was inflicted.",
+        "Absence of applicability of any exceptions under Section 300 IPC."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Defense might argue Exception 1 (Grave and Sudden Provocation) due to the preceding quarrel.",
+          "supporting_precedents": [
+            "K.M. Nanavati v. State of Maharashtra (AIR 1962 SC 605)",
+            "Muthu v. State of Tamil Nadu ((2007) 11 SCC 367)"
+          ]
+        },
+        {
+          "loophole": "Defense might argue Exception 4 (Sudden Fight) due to the preceding quarrel.",
+          "supporting_precedents": [
+            "Sukhbir Singh v. State of Haryana ((2002) 3 SCC 327)",
+            "Ghapoo Yadav v. State of M.P. ((2003) 3 SCC 528)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The nature of the weapon (axe), the seat of the injury (neck - a vital part), and the force of the single blow resulting in instantaneous death clearly indicate intention qualifying for murder under Sec 300 (Thirdly).",
+      "precedents": [
+        "Anda v. State of Rajasthan (AIR 1966 SC 148)",
+        "Mahesh Balmiki v. State of M.P. ((2000) 1 SCC 319)",
+        "Bavisetti Kameswara Rao v. State of A.P. ((2008) 15 SCC 725)"
+      ],
+      "elements": [
+        "Use of a deadly weapon.",
+        "Attack on a vital body part.",
+        "Inference of intention from the nature of the act and injury."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Single blow cases sometimes considered for lesser offense if intention isn't conclusively proven beyond doubt or if mitigating factors exist.",
+          "supporting_precedents": [
+            "Jagrup Singh v. State of Haryana ((1981) 3 SCC 616) (Distinguished based on facts)",
+            "Kunhayippu v. State of Kerala ((2000) 10 SCC 307)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Exceptions 1 and 4 of Section 300 IPC are not applicable as the accused went inside the house, fetched the axe, and then attacked, indicating a cooling-off period and premeditation, negating 'suddenness' and showing 'undue advantage'.",
+      "precedents": [
+        "K.M. Nanavati v. State of Maharashtra (AIR 1962 SC 605) (On loss of self-control and cooling time)",
+        "Surain Singh v. State of Punjab ((1976) 2 SCC 849) (On elements of Exception 4)",
+        "Sukhbir Singh v. State of Haryana ((2002) 3 SCC 327) (On undue advantage/cruelty in Exception 4)"
+      ],
+      "elements": [
+        "Lack of suddenness for provocation/fight.",
+        "Accused took undue advantage by using a deadly weapon against an unarmed person.",
+        "Act was cruel.",
+        "Time gap between quarrel and act."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The time taken to fetch the axe might be argued as very short, occurring in the heat of the moment without actual cooling down.",
+          "supporting_precedents": [
+            "Budhi Singh v. State of H.P. ((2012) 13 SCC 663) (Discusses continuity of provocation)",
+            "Ghapoo Yadav v. State of M.P. ((2003) 3 SCC 528) (Focus on absence of premeditation in Exception 4)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court correctly applied Exception 1 (Grave and Sudden Provocation) or Exception 4 (Sudden Fight) to Section 300 IPC, justifying the alteration to Section 304 Part I.",
+      "edge_cases": [
+        "Interpretation of 'sudden' quarrel/provocation.",
+        "Whether fetching the weapon inherently constitutes 'undue advantage' or breaks the chain of 'suddenness'."
+      ],
+      "precedents": [
+        "K.M. Nanavati v. State of Maharashtra (AIR 1962 SC 605) (Laying down tests for Provocation)",
+        "Ghapoo Yadav v. State of M.P. ((2003) 3 SCC 528) (Explaining essentials of Exception 4)",
+        "Sukhbir Singh v. State of Haryana ((2002) 3 SCC 327) (Discussing heat of passion and undue advantage)"
+      ]
+    },
+    {
+      "argument": "The act was committed without premeditation, in the heat of passion arising from a sudden quarrel between husband and wife. The single blow, though fatal, does not necessarily prove intention to cause death (Sec 300 Clause 1) or the specific fatal injury (Sec 300 Clause 3).",
+      "edge_cases": [
+        "Distinguishing intention (Sec 300) from knowledge (Sec 299/304 Part II) based on surrounding circumstances.",
+        "Impact of the relationship (husband-wife quarrel) on assessing intent/provocation."
+      ],
+      "precedents": [
+        "State of A.P. v. Rayavarapu Punnayya (1976) 4 SCC 382 (Distinction between Murder and Culpable Homicide)",
+        "Rampal Singh v. State of U.P. ((2012) 8 SCC 289) (On single blow and intention)",
+        "Serajul Khan v. State of Orissa (AIR 1971 SC 537) (Consideration of quarrel context)"
+      ]
+    },
+    {
+      "argument": "The High Court's finding that the case falls under Section 304 Part I is a plausible view based on the evidence, and the Supreme Court should be slow to interfere with it, especially when altering conviction rather than acquittal.",
+      "edge_cases": [
+        "Appellate court's power to re-appreciate evidence.",
+        "Standard for reversing High Court's finding on the nature of offense."
+      ],
+      "precedents": [
+        "Arun Kumar v. State of U.P. (AIR 1989 SC 1445) (General principles of appeal against conviction)",
+        "Randhir Singh v. State of Punjab ((2004) 13 SCC 129) (Caution in appellate interference with factual findings)",
+        "State of U.P. v. Banne @ Baijnath ((2009) 4 SCC 271) (Powers under Article 136)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The Supreme Court set aside the High Court's judgment altering the conviction to Section 304 Part I IPC and restored the Trial Court's judgment convicting the accused under Section 302 IPC.",
+    "reasoning": [
+      "The facts clearly established the requirements of Clause Thirdly of Section 300 IPC: accused intended to cause the bodily injury (axe blow to neck), and that injury was sufficient in the ordinary course of nature to cause death.",
+      "Exception 1 (Grave and Sudden Provocation) was not applicable. The act of going inside, fetching an axe, and returning to strike negates the element of 'suddenness' and indicates the accused had time to cool down.",
+      "Exception 4 (Sudden Fight) was not applicable. The accused, by using a deadly weapon (axe) against his unarmed wife after fetching it, took undue advantage and acted in a cruel manner.",
+      "The High Court erred in holding that Exception 4 applied merely because there was a quarrel and the blow was single. The manner of attack, weapon used, and location of injury were crucial factors ignored by the High Court.",
+      "The intention to cause the specific bodily injury inflicted was evident from the accused's actions. Since that injury was sufficient to cause death, the offense constituted Murder under Section 300, punishable under Section 302 IPC."
+    ],
+    "cited_cases": [
+      "Virsa Singh v. State of Punjab (AIR 1958 SC 465)",
+      "State of A.P. v. Rayavarapu Punnayya ((1976) 4 SCC 382)",
+      "Jagrup Singh v. State of Haryana ((1981) 3 SCC 616)",
+      "Anda v. State of Rajasthan (AIR 1966 SC 148)",
+      "Ghapoo Yadav v. State of M.P. ((2003) 3 SCC 528)",
+      "Sukhbir Singh v. State of Haryana ((2002) 3 SCC 327)",
+      "State Of Karnataka v. Vedanayagam ((1995) 1 SCC 326)",
+      "Pappu v. State of Madhya Pradesh ((2000) 9 SCC 460) [Likely reference, context dependent]",
+      "Rajwant Singh v. State of Kerala (AIR 1966 SC 1874)"
+    ]
+  }
+}

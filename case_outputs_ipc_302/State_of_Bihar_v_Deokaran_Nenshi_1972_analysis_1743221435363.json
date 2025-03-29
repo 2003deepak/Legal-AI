@@ -1,0 +1,90 @@
+{
+  "case_id": "State of Bihar v. Deokaran Nenshi (1972)",
+  "facts": [
+    "The respondents, Deokaran Nenshi and another, were the owner and manager respectively of a stone quarry in Jamunia, Bihar.",
+    "They were required under Regulation 11 of the Indian Metalliferous Mines Regulations, 1926 (read with the Mines Act, 1952) to furnish annual returns for the year ending December 31, 1959.",
+    "The statutory deadline for furnishing these returns was January 21, 1960.",
+    "The respondents failed to furnish the annual returns by the due date.",
+    "A complaint was filed against the respondents by the Inspector of Mines on May 12, 1960, before the Magistrate, First Class, Dhanbad.",
+    "The Trial Magistrate convicted the respondents on March 31, 1961, under Regulation 11 read with Section 66 of the Mines Act, 1952, imposing a fine of Rs. 200/- each.",
+    "The respondents' appeal to the Sessions Court was dismissed.",
+    "The respondents filed a revision petition before the High Court of Patna.",
+    "The High Court allowed the revision, set aside the conviction and sentence, and acquitted the respondents.",
+    "The High Court's decision was based on the interpretation of Section 79 of the Mines Act, 1952, holding that the offence was completed on January 21, 1960, and the complaint filed on May 12, 1960, was barred by the six-month limitation period.",
+    "The State of Bihar appealed the High Court's acquittal order to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "None directly applied for conviction. The case primarily involved provisions of the Mines Act, 1952 and the Indian Metalliferous Mines Regulations, 1926. The core legal principle analyzed was the concept of a 'continuing offence', which is relevant across criminal law, including certain IPC offences (e.g., wrongful confinement), but no specific IPC section was invoked against the accused in this matter."
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The failure to furnish annual returns by the specified date constitutes a continuing offence, which persisted each day the default continued after January 21, 1960. Therefore, the complaint filed on May 12, 1960, was within the limitation period prescribed by Section 79 of the Mines Act, 1952.",
+      "precedents": [
+        "Best v. Butler and Fitzgibbon [1932] 2 K.B. 108 (Cited in judgment; failure of trade union to send annual returns held continuing).",
+        "Emperor v. Karsandas Govindji Ved, AIR 1942 Bom 326 (Discussed continuing offences under Factories Act).",
+        "Public Prosecutor v. K. J. Joseph, AIR 1964 Ker 96 (Related to continuing offences under specific Acts)."
+      ],
+      "elements": [
+        "Existence of a duty to perform an act (furnish returns).",
+        "Failure to perform the act by the specified deadline (Jan 21, 1960).",
+        "Demonstration that the nature of the duty and the statutory language imply the offence continues as long as the default persists.",
+        "Applicability of the 'continuing offence' clause within Section 79 of the Mines Act, 1952."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The Regulation specifies a single date for compliance. The offence crystallizes and is completed on the day the deadline is missed. Subsequent failure is a consequence, not a continuation of the actus reus.",
+          "supporting_precedents": [
+            "Hole v. Chard Union [1894] 1 Ch. 293 (Distinguishing continuing cause of action; cited in judgment).",
+            "London County Council v. Worley [1894] 2 Q.B. 826 (Offence related to building line held not continuing; cited in judgment).",
+            "Commissioner of Wealth Tax, Amritsar v. Suresh Seth, AIR 1981 SC 1106 (Though related to tax, discusses distinction between offence completed once and for all vs. continuing offence)."
+          ]
+        },
+        {
+          "loophole": "Section 79 distinguishes between the date of offence and the date of knowledge. For a continuing offence, it refers to 'every day during which the offence continues'. The regulation lacks wording (like a daily penalty) to support such continuation.",
+          "supporting_precedents": [
+            "State of West Bengal v. G. P. Trading Co., AIR 1964 Cal 384 (Interpretation of limitation clauses in specific statutes).",
+            "Udai Shankar Awasthi v. State of U.P., (2013) 2 SCC 435 (General principles defining continuing offence, emphasizes statutory language)."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The offence of failing to furnish the annual return under Regulation 11 was completed on January 21, 1960, the day the deadline expired. It is not a continuing offence. The complaint, filed on May 12, 1960, was beyond the six-month limitation period mandated by Section 79 of the Mines Act, 1952, and was therefore time-barred.",
+      "edge_cases": [
+        "Interpretation of Section 79, Mines Act, 1952: The limitation period starts from the 'date of the offence' unless it's a continuing offence.",
+        "Distinction between a continuing offence and an offence with continuing consequences (the non-availability of the return is a consequence, not the offence itself continuing).",
+        "Absence of specific statutory language in Regulation 11 or Section 66 indicating a daily penalty or explicitly defining the failure as a continuing offence."
+      ],
+      "precedents": [
+        "State v. Bhiwandi Walla, AIR 1955 Bom 161 (Bombay HC view on continuing offences under Factories Act, contrasting with Karsandas).",
+        "Verney v. Mark Fletcher & Sons Ltd. [1909] 1 K.B. 444 (Failure to fence machinery under Factories Act held not continuing; cited in judgment).",
+        "Balkrishna Savalram Pujari Waghmare v. Shree Dnyaneshwar Maharaj Sansthan, AIR 1959 SC 798 (Although civil, discusses the concept of continuing wrong)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Dismissed. The Supreme Court upheld the High Court's order of acquittal.",
+    "reasoning": [
+      "The Supreme Court analyzed the concept of a 'continuing offence'. A continuing offence is one which is susceptible of continuance and is distinguishable from an offence which is committed once and for all.",
+      "The Court held that the requirement under Regulation 11 was to furnish the annual returns by January 21, 1960.",
+      "The contravention occurred and was complete on January 21, 1960, when the owner failed to furnish the returns by that date.",
+      "The Regulation does not stipulate that the owner/manager would be guilty of an offence for every day thereafter that the default continued.",
+      "The Court explicitly distinguished this from statutes where a daily fine is imposed for continued non-compliance (like in *Best v. Butler*), which would indicate a legislative intent to create a continuing offence.",
+      "Since the offence was complete on January 21, 1960, the limitation period under Section 79 of the Mines Act began to run from that date.",
+      "The complaint filed on May 12, 1960, was beyond the six-month limitation period.",
+      "Therefore, the prosecution was time-barred, and the High Court correctly acquitted the respondents."
+    ],
+    "cited_cases": [
+      "Best v. Butler and Fitzgibbon [1932] 2 K.B. 108",
+      "Hole v. Chard Union [1894] 1 Ch. 293",
+      "Verney v. Mark Fletcher & Sons Ltd. [1909] 1 K.B. 444",
+      "London County Council v. Worley [1894] 2 Q.B. 826",
+      "Emperor v. Karsandas Govindji Ved, AIR 1942 Bom 326",
+      "State v. Bhiwandi Walla, AIR 1955 Bom 161",
+      "Public Prosecutor v. K. J. Joseph, AIR 1964 Ker 96 (Mentioned as representing a contrary view taken by Kerala HC, which SC implicitly disagreed with in this context)",
+      "R. v. Wimbledon Justices [1953] 1 Q.B. 380 (Briefly referenced regarding continuing offences)"
+    ]
+  }
+}

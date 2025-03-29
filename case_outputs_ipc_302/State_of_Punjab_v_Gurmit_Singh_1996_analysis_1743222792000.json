@@ -1,0 +1,199 @@
+{
+  "case_id": "State of Punjab v. Gurmit Singh (1996) 2 SCC 384",
+  "facts": [
+    "On June 5, 1990, around 7:00 PM, the prosecutrix (PW), a minor girl aged about 15/16 years, was returning home after easing herself near the fields in Village Kot Sukhia.",
+    "She was allegedly intercepted by the five accused respondents: Gurmit Singh, Gurdeep Singh, Lakha Singh, Jagsir Singh, and Gura Singh.",
+    "The accused allegedly gagged her, forcibly took her to a room belonging to Gurmit Singh located near the village pond.",
+    "Inside the room, the prosecutrix alleged that the accused respondents, one by one, committed rape upon her.",
+    "After the incident, the accused allegedly threatened her with dire consequences if she disclosed the event to anyone.",
+    "The prosecutrix returned home in a distressed state.",
+    "Upon inquiry by her mother (PW4), the prosecutrix narrated the incident.",
+    "Her father (PW5) was informed upon his return home.",
+    "The father (PW5) took the prosecutrix to Police Station Nihal Singh Wala, where the First Information Report (FIR - Ex. PA) was lodged at 11:15 AM on June 6, 1990.",
+    "The prosecutrix was medically examined by Dr. Manjit Kaur (PW1) on June 6, 1990, at 1:30 PM.",
+    "Medical report (Ex. PB) noted no external marks of injury on the body or private parts. Hymen was torn (old). Vaginal smear test (Report Ex. PC) showed whitish discharge but no spermatozoa.",
+    "The Trial Court (Sessions Judge, Faridkot) convicted all five accused under Section 376(2)(g) of the IPC and sentenced them to 10 years of rigorous imprisonment and a fine.",
+    "The accused appealed to the High Court of Punjab and Haryana.",
+    "The High Court acquitted all the accused, primarily citing: (a) Lack of corroboration of the prosecutrix's testimony, (b) Absence of injuries on the prosecutrix, (c) Alleged delay in lodging the FIR, (d) Minor contradictions in the evidence.",
+    "The State of Punjab filed an appeal against the High Court's acquittal judgment before the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 376(2)(g) - Gang Rape",
+    "Section 34 - Common Intention (Implicit in gang rape)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in acquitting the accused; the prosecutrix's testimony is credible, cogent, and sufficient for conviction, especially in a rape case.",
+      "precedents": [
+        "State of Maharashtra v. Chandraprakash Kewalchand Jain (1990) 1 SCC 550",
+        "Bharwada Bhoginbhai Hirjibhai v. State of Gujarat (1983) 3 SCC 217",
+        "State of Himachal Pradesh v. Raghubir Singh (1993) 2 SCC 622"
+      ],
+      "elements": [
+        "Credibility and reliability of the prosecutrix's statement",
+        "Sufficiency of sole testimony of prosecutrix for conviction in rape cases",
+        "Consistency in the core narrative of the incident"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Minor discrepancies or contradictions in the testimony.",
+          "supporting_precedents": [
+            "Leela Ram v. State of Haryana (1999) 9 SCC 525 (Minor variations are natural)",
+            "State of U.P. v. Krishna Master (2010) 12 SCC 324 (Discrepancies not affecting core substratum are immaterial)"
+          ]
+        },
+        {
+          "loophole": "Absence of independent eyewitnesses to the act of rape.",
+          "supporting_precedents": [
+            "State of Punjab v. Gurmit Singh (1996) 2 SCC 384 (The present case itself establishes this principle)",
+            "Alamgir v. State (NCT, Delhi) (2003) 1 SCC 21 (Rape is usually committed in secrecy)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court wrongly insisted on corroboration as a mandatory requirement; corroboration is a rule of prudence, not law, and should not be mechanically applied.",
+      "precedents": [
+        "State of Punjab v. Gurmit Singh (1996) 2 SCC 384 (Landmark ruling on this point)",
+        "Karnel Singh v. State of M.P. (1995) 5 SCC 518",
+        "State of Rajasthan v. N.K. (2000) 5 SCC 30"
+      ],
+      "elements": [
+        "Evidentiary value of prosecutrix testimony vis-a-vis corroboration",
+        "Judicial approach required in rape trials",
+        "Distinction between rule of law and rule of prudence regarding corroboration"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Circumstances where prudence might strongly suggest seeking corroboration (e.g., history of enmity, inherent improbability - though not strongly applicable here).",
+          "supporting_precedents": [
+            "Rameshwar v. State of Rajasthan (1952) SCR 377 (Older view, emphasizing prudence, but largely superseded by Gurmit Singh line)",
+            "Raju v. State of Madhya Pradesh (2008) 15 SCC 133 (Acknowledges prudence but reiterates sole testimony can suffice)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The absence of injuries on the prosecutrix does not negate the occurrence of rape; resistance is not always possible or expected, especially under threat or by multiple assailants.",
+      "precedents": [
+        "State of U.P. v. Babul Nath (1994) 6 SCC 29",
+        "State of Maharashtra v. Madhukar Narayan Mardikar (1991) 1 SCC 57",
+        "Aman Kumar v. State of Haryana (2004) 4 SCC 379"
+      ],
+      "elements": [
+        "Understanding consent and resistance in sexual assault",
+        "Psychological impact on the victim",
+        "Interpretation of medical evidence in context (lack of injury ≠ consent)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Medical evidence showing *positive* signs contradicting force (though not present here).",
+          "supporting_precedents": [
+            "Kaini Rajan v. State of Kerala (2013) 9 SCC 113 (Case where medical evidence actively contradicted the allegation)",
+            "Madan Gopal Kakkad v. Naval Dubey (1992) 3 SCC 204 (General principle on appreciating medical evidence)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The FIR was lodged promptly considering the circumstances (trauma, informing parents, travel to police station), and any perceived 'delay' was reasonably explained.",
+      "precedents": [
+        "HarpaI Singh v. State of H.P. (1981) 1 SCC 560 (Factors justifying delay in rape FIR)",
+        "Thulia Kali v. State of Tamil Nadu (1972) 3 SCC 393 (Prompt FIR lends credence)",
+        "State of Himachal Pradesh v. Shree Kant Shekari (2004) 8 SCC 153 (Delay explained by trauma and social factors)"
+      ],
+      "elements": [
+        "Timeliness of reporting",
+        "Contextual factors affecting reporting time (victim's age, trauma, social stigma)",
+        "Credibility assessment based on reporting time"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Significant, unexplained delay (which was not the case here as per SC analysis).",
+          "supporting_precedents": [
+            "State of Andhra Pradesh v. M. Madhusudhan Rao (2008) 15 SCC 582 (Unexplained delay can be fatal)",
+            "Satpal Singh v. State of Haryana (2010) 8 SCC 714 (Delay raises suspicion if unexplained)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecutrix's testimony lacks credibility due to inherent contradictions and material improvements.",
+      "edge_cases": [
+        "Standard of proof 'beyond reasonable doubt' not met.",
+        "Benefit of doubt must go to the accused."
+      ],
+      "precedents": [
+        "Krishna Kumar Malik v. State of Haryana (2011) 7 SCC 130 (Significant contradictions can discredit witness)",
+        "Suraj Mal v. State (Delhi Administration) (1979) 4 SCC 725 (Grave suspicion cannot replace proof)",
+        "Sharad Birdhichand Sarda v. State of Maharashtra (1984) 4 SCC 116 (Principles of circumstantial evidence and doubt)"
+      ]
+    },
+    {
+      "argument": "The prosecution case is fatally weakened by the lack of corroborative evidence, particularly independent witnesses and conclusive medical findings.",
+      "edge_cases": [
+        "Rule of prudence requires corroboration in this specific factual matrix (disputed by prosecution based on Gurmit Singh itself).",
+        "Medical evidence does not conclusively prove rape."
+      ],
+      "precedents": [
+        "Rameshwar v. State of Rajasthan (1952) SCR 377 (Older view emphasizing prudence for corroboration, though impact diluted post-Gurmit Singh)",
+        "Kaini Rajan v. State of Kerala (2013) 9 SCC 113 (Importance of medical evidence where available, though lack of injury isn't conclusive)",
+        "Vadivelu Thevar v. State of Madras (1957) SCR 981 (Discusses categories of witnesses and need for corroboration for some)"
+      ]
+    },
+    {
+      "argument": "The absence of any injuries on the prosecutrix, especially given the allegation of gang rape by five individuals, makes the prosecution story improbable.",
+      "edge_cases": [
+        "Physical impossibility or high improbability of the alleged act occurring without leaving marks.",
+        "Expectation of signs of struggle in non-consensual gang rape."
+      ],
+      "precedents": [
+        "State of Karnataka v. Raju (1993) 3 SCC 604 (While not mandatory, absence of injury is a factor to consider in overall assessment - pre-Gurmit Singh emphasis)",
+        "Mohd. Ali v. State of U.P. (2015) 7 SCC 200 (General principles of appreciation of evidence, though affirms lack of injury not fatal)",
+        "Insufficient data for strong precedents *mandating* acquittal solely on lack of injury post-Gurmit Singh, as jurisprudence shifted."
+      ]
+    },
+    {
+      "argument": "The delay in lodging the FIR raises doubts about the veracity of the complaint and suggests potential deliberation or embellishment.",
+      "edge_cases": [
+        "Time gap between incident (evening) and FIR (next morning) is significant enough to warrant suspicion.",
+        "Lack of immediate outcry or reporting to first available persons."
+      ],
+      "precedents": [
+        "State of Andhra Pradesh v. M. Madhusudhan Rao (2008) 15 SCC 582 (Unexplained delay viewed seriously)",
+        "Satpal Singh v. State of Haryana (2010) 8 SCC 714 (Delay needs plausible explanation)",
+        "Apren Joseph v. State of Kerala (1973) 3 SCC 114 (Delay is a relevant factor in assessing credibility)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. Acquittal by High Court set aside. Conviction and sentence by Trial Court restored.",
+    "reasoning": [
+      "The Supreme Court heavily criticized the High Court's approach as 'insensitive' and reflecting a 'male chauvinist' perspective, failing to appreciate the trauma of a rape victim.",
+      "Reiterated the principle that the testimony of a prosecutrix in a rape case stands on par with that of an injured witness and does not require corroboration as a rule of law.",
+      "Held that seeking corroboration mechanically, especially independent eyewitnesses (rarely available), defeats justice.",
+      "Stated that minor contradictions or discrepancies do not necessarily discredit the prosecutrix's testimony, as they can be signs of a truthful witness recounting a traumatic event.",
+      "Emphasized that the absence of physical injuries does not imply consent or disprove rape, as a victim might submit out of fear, shock, or threat, especially when overpowered by multiple assailants.",
+      "Found the FIR lodged promptly considering the circumstances (minor girl, trauma, need to inform parents, travel). The High Court's finding of delay was erroneous.",
+      "The prosecutrix's testimony was found to be credible, consistent, and inspiring confidence, sufficient on its own to sustain the conviction.",
+      "The High Court's reasoning for acquittal was deemed perverse and based on outdated notions regarding rape trials."
+    ],
+    "cited_cases": [
+      "State of Maharashtra v. Chandraprakash Kewalchand Jain (1990) 1 SCC 550",
+      "Bharwada Bhoginbhai Hirjibhai v. State of Gujarat (1983) 3 SCC 217",
+      "State of U.P. v. Babul Nath (1994) 6 SCC 29",
+      "State of Maharashtra v. Madhukar Narayan Mardikar (1991) 1 SCC 57",
+      "Karnel Singh v. State of M.P. (1995) 5 SCC 518",
+      "State of Himachal Pradesh v. Raghubir Singh (1993) 2 SCC 622",
+      "Pratap Misra v. State of Orissa (1977) 3 SCC 41",
+      "HarpaI Singh v. State of H.P. (1981) 1 SCC 560",
+      "State of Maharashtra v. Prakash (1992) 4 SCC 40",
+      "Rafiq v. State of U.P. (1980) 4 SCC 262",
+      "State of U.P. v. Pappu Sharma (Insufficient citation data in common databases for precise SCC ref)",
+      "Rameshwar v. State of Rajasthan (1952) SCR 377 (Discussed and distinguished/limited)",
+      "Tuka Ram v. State of Maharashtra (1979) 2 SCC 143 (Mathura Case - Discussed contextually)"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "case_id": "State of Rajasthan v. Narayan (1992)",
+  "facts": [
+    "Incident occurred during the night between 13th and 14th June 1981.",
+    "Location: Village Titarwas, District Udaipur, Rajasthan, at the matrimonial home of the deceased.",
+    "Deceased: Smt. Pushpa Bai.",
+    "Accused: Narayan (husband), Bhonri Bai (mother-in-law), Chhotu (father-in-law).",
+    "Smt. Pushpa Bai sustained burn injuries at her in-laws' house.",
+    "She was admitted to the General Hospital, Udaipur.",
+    "A dying declaration (Ex. P-14) was recorded by Shri R.C. Mehta, Judicial Magistrate (PW 11), on 14th June 1981 at 9:30 AM.",
+    "Dr. P.C. Lodha (PW 7) certified Pushpa Bai's fit state of mind before the declaration was recorded.",
+    "In the dying declaration, Pushpa Bai stated that her mother-in-law (Bhonri Bai) poured kerosene on her, her husband (Narayan) lit the matchstick, and her father-in-law (Chhotu) caught hold of her.",
+    "Pushpa Bai succumbed to her burn injuries (reported as 100% burns) on the same day, 14th June 1981.",
+    "PW 1 (father of the deceased) and PW 2 (brother of the deceased) testified regarding prior demands for dowry (scooter, cash) and harassment faced by Pushpa Bai.",
+    "The defense plea was that Pushpa Bai caught fire accidentally while cooking.",
+    "The Sessions Judge, Udaipur, convicted Narayan (husband) under Section 302 IPC and sentenced him to life imprisonment. Bhonri Bai and Chhotu were acquitted.",
+    "Narayan appealed to the High Court of Rajasthan.",
+    "The High Court acquitted Narayan, disbelieving the dying declaration.",
+    "The State of Rajasthan filed an appeal to the Supreme Court against the High Court's order of acquittal concerning Narayan."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)",
+    "Section 300 (Murder definition - applied contextually)",
+    "Section 34 (Acts done by several persons in furtherance of common intention - relevant contextually due to dying declaration implicating three people, though only husband's appeal was before SC)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The High Court erred in discarding the dying declaration (Ex. P-14), which was reliable, voluntary, and recorded in accordance with law.",
+      "precedents": [
+        "Paniben v. State of Gujarat, AIR 1992 SC 1817",
+        "Kusa v. State of Orissa, AIR 1980 SC 559",
+        "State of U.P. v. Ram Sagar Yadav, AIR 1985 SC 416"
+      ],
+      "elements": [
+        "Victim was in a fit state of mind (certified by PW 7, Dr. Lodha).",
+        "Declaration recorded by a competent Judicial Magistrate (PW 11).",
+        "Declaration was coherent and clearly implicated the accused Narayan.",
+        "No evidence of tutoring or coercion.",
+        "Minor inconsistencies pointed out by the High Court were trivial and did not affect the core statement."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Potential doubt about the victim's stable mental condition despite certification, given 100% burns.",
+          "supporting_precedents": [
+            "Kake Singh v. State of M.P., AIR 1982 SC 1021 (Caution needed if doubts about mental fitness exist)",
+            "Paparmbakam Rosamma v. State of A.P., (1999) 7 SCC 695 (Inconsistencies can render declaration unreliable)",
+            "Nanhau Ram v. State of M.P., AIR 1988 SC 912 (Circumstances affecting voluntariness)"
+          ]
+        },
+        {
+          "loophole": "Possibility of exaggeration due to strained relationship, influenced by family members present nearby (though not during recording).",
+          "supporting_precedents": [
+            "Surajdeo Ojha v. State of Bihar, AIR 1979 SC 1505 (Need for corroboration if declaration is suspicious)",
+            "Mafabhai Nagarbhai Raval v. State of Gujarat, (1992) 4 SCC 69 (Court must be satisfied about truthfulness)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The testimonies of PW 1 (father) and PW 2 (brother) regarding prior dowry demands and harassment establish a clear motive for the crime, corroborating the dying declaration.",
+      "precedents": [
+        "State of Punjab v. Iqbal Singh, AIR 1991 SC 1532 (Motive of dowry demand relevant)",
+        "Virbhan Singh v. State of U.P., AIR 1983 SC 1002 (Importance of motive in criminal cases)",
+        "Mulakh Raj v. Satish Kumar, AIR 1992 SC 1175 (Evidence of cruelty/dowry demand adds weight)"
+      ],
+      "elements": [
+        "Consistent testimony regarding demands (scooter, cash).",
+        "Testimony regarding harassment faced by the deceased.",
+        "Motive provides context and supports the homicidal narrative over the accident theory."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Witnesses (PW 1, PW 2) are close relatives and thus 'interested witnesses'; their testimony lacks independent corroboration.",
+          "supporting_precedents": [
+            "M. Narsinga Rao v. State of A.P., (2001) 1 SCC 691 (Need for careful scrutiny of interested witnesses)",
+            "State of Punjab v. Gurmit Singh, (1996) 2 SCC 384 (Caution advised for relative testimony in matrimonial disputes)",
+            "Dalip Singh v. State of Punjab, AIR 1953 SC 364 (Relationship is not grounds for rejection, but scrutiny needed)"
+          ]
+        },
+        {
+          "loophole": "General allegations of demand may not establish proximate motive for murder without specific recent incidents.",
+          "supporting_precedents": [
+            "Sharad Birdhichand Sarda v. State of Maharashtra, AIR 1984 SC 1622 (Motive alone is insufficient; must be proven)",
+            "Surinder Kumar v. State of Haryana, (1991) Supp (2) SCC 604 (Vague allegations may lack probative value)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court's decision to acquit was based on flimsy grounds and conjectures, constituting a perverse finding warranting interference by the Supreme Court.",
+      "precedents": [
+        "Chandrappa v. State of Karnataka, (2007) 4 SCC 415 (Principles for appeal against acquittal)",
+        "State of U.P. v. Krishna Gopal, AIR 1988 SC 2154 (Interference justified if HC view is unreasonable)",
+        "Arun Kumar v. State of U.P., AIR 1989 SC 1445 (Appellate court's role in appreciating evidence like dying declarations)"
+      ],
+      "elements": [
+        "High Court ignored the Magistrate's testimony (PW 11) and Doctor's certification (PW 7).",
+        "Reasons cited by High Court for doubting the declaration were speculative (e.g., possibility of victim naming husband out of frustration).",
+        "High Court failed to give due weight to the corroborative evidence of motive."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Appellate courts should generally be reluctant to interfere with an order of acquittal as the presumption of innocence is strengthened.",
+          "supporting_precedents": [
+            "Ramesh Babulal Doshi v. State of Gujarat, (1996) 9 SCC 225 (High threshold for reversing acquittal)",
+            "Basappa v. State of Karnataka, (2014) 5 SCC 154 (Acquittal not to be reversed merely because another view is possible)",
+            "State of Rajasthan v. Raja Ram, (2003) 8 SCC 180 (Interference only if acquittal is clearly unreasonable or perverse)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The dying declaration (Ex. P-14) is unreliable and unsafe to be the sole basis for conviction, as held by the High Court.",
+      "edge_cases": [
+        "Questioning the assessment of 'fit state of mind' for a person with 100% burns.",
+        "Potential for the victim to falsely implicate due to marital discord, even if conscious.",
+        "Lack of independent witnesses to the incident itself."
+      ],
+      "precedents": [
+        "Kake Singh v. State of M.P., AIR 1982 SC 1021 (Doubts on mental fitness)",
+        "Paparmbakam Rosamma v. State of A.P., (1999) 7 SCC 695 (Effect of inconsistencies)",
+        "Munnu Raja v. State of M.P., AIR 1976 SC 2199 (Declaration must inspire full confidence)"
+      ]
+    },
+    {
+      "argument": "The testimony regarding dowry demands by interested witnesses (PW 1, PW 2) is insufficient to establish motive beyond reasonable doubt, especially without independent corroboration.",
+      "edge_cases": [
+        "Time lag between alleged demands and the incident.",
+        "Absence of police complaints or other formal records of prior harassment.",
+        "Possibility of routine marital friction being exaggerated post-incident."
+      ],
+      "precedents": [
+        "M. Narsinga Rao v. State of A.P., (2001) 1 SCC 691 (Scrutiny of interested witnesses)",
+        "Sharad Birdhichand Sarda v. State of Maharashtra, AIR 1984 SC 1622 (Motive must be firmly established)",
+        "State of Haryana v. Ram Singh, AIR 2002 SC 624 (Need for credible evidence on dowry demands)"
+      ]
+    },
+    {
+      "argument": "The High Court correctly applied the principles of criminal jurisprudence, giving the benefit of doubt to the accused where the evidence, particularly the dying declaration, was found unreliable.",
+      "edge_cases": [
+        "Presumption of innocence.",
+        "Burden of proof on prosecution.",
+        "Appellate court's duty to confirm guilt beyond reasonable doubt before reversing acquittal."
+      ],
+      "precedents": [
+        "Kali Ram v. State of H.P., AIR 1973 SC 2773 (Burden of proof never shifts from prosecution)",
+        "State of U.P. v. Ram Veer Singh, (2007) 13 SCC 102 (Presumption of innocence strengthened by acquittal)",
+        "Ajit Singh Thakur Singh v. State of Gujarat, AIR 1981 SC 733 (Benefit of doubt must go to accused)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal allowed. The acquittal order passed by the High Court was set aside, and the conviction of the respondent Narayan under Section 302 IPC and sentence of life imprisonment imposed by the Trial Court was restored.",
+    "reasoning": [
+      "The Supreme Court found the dying declaration (Ex. P-14) to be trustworthy and reliable.",
+      "The declaration was recorded by a competent Magistrate (PW 11) after proper certification of the victim's fit mental state by the doctor (PW 7).",
+      "The High Court's reasons for discarding the dying declaration were found to be hyper-technical, flimsy, and based on speculation and conjectures, not supported by evidence.",
+      "Minor omissions or discrepancies were deemed insufficient to detract from the core reliability and truthfulness of the declaration.",
+      "The Court reaffirmed the principle that a truthful and reliable dying declaration can form the sole basis for conviction.",
+      "The testimony of PW 1 and PW 2 regarding prior dowry demands provided corroborative evidence regarding motive, lending further support to the prosecution case.",
+      "The High Court's approach in reappreciating the evidence was flawed, leading to a perverse finding of acquittal."
+    ],
+    "cited_cases": [
+      "Paniben v. State of Gujarat, AIR 1992 SC 1817",
+      "State of U.P. v. Ram Sagar Yadav, AIR 1985 SC 416",
+      "State of Assam v. Mafizuddin Ahmed, AIR 1983 SC 274",
+      "Kusa v. State of Orissa, AIR 1980 SC 559 (Implicitly referred via principles in Paniben)",
+      "Munnu Raja v. State of M.P., AIR 1976 SC 2199 (Distinguished or principles applied differently)",
+      "Ram Nath Madhoprasad v. State of Madhya Pradesh, AIR 1953 SC 420 (General principles on dying declarations)"
+    ]
+  }
+}

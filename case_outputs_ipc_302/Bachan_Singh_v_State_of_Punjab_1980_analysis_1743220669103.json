@@ -1,0 +1,110 @@
+{
+  "case_id": "Bachan Singh v. State of Punjab (1980)",
+  "facts": [
+    "Bachan Singh was tried and convicted for the murder of Desa Singh, Durga Bai, and Veeran Bai.",
+    "The Sessions Judge, Ferozepore, sentenced Bachan Singh to death under Section 302, Indian Penal Code (IPC) on August 1, 1977.",
+    "The High Court of Punjab and Haryana confirmed the death sentence and dismissed Bachan Singh's appeal on April 27, 1979.",
+    "Bachan Singh filed an appeal by special leave to the Supreme Court of India.",
+    "The core issue raised before the Supreme Court's Constitution Bench was the constitutional validity of the death penalty provision in Section 302, IPC.",
+    "The challenge argued that the death penalty violated the fundamental rights guaranteed under Articles 14 (Equality before law), 19 (Protection of certain rights regarding freedom of speech, etc. - specifically Art 19(1)), and 21 (Protection of life and personal liberty) of the Constitution of India.",
+    "The validity of Section 354(3) of the Code of Criminal Procedure, 1973 (CrPC), which requires 'special reasons' for imposing the death sentence, was also considered in relation to the constitutional challenge."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The provision for the death penalty under Section 302 IPC is constitutionally valid and does not infringe upon Articles 14, 19, or 21 of the Constitution.",
+      "precedents": [
+        "Jagmohan Singh v. State of U.P. (1973) 1 SCC 20",
+        "Gregg v. Georgia, 428 U.S. 153 (1976) (Cited for international perspective on guided discretion)",
+        "Various pre-independence and post-independence legislative debates and Law Commission Reports acknowledging the retention of the death penalty."
+      ],
+      "elements": [
+        "Article 21 permits deprivation of life 'according to procedure established by law'.",
+        "The procedure established by the IPC (Section 302) and CrPC (Section 354(3)) is fair, just, and reasonable, satisfying the test laid down in Maneka Gandhi v. Union of India.",
+        "Section 354(3) CrPC provides guided discretion, making life imprisonment the rule and death sentence the exception, requiring 'special reasons', thus mitigating arbitrariness under Article 14.",
+        "The death penalty does not inherently violate Article 19 as it is imposed after a judicial verdict establishing guilt for a grave crime, representing a reasonable restriction in the interest of public order/general public.",
+        "Death penalty serves penological goals like deterrence (though debated) and retribution for heinous crimes."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The argument that death penalty serves as a unique deterrent lacks conclusive empirical proof.",
+          "supporting_precedents": [
+            "Rajendra Prasad v. State of U.P. (1979) 3 SCC 646 (Raised doubts about deterrence)",
+            "Furman v. Georgia, 408 U.S. 238 (1972) (Highlighted issues of arbitrariness and lack of proven deterrence in the US context at the time)"
+          ]
+        },
+        {
+          "loophole": "Despite Section 354(3) CrPC, judicial discretion can still lead to inconsistent application and potential arbitrariness.",
+          "supporting_precedents": [
+            "Ediga Anamma v. State of Andhra Pradesh (1974) 4 SCC 443 (Highlighted the need for considering mitigating factors related to the criminal, not just the crime)",
+            "Dissenting opinion in Bachan Singh itself (Justice Bhagwati argued against the possibility of eliminating arbitrariness)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The death penalty prescribed under Section 302 IPC is unconstitutional as it violates Articles 14, 19, and 21.",
+      "edge_cases": [
+        "Irrevocability of the death sentence in case of judicial error.",
+        "Lack of clear legislative guidelines defining 'special reasons' under Section 354(3) CrPC, leading to arbitrary and discriminatory application.",
+        "Death penalty constitutes cruel, inhuman, and degrading punishment, violating the spirit of Article 21."
+      ],
+      "precedents": [
+        "Maneka Gandhi v. Union of India (1978) 1 SCC 248 (Established that 'procedure established by law' under Art 21 must be fair, just, and reasonable)",
+        "Rajendra Prasad v. State of U.P. (1979) 3 SCC 646 (Attempted to restrict death penalty to cases involving 'social security' or 'white collar crimes', interpretation later modified)",
+        "Furman v. Georgia, 408 U.S. 238 (1972) (Argued that unguided discretion in capital sentencing was unconstitutional)"
+      ]
+    },
+    {
+      "argument": "Article 19(1) freedoms are totally extinguished by the death penalty, which is not a permissible restriction under Article 19(2) to 19(6).",
+      "edge_cases": [
+        "Whether the complete annihilation of fundamental freedoms can be considered a 'restriction'."
+      ],
+      "precedents": [
+        "Insufficient data specifically on Art 19 being the primary basis for striking down death penalty in prior Indian cases, but used as a supporting argument for the violation of fundamental rights.",
+        "Maneka Gandhi v. Union of India (1978) 1 SCC 248 (Emphasized the interconnectedness of fundamental rights)"
+      ]
+    },
+    {
+      "argument": "The death penalty lacks any valid penological justification (deterrence, reform, retribution) and is essentially arbitrary state-sanctioned killing.",
+      "edge_cases": [
+        "Moral and ethical arguments against capital punishment.",
+        "Evolving standards of decency internationally."
+      ],
+      "precedents": [
+        "International Covenants on Civil and Political Rights (ICCPR) - Article 6 (Acknowledges death penalty but restricts its scope and encourages abolition)",
+        "Numerous studies questioning the deterrent effect of capital punishment (Specific studies cited in judgment but not individual case precedents)."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Constitutional validity of death penalty upheld (Majority 4:1); Appeal dismissed (regarding the sentence challenge based on constitutionality).",
+    "reasoning": [
+      "The provision of the death penalty as an alternative punishment for murder under Section 302 IPC is not unreasonable and does not violate Articles 14, 19, or 21 of the Constitution.",
+      "Article 21 permits deprivation of life under a procedure established by law, provided the procedure is fair, just, and reasonable (following Maneka Gandhi).",
+      "The procedure outlined in the CrPC, particularly Section 354(3), which mandates recording 'special reasons' for imposing death, provides necessary safeguards against arbitrary imposition.",
+      "Section 354(3) makes life imprisonment the norm and the death sentence an exception for the offence of murder.",
+      "Established the 'rarest of rare cases' doctrine: The death penalty should only be imposed when the alternative of life imprisonment is 'unquestionably foreclosed'.",
+      "Sentencing discretion must be exercised judicially, balancing aggravating and mitigating circumstances, considering both the crime and the criminal.",
+      "Aggravating circumstances (e.g., brutality, motive, victim's vulnerability) and Mitigating circumstances (e.g., age, mental state, duress, possibility of reform) must be weighed.",
+      "Rejected the argument that death penalty serves no penological purpose, acknowledging potential roles in deterrence and retribution, while emphasizing it should be used sparingly.",
+      "The majority opinion overruled the narrow interpretation given in Rajendra Prasad v. State of U.P. regarding the scope of 'special reasons'.",
+      "Justice P.N. Bhagwati dissented, holding Section 302 (insofar as it provides for death penalty) to be violative of Articles 14 and 21, deeming it arbitrary, cruel, and devoid of demonstrated deterrent value."
+    ],
+    "cited_cases": [
+      "Jagmohan Singh v. State of U.P. (1973) 1 SCC 20",
+      "Maneka Gandhi v. Union of India (1978) 1 SCC 248",
+      "Rajendra Prasad v. State of U.P. (1979) 3 SCC 646",
+      "Ediga Anamma v. State of Andhra Pradesh (1974) 4 SCC 443",
+      "Furman v. Georgia, 408 U.S. 238 (1972)",
+      "Gregg v. Georgia, 428 U.S. 153 (1976)",
+      "Proffitt v. Florida, 428 U.S. 242 (1976)",
+      "Jurek v. Texas, 428 U.S. 262 (1976)",
+      "Sunil Batra v. Delhi Administration (1978) 4 SCC 494"
+    ]
+  }
+}

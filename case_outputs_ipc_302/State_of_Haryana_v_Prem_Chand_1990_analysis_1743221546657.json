@@ -1,0 +1,156 @@
+{
+  "case_id": "State of Haryana v. Prem Chand (1990)",
+  "facts": [
+    "Kamlesh (deceased) married Prem Chand (respondent no. 1) on 12.12.1984.",
+    "Respondents no. 2 and 3 were the father-in-law and mother-in-law of the deceased.",
+    "Kamlesh died by consuming poison (organophosphorus compound) at her matrimonial home on 07.01.1988, within 7 years of marriage.",
+    "Before her death, Kamlesh wrote several letters to her father detailing demands for dowry (scooter, fridge, television) and consequent harassment and cruelty by her husband and in-laws.",
+    "The letters indicated persistent demands and ill-treatment when demands were not met.",
+    "FIR was registered based on the complaint by the deceased's father.",
+    "Post-mortem confirmed death due to poisoning.",
+    "Trial Court convicted all three respondents under Sections 304B and 498A IPC, sentencing them to 7 years and 2 years rigorous imprisonment respectively, sentences to run concurrently.",
+    "High Court acquitted all respondents, primarily reasoning that the alleged cruelty was not 'soon before' the death and that the demands were related to property, not dowry.",
+    "The State of Haryana appealed the acquittal to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The death of Kamlesh was a 'dowry death' under Section 304B IPC, as all ingredients were fulfilled.",
+      "precedents": [
+        "Shanti v. State of Haryana, AIR 1991 SC 1226 (Clarified scope of 304B and 498A)",
+        "Kans Raj v. State of Punjab, AIR 2000 SC 2324 (Explained 'soon before death' requirement)",
+        "Kaliaperumal v. State of Tamil Nadu, (2004) 9 SCC 157 (On nexus between dowry demand, cruelty, and death)"
+      ],
+      "elements": [
+        "Death occurred otherwise than under normal circumstances (suicide by poison).",
+        "Death occurred within seven years of marriage.",
+        "Deceased was subjected to cruelty or harassment by her husband or relatives.",
+        "Such cruelty or harassment was for, or in connection with, any demand for dowry.",
+        "Such cruelty or harassment was meted out 'soon before her death'."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The High Court found the cruelty was not 'soon before death' as required, suggesting demands were not proximate to the suicide.",
+          "supporting_precedents": [
+            "Shamnsaheb M. Multtani v. State of Karnataka, (2001) 2 SCC 577 (Presumption under S.113B Evidence Act requires proof of cruelty soon before death)",
+            "Surinder Singh v. State of Haryana, (2014) 4 SCC 129 (Emphasized the need for a proximate and live link between cruelty and death)"
+          ]
+        },
+        {
+          "loophole": "High Court differentiated between demands for property and 'dowry' demands.",
+          "supporting_precedents": [
+            "Appasaheb v. State of Maharashtra, (2007) 9 SCC 721 (Distinguished dowry from other property demands not connected to marriage consideration)",
+            "Vipin Jaiswal v. State of A.P., (2013) 3 SCC 684 (Mere demand for property simpliciter may not always be dowry demand)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The accused subjected Kamlesh to 'cruelty' as defined under Section 498A IPC.",
+      "precedents": [
+        "Girdhar Shankar Tawade v. State of Maharashtra, (2002) 5 SCC 177 (Defined contours of 'cruelty' under 498A)",
+        "Manju Ram Kalita v. State of Assam, (2009) 13 SCC 330 (Explained physical and mental cruelty)",
+        "State of W.B. v. Orilal Jaiswal, AIR 1994 SC 1418 (Cruelty leading to suicide)"
+      ],
+      "elements": [
+        "Wilful conduct likely to drive the woman to commit suicide or cause grave injury or danger to life, limb or health (mental or physical).",
+        "Harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security (dowry)."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The defense might argue the letters depict general unhappiness or ordinary marital friction, not meeting the legal threshold of 'cruelty'.",
+          "supporting_precedents": [
+            "Neelu Chopra v. Bharti, (2009) 10 SCC 184 (Ordinary wear and tear of marital life does not amount to cruelty)",
+            "Sushil Kumar Sharma v. Union of India, (2005) 6 SCC 281 (Acknowledged potential misuse of S.498A, need for careful scrutiny)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The High Court erred in law by acquitting the respondents, misinterpreting 'soon before death' and ignoring credible evidence (letters).",
+      "precedents": [
+        "Chandrappa v. State of Karnataka, (2007) 4 SCC 415 (Principles for appeal against acquittal - reversal possible if trial court view perverse or HC conclusion erroneous)",
+        "State of U.P. v. Ramesh Prasad Misra, AIR 1996 SC 2766 (Appellate court can re-appreciate evidence in appeals against acquittal)",
+        "Sheo Swarup v. King Emperor, AIR 1934 PC 227 (Powers of appellate court in appeal against acquittal)"
+      ],
+      "elements": [
+        "Erroneous interpretation of 'soon before death' by High Court.",
+        "Improper discarding of evidence (deceased's letters).",
+        "Failure to draw presumption under Section 113B of Indian Evidence Act.",
+        "High Court's view was unreasonable based on evidence on record."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Appeals against acquittal have a higher threshold; presumption of innocence is strengthened.",
+          "supporting_precedents": [
+            "Ramesh Babulal Doshi v. State of Gujarat, (1996) 9 SCC 225 (Acquittal should not be reversed merely because another view is possible)",
+            "Basappa v. State of Karnataka, (2014) 5 SCC 154 (Interference with acquittal only in compelling circumstances or if judgment is perverse)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The High Court's acquittal was justified as the prosecution failed to establish a proximate link between the alleged harassment and the death ('soon before death' element not proven).",
+      "edge_cases": [
+        "Interpretation of 'soon before death' - requires demonstrating a live and proximate link, not just historical demands.",
+        "Sufficiency of evidence - Letters might reflect past incidents, not necessarily immediate trigger."
+      ],
+      "precedents": [
+        "Baldev Singh v. State of Punjab, (2009) 16 SCC 381 (Emphasis on proximity for 'soon before death')",
+        "Kamesh Panjiyar @ Kamlesh Panjiyar v. State of Bihar, (2005) 2 SCC 388 (Need for cogent evidence connecting cruelty and death proximately)",
+        "Rajinder Singh v. State of Punjab, (2015) 6 SCC 477 (Reiterated need for proximate link for 113B presumption and 304B conviction)"
+      ]
+    },
+    {
+      "argument": "The alleged demands, if any, were general demands for property or assistance, not 'dowry' as legally defined (i.e., consideration for marriage).",
+      "edge_cases": [
+        "Distinguishing between customary gifts, post-marital demands related to marriage consideration (dowry), and unrelated property demands.",
+        "Burden of proof lies on prosecution to establish demands were 'in connection with the marriage'."
+      ],
+      "precedents": [
+        "Appasaheb v. State of Maharashtra, (2007) 9 SCC 721 (Demand for money for domestic expenses or business not dowry)",
+        "Reema Aggarwal v. Anupam, (2004) 3 SCC 199 (Discussed the definition and scope of 'dowry')",
+        "Satvir Singh v. State of Punjab, (2001) 8 SCC 633 (Demand made long after marriage may or may not be dowry, depending on connection)"
+      ]
+    },
+    {
+      "argument": "The evidence, particularly the letters, should be interpreted cautiously and does not meet the standard of 'proof beyond reasonable doubt' for criminal conviction.",
+      "edge_cases": [
+        "Admissibility and weight of letters written by deceased.",
+        "Potential for exaggeration or misinterpretation of events in personal letters.",
+        "Lack of independent corroboration for allegations in letters."
+      ],
+      "precedents": [
+        "Sharad Birdhichand Sarda v. State of Maharashtra, AIR 1984 SC 1622 (Principles for circumstantial evidence, must point unerringly to guilt)",
+        "M. Narsinga Rao v. State of A.P., (2001) 1 SCC 691 (Need for corroboration, especially if witness testimony is from interested parties - although here letters are direct evidence)",
+        "Hanumant Govind Nargundkar v. State of M.P., AIR 1952 SC 343 (Circumstantial evidence must form a complete chain)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal Allowed. High Court judgment set aside. Trial Court conviction and sentence restored.",
+    "reasoning": [
+      "The Supreme Court found the High Court's interpretation of 'soon before death' to be too narrow and restrictive.",
+      "The expression 'soon before death' does not mean 'immediately before'. It implies a proximate and live link between the effect of cruelty based on dowry demand and the death.",
+      "The letters written by the deceased clearly established persistent demands for dowry and continuous harassment and cruelty meted out to her.",
+      "This continuous harassment created a compelling circumstance for the deceased to commit suicide, establishing the necessary nexus for Section 304B.",
+      "The demands mentioned (scooter, fridge, TV) were clearly linked to the marriage and constituted 'dowry'.",
+      "All ingredients of Section 304B were met, and the presumption under Section 113B of the Indian Evidence Act was applicable.",
+      "The evidence also established 'cruelty' under Section 498A.",
+      "The High Court committed an error in law by acquitting the accused, ignoring the substantial evidence on record.",
+      "The Trial Court's assessment of evidence and conviction was found to be correct."
+    ],
+    "cited_cases": [
+      "Reference made to legislative intent behind Sections 304B, 498A IPC and Section 113B Evidence Act.",
+      "Shanti v. State of Haryana, AIR 1991 SC 1226 (While decided slightly later, reflects the developing jurisprudence applied)",
+      "Kans Raj v. State of Punjab, AIR 2000 SC 2324 (Later case clarifying principles discussed in Prem Chand)",
+      "Principles from precedents regarding appellate review of acquittal were implicitly applied (e.g., Sheo Swarup v. King Emperor lineage).",
+      "Note: The specific text of the 1990 judgment primarily focuses on statutory interpretation and factual analysis based on the letters, rather than citing numerous external case precedents within its core reasoning section."
+    ]
+  }
+}

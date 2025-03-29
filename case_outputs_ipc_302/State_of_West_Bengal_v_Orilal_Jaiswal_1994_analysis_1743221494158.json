@@ -1,0 +1,130 @@
+{
+  "case_id": "State of West Bengal v. Orilal Jaiswal (1994) 1 SCC 73",
+  "facts": [
+    "Smt. Kuldip Kaur married Orilal Jaiswal (Respondent No. 1) on April 19, 1981.",
+    "Respondents No. 2 and 3 were the father-in-law and mother-in-law of the deceased.",
+    "Allegations arose that the deceased was subjected to continuous torture and harassment by her husband and in-laws for not meeting dowry demands (including a scooter, fridge, and TV).",
+    "The deceased communicated her suffering and the demands to her parents (PW1, PW2) and brother (PW4) through letters and conversations.",
+    "Around 1984, the deceased allegedly attempted suicide by consuming 'Tik Twenty' poison but was saved.",
+    "On June 16, 1985, Smt. Kuldip Kaur died as a result of burn injuries sustained after setting herself on fire at her matrimonial home.",
+    "A dying declaration was purportedly recorded, but its validity/contents were contested or not fully relied upon in the final judgment.",
+    "The prosecution case, based primarily on the testimony of the deceased's relatives (PW1, PW2, PW4) and letters, alleged that the persistent cruelty and harassment drove her to commit suicide.",
+    "The Trial Court convicted all three accused under Section 306 IPC. Orilal Jaiswal was sentenced to 5 years Rigorous Imprisonment (RI), and the parents-in-law were sentenced to 2 years RI each.",
+    "The High Court upheld the conviction and sentences passed by the Trial Court.",
+    "The accused appealed the High Court's decision to the Supreme Court."
+  ],
+  "ipc_sections": [
+    "Section 306 (Abetment of suicide)",
+    "Section 107 (Abetment - Definition, as prerequisite for S. 306)",
+    "Section 498A (Cruelty by husband or relatives of husband - Discussed contextually, though conviction was under S. 306)",
+    "Section 113A, Indian Evidence Act (Presumption as to abetment of suicide by a married woman - Discussed extensively)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The persistent and systematic cruelty, harassment, and dowry demands by the accused created an environment where the deceased felt compelled to end her life, constituting abetment under Section 306 IPC.",
+      "precedents": [
+        "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445 (Discusses instigation and connection between cruelty and suicide)",
+        "State (Delhi Administration) v. Laxman Kumar (1985) 4 SCC 476 (Although primarily on dying declarations, contextualizes background of cruelty leading to death)",
+        "Brij Lal v. Prem Chand (1989) Supp (2) SCC 680 (Cruelty as a factor leading to suicide, though distinguished by SC in Orilal Jaiswal)"
+      ],
+      "elements": [
+        "Accused instigated the suicide, OR",
+        "Accused engaged in a conspiracy for the suicide, OR",
+        "Accused intentionally aided the commission of suicide (by acts or illegal omissions)",
+        "Proof of cruelty/harassment as the means of instigation/aiding"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Evidence shows general harassment/cruelty (potentially fulfilling S. 498A), but lacks proof of specific instigation or positive act proximate to the suicide intended to cause suicide (required for S. 306).",
+          "supporting_precedents": [
+            "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618 (Distinguishes 498A cruelty from 306 abetment; requires higher mens rea for 306)",
+            "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Reiterates need for positive act or instigation for S. 306)",
+            "Gangula Mohan Reddy v. State of Andhra Pradesh (2010) 1 SCC 750 (Mens rea is essential; mere harassment without intent to drive to suicide is not abetment)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "Given that the suicide occurred within 7 years of marriage and evidence showed cruelty by the husband and his relatives, the presumption under Section 113A of the Indian Evidence Act should be invoked against the accused.",
+      "precedents": [
+        "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445 (Discusses application of S. 113A)",
+        "Shamnsaheb M. Multtani v. State of Karnataka (2001) 2 SCC 577 (Explains scope of S. 113A/113B presumptions)",
+        "K. Prema S. Rao v. Yadla Srinivasa Rao (2003) 1 SCC 217 (Cruelty must be established for the presumption to arise)"
+      ],
+      "elements": [
+        "Suicide by a married woman",
+        "Suicide occurred within 7 years of marriage",
+        "Proof that her husband or relatives subjected her to cruelty (as defined in S. 498A IPC)"
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Section 113A presumption is rebuttable. Even if cruelty is shown, it doesn't automatically lead to a 306 conviction unless the cruelty was intended to or was of such nature as to drive the deceased to suicide, which requires independent proof beyond the presumption.",
+          "supporting_precedents": [
+            "State of West Bengal v. Orilal Jaiswal (1994) 1 SCC 73 (The case itself emphasizes caution in applying the presumption directly to S. 306 conviction)",
+            "Hans Raj v. State of Haryana (2004) 12 SCC 257 (Presumption under S. 113A is rebuttable)",
+            "Pinakin Mahipatray Rawal v. State of Gujarat (2013) 10 SCC 48 (Cruelty established for 498A may not be sufficient for 113A presumption regarding abetment)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution evidence, primarily testimonies of interested witnesses (deceased's family), proves, at most, marital discord or general harassment potentially falling under Section 498A IPC, but fails to meet the higher standard of proof required for abetment of suicide under Section 306 IPC (i.e., direct instigation or intentional aiding).",
+      "edge_cases": [
+        "Distinguishing cruelty (S. 498A) from abetment (S. 306).",
+        "Reliability of testimonies from close relatives of the deceased without independent corroboration."
+      ],
+      "precedents": [
+        "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618 (Highlights the distinction and need for mens rea in S. 306)",
+        "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Requires active role or instigation)",
+        "Mahendra Singh v. State of M.P. (1995) Supp (3) SCC 731 ('Mens rea' requirement for S. 306; instigation must be actively suggestive)"
+      ]
+    },
+    {
+      "argument": "There is no proximate link or evidence of any specific act, word, or conduct by the accused immediately preceding the suicide that could be construed as instigation or intentional aiding. General allegations of past harassment are insufficient.",
+      "edge_cases": [
+        "Temporal proximity between alleged act of abetment and the suicide.",
+        "Absence of direct evidence linking accused's specific action to the suicidal act."
+      ],
+      "precedents": [
+        "Gangula Mohan Reddy v. State of Andhra Pradesh (2010) 1 SCC 750 (Emphasizes need for clear mens rea and direct act for S. 306)",
+        "Chitresh Kumar Chopra v. State (Govt. of NCT of Delhi) (2009) 16 SCC 605 (Detailed discussion on 'instigation' under S. 107/306)",
+        "Amalendu Pal @ Jhantu v. State of West Bengal (2010) 1 SCC 707 (Need for overt act or omission intended to push deceased to suicide)"
+      ]
+    },
+    {
+      "argument": "The deceased may have been hypersensitive, as indicated by a previous alleged suicide attempt over trivial matters (disputed). Her decision to commit suicide was her own, not a direct consequence of any act intended by the accused to cause suicide.",
+      "edge_cases": [
+        "Assessing the deceased's subjective state of mind vs. the objective conduct of the accused.",
+        "Whether hypersensitivity can be a mitigating factor or break the chain of causation for abetment."
+      ],
+      "precedents": [
+        "Netai Dutta v. State of W.B. (2005) 2 SCC 659 (General allegations of torture insufficient; quashed S. 306 proceedings)",
+        "State of Punjab v. Iqbal Singh (1991) 3 SCC 1 (While dealing with S. 304B, discusses nature of cruelty link - applicable contextually)",
+        "S.S. Chheena v. Vijay Kumar Mahajan (2010) 12 SCC 190 (Sensitivity of deceased not the criteria; focus is on accused's intention/actions)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Acquittal. The Supreme Court allowed the appeal, set aside the judgments of the High Court and Trial Court, and acquitted all the accused of the charge under Section 306 IPC.",
+    "reasoning": [
+      "The Court highlighted a crucial distinction between cruelty under Section 498A IPC and abetment of suicide under Section 306 IPC. Not all cruelty amounts to abetment.",
+      "To establish abetment under Section 306 IPC, proof of direct or indirect acts of incitement to the commission of suicide (instigation), or conspiracy, or intentional aiding is required.",
+      "Mens rea (a guilty mind or intention) is a necessary element for Section 306 IPC. The accused must have intended the consequences of their act, i.e., driving the victim to suicide.",
+      "While the evidence might indicate cruelty or harassment (potentially sufficient for S. 498A, although not charged/convicted separately here), it did not meet the higher threshold required to prove abetment beyond reasonable doubt under Section 306 IPC.",
+      "The Court cautioned against invoking the presumption under Section 113A of the Evidence Act mechanically to establish guilt under Section 306 IPC. The presumption is rebuttable, and the foundational facts (cruelty of a nature likely to drive suicide) must be firmly established.",
+      "The court found that the evidence presented did not establish that the accused instigated or intentionally aided the suicide through their actions, failing to satisfy the ingredients of Section 107 IPC as applied to Section 306 IPC.",
+      "The court emphasized the need for a higher standard of proof for conviction under Section 306 IPC compared to Section 498A IPC."
+    ],
+    "cited_cases": [
+      "Gurbachan Singh v. Satpal Singh (1990) 1 SCC 445",
+      "State (Delhi Administration) v. Laxman Kumar (1985) 4 SCC 476",
+      "Wazir Chand v. State of Haryana (1989) 1 SCC 244",
+      "Brij Lal v. Prem Chand (1989) Supp (2) SCC 680",
+      "Ramesh Kumar v. State of Chhattisgarh (2001) 9 SCC 618 (Post-dates Orilal but reflects the principle established)",
+      "Sanju @ Sanjay Singh Sengar v. State of M.P. (2002) 5 SCC 371 (Post-dates Orilal but reflects the principle established)",
+      "Gangula Mohan Reddy v. State of Andhra Pradesh (2010) 1 SCC 750 (Post-dates Orilal but reflects the principle established)"
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "case_id": "State of Haryana v. Inder Singh (2002) 8 SCC 96",
+  "facts": [
+    "Marriage between Inder Singh (Accused No. 1) and the deceased, Rajbala, took place about one and a half years prior to the incident.",
+    "On 24.11.1988, Rajbala died by hanging in her matrimonial home in Village Sisana, District Rohtak, Haryana.",
+    "Raj Singh (PW-3), father of the deceased, lodged an FIR (Ex. P-A) on 25.11.1988 at Police Station Kharkhoda.",
+    "The FIR alleged that Inder Singh (husband), Rajinder Singh (brother-in-law, Accused No. 2), and Jasbir Singh (father-in-law, Accused No. 3) had been demanding dowry (fridge, scooter, cash) since the marriage.",
+    "It was alleged that due to non-fulfillment of demands, Rajbala was harassed and maltreated.",
+    "PW-3 stated that about 10-12 days before the incident, his son Satyavir (PW-4) had visited Rajbala, who complained about the continued harassment and demands.",
+    "PW-3 and PW-4 testified regarding specific demands and instances of harassment.",
+    "Post-mortem examination (report Ex. P-C) conducted by Dr. J.S. Punia (PW-1) concluded the cause of death was asphyxia due to hanging.",
+    "The Trial Court (Additional Sessions Judge, Rohtak) convicted all three accused under Sections 304B/34 and 498A/34 IPC, sentencing them to 7 years RI for 304B and 2 years RI + fine for 498A, sentences to run concurrently.",
+    "On appeal, the High Court of Punjab and Haryana upheld the convictions.",
+    "The High Court, however, reduced the sentence of Rajinder Singh and Jasbir Singh under Section 304B IPC from 7 years to 5 years RI, while maintaining Inder Singh's sentence.",
+    "Inder Singh (husband), Rajinder Singh (brother-in-law), and Jasbir Singh (father-in-law) appealed to the Supreme Court.",
+    "The Supreme Court noted the death occurred within 7 years of marriage under circumstances raising concerns about dowry harassment."
+  ],
+  "ipc_sections": [
+    "Section 304B (Dowry Death)",
+    "Section 498A (Husband or relative of husband of a woman subjecting her to cruelty)",
+    "Section 34 (Acts done by several persons in furtherance of common intention)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "The death of Rajbala was a dowry death under Section 304B IPC, as it occurred otherwise than under normal circumstances within seven years of marriage, and she was subjected to dowry-related cruelty by the accused soon before her death.",
+      "precedents": [
+        "Shanti v. State of Haryana, (1991) 1 SCC 371 (Defining essentials of S. 304B)",
+        "Kans Raj v. State of Punjab, (2000) 5 SCC 207 (Interpretation of 'soon before death')",
+        "Gurbachan Singh v. Satpal Singh, (1990) 1 SCC 445 (Presumption under S. 113B Evidence Act)"
+      ],
+      "elements": [
+        "Death of a woman occurred otherwise than under normal circumstances (hanging).",
+        "Death occurred within seven years of marriage (approx. 1.5 years).",
+        "Soon before her death, the woman was subjected to cruelty or harassment.",
+        "Such cruelty or harassment was by her husband or any relative of her husband.",
+        "Such cruelty or harassment was in connection with any demand for dowry."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The phrase 'soon before death' requires a proximate and live link between the cruelty and the death, which might be contested if demands were old or sporadic.",
+          "supporting_precedents": [
+            "Sham Lal v. State of Haryana, (1997) 9 SCC 759 (Necessity of proximate link for 'soon before')",
+            "Kamesh Panjiyar @ Kamlesh Panjiyar v. State of Bihar, (2005) 2 SCC 388 (Mere past demands insufficient)",
+            "Tarsem Singh v. State of Punjab, (2008) 16 SCC 155 (Cruelty must be proximate cause)"
+          ]
+        },
+        {
+          "loophole": "Testimony of PW-3 (father) and PW-4 (brother) are from interested witnesses and lack independent corroboration.",
+          "supporting_precedents": [
+            "Surinder Kumar v. State of Haryana, (2011) 10 SCC 173 (Caution required for interested witnesses in dowry cases)",
+            "M. Narsinga Rao v. State of A.P., (2001) 1 SCC 691 (General principle on corroboration of interested witnesses)",
+            "State of Rajasthan v. Hanuman, (2001) 1 SCC 337 (Need for careful scrutiny of relative's testimony)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The accused subjected Rajbala to cruelty as defined under Section 498A IPC, involving harassment linked to unlawful dowry demands, causing mental and physical distress.",
+      "precedents": [
+        "Inder Raj Malik v. Sunita Malik, (1986) Cr LJ 1510 (Delhi HC) (Defining contours of S. 498A)",
+        "State of Karnataka v. Dattaraj, (2007) 13 SCC 330 (Nature of proof for S. 498A)",
+        "Girdhar Shankar Tawade v. State of Maharashtra, (2002) 5 SCC 177 (Wilful conduct likely to drive suicide falls under cruelty)"
+      ],
+      "elements": [
+        "The woman was subjected to cruelty.",
+        "Cruelty was inflicted by her husband or his relative.",
+        "Cruelty consisted of wilful conduct likely to drive her to suicide or cause grave injury/danger to life, limb or health (mental or physical).",
+        "Alternatively, cruelty consisted of harassment with a view to coercing her or her relatives to meet unlawful dowry demands."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "General allegations of harassment without specific instances or dates might not meet the threshold for 'cruelty' under S. 498A.",
+          "supporting_precedents": [
+            "Bhaskar Lal Sharma v. Monica, (2009) 10 SCC 604 (Vague allegations insufficient for S. 498A)",
+            "Manju Ram Kalita v. State of Assam, (2009) 13 SCC 330 (Petty quarrels distinguished from cruelty)",
+            "Sushil Kumar Sharma v. Union of India, (2005) 6 SCC 281 (Misuse of S. 498A noted, requiring careful scrutiny)"
+          ]
+        }
+      ]
+    },
+    {
+      "argument": "The actions of all three accused (husband, brother-in-law, father-in-law) were done in furtherance of a common intention to harass Rajbala for dowry, making them jointly liable under Section 34 IPC.",
+      "precedents": [
+        "Suresh v. State of U.P., (2001) 3 SCC 673 (Common intention implies pre-arranged plan or prior meeting of minds)",
+        "Pandurang v. State of Hyderabad, AIR 1955 SC 216 (Common intention can develop spontaneously)",
+        "Mahbub Shah v. Emperor, AIR 1945 PC 118 (Distinction between common intention and similar intention)"
+      ],
+      "elements": [
+        "Criminal act done by several persons.",
+        "Act done in furtherance of the common intention of all.",
+        "Participation in the act."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "Lack of specific evidence detailing the participation or overt acts of the brother-in-law (Rajinder) and father-in-law (Jasbir) in the cruelty *soon before death*.",
+          "supporting_precedents": [
+            "Dajabhai Chhaganbhai Thakkar v. State of Gujarat, AIR 1964 SC 1563 (Mere presence insufficient for S. 34)",
+            "Brathi v. State of Punjab, (1991) 1 SCC 519 (Need for nexus between accused and crime for S. 34)",
+            "Krishnan v. State Represented by Inspector of Police, (2003) 7 SCC 56 (Individual acts need assessment for common intention)"
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "The prosecution failed to establish a proximate and live link between the alleged dowry demands/harassment and the death of Rajbala, a necessary element for 'soon before death' under S. 304B.",
+      "edge_cases": [
+        "Time gap between the last alleged demand (via PW-4, 10-12 days before) and the death.",
+        "Whether generalized historical demands satisfy the 'soon before' criteria."
+      ],
+      "precedents": [
+        "Banshi Lal v. State of Haryana, (2011) 11 SCC 359 (Emphasis on proximity for S. 304B/113B)",
+        "Major Singh v. State of Punjab, (2015) 5 SCC 201 (Reiterating need for proximate link)",
+        "Baijnath v. State of M.P., (2017) 1 SCC 101 (Acquittal due to lack of evidence of cruelty 'soon before death')"
+      ]
+    },
+    {
+      "argument": "The testimonies of PW-3 and PW-4 (father and brother) are unreliable as they are interested witnesses, and their statements contain improvements or lack independent corroboration.",
+      "edge_cases": [
+        "Delay in lodging the FIR (lodged next day) allowing time for deliberation.",
+        "Lack of complaints to village elders or authorities prior to death."
+      ],
+      "precedents": [
+        "Kali Ram v. State of Himachal Pradesh, (1973) 2 SCC 808 (Burden of proof always on prosecution; interested witness testimony needs caution)",
+        "Ganesh Bhavan Patel v. State of Maharashtra, (1978) 4 SCC 371 (Effect of delay in FIR)",
+        "Harbeer Singh v. Sheeshpal Singh, (2016) 16 SCC 418 (Need for careful evaluation of testimony of close relatives)"
+      ]
+    },
+    {
+      "argument": "There is insufficient specific evidence to prove that Rajinder Singh (brother-in-law) and Jasbir Singh (father-in-law) actively participated in cruelty or harassment 'soon before' Rajbala's death, making their conviction under S. 304B/34 and 498A/34 unsustainable.",
+      "edge_cases": [
+        "Liability of relatives living in the same household without specific overt acts attributed to them.",
+        "Distinguishing general family friction from targeted dowry harassment by specific individuals."
+      ],
+      "precedents": [
+        "Kamesh Panjiyar @ Kamlesh Panjiyar v. State of Bihar, (2005) 2 SCC 388 (Specific evidence needed against each relative)",
+        "Preeti Gupta v. State of Jharkhand, (2010) 7 SCC 667 (Tendency to implicate all relatives requires courts to be cautious)",
+        "Mahavir Kumar v. State of Bihar, (2014) 13 SCC 588 (Acquittal of relatives due to lack of specific evidence)"
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Appeal partly allowed. Conviction and sentence of Inder Singh (husband) under Sections 304B/34 and 498A/34 IPC upheld. Conviction and sentence of Rajinder Singh (brother-in-law) and Jasbir Singh (father-in-law) set aside; they were acquitted.",
+    "reasoning": [
+      "The death occurred within 1.5 years of marriage by hanging, which is 'otherwise than under normal circumstances'.",
+      "Testimonies of PW-3 and PW-4 regarding dowry demands and harassment were found credible regarding the husband, Inder Singh.",
+      "The requirement of 'soon before death' under Section 304B was satisfied in relation to Inder Singh, based on PW-4's testimony about Rajbala's complaints 10-12 days prior to her death.",
+      "The presumption under Section 113B of the Indian Evidence Act was correctly raised against the husband, Inder Singh, who failed to rebut it.",
+      "However, the evidence against Rajinder Singh and Jasbir Singh was found general in nature. There was a lack of specific instances proving their active involvement in cruelty or harassment 'soon before' the death.",
+      "The Court emphasized that for conviction, particularly under S. 304B, there must be concrete evidence of cruelty linked to dowry demands by each accused soon before the death.",
+      "General allegations against family members without specific attribution of acts close to the time of death were deemed insufficient to uphold the conviction of the brother-in-law and father-in-law."
+    ],
+    "cited_cases": [
+      "Shanti v. State of Haryana, (1991) 1 SCC 371",
+      "Kans Raj v. State of Punjab, (2000) 5 SCC 207",
+      "Gurbachan Singh v. Satpal Singh, (1990) 1 SCC 445",
+      "Pawan Kumar v. State of Haryana, (1998) 3 SCC 309",
+      "Sham Lal v. State of Haryana, (1997) 9 SCC 759",
+      "Harjit Singh v. State of Punjab, (2002) 6 SCC 739 (Cited as Criminal Appeal No. 877 of 1995, decided on July 30, 2002)"
+    ]
+  }
+}

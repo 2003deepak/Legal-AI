@@ -1,0 +1,98 @@
+{
+  "case_id": "Bachan Singh v. State of Punjab (1980)",
+  "facts": [
+    "Bachan Singh was tried and convicted for the murders of Desa Singh, Durga Bai, and Veeran Bai.",
+    "The Sessions Judge awarded Bachan Singh the death sentence under Section 302 of the Indian Penal Code (IPC).",
+    "The sentence was confirmed by the High Court of Punjab and Haryana.",
+    "Bachan Singh appealed to the Supreme Court by special leave.",
+    "The core issue before the Supreme Court's Constitution Bench was the constitutional validity of the death penalty provided under Section 302 IPC.",
+    "The challenge was primarily based on alleged violations of Article 19 (Fundamental Freedoms) and Article 21 (Right to Life and Personal Liberty) of the Constitution of India.",
+    "Arguments also touched upon Article 14 (Equality before Law) concerning the discretionary power vested in courts.",
+    "The case required examination of the sentencing procedure under Section 354(3) of the Code of Criminal Procedure (CrPC), 1973, which mandates giving 'special reasons' for imposing the death penalty.",
+    "Previous Supreme Court rulings like Jagmohan Singh v. State of U.P. (1973) and Rajendra Prasad v. State of U.P. (1979) had differing perspectives on the death penalty, necessitating a larger bench review."
+  ],
+  "ipc_sections": [
+    "Section 302 (Punishment for Murder)"
+  ],
+  "prosecution_arguments": [
+    {
+      "argument": "Section 302 IPC, providing for the death penalty as an alternative punishment for murder, is constitutionally valid and does not violate Articles 14, 19, or 21.",
+      "precedents": [
+        "Jagmohan Singh v. State of U.P. (AIR 1973 SC 947): Upheld the constitutionality of the death penalty under the old CrPC, arguing it wasn't violative of Articles 14, 19, and 21.",
+        "Gregg v. Georgia (428 US 153 (1976)): US Supreme Court case upholding death penalty statutes that employ guided discretion and consider aggravating/mitigating circumstances (cited for comparative jurisprudence).",
+        "Munn v. Illinois (94 US 113 (1877)): Referenced for the principle that the State has the right to exercise police power, including deprivation of life, following due process."
+      ],
+      "elements": [
+        "Legislative competence to prescribe death penalty.",
+        "Death penalty as a valid exercise of State's police power.",
+        "Procedure established by law (Section 302 IPC read with CrPC provisions, especially Section 354(3)) is fair, just, and reasonable.",
+        "Discretion vested in courts under Section 354(3) CrPC is not unguided and provides adequate safeguards against arbitrariness."
+      ],
+      "counter_arguments": [
+        {
+          "loophole": "The earlier Jagmohan Singh decision predated the introduction of Section 354(3) CrPC 1973 and the expansive interpretation of Article 21 in Maneka Gandhi.",
+          "supporting_precedents": [
+            "Maneka Gandhi v. Union of India (AIR 1978 SC 597): Established that 'procedure established by law' under Article 21 must be fair, just, and reasonable, not merely any procedure.",
+            "Rajendra Prasad v. State of U.P. (AIR 1979 SC 916): Argued that death penalty could only be imposed if the security of the state and society is in peril, suggesting a narrower scope than Jagmohan."
+          ]
+        },
+        {
+          "loophole": "Potential for arbitrary and discriminatory application despite Section 354(3), violating Article 14.",
+          "supporting_precedents": [
+            "Furman v. Georgia (408 US 238 (1972)): US Supreme Court case highlighting the risks of arbitrary and capricious imposition of the death penalty (though addressing a different legal system).",
+            "Sunil Batra v. Delhi Administration (AIR 1978 SC 1675): Emphasized fundamental rights of prisoners and protection against arbitrary state action even post-conviction."
+          ]
+        }
+      ]
+    }
+  ],
+  "defense_arguments": [
+    {
+      "argument": "Section 302 IPC, insofar as it provides for the death penalty, is unconstitutional as it violates Articles 19 and 21 of the Constitution.",
+      "edge_cases": [
+        "Whether Article 19 freedoms are totally extinguished or merely restricted by the death penalty.",
+        "Whether the sentencing discretion under Section 302 IPC read with Section 354(3) CrPC meets the 'fair, just and reasonable' standard under Article 21 post-Maneka Gandhi."
+      ],
+      "precedents": [
+        "Maneka Gandhi v. Union of India (AIR 1978 SC 597): Procedure for depriving life must be reasonable, fair and just.",
+        "Rajendra Prasad v. State of U.P. (AIR 1979 SC 916): Suggested death penalty is constitutionally valid only in limited circumstances threatening state security.",
+        "Furman v. Georgia (408 US 238 (1972)): Cited to argue that discretionary death penalty statutes inherently lead to arbitrary and capricious imposition, violating equality and due process principles."
+      ]
+    },
+    {
+      "argument": "The imposition of the death penalty constitutes cruel, inhuman, and degrading punishment, violating the spirit of the Constitution and international norms.",
+      "edge_cases": [
+        "Whether 'cruel and unusual punishment' concept (prevalent in US jurisprudence) is implicitly covered under Article 21's dignity aspect in India.",
+        "The evolving standards of decency and human rights globally."
+      ],
+      "precedents": [
+        "Sunil Batra v. Delhi Administration (AIR 1978 SC 1675): Discussed dignity and humane treatment under Article 21, even for convicts.",
+        "International Covenants on Civil and Political Rights (ICCPR), Article 6: While permitting death penalty under strict conditions, it points towards abolition.",
+        "E.P. Royappa v. State of Tamil Nadu (AIR 1974 SC 555): Established that Article 14 strikes at arbitrariness."
+      ]
+    }
+  ],
+  "judgment": {
+    "outcome": "Constitutional validity of Section 302 IPC (death penalty) upheld. However, its application was severely restricted by the 'rarest of rare' doctrine.",
+    "reasoning": [
+      "Section 302 IPC does not violate Article 19, as Article 19 rights do not encompass the right to commit murder, and the death penalty represents extinguishment, not restriction, of life, which falls under Article 21.",
+      "Article 21 permits deprivation of life according to 'procedure established by law'. The procedure under CrPC 1973, particularly Section 354(3) requiring 'special reasons' for death sentence and making life imprisonment the norm, satisfies the 'fair, just, and reasonable' test laid down in Maneka Gandhi.",
+      "The discretion vested in courts by Section 302 IPC and Section 354(3) CrPC is not unguided. It must be exercised judicially, weighing aggravating and mitigating circumstances relating to both the crime and the criminal.",
+      "The court formulated the 'rarest of rare' principle: The death penalty should not be imposed save in the 'rarest of rare cases' when the alternative option of life imprisonment is 'unquestionably foreclosed'.",
+      "Mitigating circumstances (like potential for reform, age, mental condition, socio-economic background) must be given full weight.",
+      "Aggravating circumstances (like extreme brutality, heinous nature of the crime, previous criminal record) must be considered.",
+      "The judgment overruled the narrow interpretation provided in Rajendra Prasad v. State of U.P.",
+      "The Court held that the death penalty does not inherently constitute cruel, inhuman, or degrading punishment."
+    ],
+    "cited_cases": [
+      "Jagmohan Singh v. State of U.P. (AIR 1973 SC 947)",
+      "Maneka Gandhi v. Union of India (AIR 1978 SC 597)",
+      "Rajendra Prasad v. State of U.P. (AIR 1979 SC 916)",
+      "Sunil Batra v. Delhi Administration (AIR 1978 SC 1675)",
+      "Furman v. Georgia (408 US 238 (1972))",
+      "Gregg v. Georgia (428 US 153 (1976))",
+      "Munn v. Illinois (94 US 113 (1877))",
+      "E.P. Royappa v. State of Tamil Nadu (AIR 1974 SC 555)"
+    ]
+  }
+}
