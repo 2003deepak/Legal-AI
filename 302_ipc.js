@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 
 // Initialize Google GenAI with API key
-const ai = new GoogleGenAI({ apiKey: "AIzaSyDfQxDzPrY1tXo305ptd-fREVB24_ezVrM" });
+const ai = new GoogleGenAI({ apiKey: "YOUR_API_KEY" });
 const OUTPUT_FOLDER = path.join(process.cwd(), "case_outputs_ipc_302");
 
 // Ensure output directory exists
